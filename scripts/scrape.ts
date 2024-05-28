@@ -4,7 +4,8 @@ import { JSDOM } from 'jsdom'
 import path from 'path'
 import esMain from 'es-main'
 
-const CACHEDIR = path.resolve(import.meta.dirname, 'cache')
+const CACHEDIR = path.resolve(import.meta.dirname, 'cache');
+const STATICDIR = path.resolve(import.meta.dirname, '..', 'static');
 const LISTINFO = path.resolve(CACHEDIR, 'listInfo.json');
 
 async function fetchDetailHTML(id: string): Promise<{ html: string, cached: boolean }> {
@@ -32,17 +33,18 @@ async function writeImageSrc(p: string, src: string): Promise<void> {
 }
 
 async function cacheImages(id: string, anchor: HTMLAnchorElement) {
+  // TODO: check if image already exists on disk
   const boxartImg = anchor.querySelector<HTMLImageElement>('.bl_result_img img');
   const boxartSrc = boxartImg?.src;
   if (boxartSrc) {
-    await writeImageSrc(path.resolve(CACHEDIR, 'images', 'boxarts', `${id}.jpeg`), boxartSrc)
+    await writeImageSrc(path.resolve(STATICDIR, 'images', 'boxarts', `${id}.jpeg`), boxartSrc)
   }
 
   const otherImgs = [...anchor.querySelectorAll<HTMLImageElement>('.bl_result_icon img')];
   const otherSrcs = otherImgs.map(img => img.src);
   const otherSrcDownloadPromises = otherSrcs.map(src => {
     const split = src.split('/');
-    return writeImageSrc(path.resolve(CACHEDIR, ...split), 'https://manual.bandai-hobby.net' + src);
+    return writeImageSrc(path.resolve(STATICDIR, ...split), 'https://manual.bandai-hobby.net' + src);
   })
   await Promise.all(otherSrcDownloadPromises);
 }
