@@ -10,6 +10,7 @@
 
 	import products from '$lib/data/products.json';
 	import SidebarGroup from '$lib/SidebarGroup.svelte';
+	import SidebarTitle from '$lib/SidebarTitle.svelte';
 	const productsTyped: Product[] = products as any;
 
 	let sortColumn: keyof Product = 'releaseDate';
@@ -18,15 +19,7 @@
 	let enabledBrands: string[] = $state([]);
 	let enabledSeries: string[] = $state([]);
 	let enabledYears: string[] = $state([]);
-	let viewportRef: { get(): HTMLElement } | undefined = $state(undefined);
-
-	// scroll to top when any of these change
-	$effect(() => {
-		const _ = { enabledBrands, enabledSeries, enabledYears };
-		if (viewportRef) {
-			viewportRef.get().scrollTop = 0;
-		}
-	});
+	let query: string = $state('');
 
 	const allYears = uniq(
 		Object.values(productsTyped).map((product) => {
@@ -49,6 +42,14 @@
 					!enabledYears.some((year) => product.releaseDate.startsWith(year))
 				)
 					return false;
+				if (
+					query.length > 0 &&
+					!(
+						product.nameEn.toLocaleLowerCase().includes(query.toLocaleLowerCase()) ||
+						product.nameJp.toLocaleLowerCase().includes(query.toLocaleLowerCase())
+					)
+				)
+					return false;
 				return true;
 			})
 			.toSorted((a, b) => {
@@ -61,10 +62,24 @@
 				return sortDirection * comparison;
 			})
 	);
+
+	// scroll to top when the list changes
+	let viewportRef: { get(): HTMLElement } | undefined = $state(undefined);
+	$effect(() => {
+		const _ = productsSorted;
+		if (viewportRef) {
+			viewportRef.get().scrollTop = 0;
+		}
+	});
 </script>
 
 <div class="root">
 	<div class="sidebar">
+		<div class="search">
+			<SidebarTitle title="Search" />
+			<input type="search" bind:value={query} />
+		</div>
+
 		<SidebarGroup
 			title="Release Date"
 			items={allYears}
@@ -116,6 +131,19 @@
 		flex: 0 0 384px;
 		border-right: 1px solid var(--border-color);
 		overflow-y: scroll;
+	}
+
+	.search {
+		display: flex;
+		flex-direction: column;
+		border-bottom: 1px solid var(--border-color);
+
+		input {
+			margin: 0 16px 16px;
+			border-radius: 1000px;
+			border: 1px solid #ccc;
+			padding: 0 12px;
+		}
 	}
 
 	.table {

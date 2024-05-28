@@ -1,5 +1,6 @@
 <script lang="ts" generics="T, ID">
 	import without from 'lodash/without';
+	import SidebarTitle from './SidebarTitle.svelte';
 
 	let {
 		items,
@@ -15,7 +16,7 @@
 </script>
 
 <div class="root">
-	<div class="title">
+	<!-- <div class="title">
 		<span class="title-text">
 			{title}
 		</span>
@@ -29,7 +30,14 @@
 				Clear all
 			</button>
 		{/if}
-	</div>
+	</div> -->
+	<SidebarTitle
+		{title}
+		count={enabledItems.length}
+		onClear={() => {
+			enabledItems = [];
+		}}
+	/>
 	<div class="items">
 		{#each items as item}
 			<label>
@@ -57,24 +65,6 @@
 		border-bottom: 1px solid var(--border-color);
 		display: flex;
 		flex-direction: column;
-	}
-
-	.title {
-		display: flex;
-		align-items: center;
-		padding: 8px 16px;
-
-		.title-text {
-			font-weight: 900;
-		}
-
-		button {
-			margin-left: auto;
-			background: none;
-			border: none;
-			cursor: pointer;
-			font-size: 80%;
-		}
 	}
 
 	.items {
