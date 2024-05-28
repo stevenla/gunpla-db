@@ -2,8 +2,6 @@
 	import products from '$lib/products.json';
 	import ProductListItem from '$lib/ProductListItem.svelte';
 	import VirtualList from '$lib/VirtualList.svelte';
-	// import VirtualList from '@sveltejs/svelte-virtual-list';
-	// import VirtualList from 'svelte-tiny-virtual-list';
 	import type { Product } from '$lib/types';
 
 	import '$lib/styles/reset.css';
@@ -23,14 +21,14 @@
 	});
 </script>
 
-<div class="listWrapper">
+<div class="root">
 	<VirtualList items={productsSorted} let:item>
 		<ProductListItem product={item} />
 	</VirtualList>
 </div>
 
 <style lang="scss">
-	.listWrapper {
+	.root {
 		display: flex;
 		flex-direction: column;
 		height: 100%;
