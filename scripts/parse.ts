@@ -23,7 +23,23 @@ type Product = {
   series: string,
 }
 
+function translateReleaseDate(jp: string): string {
+  const match = jp.match(/(\d+)年(\d+)月(\d+)?日?/);
+  if (match) {
+    const [, y, m, d] = match;
+    const year = y.padStart(4, '0');
+    const month = m.padStart(2, '0');
+    if (d) {
+      return `${year}-${month}-${d.padStart(2, '0')}`
+    } else {
+      return `${year}-${month}`
+    }
+  }
+  return "N/A"
+}
+
 async function parseFile(id: string) {
+  console.error(`Parsing file id=${id}`);
   const buf = await fs.readFile(path.resolve(CACHEDIR, 'details', `${id}.html`));
   const dom = new JSDOM(buf);
   const doc = dom.window.document;
@@ -42,6 +58,7 @@ async function parseFile(id: string) {
     nameEn,
     ...defs
   };
+  product.releaseDate = translateReleaseDate(product.releaseDate);
   return product;
 }
 
