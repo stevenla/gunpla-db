@@ -78,7 +78,7 @@
 		<h1>gunpla.wtf</h1>
 
 		<div class="search">
-			<SidebarTitle title="Search" />
+			<SidebarTitle>Search</SidebarTitle>
 			<input type="search" bind:value={query} />
 		</div>
 

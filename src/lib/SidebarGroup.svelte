@@ -13,9 +13,11 @@
 		getID(item: T): ID;
 		title: string;
 	} = $props();
+
+	let isOpen = $state(true);
 </script>
 
-<div class="root">
+<div class:root={true} class:isOpen>
 	<!-- <div class="title">
 		<span class="title-text">
 			{title}
@@ -32,32 +34,47 @@
 		{/if}
 	</div> -->
 	<SidebarTitle
-		{title}
 		count={enabledItems.length}
 		onClear={() => {
 			enabledItems = [];
 		}}
-	/>
-	<div class="items">
-		{#each items as item}
-			<label>
-				<input
-					type="checkbox"
-					checked={enabledItems.includes(getID(item))}
-					onchange={(event) => {
-						if (event.currentTarget.checked) {
-							enabledItems = [...enabledItems, getID(item)];
-						} else {
-							enabledItems = without(enabledItems, getID(item));
-						}
-					}}
-				/>
-				<div>
-					<slot {item}>{getID(item)}</slot>
-				</div>
-			</label>
-		{/each}
-	</div>
+	>
+		<button
+			onclick={() => {
+				isOpen = !isOpen;
+			}}
+			class="collapse"
+		>
+			{#if isOpen}
+				▼
+			{:else}
+				▶
+			{/if}
+		</button>
+		{title}
+	</SidebarTitle>
+	{#if isOpen}
+		<div class="items">
+			{#each items as item}
+				<label>
+					<input
+						type="checkbox"
+						checked={enabledItems.includes(getID(item))}
+						onchange={(event) => {
+							if (event.currentTarget.checked) {
+								enabledItems = [...enabledItems, getID(item)];
+							} else {
+								enabledItems = without(enabledItems, getID(item));
+							}
+						}}
+					/>
+					<div>
+						<slot {item}>{getID(item)}</slot>
+					</div>
+				</label>
+			{/each}
+		</div>
+	{/if}
 </div>
 
 <style lang="scss">
@@ -65,13 +82,26 @@
 		border-bottom: 1px solid var(--border-color);
 		display: flex;
 		flex-direction: column;
-		flex: 1 1;
+		flex: 0 0 auto;
 		overflow: hidden;
+
+		&.isOpen {
+			flex: 1 1;
+		}
 	}
 
 	.items {
 		overflow: auto;
 		flex: 1 1;
+	}
+
+	.collapse {
+		border: 0;
+		background: 0;
+		padding: 0;
+		width: 18px;
+		font-size: 70%;
+		text-align: left;
 	}
 
 	label {

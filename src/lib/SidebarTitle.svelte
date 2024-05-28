@@ -1,19 +1,17 @@
 <script lang="ts">
 	let {
-		title,
 		count = 0,
-		onClear
+		onClear,
+		children
 	}: {
-		title: string;
 		count?: number;
 		onClear?: () => void;
+		children: () => any;
 	} = $props();
 </script>
 
 <div class="title">
-	<span class="title-text">
-		{title}
-	</span>
+	<span class="title-text">{@render children()}</span>
 	{#if count != null && count > 0}
 		<span class="title-count">&nbsp;({count})</span>
 		{#if onClear}
@@ -29,6 +27,8 @@
 		padding: 8px 16px;
 
 		.title-text {
+			display: flex;
+			align-items: center;
 			font-weight: 900;
 		}
 
