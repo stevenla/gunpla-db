@@ -2,206 +2,247 @@
 	"機動戦士ガンダム SEED": {
 		"nameEn": "Mobile Suit Gundam SEED",
 		"imageIndex": "1",
-		"nameJp": "機動戦士ガンダム SEED"
+		"nameJp": "機動戦士ガンダム SEED",
+		"year": 2002
 	},
 	"ガンダムビルドファイターズ": {
 		"nameEn": "Gundam Build Fighters",
 		"imageIndex": "7",
-		"nameJp": "ガンダムビルドファイターズ"
+		"nameJp": "ガンダムビルドファイターズ",
+		"year": 2013
 	},
 	"ガンダムビルドダイバーズRe:RISE": {
 		"nameEn": "Gundam Build Divers Re:RISE",
 		"imageIndex": "6",
-		"nameJp": "ガンダムビルドダイバーズRe:RISE"
+		"nameJp": "ガンダムビルドダイバーズRe:RISE",
+		"year": 2019
 	},
 	"機動戦士ガンダム THE ORIGIN": {
 		"nameEn": "Mobile Suit Gundam: The Origin",
 		"imageIndex": "12",
-		"nameJp": "機動戦士ガンダム THE ORIGIN"
+		"nameJp": "機動戦士ガンダム THE ORIGIN",
+		"year": 2015
 	},
 	"ガンダム Gのレコンギスタ": {
 		"nameEn": "Gundam Reconguista in G",
 		"imageIndex": "3",
-		"nameJp": "ガンダム Gのレコンギスタ"
+		"nameJp": "ガンダム Gのレコンギスタ",
+		"year": 2014
 	},
 	"機動戦士ガンダム": {
 		"nameEn": "Mobile Suit Gundam",
 		"imageIndex": "19",
-		"nameJp": "機動戦士ガンダム"
+		"nameJp": "機動戦士ガンダム",
+		"year": 1979
 	},
 	"機動戦士Zガンダム": {
 		"nameEn": "Mobile Suit Zeta Gundam",
 		"imageIndex": "11",
-		"nameJp": "機動戦士Zガンダム"
+		"nameJp": "機動戦士Zガンダム",
+		"year": 1985
 	},
 	"ガンダムビルドダイバーズ": {
 		"nameEn": "Gundam Build Divers",
 		"imageIndex": "5",
-		"nameJp": "ガンダムビルドダイバーズ"
+		"nameJp": "ガンダムビルドダイバーズ",
+		"year": 2018
 	},
 	"機動戦士ガンダムNT（ナラティブ）": {
 		"nameEn": "Mobile Suit Gundam Narrative",
 		"imageIndex": "15",
-		"nameJp": "機動戦士ガンダムNT（ナラティブ）"
+		"nameJp": "機動戦士ガンダムNT（ナラティブ）",
+		"year": 2018
 	},
 	"機動戦士ガンダム00": {
 		"nameEn": "Mobile Suit Gundam 00",
 		"imageIndex": "20",
-		"nameJp": "機動戦士ガンダム00"
+		"nameJp": "機動戦士ガンダム00",
+		"year": 2007
 	},
 	"機動戦士ガンダム 逆襲のシャア": {
 		"nameEn": "Mobile Suit Gundam: Char's Counterattack",
 		"imageIndex": "16",
-		"nameJp": "機動戦士ガンダム 逆襲のシャア"
+		"nameJp": "機動戦士ガンダム 逆襲のシャア",
+		"year": 1988
 	},
 	"機動戦士ガンダム 水星の魔女": {
 		"nameEn": "Mobile Suit Gundam: The Witch from Mercury",
 		"imageIndex": "27",
-		"nameJp": "機動戦士ガンダム 水星の魔女"
+		"nameJp": "機動戦士ガンダム 水星の魔女",
+		"year": 2022
 	},
 	"機動戦士ガンダム 0083 STARDUST MEMORY": {
 		"nameEn": "Mobile Suit Gundam 0083: Stardust Memory",
 		"imageIndex": "31",
-		"nameJp": "機動戦士ガンダム 0083 STARDUST MEMORY"
+		"nameJp": "機動戦士ガンダム 0083 STARDUST MEMORY",
+		"year": 1991
 	},
 	"機動戦士ガンダムSEED DESTINY": {
 		"nameEn": "Mobile Suit Gundam SEED Destiny",
 		"imageIndex": "23",
-		"nameJp": "機動戦士ガンダムSEED DESTINY"
+		"nameJp": "機動戦士ガンダムSEED DESTINY",
+		"year": 2004
 	},
 	"機動戦士ガンダムUC": {
 		"nameEn": "Mobile Suit Gundam Unicorn",
 		"imageIndex": "26",
-		"nameJp": "機動戦士ガンダムUC"
+		"nameJp": "機動戦士ガンダムUC",
+		"year": 2010
 	},
 	"新機動戦記ガンダムW": {
 		"nameEn": "New Mobile Report Gundam Wing",
 		"imageIndex": "30",
-		"nameJp": "新機動戦記ガンダムW"
+		"nameJp": "新機動戦記ガンダムW",
+		"year": 1995
 	},
 	"ガンダムビルドメタバース": {
 		"nameEn": "Gundam Build Metaverse",
 		"imageIndex": "8",
-		"nameJp": "ガンダムビルドメタバース"
+		"nameJp": "ガンダムビルドメタバース",
+		"year": 2021
 	},
 	"機動戦士ガンダム 鉄血のオルフェンズ": {
 		"nameEn": "Mobile Suit Gundam: Iron-Blooded Orphans",
 		"imageIndex": "18",
-		"nameJp": "機動戦士ガンダム 鉄血のオルフェンズ"
+		"nameJp": "機動戦士ガンダム 鉄血のオルフェンズ",
+		"year": 2015
 	},
 	"GUNDAM BREAKER BATTLOGUE": {
 		"nameEn": "Gundam Breaker Battlogue",
 		"imageIndex": "2",
-		"nameJp": "GUNDAM BREAKER BATTLOGUE"
+		"nameJp": "GUNDAM BREAKER BATTLOGUE",
+		"year": 2021
 	},
 	"機動戦士ガンダムSEED FREEDOM": {
 		"nameEn": "Mobile Suit Gundam SEED Freedom",
 		"imageIndex": "67",
-		"nameJp": "機動戦士ガンダムSEED FREEDOM"
+		"nameJp": "機動戦士ガンダムSEED FREEDOM",
+		"year": 2006
 	},
 	"機動戦士ガンダム ククルス・ドアンの島": {
 		"nameEn": "Mobile Suit Gundam: Cucuruz Doan's Island",
 		"imageIndex": "13",
-		"nameJp": "機動戦士ガンダム ククルス・ドアンの島"
+		"nameJp": "機動戦士ガンダム ククルス・ドアンの島",
+		"year": 2020
 	},
 	"機動戦士ガンダムAGE": {
 		"nameEn": "Mobile Suit Gundam AGE",
 		"imageIndex": "9",
-		"nameJp": "機動戦士ガンダムAGE"
+		"nameJp": "機動戦士ガンダムAGE",
+		"year": 2011
 	},
 	"機動戦士ガンダムZZ": {
 		"nameEn": "Mobile Suit Gundam ZZ",
 		"imageIndex": "25",
-		"nameJp": "機動戦士ガンダムZZ"
+		"nameJp": "機動戦士ガンダムZZ",
+		"year": 1986
 	},
 	"ガンダム・センチネル": {
 		"nameEn": "Gundam Sentinel",
 		"imageIndex": "4",
-		"nameJp": "ガンダム・センチネル"
+		"nameJp": "ガンダム・センチネル",
+		"year": 1987
 	},
 	"機動戦士ガンダム0080 ポケットの中の戦争": {
 		"nameEn": "Mobile Suit Gundam 0080: War in the Pocket",
 		"imageIndex": "21",
-		"nameJp": "機動戦士ガンダム0080 ポケットの中の戦争"
+		"nameJp": "機動戦士ガンダム0080 ポケットの中の戦争",
+		"year": 1989
 	},
 	"ADVANCE OF Z": {
 		"nameEn": "Advance of Zeta",
 		"imageIndex": "37",
-		"nameJp": "ADVANCE OF Z"
+		"nameJp": "ADVANCE OF Z",
+		"year": 1985
 	},
 	"機動戦士ガンダム MS IGLOO": {
 		"nameEn": "Mobile Suit Gundam MS IGLOO",
 		"imageIndex": "32",
-		"nameJp": "機動戦士ガンダム MS IGLOO"
+		"nameJp": "機動戦士ガンダム MS IGLOO",
+		"year": 2004
 	},
 	"ガンダムMSV": {
 		"nameEn": "Mobile Suit Variation",
 		"imageIndex": "39",
-		"nameJp": "ガンダムMSV"
+		"nameJp": "ガンダムMSV",
+		"year": 1983
 	},
 	"機動戦士ガンダム外伝 THE BLUE DESTINY": {
 		"nameEn": "Mobile Suit Gundam Side Story: The Blue Destiny",
 		"imageIndex": "36",
-		"nameJp": "機動戦士ガンダム外伝 THE BLUE DESTINY"
+		"nameJp": "機動戦士ガンダム外伝 THE BLUE DESTINY",
+		"year": 1996
 	},
 	"機動戦士ガンダム 第08MS小隊": {
 		"nameEn": "Mobile Suit Gundam: The 08th MS Team",
 		"imageIndex": "33",
-		"nameJp": "機動戦士ガンダム 第08MS小隊"
+		"nameJp": "機動戦士ガンダム 第08MS小隊",
+		"year": 1996
 	},
 	"機動新世紀ガンダムＸ": {
 		"nameEn": "Mobile New Century Gundam X",
 		"imageIndex": "35",
-		"nameJp": "機動新世紀ガンダムＸ"
+		"nameJp": "機動新世紀ガンダムＸ",
+		"year": 1996
 	},
 	"機動戦士Vガンダム": {
 		"nameEn": "Mobile Suit Victory Gundam",
 		"imageIndex": "10",
-		"nameJp": "機動戦士Vガンダム"
+		"nameJp": "機動戦士Vガンダム",
+		"year": 1993
 	},
 	"機動戦士ガンダムF91": {
 		"nameEn": "Mobile Suit Gundam F91",
 		"imageIndex": "22",
-		"nameJp": "機動戦士ガンダムF91"
+		"nameJp": "機動戦士ガンダムF91",
+		"year": 1991
 	},
 	"∀ガンダム": {
 		"nameEn": "∀ Gundam (Turn A Gundam)",
 		"imageIndex": "38",
-		"nameJp": "∀ガンダム"
+		"nameJp": "∀ガンダム",
+		"year": 1999
 	},
 	"ガンプラ": {
 		"nameEn": "Gunpla",
 		"imageIndex": "34",
-		"nameJp": "ガンプラ"
+		"nameJp": "ガンプラ",
+		"year": 1980
 	},
 	"機動武闘伝Gガンダム": {
 		"nameEn": "Mobile Fighter G Gundam",
 		"imageIndex": "29",
-		"nameJp": "機動武闘伝Gガンダム"
+		"nameJp": "機動武闘伝Gガンダム",
+		"year": 1994
 	},
 	"機動戦士クロスボーン・ガンダム": {
 		"nameEn": "Mobile Suit Crossbone Gundam",
 		"imageIndex": "28",
-		"nameJp": "機動戦士クロスボーン・ガンダム"
+		"nameJp": "機動戦士クロスボーン・ガンダム",
+		"year": 1994
 	},
 	"機動戦士ガンダム サンダーボルト": {
 		"nameEn": "Mobile Suit Gundam Thunderbolt",
 		"imageIndex": "14",
-		"nameJp": "機動戦士ガンダム サンダーボルト"
+		"nameJp": "機動戦士ガンダム サンダーボルト",
+		"year": 2015
 	},
 	"機動戦士ガンダム Twilight AXIS": {
 		"nameEn": "Mobile Suit Gundam Twilight AXIS",
 		"imageIndex": "24",
-		"nameJp": "機動戦士ガンダム Twilight AXIS"
+		"nameJp": "機動戦士ガンダム Twilight AXIS",
+		"year": 2017
 	},
 	"機動戦士MOONガンダム": {
 		"nameEn": "Mobile Suit MOON Gundam",
 		"imageIndex": "40",
-		"nameJp": "機動戦士MOONガンダム"
+		"nameJp": "機動戦士MOONガンダム",
+		"year": 2017
 	},
 	"機動戦士ガンダム 閃光のハサウェイ": {
 		"nameEn": "Mobile Suit Gundam Hathaway",
 		"imageIndex": "17",
-		"nameJp": "機動戦士ガンダム 閃光のハサウェイ"
+		"nameJp": "機動戦士ガンダム 閃光のハサウェイ",
+		"year": 2021
 	}
 }

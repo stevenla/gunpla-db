@@ -3,26 +3,43 @@
 	import VirtualList from '$lib/VirtualList.svelte';
 	import type { Product } from '$lib/types';
 	import uniq from 'lodash/uniq';
-	import { ALL_BRANDS } from '$lib/categories';
-
-	import { produce } from 'immer';
+	import { ALL_BRANDS, ALL_SERIES } from '$lib/categories';
 
 	import '$lib/styles/reset.css';
 	import '$lib/styles/root.css';
 
 	import products from '$lib/data/products.json';
-
+	import SidebarGroup from '$lib/SidebarGroup.svelte';
 	const productsTyped: Product[] = products as any;
+
 	let sortColumn: keyof Product = 'releaseDate';
 	let sortDirection: -1 | 1 = -1;
 
-	// let enabledBrands: string[] = $state(ALL_BRANDS.map((brand) => brand.nameJp));
-	let enabledBrands: string[] = $state(ALL_BRANDS.map((brand) => brand.nameJp));
+	let enabledBrands: string[] = $state([]);
+	let enabledSeries: string[] = $state([]);
+	let enabledYears: string[] = $state([]);
+
+	const allYears = uniq(
+		Object.values(productsTyped).map((product) => {
+			if (product.releaseDate === 'N/A') return 'N/A';
+			return product.releaseDate.slice(0, 4);
+		})
+	).toSorted((a, b) => {
+		if (a === 'N/A') return 1;
+		if (b === 'N/A') return -1;
+		return -a.localeCompare(b);
+	});
 
 	let productsSorted: Product[] = $derived(
 		productsTyped
 			.filter((product) => {
-				if (!enabledBrands.includes(product.brand)) return false;
+				if (enabledBrands.length > 0 && !enabledBrands.includes(product.brand)) return false;
+				if (enabledSeries.length > 0 && !enabledSeries.includes(product.series)) return false;
+				if (
+					enabledYears.length > 0 &&
+					!enabledYears.some((year) => product.releaseDate.startsWith(year))
+				)
+					return false;
 				return true;
 			})
 			.toSorted((a, b) => {
@@ -39,6 +56,16 @@
 
 <div class="root">
 	<div class="sidebar">
+		<SidebarGroup
+			items={allYears}
+			getID={(item) => item}
+			bind:enabledItems={enabledYears}
+			let:item={year}
+		>
+			{year}
+		</SidebarGroup>
+
+		<div>---</div>
 		{#each ALL_BRANDS as brand}
 			<label>
 				<input
@@ -53,6 +80,23 @@
 					}}
 				/>
 				{brand.nameEn}
+			</label>
+		{/each}
+		<div>---</div>
+		{#each ALL_SERIES as series}
+			<label>
+				<input
+					type="checkbox"
+					checked={enabledSeries.includes(series.nameJp)}
+					onchange={(event) => {
+						if (event.currentTarget.checked) {
+							enabledSeries.push(series.nameJp);
+						} else {
+							enabledSeries.splice(enabledSeries.indexOf(series.nameJp), 1);
+						}
+					}}
+				/>
+				{series.nameEn}
 			</label>
 		{/each}
 	</div>
@@ -78,6 +122,7 @@
 		flex-direction: column;
 		flex: 0 0 300px;
 		border-right: 1px solid var(--border-color);
+		overflow-y: scroll;
 	}
 
 	.table {
