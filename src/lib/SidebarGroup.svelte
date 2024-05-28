@@ -65,11 +65,13 @@
 		border-bottom: 1px solid var(--border-color);
 		display: flex;
 		flex-direction: column;
+		flex: 1 1;
+		overflow: hidden;
 	}
 
 	.items {
-		max-height: 256px;
 		overflow: auto;
+		flex: 1 1;
 	}
 
 	label {

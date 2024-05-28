@@ -75,6 +75,8 @@
 
 <div class="root">
 	<div class="sidebar">
+		<h1>gunpla.wtf</h1>
+
 		<div class="search">
 			<SidebarTitle title="Search" />
 			<input type="search" bind:value={query} />
@@ -111,7 +113,15 @@
 	<div class="table">
 		<VirtualList items={productsSorted} let:item bind:viewportRef>
 			{#key item.nameJp}
-				<ProductListItem product={item} />
+				<ProductListItem
+					product={item}
+					onBrandClick={(brand) => {
+						enabledBrands = [brand];
+					}}
+					onSeriesClick={(series) => {
+						enabledSeries = [series];
+					}}
+				/>
 			{/key}
 		</VirtualList>
 	</div>
@@ -130,13 +140,22 @@
 		flex-direction: column;
 		flex: 0 0 384px;
 		border-right: 1px solid var(--border-color);
-		overflow-y: scroll;
+		overflow-y: hidden;
+	}
+
+	h1 {
+		padding: 16px;
+		font-weight: 900;
+		font-size: 150%;
+		border-bottom: 1px solid var(--border-color);
+		flex-shrink: 0;
 	}
 
 	.search {
 		display: flex;
 		flex-direction: column;
 		border-bottom: 1px solid var(--border-color);
+		flex-shrink: 0;
 
 		input {
 			margin: 0 16px 16px;

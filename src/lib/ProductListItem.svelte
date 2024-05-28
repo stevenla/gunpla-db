@@ -1,7 +1,15 @@
 <script lang="ts">
 	import { type Product } from '$lib/types';
 	import { translateBrand, translateSeries } from '$lib/categories';
-	export let product: Product;
+	let {
+		product,
+		onBrandClick,
+		onSeriesClick
+	}: {
+		product: Product;
+		onBrandClick: (brand: string) => void;
+		onSeriesClick: (brand: string) => void;
+	} = $props();
 
 	const brandInfo = translateBrand(product.brand);
 	const seriesInfo = translateSeries(product.series);
@@ -29,18 +37,22 @@
 
 		<div class="info">
 			<div class="brand">
-				<img
-					src={`/images/categories/${brandInfo.imageIndex}.jpeg`}
-					alt={brandInfo.nameEn}
-					title={brandInfo.nameEn}
-				/>
+				<button onclick={() => onBrandClick(brandInfo.nameJp)}>
+					<img
+						src={`/images/categories/${brandInfo.imageIndex}.jpeg`}
+						alt={brandInfo.nameEn}
+						title={brandInfo.nameEn}
+					/>
+				</button>
 			</div>
 			<div class="series">
-				<img
-					src={`/images/titles/${seriesInfo.imageIndex}.jpeg`}
-					alt={seriesInfo.nameEn}
-					title={seriesInfo.nameEn}
-				/>
+				<button onclick={() => onSeriesClick(seriesInfo.nameJp)}>
+					<img
+						src={`/images/titles/${seriesInfo.imageIndex}.jpeg`}
+						alt={seriesInfo.nameEn}
+						title={seriesInfo.nameEn}
+					/>
+				</button>
 			</div>
 		</div>
 	</div>
@@ -64,9 +76,9 @@
 		display: flex;
 		align-items: center;
 		justify-content: stretch;
-		margin: 0 8px;
+		margin: 0 16px;
 		flex: 1 1 auto;
-		gap: 8px;
+		gap: 16px;
 	}
 
 	.img {
@@ -96,7 +108,6 @@
 
 	.releaseDate {
 		flex: 0 0 auto;
-		margin-right: 8px;
 		width: 100px;
 	}
 
@@ -107,6 +118,13 @@
 	.brand,
 	.series {
 		flex: 0 0 auto;
+		button {
+			cursor: pointer;
+			background: none;
+			border: none;
+			padding: 0;
+			margin: 0;
+		}
 		img {
 			width: 72px;
 		}
