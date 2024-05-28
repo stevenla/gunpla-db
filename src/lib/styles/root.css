@@ -2,7 +2,10 @@
 
 :root {
 	font-family: 'Inter', sans-serif;
+
+	--border-color: #eee;
 }
+
 @supports (font-variation-settings: normal) {
 	:root {
 		font-family: 'Inter var', sans-serif;

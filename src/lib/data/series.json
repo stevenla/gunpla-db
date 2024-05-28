@@ -1,43 +1,88 @@
 {
-	"機動戦士ガンダム SEED": "Mobile Suit Gundam SEED",
-	"ガンダムビルドファイターズ": "Gundam Build Fighters",
-	"ガンダムビルドダイバーズRe:RISE": "Gundam Build Divers Re:RISE",
-	"機動戦士ガンダム THE ORIGIN": "Mobile Suit Gundam: The Origin",
-	"ガンダム Gのレコンギスタ": "Mobile Suit Gundam G-Reco",
-	"機動戦士ガンダム": "Mobile Suit Gundam",
-	"機動戦士Zガンダム": "Mobile Suit Zeta Gundam",
-	"ガンダムビルドダイバーズ": "Gundam Build Divers",
-	"機動戦士ガンダムNT（ナラティブ）": "Mobile Suit Gundam Narrative",
-	"機動戦士ガンダム00": "Mobile Suit Gundam 00",
-	"機動戦士ガンダム 逆襲のシャア": "Mobile Suit Gundam: Char's Counterattack",
-	"機動戦士ガンダム 水星の魔女": "Mobile Suit Gundam: The Witch from Mercury",
-	"機動戦士ガンダム 0083 STARDUST MEMORY": "Mobile Suit Gundam 0083: Stardust Memory",
-	"機動戦士ガンダムSEED DESTINY": "Mobile Suit Gundam SEED Destiny",
-	"機動戦士ガンダムUC": "Mobile Suit Gundam Unicorn",
-	"新機動戦記ガンダムW": "New Mobile Report Gundam Wing",
-	"ガンダムビルドメタバース": "Gundam Build Metaverse",
-	"機動戦士ガンダム 鉄血のオルフェンズ": "Mobile Suit Gundam: Iron-Blooded Orphans",
-	"GUNDAM BREAKER BATTLOGUE": "Gundam Breaker Battlogue",
-	"機動戦士ガンダムSEED FREEDOM": "Mobile Suit Gundam SEED Freedom",
-	"機動戦士ガンダム ククルス・ドアンの島": "Mobile Suit Gundam: The Island Wars",
-	"機動戦士ガンダムAGE": "Mobile Suit Gundam AGE",
-	"機動戦士ガンダムZZ": "Mobile Suit Gundam ZZ",
-	"ガンダム・センチネル": "Gundam Sentinel",
-	"機動戦士ガンダム0080 ポケットの中の戦争": "Mobile Suit Gundam 0080: War in the Pocket",
-	"ADVANCE OF Z": "Advance of Zeta",
-	"機動戦士ガンダム MS IGLOO": "Mobile Suit Gundam MS IGLOO",
-	"ガンダムMSV": "Gundam MSV",
-	"機動戦士ガンダム外伝 THE BLUE DESTINY": "Mobile Suit Gundam Side Story: The Blue Destiny",
-	"機動戦士ガンダム 第08MS小隊": "Mobile Suit Gundam: The 08th MS Team",
-	"機動新世紀ガンダムＸ": "Mobile New Century Gundam X",
-	"機動戦士Vガンダム": "Mobile Suit Victory Gundam",
-	"機動戦士ガンダムF91": "Mobile Suit Gundam F91",
-	"∀ガンダム": "∀ Gundam (Turn A Gundam)",
-	"ガンプラ": "Gunpla (Gundam Plastic Model)",
-	"機動武闘伝Gガンダム": "Mobile Fighter G Gundam",
-	"機動戦士クロスボーン・ガンダム": "Mobile Suit Crossbone Gundam",
-	"機動戦士ガンダム サンダーボルト": "Mobile Suit Gundam Thunderbolt",
-	"機動戦士ガンダム Twilight AXIS": "Mobile Suit Gundam Twilight AXIS",
-	"機動戦士MOONガンダム": "Mobile Suit MOON Gundam",
-	"機動戦士ガンダム 閃光のハサウェイ": "Mobile Suit Gundam: Hathaway's Flash"
+	"機動戦士ガンダム SEED": { "nameEn": "Mobile Suit Gundam SEED", "imageIndex": "1" },
+	"ガンダムビルドファイターズ": { "nameEn": "Gundam Build Fighters", "imageIndex": "7" },
+	"ガンダムビルドダイバーズRe:RISE": { "nameEn": "Gundam Build Divers Re:RISE", "imageIndex": "6" },
+	"機動戦士ガンダム THE ORIGIN": { "nameEn": "Mobile Suit Gundam: The Origin", "imageIndex": "12" },
+	"ガンダム Gのレコンギスタ": { "nameEn": "Gundam Reconguista in G", "imageIndex": "3" },
+	"機動戦士ガンダム": { "nameEn": "Mobile Suit Gundam", "imageIndex": "19" },
+	"機動戦士Zガンダム": { "nameEn": "Mobile Suit Zeta Gundam", "imageIndex": "11" },
+	"ガンダムビルドダイバーズ": { "nameEn": "Gundam Build Divers", "imageIndex": "5" },
+	"機動戦士ガンダムNT（ナラティブ）": {
+		"nameEn": "Mobile Suit Gundam Narrative",
+		"imageIndex": "15"
+	},
+	"機動戦士ガンダム00": { "nameEn": "Mobile Suit Gundam 00", "imageIndex": "20" },
+	"機動戦士ガンダム 逆襲のシャア": {
+		"nameEn": "Mobile Suit Gundam: Char's Counterattack",
+		"imageIndex": "16"
+	},
+	"機動戦士ガンダム 水星の魔女": {
+		"nameEn": "Mobile Suit Gundam: The Witch from Mercury",
+		"imageIndex": "27"
+	},
+	"機動戦士ガンダム 0083 STARDUST MEMORY": {
+		"nameEn": "Mobile Suit Gundam 0083: Stardust Memory",
+		"imageIndex": "31"
+	},
+	"機動戦士ガンダムSEED DESTINY": {
+		"nameEn": "Mobile Suit Gundam SEED Destiny",
+		"imageIndex": "23"
+	},
+	"機動戦士ガンダムUC": { "nameEn": "Mobile Suit Gundam Unicorn", "imageIndex": "26" },
+	"新機動戦記ガンダムW": { "nameEn": "New Mobile Report Gundam Wing", "imageIndex": "30" },
+	"ガンダムビルドメタバース": { "nameEn": "Gundam Build Metaverse", "imageIndex": "8" },
+	"機動戦士ガンダム 鉄血のオルフェンズ": {
+		"nameEn": "Mobile Suit Gundam: Iron-Blooded Orphans",
+		"imageIndex": "18"
+	},
+	"GUNDAM BREAKER BATTLOGUE": { "nameEn": "Gundam Breaker Battlogue", "imageIndex": "2" },
+	"機動戦士ガンダムSEED FREEDOM": {
+		"nameEn": "Mobile Suit Gundam SEED Freedom",
+		"imageIndex": "67"
+	},
+	"機動戦士ガンダム ククルス・ドアンの島": {
+		"nameEn": "Mobile Suit Gundam: Cucuruz Doan's Island",
+		"imageIndex": "13"
+	},
+	"機動戦士ガンダムAGE": { "nameEn": "Mobile Suit Gundam AGE", "imageIndex": "9" },
+	"機動戦士ガンダムZZ": { "nameEn": "Mobile Suit Gundam ZZ", "imageIndex": "25" },
+	"ガンダム・センチネル": { "nameEn": "Gundam Sentinel", "imageIndex": "4" },
+	"機動戦士ガンダム0080 ポケットの中の戦争": {
+		"nameEn": "Mobile Suit Gundam 0080: War in the Pocket",
+		"imageIndex": "21"
+	},
+	"ADVANCE OF Z": { "nameEn": "Advance of Zeta", "imageIndex": "37" },
+	"機動戦士ガンダム MS IGLOO": { "nameEn": "Mobile Suit Gundam MS IGLOO", "imageIndex": "32" },
+	"ガンダムMSV": { "nameEn": "Mobile Suit Variation", "imageIndex": "39" },
+	"機動戦士ガンダム外伝 THE BLUE DESTINY": {
+		"nameEn": "Mobile Suit Gundam Side Story: The Blue Destiny",
+		"imageIndex": "36"
+	},
+	"機動戦士ガンダム 第08MS小隊": {
+		"nameEn": "Mobile Suit Gundam: The 08th MS Team",
+		"imageIndex": "33"
+	},
+	"機動新世紀ガンダムＸ": { "nameEn": "Mobile New Century Gundam X", "imageIndex": "35" },
+	"機動戦士Vガンダム": { "nameEn": "Mobile Suit Victory Gundam", "imageIndex": "10" },
+	"機動戦士ガンダムF91": { "nameEn": "Mobile Suit Gundam F91", "imageIndex": "22" },
+	"∀ガンダム": { "nameEn": "∀ Gundam (Turn A Gundam)", "imageIndex": "38" },
+	"ガンプラ": { "nameEn": "Gunpla", "imageIndex": "34" },
+	"機動武闘伝Gガンダム": { "nameEn": "Mobile Fighter G Gundam", "imageIndex": "29" },
+	"機動戦士クロスボーン・ガンダム": {
+		"nameEn": "Mobile Suit Crossbone Gundam",
+		"imageIndex": "28"
+	},
+	"機動戦士ガンダム サンダーボルト": {
+		"nameEn": "Mobile Suit Gundam Thunderbolt",
+		"imageIndex": "14"
+	},
+	"機動戦士ガンダム Twilight AXIS": {
+		"nameEn": "Mobile Suit Gundam Twilight AXIS",
+		"imageIndex": "24"
+	},
+	"機動戦士MOONガンダム": { "nameEn": "Mobile Suit MOON Gundam", "imageIndex": "40" },
+	"機動戦士ガンダム 閃光のハサウェイ": {
+		"nameEn": "Mobile Suit Gundam Hathaway",
+		"imageIndex": "17"
+	}
 }

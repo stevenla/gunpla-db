@@ -16,8 +16,8 @@
 	// const allSeries = uniq(productsTyped.map((product) => product.series));
 	// console.log(allSeries);
 
-	const allBrands = uniq(productsTyped.map((product) => product.brand));
-	console.log(allBrands);
+	// const allBrands = uniq(productsTyped.map((product) => product.brand));
+	// console.log(allBrands);
 
 	const productsSorted: Product[] = productsTyped.toSorted((a, b) => {
 		// Special case for this private release
@@ -31,16 +31,32 @@
 </script>
 
 <div class="root">
-	<VirtualList items={productsSorted} let:item>
-		<ProductListItem product={item} />
-	</VirtualList>
+	<div class="sidebar"></div>
+	<div class="table">
+		<VirtualList items={productsSorted} let:item>
+			<ProductListItem product={item} />
+		</VirtualList>
+	</div>
 </div>
 
 <style lang="scss">
 	.root {
 		display: flex;
-		flex-direction: column;
+		flex-direction: row;
 		height: 100%;
 		width: 100%;
+	}
+
+	.sidebar {
+		display: flex;
+		flex-direction: column;
+		flex: 0 0 300px;
+		border-right: 1px solid var(--border-color);
+	}
+
+	.table {
+		display: flex;
+		flex-direction: column;
+		flex: 1 1 auto;
 	}
 </style>
