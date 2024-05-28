@@ -18,6 +18,15 @@
 	let enabledBrands: string[] = $state([]);
 	let enabledSeries: string[] = $state([]);
 	let enabledYears: string[] = $state([]);
+	let viewportRef: { get(): HTMLElement } | undefined = $state(undefined);
+
+	// scroll to top when any of these change
+	$effect(() => {
+		const _ = { enabledBrands, enabledSeries, enabledYears };
+		if (viewportRef) {
+			viewportRef.get().scrollTop = 0;
+		}
+	});
 
 	const allYears = uniq(
 		Object.values(productsTyped).map((product) => {
@@ -57,51 +66,35 @@
 <div class="root">
 	<div class="sidebar">
 		<SidebarGroup
+			title="Release Date"
 			items={allYears}
-			getID={(item) => item}
+			getID={(year) => year}
 			bind:enabledItems={enabledYears}
 			let:item={year}
 		>
 			{year}
 		</SidebarGroup>
-
-		<div>---</div>
-		{#each ALL_BRANDS as brand}
-			<label>
-				<input
-					type="checkbox"
-					checked={enabledBrands.includes(brand.nameJp)}
-					onchange={(event) => {
-						if (event.currentTarget.checked) {
-							enabledBrands.push(brand.nameJp);
-						} else {
-							enabledBrands.splice(enabledBrands.indexOf(brand.nameJp), 1);
-						}
-					}}
-				/>
-				{brand.nameEn}
-			</label>
-		{/each}
-		<div>---</div>
-		{#each ALL_SERIES as series}
-			<label>
-				<input
-					type="checkbox"
-					checked={enabledSeries.includes(series.nameJp)}
-					onchange={(event) => {
-						if (event.currentTarget.checked) {
-							enabledSeries.push(series.nameJp);
-						} else {
-							enabledSeries.splice(enabledSeries.indexOf(series.nameJp), 1);
-						}
-					}}
-				/>
-				{series.nameEn}
-			</label>
-		{/each}
+		<SidebarGroup
+			title="Grade"
+			items={ALL_BRANDS}
+			getID={(brand) => brand.nameJp}
+			bind:enabledItems={enabledBrands}
+			let:item={brand}
+		>
+			{brand.nameEn}
+		</SidebarGroup>
+		<SidebarGroup
+			title="Series"
+			items={ALL_SERIES}
+			getID={(series) => series.nameJp}
+			bind:enabledItems={enabledSeries}
+			let:item={series}
+		>
+			{series.nameEn}
+		</SidebarGroup>
 	</div>
 	<div class="table">
-		<VirtualList items={productsSorted} let:item>
+		<VirtualList items={productsSorted} let:item bind:viewportRef>
 			{#key item.nameJp}
 				<ProductListItem product={item} />
 			{/key}
@@ -120,7 +113,7 @@
 	.sidebar {
 		display: flex;
 		flex-direction: column;
-		flex: 0 0 300px;
+		flex: 0 0 384px;
 		border-right: 1px solid var(--border-color);
 		overflow-y: scroll;
 	}

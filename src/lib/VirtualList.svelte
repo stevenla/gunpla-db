@@ -23,6 +23,12 @@
 	let bottom: number = 0;
 	let average_height: number;
 
+	export const viewportRef = {
+		get() {
+			return viewport;
+		}
+	};
+
 	$: visible = items.slice(start, end).map((data, i) => {
 		return { index: i + start, data };
 	});
