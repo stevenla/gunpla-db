@@ -18,21 +18,6 @@
 </script>
 
 <div class:root={true} class:isOpen>
-	<!-- <div class="title">
-		<span class="title-text">
-			{title}
-		</span>
-		{#if enabledItems.length > 0}
-			<span class="title-count">&nbsp;({enabledItems.length})</span>
-			<button
-				onclick={() => {
-					enabledItems = [];
-				}}
-			>
-				Clear all
-			</button>
-		{/if}
-	</div> -->
 	<SidebarTitle
 		count={enabledItems.length}
 		onClear={() => {
