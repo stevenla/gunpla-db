@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { type Product } from '$lib/types';
-	import { translateBrand, translateSeries } from '$lib/translate';
+	import { translateBrand, translateSeries } from '$lib/categories';
 	export let product: Product;
 
 	const brandInfo = translateBrand(product.brand);
@@ -9,7 +9,9 @@
 
 <div class="root">
 	<div class="left">
-		<img src={`/images/boxarts/${product.id}.jpeg`} class="img" alt={product.nameEn} />
+		<a href={`/images/boxarts/${product.id}.jpeg`} target="_blank">
+			<img src={`/images/boxarts/${product.id}.jpeg`} class="img" alt={product.nameEn} />
+		</a>
 	</div>
 	<div class="right">
 		<div class="title">
@@ -75,6 +77,7 @@
 		flex: 1 1 auto;
 		display: flex;
 		flex-direction: column;
+		align-items: start;
 
 		a {
 			color: unset;
