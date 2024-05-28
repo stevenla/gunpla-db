@@ -16,12 +16,13 @@
 	let sortColumn: keyof Product = 'releaseDate';
 	let sortDirection: -1 | 1 = -1;
 
-	let enabledBrands: Set<string> = $state(new Set(ALL_BRANDS.map((brand) => brand.nameJp)));
+	// let enabledBrands: string[] = $state(ALL_BRANDS.map((brand) => brand.nameJp));
+	let enabledBrands: string[] = $state(ALL_BRANDS.map((brand) => brand.nameJp));
 
 	let productsSorted: Product[] = $derived(
 		productsTyped
 			.filter((product) => {
-				if (!enabledBrands.has(product.brand)) return false;
+				if (!enabledBrands.includes(product.brand)) return false;
 				return true;
 			})
 			.toSorted((a, b) => {
@@ -42,16 +43,12 @@
 			<label>
 				<input
 					type="checkbox"
-					checked={enabledBrands.has(brand.nameJp)}
+					checked={enabledBrands.includes(brand.nameJp)}
 					onchange={(event) => {
 						if (event.currentTarget.checked) {
-							const newEnabledBrands = new Set(enabledBrands);
-							newEnabledBrands.add(brand.nameJp);
-							enabledBrands = newEnabledBrands;
+							enabledBrands.push(brand.nameJp);
 						} else {
-							const newEnabledBrands = new Set(enabledBrands);
-							newEnabledBrands.delete(brand.nameJp);
-							enabledBrands = newEnabledBrands;
+							enabledBrands.splice(enabledBrands.indexOf(brand.nameJp), 1);
 						}
 					}}
 				/>
