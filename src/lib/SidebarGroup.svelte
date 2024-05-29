@@ -71,7 +71,7 @@
 		overflow: hidden;
 
 		&.isOpen {
-			flex: 1 1;
+			flex: 1 1 auto;
 		}
 	}
 
@@ -93,15 +93,19 @@
 		font-size: 80%;
 		font-feature-settings: 'tnum';
 		display: flex;
-		align-items: center;
+		align-items: start;
 		gap: 4px;
 		padding: 0 16px;
 
+		input {
+			margin-top: 3px;
+		}
+
 		input + div {
-			opacity: 0.6;
+			color: #888;
 		}
 		input:checked + div {
-			opacity: 1;
+			color: unset;
 		}
 	}
 </style>

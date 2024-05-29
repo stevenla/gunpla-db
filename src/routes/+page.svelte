@@ -11,15 +11,31 @@
 	import products from '$lib/data/products.json';
 	import SidebarGroup from '$lib/SidebarGroup.svelte';
 	import SidebarTitle from '$lib/SidebarTitle.svelte';
+	import { createCsvQueryParamState, createQueryParamState } from '$lib/state.svelte';
 	const productsTyped: Product[] = products as any;
 
 	let sortColumn: keyof Product = 'releaseDate';
 	let sortDirection: -1 | 1 = -1;
 
-	let enabledBrands: string[] = $state([]);
-	let enabledSeries: string[] = $state([]);
-	let enabledYears: string[] = $state([]);
-	let query: string = $state('');
+	let query = createQueryParamState('query', '');
+	let enabledYears = createCsvQueryParamState('years', []);
+
+	// This is a kind-of gross way to get a writeable derived state. There's probably a better way
+	const fromBrandSlug = (slug: string) => ALL_BRANDS.find((x) => x.slug === slug)?.nameJp!;
+	const toBrandSlug = (nameJp: string) => ALL_BRANDS.find((x) => x.nameJp === nameJp)?.slug!;
+	let enabledBrandsSlugs = createCsvQueryParamState('grade', []);
+	let enabledBrands = $state<string[]>(enabledBrandsSlugs.current.map(fromBrandSlug));
+	$inspect(enabledBrands, enabledBrandsSlugs);
+	$effect(() => {
+		enabledBrandsSlugs.current = enabledBrands.map(toBrandSlug);
+	});
+	const fromSeriesSlug = (slug: string) => ALL_SERIES.find((x) => x.slug === slug)?.nameJp!;
+	const toSeriesSlug = (nameJp: string) => ALL_SERIES.find((x) => x.nameJp === nameJp)?.slug!;
+	let enabledSeriesSlugs = createCsvQueryParamState('series', []);
+	let enabledSeries = $state<string[]>(enabledSeriesSlugs.current.map(fromSeriesSlug));
+	$effect(() => {
+		enabledSeriesSlugs.current = enabledSeries.map(toSeriesSlug);
+	});
 
 	const allYears = uniq(
 		Object.values(productsTyped).map((product) => {
@@ -35,21 +51,27 @@
 	let productsSorted: Product[] = $derived(
 		productsTyped
 			.filter((product) => {
-				if (enabledBrands.length > 0 && !enabledBrands.includes(product.brand)) return false;
-				if (enabledSeries.length > 0 && !enabledSeries.includes(product.series)) return false;
-				if (
-					enabledYears.length > 0 &&
-					!enabledYears.some((year) => product.releaseDate.startsWith(year))
-				)
+				if (enabledBrands.length > 0 && !enabledBrands.includes(product.brand)) {
 					return false;
+				}
+				if (enabledSeries.length > 0 && !enabledSeries.includes(product.series)) {
+					return false;
+				}
 				if (
-					query.length > 0 &&
+					enabledYears.current.length > 0 &&
+					!enabledYears.current.some((year) => product.releaseDate.startsWith(year))
+				) {
+					return false;
+				}
+				if (
+					query.current.length > 0 &&
 					!(
-						product.nameEn.toLocaleLowerCase().includes(query.toLocaleLowerCase()) ||
-						product.nameJp.toLocaleLowerCase().includes(query.toLocaleLowerCase())
+						product.nameEn.toLocaleLowerCase().includes(query.current.toLocaleLowerCase()) ||
+						product.nameJp.toLocaleLowerCase().includes(query.current.toLocaleLowerCase())
 					)
-				)
+				) {
 					return false;
+				}
 				return true;
 			})
 			.toSorted((a, b) => {
@@ -73,20 +95,24 @@
 	});
 </script>
 
+<svelte:head>
+	<title>gunpla.wtf — Gunpla database</title>
+</svelte:head>
+
 <div class="root">
 	<div class="sidebar">
 		<h1>gunpla.wtf</h1>
 
 		<div class="search">
 			<SidebarTitle>Search</SidebarTitle>
-			<input type="search" bind:value={query} />
+			<input type="search" bind:value={query.current} />
 		</div>
 
 		<SidebarGroup
 			title="Release Date"
 			items={allYears}
 			getID={(year) => year}
-			bind:enabledItems={enabledYears}
+			bind:enabledItems={enabledYears.current}
 			let:item={year}
 		>
 			{year}
@@ -138,7 +164,7 @@
 	.sidebar {
 		display: flex;
 		flex-direction: column;
-		flex: 0 0 384px;
+		flex: 0 0 360px;
 		border-right: 1px solid var(--border-color);
 		overflow-y: hidden;
 	}

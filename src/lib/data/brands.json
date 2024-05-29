@@ -1,85 +1,102 @@
 {
 	"HG": {
-		"nameEn": "HG",
+		"slug": "HG",
+		"nameEn": "High Grade",
 		"imageIndex": "1",
 		"nameJp": "HG"
 	},
 	"HGUC": {
-		"nameEn": "HGUC",
+		"slug": "HGUC",
+		"nameEn": "High Grade UC",
 		"imageIndex": "5",
 		"nameJp": "HGUC"
 	},
 	"SDBD": {
+		"slug": "SDBD",
 		"nameEn": "SDBD",
 		"imageIndex": "11",
 		"nameJp": "SDBD"
 	},
 	"Figure-rise Standard": {
+		"slug": "FRS",
 		"nameEn": "Figure-rise Standard",
 		"imageIndex": "3",
 		"nameJp": "Figure-rise Standard"
 	},
 	"PG": {
-		"nameEn": "PG",
+		"slug": "PG",
+		"nameEn": "Perfect Grade",
 		"imageIndex": "9",
 		"nameJp": "PG"
 	},
 	"ENTRY GRADE": {
-		"nameEn": "ENTRY GRADE",
+		"slug": "EG",
+		"nameEn": "Entry Grade",
 		"imageIndex": "2",
 		"nameJp": "ENTRY GRADE"
 	},
 	"SDEX": {
+		"slug": "SDEX",
 		"nameEn": "SDEX",
 		"imageIndex": "14",
 		"nameJp": "SDEX"
 	},
 	"MG": {
-		"nameEn": "MG",
+		"slug": "MG",
+		"nameEn": "Master Grade",
 		"imageIndex": "6",
 		"nameJp": "MG"
 	},
 	"RG": {
-		"nameEn": "RG",
+		"slug": "RG",
+		"nameEn": "Real Grade",
 		"imageIndex": "10",
 		"nameJp": "RG"
 	},
 	"FULL MECHANICS": {
-		"nameEn": "FULL MECHANICS",
+		"slug": "FM",
+		"nameEn": "Full Mechanics",
 		"imageIndex": "4",
 		"nameJp": "FULL MECHANICS"
 	},
 	"MGSD": {
-		"nameEn": "MGSD",
+		"slug": "MGSD",
+		"nameEn": "Master Grade SD",
 		"imageIndex": "8",
 		"nameJp": "MGSD"
 	},
 	"その他": {
+		"slug": "OTHER",
 		"nameEn": "Other",
 		"imageIndex": "34",
 		"nameJp": "その他"
 	},
 	"SDガンダム クロスシルエット": {
+		"slug": "SDXS",
 		"nameEn": "SD Gundam Cross Silhouette",
 		"imageIndex": "35",
 		"nameJp": "SDガンダム クロスシルエット"
 	},
 	"アクションベース": {
+		"slug": "AB",
 		"nameEn": "Action Base",
 		"imageIndex": "67",
 		"nameJp": "アクションベース"
 	},
 	"オプションパーツセット": {
+		"slug": "OPT",
 		"nameEn": "Optional Parts Set",
 		"imageIndex": "100",
 		"nameJp": "オプションパーツセット"
 	},
 	"MGEX": {
-		"nameEn": "MGEX",
+		"slug": "MGEX",
+		"nameEn": "Master Grade EX",
 		"imageIndex": "7",
 		"nameJp": "MGEX"
 	},
 	"SDBF": {
+		"slug": "SDBF",
 		"nameEn": "SDBF",
 		"imageIndex": "12",
 		"nameJp": "SDBF"

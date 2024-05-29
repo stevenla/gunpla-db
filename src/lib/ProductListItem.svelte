@@ -107,8 +107,10 @@
 	}
 
 	.releaseDate {
-		flex: 0 0 auto;
-		width: 100px;
+		flex: 0 0 120px;
+		font-feature-settings: 'tnum';
+		font-size: 80%;
+		white-space: nowrap;
 	}
 
 	.info {
