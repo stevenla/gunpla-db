@@ -96,12 +96,12 @@
 </script>
 
 <svelte:head>
-	<title>gunpla.wtf — Gunpla database</title>
+	<title>gunpla.fyi — Gunpla database</title>
 </svelte:head>
 
 <div class="root">
 	<div class="sidebar">
-		<h1>gunpla.wtf</h1>
+		<h1>gunpla.fyi</h1>
 
 		<div class="search">
 			<SidebarTitle>Search</SidebarTitle>

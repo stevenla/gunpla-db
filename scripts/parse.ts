@@ -2,7 +2,7 @@ import fs from 'fs/promises'
 import esMain from 'es-main'
 import path from 'path'
 import { JSDOM } from 'jsdom'
-import * as Throttle from 'promise-parallel-throttle'
+import Throttle from 'promise-parallel-throttle'
 
 const CACHEDIR = path.resolve(import.meta.dirname, 'cache')
 import listInfo from './cache/listInfo.json';
@@ -69,7 +69,7 @@ async function parseAll() {
     const id = path.basename(filename, '.html');
     return () => parseFile(id);
   })
-  const products = await Throttle.all(productListPromises);
+  const products = await Throttle.all(productListPromises, { maxInProgress: 10 });
 
   await fs.writeFile(path.resolve(CACHEDIR, 'products.json'), JSON.stringify(products, null, 2));
 }
