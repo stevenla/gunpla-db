@@ -560,7 +560,7 @@
   {
     "id": "1055",
     "nameJp": "PG 1/60 RX-78ガンダムGP01/FB",
-    "nameEn": "PG 1/60 RX-78 GUNDAM GP-01/Fb",
+    "nameEn": "PG 1/60 GP01 RX-78 GUNDAM GP01/FB",
     "partNo": "1116409",
     "releaseDate": "2003-11",
     "brand": "PG",
@@ -2315,7 +2315,7 @@
   {
     "id": "154",
     "nameJp": "HG 1/144 モビルジン (ミゲル・アイマン専用機)",
-    "nameEn": "1/144 HG MOBILE GINN (MIGUEL AIMAN)",
+    "nameEn": "HG 1/144 MOBILE GINN (MIGUEL'S GINN)",
     "partNo": "1125302",
     "releaseDate": "2004-05",
     "brand": "HG",
@@ -2324,7 +2324,7 @@
   {
     "id": "155",
     "nameJp": "HG 1/144 ジンハイマニューバ",
-    "nameEn": "1/144 HG GINN HIGH SPEC CUSTOM",
+    "nameEn": "HG 1/144 GINN TYPE HIGH-MANEUVER",
     "partNo": "1125655",
     "releaseDate": "2004-06",
     "brand": "HG",
@@ -2351,7 +2351,7 @@
   {
     "id": "156",
     "nameJp": "HG 1/144 ハイペリオンガンダム",
-    "nameEn": "1/144 HG HIPERION GUNDAM",
+    "nameEn": "1/144 HG HYPERION GUNDAM",
     "partNo": "1126795",
     "releaseDate": "2004-07",
     "brand": "HG",
@@ -2374,6 +2374,15 @@
     "releaseDate": "2004-09",
     "brand": "HG",
     "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "1585",
+    "nameJp": "RG 1/144 RX-78-2 ガンダム Ver.2.0",
+    "nameEn": "RG 1/144 RX-78-2 GUNDAM Ver.2.0",
+    "partNo": "2700762",
+    "releaseDate": "2024-08-10",
+    "brand": "RG",
+    "series": "機動戦士ガンダム"
   },
   {
     "id": "159",
@@ -2412,6 +2421,24 @@
     "series": "機動戦士ガンダムSEED DESTINY"
   },
   {
+    "id": "1618",
+    "nameJp": "MG 1/100 シナンジュ・スタイン (ナラティブ Ver.) Ver.Ka",
+    "nameEn": "MG 1/100 SINANJU STEIN (NARRATIVE Ver.) Ver.Ka",
+    "partNo": "2656477",
+    "releaseDate": "2024-06-29",
+    "brand": "MG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "1619",
+    "nameJp": "オプションパーツセット ガンプラ 02 (ランチャーストライカー&ソードストライカー)",
+    "nameEn": "OPTION PARTS SET GUNPLA 02 (LAUNCHER STRIKER & SWORD STRIKER)",
+    "partNo": "2695886",
+    "releaseDate": "2024-06-29",
+    "brand": "オプションパーツセット",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
     "id": "162",
     "nameJp": "HG 1/144 ガナーザクウォーリア（ルナマリア・ホーク専用機）",
     "nameEn": "HG GUNNER ZAKU WARRIOR (LUNAMARIA HAWKE CUSTOM)",
@@ -2419,6 +2446,42 @@
     "releaseDate": "2005-02",
     "brand": "HG",
     "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "1620",
+    "nameJp": "オプションパーツセット ガンプラ 03 (ビルドハンズ 角型)",
+    "nameEn": "OPTION PARTS SET GUNPLA 03 (BUILD HANDS EDGE)",
+    "partNo": "2733943",
+    "releaseDate": "2024-06-29",
+    "brand": "オプションパーツセット",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "1621",
+    "nameJp": "オプションパーツセット ガンプラ 04 (ビルドハンズ 丸型)",
+    "nameEn": "OPTION PARTS SET GUNPLA 04 (BUILD HANDS ROUND)",
+    "partNo": "2733942",
+    "releaseDate": "2024-06-29",
+    "brand": "オプションパーツセット",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "1622",
+    "nameJp": "SDガンダム クロスシルエット ガンダムキャリバーン",
+    "nameEn": "SD GUNDAM CROSS SILHOUETTE GUNDAM CALIBARN",
+    "partNo": "2704786",
+    "releaseDate": "2024-06-29",
+    "brand": "SDガンダム クロスシルエット",
+    "series": "機動戦士ガンダム 水星の魔女"
+  },
+  {
+    "id": "1623",
+    "nameJp": "HG 1/144 インフィニットジャスティスガンダム弐式",
+    "nameEn": "HG 1/144 INFINITE JUSTICE GUNDAM TypeII",
+    "partNo": "2679243",
+    "releaseDate": "2024-06-29",
+    "brand": "HG",
+    "series": "機動戦士ガンダムSEED FREEDOM"
   },
   {
     "id": "163",
@@ -2448,13 +2511,103 @@
     "series": "機動戦士ガンダムSEED DESTINY"
   },
   {
+    "id": "1651",
+    "nameJp": "HG 1/144 デュエルブリッツガンダム",
+    "nameEn": "HG 1/144 DUEL BLITZ GUNDAM",
+    "partNo": "2679245",
+    "releaseDate": "2024-07-20",
+    "brand": "HG",
+    "series": "機動戦士ガンダムSEED FREEDOM"
+  },
+  {
+    "id": "1652",
+    "nameJp": "Figure-rise Standard ルナマリア・ホーク",
+    "nameEn": "Figure-rise Standard LUNAMARIA HAWKE",
+    "partNo": "2704800",
+    "releaseDate": "2024-07-20",
+    "brand": "Figure-rise Standard",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "1653",
+    "nameJp": "HG 1/144 ガンダムダブルオーコマンドクアンタ・デザートタイプ",
+    "nameEn": "HG 1/144 GUNDAM 00 COMMAND QAN[T] DESERT TYPE",
+    "partNo": "2704799",
+    "releaseDate": "2024-07-13",
+    "brand": "HG",
+    "series": "ガンダムビルドメタバース"
+  },
+  {
+    "id": "1654",
+    "nameJp": "HG 1/144 ガンダムアメイジングバルバトスルプス",
+    "nameEn": "HG 1/144 GUNDAM AMAZING BARBATOS LUPUS",
+    "partNo": "2704798",
+    "releaseDate": "2024-08-03",
+    "brand": "HG",
+    "series": "ガンダムビルドメタバース"
+  },
+  {
+    "id": "1655",
+    "nameJp": "オプションパーツセット ガンプラ 05 (ユニバースブースター プラフスキーパワーゲート)",
+    "nameEn": "OPTION PARTS SET GUNPLA 05 (UNIVERSE BOOSTER PLAVSKY POWER GATE)",
+    "partNo": "2739209",
+    "releaseDate": "2024-07-13",
+    "brand": "オプションパーツセット",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "1656",
+    "nameJp": "オプションパーツセット ガンプラ 06 (ヴァリュアブルポッド)",
+    "nameEn": "OPTION PARTS SET GUNPLA 06 (VALUABLE POD)",
+    "partNo": "2739210",
+    "releaseDate": "2024-07-13",
+    "brand": "オプションパーツセット",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "1657",
+    "nameJp": "オプションパーツセット ガンプラ 07 (パワードアームズパワーダー)",
+    "nameEn": "OPTION PARTS SET GUNPLA 07 (POWERED ARMS POWEREDER)",
+    "partNo": "2739211",
+    "releaseDate": "2024-07-13",
+    "brand": "オプションパーツセット",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "1658",
+    "nameJp": "オプションパーツセット ガンプラ 08 (ボールデンアームアームズ)",
+    "nameEn": "OPTION PARTS SET GUNPLA 08 (BALLDEN ARM ARMS)",
+    "partNo": "2733944",
+    "releaseDate": "2024-07-20",
+    "brand": "オプションパーツセット",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "1659",
+    "nameJp": "オプションパーツセット ガンプラ 09 (ジャイアントガトリング)",
+    "nameEn": "OPTION PARTS SET GUNPLA 09 (GIANT GATLING)",
+    "partNo": "2739212",
+    "releaseDate": "2024-07-20",
+    "brand": "オプションパーツセット",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
     "id": "166",
     "nameJp": "HG 1/144 ジンハイマニューバ2型",
-    "nameEn": "HG GINN Type High-Maneuver 2",
+    "nameEn": "HG 1/144 GINN TYPE HIGH-MANEUVER 2",
     "partNo": "1134098",
     "releaseDate": "2005-07-16",
     "brand": "HG",
     "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "1660",
+    "nameJp": "オプションパーツセット ガンプラ 10 (ギャラクシーブースター)",
+    "nameEn": "OPTION PARTS SET GUNPLA 10 (GALAXY BOOSTER)",
+    "partNo": "2739213",
+    "releaseDate": "2024-07-20",
+    "brand": "オプションパーツセット",
+    "series": "ガンダムビルドファイターズ"
   },
   {
     "id": "167",
@@ -2473,6 +2626,15 @@
     "releaseDate": "2005-08-21",
     "brand": "HG",
     "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "1684",
+    "nameJp": "ベストメカコレクション 1/144 RX-78-2 ガンダム (REVIVAL Ver.)",
+    "nameEn": "BEST MECHA COLLECTION 1/144 RX-78-2 GUNDAM (REVIVAL Ver.)",
+    "partNo": "2756462",
+    "releaseDate": "2024-10-12",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
   },
   {
     "id": "169",
@@ -2511,6 +2673,24 @@
     "series": "機動戦士ガンダムSEED DESTINY"
   },
   {
+    "id": "1717",
+    "nameJp": "オプションパーツセット ガンプラ 11 (バルバトス用滑空砲)",
+    "nameEn": "OPTION PARTS SET GUNPLA 11 (SMOOTHBORE GUN FOR BARBATOS)",
+    "partNo": "2739214",
+    "releaseDate": "2024-08-03",
+    "brand": "オプションパーツセット",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "1718",
+    "nameJp": "オプションパーツセット ガンプラ 12 (大型レールガン)",
+    "nameEn": "OPTION PARTS SET GUNPLA 12 (LARGE RAILGUN)",
+    "partNo": "2739215",
+    "releaseDate": "2024-08-03",
+    "brand": "オプションパーツセット",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
     "id": "172",
     "nameJp": "HG 1/144 グフ イグナイテッド(量産機)",
     "nameEn": "HG GOUF IGNITED (MASS PRODUCTION)",
@@ -2547,6 +2727,24 @@
     "series": "機動戦士ガンダムSEED DESTINY"
   },
   {
+    "id": "1750",
+    "nameJp": "アクションベース6 [クリアカラー] ミラーシールセット",
+    "nameEn": "ACTION BASE 6 [CLEAR COLOR] MIRROR STICKERS SET",
+    "partNo": "2723565",
+    "releaseDate": "2024-08-10",
+    "brand": "アクションベース",
+    "series": "その他"
+  },
+  {
+    "id": "1751",
+    "nameJp": "アクションベース7 [クリアカラー] ミラーシールセット",
+    "nameEn": "ACTION BASE 7 [CLEAR COLOR] MIRROR STICKERS SET",
+    "partNo": "2723566",
+    "releaseDate": "2024-08-10",
+    "brand": "アクションベース",
+    "series": "その他"
+  },
+  {
     "id": "176",
     "nameJp": "HG 1/144 シラヌイアカツキガンダム",
     "nameEn": "HG SHIRANUI AKATSUKI GUNDAM",
@@ -2572,6 +2770,24 @@
     "releaseDate": "2006-04-23",
     "brand": "HG",
     "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "1783",
+    "nameJp": "HG 1/144 ライトニングバスターガンダム",
+    "nameEn": "HG 1/144 LIGHTNING BUSTER GUNDAM",
+    "partNo": "2679247",
+    "releaseDate": "2024-09-21",
+    "brand": "HG",
+    "series": "機動戦士ガンダムSEED FREEDOM"
+  },
+  {
+    "id": "1784",
+    "nameJp": "SDガンダム クロスシルエット マイティーストライクフリーダムガンダム",
+    "nameEn": "SD GUNDAM CROSS SILHOUETTE MIGHTY STRIKE FREEDOM GUNDAM",
+    "partNo": "2723582",
+    "releaseDate": "2024-09-21",
+    "brand": "SDガンダム クロスシルエット",
+    "series": "機動戦士ガンダムSEED FREEDOM"
   },
   {
     "id": "179",
@@ -2610,6 +2826,15 @@
     "series": "機動戦士ガンダム SEED"
   },
   {
+    "id": "1816",
+    "nameJp": "MGSD ウイングガンダムゼロ EW",
+    "nameEn": "MGSD WING GUNDAM ZERO EW",
+    "partNo": "2723581",
+    "releaseDate": "2024-11-30",
+    "brand": "MGSD",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
     "id": "182",
     "nameJp": "HG 1/144 ジン タイプ インサージェント",
     "nameEn": "HG GINN TYPE INSURGENT",
@@ -2635,6 +2860,15 @@
     "releaseDate": "2006-11-24",
     "brand": "HG",
     "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "1849",
+    "nameJp": "1/144 ガンダム",
+    "nameEn": "1/144 GUNDAM",
+    "partNo": "1008659",
+    "releaseDate": "1980-07",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
   },
   {
     "id": "185",
@@ -2673,6 +2907,51 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "1882",
+    "nameJp": "HG 1/144 ザクII F型 ソラリ機 (復讐のレクイエム)",
+    "nameEn": "HG 1/144 ZAKU II F TYPE SOLARI (RFV)",
+    "partNo": "2725233",
+    "releaseDate": "2024-10-19",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 復讐のレクイエム"
+  },
+  {
+    "id": "1883",
+    "nameJp": "HG 1/144 ガンダムEX (復讐のレクイエム)",
+    "nameEn": "HG 1/144 GUNDAM EX (RFV)",
+    "partNo": "2725232",
+    "releaseDate": "2024-10-19",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 復讐のレクイエム"
+  },
+  {
+    "id": "1884",
+    "nameJp": "HG 1/144 ムラサメ改",
+    "nameEn": "HG 1/144 MURASAME KAI",
+    "partNo": "2693617",
+    "releaseDate": "2024-10-19",
+    "brand": "HG",
+    "series": "機動戦士ガンダムSEED FREEDOM"
+  },
+  {
+    "id": "1885",
+    "nameJp": "HG 1/144 ブラックナイトスコードカルラ",
+    "nameEn": "HG 1/144 BLACK KNIGHT SQUAD Cal-re.A",
+    "partNo": "2679246",
+    "releaseDate": "2024-10-26",
+    "brand": "HG",
+    "series": "機動戦士ガンダムSEED FREEDOM"
+  },
+  {
+    "id": "1886",
+    "nameJp": "Figure-rise Standard ニカ・ナナウラ",
+    "nameEn": "Figure-rise Standard NIKA NANAURA",
+    "partNo": "2723571",
+    "releaseDate": "2024-10-26",
+    "brand": "Figure-rise Standard",
+    "series": "機動戦士ガンダム 水星の魔女"
+  },
+  {
     "id": "189",
     "nameJp": "HG 1/144 ガンダムヴァーチェ",
     "nameEn": "HG 1/144 GUNDAM VIRTUE",
@@ -2709,6 +2988,15 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "1915",
+    "nameJp": "1/144 シャア専用ザク",
+    "nameEn": "1/144 CHAR'S ZAKU",
+    "partNo": "1008652",
+    "releaseDate": "1980-09",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
     "id": "192",
     "nameJp": "HG 1/144 ティエレン 宇宙型",
     "nameEn": "HG 1/144 TIEREN Space Type",
@@ -2736,6 +3024,24 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "1948",
+    "nameJp": "HG 1/144 デスティニーガンダムSpecII&ゼウスシルエット",
+    "nameEn": "HG 1/144 DESTINY GUNDAM SpecII&ZEUS SILHOUETTE",
+    "partNo": "2679248",
+    "releaseDate": "2024-11-23",
+    "brand": "HG",
+    "series": "機動戦士ガンダムSEED FREEDOM"
+  },
+  {
+    "id": "1949",
+    "nameJp": "HG 1/144 ボリノーク･サマーン",
+    "nameEn": "HG 1/144 BOLINOAK-SAMMAHN",
+    "partNo": "2553522",
+    "releaseDate": "2024-11-30",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
     "id": "195",
     "nameJp": "HG 1/144 ガンダムスローネ ツヴァイ",
     "nameEn": "HG 1/144 GUNDAM THRONE ZWEI",
@@ -2743,6 +3049,96 @@
     "releaseDate": "2008-03",
     "brand": "HG",
     "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "1950",
+    "nameJp": "オプションパーツセット ガンプラ 13 (ガンプラバトルアームアームズ)",
+    "nameEn": "OPTION PARTS SET GUNPLA 13 (GUNPLA BATTLE ARM ARMS)",
+    "partNo": "2733965",
+    "releaseDate": "2024-11-23",
+    "brand": "オプションパーツセット",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "1951",
+    "nameJp": "1/144 量産型ザク",
+    "nameEn": "1/144 ZAKUⅡ",
+    "partNo": "1008653",
+    "releaseDate": "1981-01",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1952",
+    "nameJp": "1/144 グフ",
+    "nameEn": "1/144 GOUF",
+    "partNo": "1008654",
+    "releaseDate": "1980-11",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1953",
+    "nameJp": "1/144 シャア専用ズゴック",
+    "nameEn": "1/144 CHAR'S Z'GOK",
+    "partNo": "1008657",
+    "releaseDate": "1981-07",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1954",
+    "nameJp": "1/144 量産型ズコック",
+    "nameEn": "1/144 Z'GOK",
+    "partNo": "1008655",
+    "releaseDate": "1980-12",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1955",
+    "nameJp": "1/144 ガンキャノン",
+    "nameEn": "1/144 GUNCANNON",
+    "partNo": "1008656",
+    "releaseDate": "1981-05",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1956",
+    "nameJp": "1/144 ジム",
+    "nameEn": "1/144 GM",
+    "partNo": "1008658",
+    "releaseDate": "1981-04",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1957",
+    "nameJp": "1/144 ギャン",
+    "nameEn": "1/144 GYAN",
+    "partNo": "1008660",
+    "releaseDate": "1981-07",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1958",
+    "nameJp": "1/144 アッガイ",
+    "nameEn": "1/144 AGGUY",
+    "partNo": "1008661",
+    "releaseDate": "1981-08",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1959",
+    "nameJp": "1/144 旧型ザク",
+    "nameEn": "1/144 ZAKUⅠ",
+    "partNo": "1008662",
+    "releaseDate": "1981-10",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
   },
   {
     "id": "196",
@@ -2754,6 +3150,96 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "1960",
+    "nameJp": "1/144 アッグ",
+    "nameEn": "1/144 AGGU",
+    "partNo": "1008739",
+    "releaseDate": "1982-09",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1961",
+    "nameJp": "1/144 ボール",
+    "nameEn": "1/144 BALL",
+    "partNo": "1008663",
+    "releaseDate": "1981-09",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1962",
+    "nameJp": "1/144 武器セット",
+    "nameEn": "1/144 BUKI SET",
+    "partNo": "1008664",
+    "releaseDate": "1981-04",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1963",
+    "nameJp": "1/144 コアブースター",
+    "nameEn": "1/144 CORE-BOOSTER",
+    "partNo": "1008674",
+    "releaseDate": "1982-08",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1964",
+    "nameJp": "1/550 ララァ専用モビルアーマー",
+    "nameEn": "1/550 ELMETH (LALA MOBILE ARMOUR)",
+    "partNo": "1008671",
+    "releaseDate": "1981-10",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1965",
+    "nameJp": "1/550 グラブロ",
+    "nameEn": "1/550 GRUBLO",
+    "partNo": "1008670",
+    "releaseDate": "1981-10",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1966",
+    "nameJp": "1/550 ビグロ",
+    "nameEn": "1/550 BYGRO",
+    "partNo": "1008669",
+    "releaseDate": "1981-09",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1967",
+    "nameJp": "1/1200 シャア専用ムサイ",
+    "nameEn": "1/1200 CHAR'S MUSAI",
+    "partNo": "1008665",
+    "releaseDate": "1981-02",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1968",
+    "nameJp": "1/1200 巡洋艦ムサイ",
+    "nameEn": "1/1200 MUSAI",
+    "partNo": "1008666",
+    "releaseDate": "1980-08",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1969",
+    "nameJp": "1/1200 ガウ攻撃空母",
+    "nameEn": "1/1200 GAW",
+    "partNo": "1008673",
+    "releaseDate": "1982-04",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
     "id": "197",
     "nameJp": "HG 1/144 GNアームズTYPE-E＋ガンダムエクシア（トランザムモード)",
     "nameEn": "HG 1/144 GN ARMS TYPE-E + GUNDAM EXIA (TRANS MODE)",
@@ -2763,6 +3249,96 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "1970",
+    "nameJp": "1/2400 ホワイトベース",
+    "nameEn": "1/2400 WHITEBASE",
+    "partNo": "1008667",
+    "releaseDate": "1981-04",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1971",
+    "nameJp": "1/2400 グワジン",
+    "nameEn": "1/2400 GWAZINE",
+    "partNo": "1008745",
+    "releaseDate": "1983-03",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1972",
+    "nameJp": "1/2400 ザンジバル",
+    "nameEn": "1/2400 ZANZIBAR",
+    "partNo": "1008746",
+    "releaseDate": "1983-03",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1973",
+    "nameJp": "1/144 ゴッグ",
+    "nameEn": "1/144 GOGG",
+    "partNo": "1008668",
+    "releaseDate": "1981-05",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1974",
+    "nameJp": "1/144 アッグガイ",
+    "nameEn": "1/144 AGGUY",
+    "partNo": "1008675",
+    "releaseDate": "1982-07",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1975",
+    "nameJp": "1/144 ゾゴック",
+    "nameEn": "1/144 ZOGOCK",
+    "partNo": "1008740",
+    "releaseDate": "1982-11",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1976",
+    "nameJp": "1/144 マゼラアタック",
+    "nameEn": "1/144 MAZELLA-ATTACK",
+    "partNo": "1008676",
+    "releaseDate": "1982-05",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1977",
+    "nameJp": "1/550 アッザム",
+    "nameEn": "1/550 ADZAM",
+    "partNo": "1008677",
+    "releaseDate": "1982-06",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1978",
+    "nameJp": "1/550 ミデア",
+    "nameEn": "1/550 MEDEA",
+    "partNo": "1008748",
+    "releaseDate": "1983-01",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1979",
+    "nameJp": "1/550 ビグザム",
+    "nameEn": "1/550 BYG-ZAM",
+    "partNo": "1008672",
+    "releaseDate": "1981-09",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
     "id": "198",
     "nameJp": "HG 1/144 ブレイズザクファントム(ディアッカ・エルスマン専用機)",
     "nameEn": "HG BLAZE ZAKU PHANTOM (DEARKA ELTHMAN CUSTOM)",
@@ -2770,6 +3346,24 @@
     "releaseDate": "2007-09-08",
     "brand": "HG",
     "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "1980",
+    "nameJp": "1/1200 サラミス",
+    "nameEn": "1/1200 SALAMIS",
+    "partNo": "1008747",
+    "releaseDate": "1983-01",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "1981",
+    "nameJp": "1/550 ザクレロ",
+    "nameEn": "1/550 ZAKRELLO",
+    "partNo": "1008731",
+    "releaseDate": "1982-06",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
   },
   {
     "id": "199",
@@ -2817,6 +3411,15 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "2014",
+    "nameJp": "RG 1/144 アカツキガンダム(オオワシ装備)",
+    "nameEn": "RG 1/144 AKATSUKI GUNDAM OOWASHI unit",
+    "partNo": "2700763",
+    "releaseDate": "2024-12-14",
+    "brand": "RG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
     "id": "202",
     "nameJp": "HGUC 1/144 YMS-15 ギャン",
     "nameEn": "HGUC 1/144 GYAN",
@@ -2842,6 +3445,33 @@
     "releaseDate": "1999-05-01",
     "brand": "HGUC",
     "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "2047",
+    "nameJp": "ＭＧ 1/100 トランザムライザー",
+    "nameEn": "MG 1/100 TRANS-AM RISER",
+    "partNo": "2146842",
+    "releaseDate": "2011-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2048",
+    "nameJp": "ＭＧ 1/100 武者ガンダムMK-2 徳川家康Ｖｅｒ．",
+    "nameEn": "MG 1/100 武者ガンダムMk-II 徳川家康Ver.",
+    "partNo": "2114436",
+    "releaseDate": "2012-01",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2049",
+    "nameJp": "ＨＧ 1/144 ボールK型(第08MS小隊版)&ボール(シャークマウス仕様)",
+    "nameEn": "HGUC 1/144 RB-79K BALL K-TYPE & RB-79 BALL SET",
+    "partNo": "2128325",
+    "releaseDate": "2012-02",
+    "brand": "HG",
+    "series": "その他"
   },
   {
     "id": "205",
@@ -2880,6 +3510,33 @@
     "series": "機動戦士ガンダム"
   },
   {
+    "id": "2080",
+    "nameJp": "オプションパーツセット ガンプラ 14 (ガンバレルストライカー)",
+    "nameEn": "OPTION PARTS SET GUNPLA 14 (GUNBARREL STRIKER)",
+    "partNo": "2703256",
+    "releaseDate": "2025-01-17",
+    "brand": "オプションパーツセット",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2081",
+    "nameJp": "HG 1/144 GQuuuuuuX",
+    "nameEn": "HG 1/144 GQuuuuuuX",
+    "partNo": "2738675",
+    "releaseDate": "2025-01-17",
+    "brand": "HG",
+    "series": "機動戦士Gundam GQuuuuuuX"
+  },
+  {
+    "id": "2082",
+    "nameJp": "ENTRY GRADE 1/144 ストライクルージュ",
+    "nameEn": "ENTRY GRADE 1/144 STRIKE ROUGE",
+    "partNo": "2750724",
+    "releaseDate": "2025-01-17",
+    "brand": "ENTRY GRADE",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
     "id": "209",
     "nameJp": "HGUC 1/144 MS-07 グフ",
     "nameEn": "HGUC 1/144 GOUF",
@@ -2916,6 +3573,60 @@
     "series": "機動戦士ガンダムZZ"
   },
   {
+    "id": "2113",
+    "nameJp": "ＭＧ 1/100  グフカスタム(重力戦線イメージカラーＶｅｒ．)",
+    "nameEn": "MG 1/100 MS-０７B3 GOUF CUSTOM (GRAVITY BATTLE LINE IMAGE COLOR VER.)",
+    "partNo": "2072271",
+    "releaseDate": "2009-07",
+    "brand": "MG",
+    "series": "機動戦士ガンダム MS IGLOO"
+  },
+  {
+    "id": "2114",
+    "nameJp": "ＭＧ 1/100 ドム(重力戦線イメージカラーＶｅｒ．)",
+    "nameEn": "MG 1/100 MS-09 DOM (GRAVITY BATTLE LINE IMAGE COLOR VER.)",
+    "partNo": "2072272",
+    "releaseDate": "2009-07",
+    "brand": "MG",
+    "series": "機動戦士ガンダム MS IGLOO"
+  },
+  {
+    "id": "2115",
+    "nameJp": "ＭＧ 1/100 ザクII(重力戦線イメージカラーＶｅｒ．)",
+    "nameEn": "MG 1/100 MS-06J ZAKUⅡ (GRAVITY BATTLE LINE IMAGE COLOR VER.)",
+    "partNo": "2072273",
+    "releaseDate": "2009-07",
+    "brand": "MG",
+    "series": "機動戦士ガンダム MS IGLOO"
+  },
+  {
+    "id": "2117",
+    "nameJp": "ＨＧ 1/144 ジム改 スタンダードカラー&ボール改修型",
+    "nameEn": "HGUC 1/144 GM TYPE C & BALL TYPE C",
+    "partNo": "2146844",
+    "releaseDate": "2011-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
+  },
+  {
+    "id": "2118",
+    "nameJp": "ＨＧ 1/144 ドラッツェ(ユニコーンＶｅｒ．)",
+    "nameEn": "1/144 HGUC DRA-C (UNICORN VER.)",
+    "partNo": "2151512",
+    "releaseDate": "2012-02",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2119",
+    "nameJp": "ＨＧ 1/144 ジムII デザートカラーＶｅｒ．",
+    "nameEn": "HGUC 1/144 GM Ⅱ DESERT COLOR Ver.",
+    "partNo": "2156343",
+    "releaseDate": "2012-01",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
     "id": "212",
     "nameJp": "HGUC 1/144 ハイザック",
     "nameEn": "HGUC 1/144 HI-ZACK",
@@ -2923,6 +3634,78 @@
     "releaseDate": "2000-07",
     "brand": "HGUC",
     "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "2122",
+    "nameJp": "ＲＧ 1/144 ストライクガンダム",
+    "nameEn": "RG 1/144 GAT-X105 STRIKE GUNDAM",
+    "partNo": "2166335",
+    "releaseDate": "2012-03",
+    "brand": "RG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2123",
+    "nameJp": "ＲＧ 1/144 ストライクガンダム ディアクティブモード",
+    "nameEn": "RG 1/144 GAT-X105 STRIKE GUNDAM DEACTIVE MODE",
+    "partNo": "2166336",
+    "releaseDate": "2012-03",
+    "brand": "RG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2124",
+    "nameJp": "ＨＧ 1/144 ジュアッグ(Ｖｅｒ．MSV)",
+    "nameEn": "HGUC 1/144 JUAGGU (MSV Ver.)",
+    "partNo": "2166499",
+    "releaseDate": "2012-05",
+    "brand": "HG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2125",
+    "nameJp": "ＭＧ 1/100 ネモ ユニコーンデザートカラーＶｅｒ．",
+    "nameEn": "MG NEMO UNICORN DESERT COLOR Ver.",
+    "partNo": "2167681",
+    "releaseDate": "2012-04",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2126",
+    "nameJp": "ＭＧ 1/100 ネモ ユニコーンカラーＶｅｒ．",
+    "nameEn": "MG NEMO UNICORN COLOR Ver.",
+    "partNo": "2167682",
+    "releaseDate": "2012-04",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2127",
+    "nameJp": "ＭＧ 1/100 小説版ユニコーンガンダム2号機バンシィＶｅｒ．Ka 最終決戦仕様",
+    "nameEn": "MG UNICORN GUNDAM 02 Ver.Ka FULL PSYCHO FRAME PROTOTYPE MOBILE SUIT BANSEE",
+    "partNo": "2168180",
+    "releaseDate": "2012-03",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2128",
+    "nameJp": "ＨＧ 1/144 ジムIII (ユニコーンデザートカラーＶｅｒ．)",
+    "nameEn": "HGUC 1/144 GMIII（UNICORN DESERT COLOR VER.）",
+    "partNo": "2172898",
+    "releaseDate": "2012-07",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2129",
+    "nameJp": "ＨＧ 1/144 ギラ・ドーガ(フル・フロンタル専用機)",
+    "nameEn": "HGUC 1/144 GEARA DOGA (FULL FRONTAL USE)",
+    "partNo": "2172899",
+    "releaseDate": "2012-07",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
   },
   {
     "id": "213",
@@ -2934,12 +3717,165 @@
     "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
   },
   {
+    "id": "2130",
+    "nameJp": "ＨＧ 1/144 エクストリームガンダム type-レオス",
+    "nameEn": "HG 1/144 EXTREME GUNDAM TYPE LEOS",
+    "partNo": "2173941",
+    "releaseDate": "2012-05",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2131",
+    "nameJp": "ＭＧ 1/100 ガンダム Ｖｅｒ．２．０ リアルタイプカラー",
+    "nameEn": "MG 1/100 RX-78-2 GUNDAM Ver2.0 REAL TYPE COLOR",
+    "partNo": "2179160",
+    "releaseDate": "2012-06",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2132",
+    "nameJp": "ＭＧ 1/100 ザクII Ｖｅｒ．２．０ リアルタイプカラー",
+    "nameEn": "MG 1/100 MS-06S ZAKU II Ver2.0 REAL TYPE COLOR",
+    "partNo": "2179161",
+    "releaseDate": "2012-06",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2133",
+    "nameJp": "ＨＧ 1/144 ジム・スナイパーII ホワイト・ディンゴ隊仕様",
+    "nameEn": "HGUC GM SNIPERⅡ WHITE DINGO TEAM CUSTOM",
+    "partNo": "2180533",
+    "releaseDate": "2012-09",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2134",
+    "nameJp": "ＨＧ 1/144 ブルーディスティニー2号機 Ω(オメガ)カラー",
+    "nameEn": "HG 1/144 BLUE DESTINY UNIT 2 OMEGA COLOR",
+    "partNo": "2188016",
+    "releaseDate": "2012-07",
+    "brand": "HG",
+    "series": "機動戦士ガンダム外伝 THE BLUE DESTINY"
+  },
+  {
+    "id": "2135",
+    "nameJp": "ＨＧ 1/144 リゼルC型(ゼネラル・レビル配備機)",
+    "nameEn": "HGUC 1/144 ReZEL TYPE-C (GR)",
+    "partNo": "2188280",
+    "releaseDate": "2012-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2136",
+    "nameJp": "ＭＧ 1/100 黒い三連星ザクＶｅｒ．２．０",
+    "nameEn": "MG MS-06S ZAKUⅡ（BLACK TRI-STARS CUSTOM）VER.2.0",
+    "partNo": "2189992",
+    "releaseDate": "2012-09",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2137",
+    "nameJp": "ＨＧ 1/144 ベースジャバー(ユニコーンジオン軍残党カラーＶｅｒ．)",
+    "nameEn": "HGUC BASE JABBER（UNICORN ZEON REMNANTS COLOR VER.）",
+    "partNo": "2193531",
+    "releaseDate": "2012-11",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2138",
+    "nameJp": "ＨＧ 1/144 ジムII(エゥーゴカラーＶｅｒ．)",
+    "nameEn": "HGUC GM Ⅱ（A.E.U.G. COLOR VER.）",
+    "partNo": "2193533",
+    "releaseDate": "2012-11",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "2139",
+    "nameJp": "ＨＧ 1/144 リゼル(ディフェンサーbユニット)",
+    "nameEn": "HGUC 1/144 ReZEL （DEFENSER b-UNIT）",
+    "partNo": "2193535",
+    "releaseDate": "2013-01",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
     "id": "214",
     "nameJp": "HGUC 1/144 ザクIII 量産型",
     "nameEn": "HGUC 1/144 AMX-011 ZAKUⅢ",
     "partNo": "1077166",
     "releaseDate": "2000-09",
     "brand": "HGUC",
+    "series": "機動戦士ガンダムZZ"
+  },
+  {
+    "id": "2140",
+    "nameJp": "ＭＧ 1/100 トールギスII",
+    "nameEn": "MG 1/100 TALLGEESE Ⅱ",
+    "partNo": "2193537",
+    "releaseDate": "2013-03",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2141",
+    "nameJp": "ＨＧ 1/144 ジム&ガンキャノン量産型(ホワイト・ディンゴ隊仕様)",
+    "nameEn": "HGUC 1/144 GM & GUNCANNON MASS PRODUCTION TYPE (WHITE DINGO TEAM CUSTOM)",
+    "partNo": "2195520",
+    "releaseDate": "2013-02",
+    "brand": "HG",
+    "series": "機動戦士ガンダム外伝 THE BLUE DESTINY"
+  },
+  {
+    "id": "2142",
+    "nameJp": "ＲＧ 1/144 ストライクルージュ+ＨＧ 1/144 I.W.S.P.",
+    "nameEn": "RG 1/144 STRIKE ROUGE + HG I.W.S.P.",
+    "partNo": "2200140",
+    "releaseDate": "2013-01",
+    "brand": "RG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2143",
+    "nameJp": "ＭＧ 1/100 ダブル・フィン・ファンネル拡張ユニット",
+    "nameEn": "MG 1/100 NU GUNDAM Ver.Ka DOUBLE FIN FUNNEL CUSTOM UNIT",
+    "partNo": "2203074",
+    "releaseDate": "2013-01",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "2144",
+    "nameJp": "ＨＧ 1/144 グフ&ゲルググ (ヴィッシュ・ドナヒュー専用機)",
+    "nameEn": "HGUC 1/144 GOUF & GELGOOG （VISCH DONAHUE'S CUSTOM)",
+    "partNo": "2205695",
+    "releaseDate": "2013-03",
+    "brand": "HG",
+    "series": "機動戦士ガンダム外伝 THE BLUE DESTINY"
+  },
+  {
+    "id": "2145",
+    "nameJp": "ＲＧ 1/144 ゼータガンダム3号機",
+    "nameEn": "RG 1/144 MSZ- 006-3 ZETA GUNDAM",
+    "partNo": "2206990",
+    "releaseDate": "2013-03",
+    "brand": "RG",
+    "series": "その他"
+  },
+  {
+    "id": "2146",
+    "nameJp": "Figure-rise Standard プルツー",
+    "nameEn": "Figure-rise Standard PLE TWO",
+    "partNo": "2733982",
+    "releaseDate": "2025-02-08",
+    "brand": "Figure-rise Standard",
     "series": "機動戦士ガンダムZZ"
   },
   {
@@ -2970,6 +3906,15 @@
     "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
   },
   {
+    "id": "2179",
+    "nameJp": "ＭＧ 1/100 エールストライクガンダム Ｖｅｒ．ＲＭ用 ランチャーストライカー/ソードストライカーパック",
+    "nameEn": "LAUNCHER STRIKER / SWORD STRIKER PACK for MG 1/100 AILE STRIKE GUNDAM Ver. RM",
+    "partNo": "2211440",
+    "releaseDate": "2013-06",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
     "id": "218",
     "nameJp": "HGUC 1/144 ガンダム GP-01Fb",
     "nameEn": "HGUC 1/144 RX-78 GP01Fb",
@@ -2979,6 +3924,87 @@
     "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
   },
   {
+    "id": "2180",
+    "nameJp": "ＭＧ 1/100 ジョニー・ライデン専用ザクII",
+    "nameEn": "MG 1/100 MS-06S ZAKUⅡ JOHNNY RIDDEN CUSTOM",
+    "partNo": "2211441",
+    "releaseDate": "2013-05",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2181",
+    "nameJp": "ＨＧ 1/144 ガトー専用ゲルググ",
+    "nameEn": "HGUC 1/144 GATO’S GELGOOG",
+    "partNo": "2211442",
+    "releaseDate": "2013-07",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
+  },
+  {
+    "id": "2182",
+    "nameJp": "ＭＧ 1/100 マラサイ(ユニコーンカラーＶｅｒ．)",
+    "nameEn": "MG 1/100 MARASAI（UNICORN COLOR Ver.）",
+    "partNo": "2213700",
+    "releaseDate": "2013-07",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2183",
+    "nameJp": "ＨＧ 1/144 ガンダムアストレイゴールドフレーム天",
+    "nameEn": "HG 1/144 GUNDAM ASTRAY GOLD FRAME AMATSU",
+    "partNo": "2214590",
+    "releaseDate": "2013-10",
+    "brand": "HG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2184",
+    "nameJp": "ＭＧ 1/100 ガンダムＡＧＥ-２ノーマル 特務隊仕様",
+    "nameEn": "MG 1/100 GUNDAM AGE-2 NORMAL SP ver.",
+    "partNo": "2216816",
+    "releaseDate": "2013-09",
+    "brand": "MG",
+    "series": "機動戦士ガンダムAGE"
+  },
+  {
+    "id": "2185",
+    "nameJp": "ＨＧ 1/144 ベースジャバー(ゼータガンダムＶｅｒ．)",
+    "nameEn": "HGUC 1/144 BASE JABBER ( ZETA GUNDAM Ver.)",
+    "partNo": "2217692",
+    "releaseDate": "2013-06",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "2187",
+    "nameJp": "ＲＧ 1/144 デスティニーガンダム用 拡張エフェクトユニット“光の翼\"",
+    "nameEn": "RG 1/144 DESTINY GUNDAM EFFECT UNIT \"WING OF LIGHT\"",
+    "partNo": "2218631",
+    "releaseDate": "2013-05",
+    "brand": "RG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2188",
+    "nameJp": "ＨＧ 1/144 ガンダムレギルス〔MEMORY OF EDEN〕",
+    "nameEn": "HG 1/144 GUNDAM LEGILIS〔MEMORY OF EDEN〕",
+    "partNo": "2221183",
+    "releaseDate": "2013-09",
+    "brand": "HG",
+    "series": "機動戦士ガンダムAGE"
+  },
+  {
+    "id": "2189",
+    "nameJp": "ＭＧ 1/100 ガンダムＡＧＥ-１ ２号機",
+    "nameEn": "MG 1/100 GUNDAM AGE-1F/2",
+    "partNo": "2221184",
+    "releaseDate": "2013-09",
+    "brand": "MG",
+    "series": "機動戦士ガンダムAGE"
+  },
+  {
     "id": "219",
     "nameJp": "HGUC 1/144 MSM-07S ズゴック（シャア専用）",
     "nameEn": "HGUC 1/144 MSM-07S Z'GOCK (CHAR'S CUSTOM)",
@@ -2986,6 +4012,87 @@
     "releaseDate": "2001-02",
     "brand": "HGUC",
     "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "2190",
+    "nameJp": "ＲＧ 1/144 ストライクフリーダムガンダム用 拡張エフェクトユニット“天空の翼\"",
+    "nameEn": "RG 1/144 EXPANSION EFFECT UNIT WING OF THE SKIES for STRIKE FREEDOM GUNDAM",
+    "partNo": "2221512",
+    "releaseDate": "2013-11",
+    "brand": "RG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2191",
+    "nameJp": "ＭＧ 1/100 ＲＸ－７８－２ ガンダムＶｅｒ．３．０用 拡張セット",
+    "nameEn": "MG 1/100 CUSTOM SET for MG RX-78-2 GUNDAM Ver.3.0",
+    "partNo": "2228614",
+    "releaseDate": "2013-08",
+    "brand": "MG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "2192",
+    "nameJp": "ＭＧ 1/100 ギラ・ドーガ（レズン・シュナイダー専用機）",
+    "nameEn": "MG 1/100 GEARA DOGA (REZIN SCHYNDER’S USE)",
+    "partNo": "2228615",
+    "releaseDate": "2013-10",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "2193",
+    "nameJp": "ＨＧ 1/144 アイザック/ガザC/ギラ・ドーガ(ユニコーンＶｅｒ．)セット",
+    "nameEn": "HGUC 1/144 EWAC ZACK/GAZA C/GEARA DOGA (GUNDAM UNICORN Ver.) SET",
+    "partNo": "2229012",
+    "releaseDate": "2013-11",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2195",
+    "nameJp": "ＭＧ 1/100 ザク・キャノン（ユニコーンカラーVer.）",
+    "nameEn": "MG 1/100 ZAKU CANNON (GUNDAM UNICORN Ver.)",
+    "partNo": "2238166",
+    "releaseDate": "2013-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2196",
+    "nameJp": "ＭＧ 1/100 ズゴック（ユニコーンカラーVer.）",
+    "nameEn": "MG 1/100 Z’GOK (GUNDAM UNICORN Ver.)",
+    "partNo": "2238167",
+    "releaseDate": "2013-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2197",
+    "nameJp": "ＨＧ 1/144 シルヴァ・バレト(ファンネル試験型)",
+    "nameEn": "HGUC 1/144 SILVER BULLET (FUNNEL TEST TYPE)",
+    "partNo": "2238602",
+    "releaseDate": "2014-03",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2198",
+    "nameJp": "ＲＧ 1/144 量産型ズゴック",
+    "nameEn": "RG 1/144 Z’GOK",
+    "partNo": "2247113",
+    "releaseDate": "2015-08",
+    "brand": "RG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "2199",
+    "nameJp": "ＭＧ 1/100 ドズル・ザビ専用ザクII",
+    "nameEn": "MG 1/100 MS-06F ZAKU II (DOZLE ZABI USE)",
+    "partNo": "2248990",
+    "releaseDate": "2014-06",
+    "brand": "MG",
+    "series": "ガンダムMSV"
   },
   {
     "id": "22",
@@ -3006,6 +4113,78 @@
     "series": "機動戦士ガンダム"
   },
   {
+    "id": "2200",
+    "nameJp": "ＭＧ 1/100 マ・クベ専用グフ",
+    "nameEn": "MG 1/100 M’QUVE’S GOUF",
+    "partNo": "2248991",
+    "releaseDate": "2014-08",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2201",
+    "nameJp": "ＨＧ 1/144 ターンエーガンダム用 拡張エフェクトユニット“月光蝶\"",
+    "nameEn": "HGCC 1/144 EXPANSION EFFECT UNIT “MOONLIGHT BUTTERFLY” for ∀ GUNDAM",
+    "partNo": "2252316",
+    "releaseDate": "2014-04",
+    "brand": "HG",
+    "series": "∀ガンダム"
+  },
+  {
+    "id": "2202",
+    "nameJp": "ＨＧ 1/144 ジェガンD型",
+    "nameEn": "HGUC 1/144 RGM-89D JEGAN D TYPE",
+    "partNo": "2252322",
+    "releaseDate": "2014-05",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2203",
+    "nameJp": "ＲＧ 1/144 ガンダムエクシア用リペアパーツセット",
+    "nameEn": "REPAIR PARTS SET FOR RG 1/144 GUNDAM EXIA",
+    "partNo": "2255387",
+    "releaseDate": "2014-05",
+    "brand": "RG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2204",
+    "nameJp": "ＨＧ 1/144 ネオ・ジオング用 拡張エフェクトユニット“サイコシャード\"",
+    "nameEn": "HGUC 1/144 EXPANSION EFFECT UNIT FOR NEO ZEONG ” PSYCHO-SHARD”",
+    "partNo": "2255542",
+    "releaseDate": "2014-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2205",
+    "nameJp": "ＭＧ 1/100 ゲルググキャノン(MSVカラー)",
+    "nameEn": "MG 1/100 MS-14C GELGOOG CANNON (MSV COLOR)",
+    "partNo": "2259101",
+    "releaseDate": "2014-07",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2207",
+    "nameJp": "ＨＧ 1/144 アッシマー(グリーンダイバーズＶｅｒ．)",
+    "nameEn": "HGUC 1/144 ASSHIMAR (GREEN DIVERS Ver.)",
+    "partNo": "2261508",
+    "releaseDate": "2014-07",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2208",
+    "nameJp": "ＨＧ 1/144 ペイルライダー(陸戦重装備仕様)",
+    "nameEn": "HGUC 1/144 PALE RIDER(GROUND HEAVY EQUIPMENT TYPE)",
+    "partNo": "2262100",
+    "releaseDate": "2015-04",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
     "id": "221",
     "nameJp": "HGUC 1/144 RX-78-2 ガンダム",
     "nameEn": "HGUC 1/144 RX-78-2 GUNDAM",
@@ -3013,6 +4192,69 @@
     "releaseDate": "2001-05-26",
     "brand": "HGUC",
     "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "2212",
+    "nameJp": "ＭＧ 1/100 Hi-νガンダムＶｅｒ．Ka用 HWS拡張セット",
+    "nameEn": "MG 1/100 HWS EXPANSION SET for Hi-v GUNDAM Ver.Ka",
+    "partNo": "2267183",
+    "releaseDate": "2014-09",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "2213",
+    "nameJp": "ＨＧ 1/144 アナベル・ガトー専用リック・ドム",
+    "nameEn": "HGUC 1/144 MS-09RS ANAVEL GATO’S RICK DOM",
+    "partNo": "2268311",
+    "releaseDate": "2014-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
+  },
+  {
+    "id": "2214",
+    "nameJp": "ＨＧ 1/144 ゲイレールシャルフリヒター&ランドマンロディ セット",
+    "nameEn": "HG 1/144 GEIRAIL SCHARFRICHTER & LANDMAN RODI SET",
+    "partNo": "2408714",
+    "releaseDate": "2017-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2215",
+    "nameJp": "ＭＧ 1/100 ダブルオーガンダム セブンソード/G インスペクション",
+    "nameEn": "MG 1/100 00 GUNDAM SEVEN SWORD/G INSPECTION",
+    "partNo": "2272560",
+    "releaseDate": "2014-09",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2216",
+    "nameJp": "ＰＧ 1/60 ガンダムアストレイ ブルーフレーム",
+    "nameEn": "PG 1/60 GUNDAM ASTRAY BLUE FRAME",
+    "partNo": "2127504",
+    "releaseDate": "2014-02",
+    "brand": "PG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2217",
+    "nameJp": "ＨＧ 1/144 V2ガンダム用拡張エフェクトユニット“光の翼\"",
+    "nameEn": "EXPANSION EFFECT UNIT “WING OF LIGHT” for VICTORY TWO GUNDAM",
+    "partNo": "2273501",
+    "releaseDate": "2015-05",
+    "brand": "HG",
+    "series": "機動戦士Vガンダム"
+  },
+  {
+    "id": "2218",
+    "nameJp": "ＭＧ 1/100 バリュートパック",
+    "nameEn": "MG 1/100 BALLUTE PACK",
+    "partNo": "2179030",
+    "releaseDate": "2012-06",
+    "brand": "MG",
+    "series": "機動戦士Zガンダム"
   },
   {
     "id": "222",
@@ -3024,6 +4266,87 @@
     "series": "機動戦士ガンダム"
   },
   {
+    "id": "2220",
+    "nameJp": "ＨＧ 1/144 Gディフェンサー & フライングアーマー",
+    "nameEn": "HGUC 1/144 G-DEFENSER & FLYINGARMOR",
+    "partNo": "2179880",
+    "releaseDate": "2012-05",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "2221",
+    "nameJp": "ＲＧ 1/144 G-3ガンダム",
+    "nameEn": "RG 1/144 RX-78-3 G-3 GUNDAM",
+    "partNo": "2273902",
+    "releaseDate": "2015-04",
+    "brand": "RG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2222",
+    "nameJp": "ＨＧ 1/144 ミーティアユニット",
+    "nameEn": "HG 1/144 METEOR UNIT",
+    "partNo": "2196491",
+    "releaseDate": "2012-10",
+    "brand": "HG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2223",
+    "nameJp": "ＭＧ 1/100 クロスボーンガンダムX2 Ver．Ka",
+    "nameEn": "MG 1/100 CROSSBONE GUNDAM X2 Ver.Ka",
+    "partNo": "2208641",
+    "releaseDate": "2013-06",
+    "brand": "MG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2224",
+    "nameJp": "ＲＧ 1/144 キャスバル専用ガンダム",
+    "nameEn": "RG 1/144 CASVAL’S GUNDAM",
+    "partNo": "2273903",
+    "releaseDate": "2014-09",
+    "brand": "RG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "2225",
+    "nameJp": "ＭＧ 1/100 ユーマ・ライトニング専用ザクII",
+    "nameEn": "MG 1/100 MS-06R-1A ZAKUII UMA LIGHTNING CUSTOM",
+    "partNo": "2212888",
+    "releaseDate": "2013-04",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2227",
+    "nameJp": "ＨＧ 1/144 94式ベースジャバー",
+    "nameEn": "HGUC 1/144 TYPE 94 BASE JABBER",
+    "partNo": "2214559",
+    "releaseDate": "2013-09",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2228",
+    "nameJp": "ＲＧ 1/144 ガンダムエクシア用 ガンダムアストレアパーツセット",
+    "nameEn": "GUNDAM ASTRAEA PARTS SET FOR RG 1/144 GUNDAM EXIA",
+    "partNo": "2279760",
+    "releaseDate": "2014-10",
+    "brand": "RG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2229",
+    "nameJp": "ＨＧ 1/144 ゾゴック(ジャブロー攻略戦仕様)",
+    "nameEn": "HGUC 1/144 ZOGOK (Operation Capture of Jaburo ver.)",
+    "partNo": "2217899",
+    "releaseDate": "2013-10",
+    "brand": "HG",
+    "series": "ガンダムMSV"
+  },
+  {
     "id": "223",
     "nameJp": "HGUC 1/144 MSA-0011 Sガンダム",
     "nameEn": "HGUC 1/144 MSA-0011 S-GUNDAM",
@@ -3033,13 +4356,184 @@
     "series": "ガンダム・センチネル"
   },
   {
+    "id": "2230",
+    "nameJp": "ＲＧ 1/144 ウイングガンダムゼロ EW用 拡張エフェクトユニット “セラフィムフェザー\"",
+    "nameEn": "RG 1/144 EXPANSION EFFECT UNIT ”SERAPHIM FEATHER” for Wing Gundam Zero EW",
+    "partNo": "2279764",
+    "releaseDate": "2015-01",
+    "brand": "RG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2231",
+    "nameJp": "ＭＧ 1/100 クロスボーンガンダムＸ３ Ｖｅｒ．Ka",
+    "nameEn": "MG 1/100 CROSSBONE GUNDAM X3 Ver.Ka",
+    "partNo": "2217910",
+    "releaseDate": "2013-12",
+    "brand": "MG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2232",
+    "nameJp": "ＨＧ 1/144 スタービルドストライクガンダム Ｖｅｒ．ＲＧシステム",
+    "nameEn": "HGBF 1/144 STAR BUILD STRIKE GUNDAM Ver.RG SYSTEM",
+    "partNo": "2279789",
+    "releaseDate": "2014-10",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2234",
+    "nameJp": "ＭＧ 1/100 アナベル・ガトー専用ザクＩＩ Ｖｅｒ．２．０",
+    "nameEn": "MG MS-06R-1A ZAKU II ANAVEL GATO'S CUSTOM",
+    "partNo": "2218924",
+    "releaseDate": "2013-08",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2235",
+    "nameJp": "ＭＧ 1/100 ガンダムアストレイブルーフレームD用 ドラグーンフォーメーションベース",
+    "nameEn": "MG 1/100 DRAGOON FORMATION BASE for GUNDAM ASTRAY BLUE FRAME D",
+    "partNo": "2279792",
+    "releaseDate": "2014-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2236",
+    "nameJp": "ＨＧ 1/144 リバウ",
+    "nameEn": "HGUC 1/144 REBAWOO",
+    "partNo": "2228617",
+    "releaseDate": "2013-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2237",
+    "nameJp": "ＭＧ 1/100 ガルマ・ザビ専用 ザクII",
+    "nameEn": "MG 1/100 MS-06FS ZAKU II (GARMA ZABI USE)",
+    "partNo": "2280034",
+    "releaseDate": "2014-12",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2238",
+    "nameJp": "ＨＧ1/144 バイアラン・カスタム2号機(バンデシネ版)",
+    "nameEn": "HGUC 1/144 BYARLANT CUSTOM 02 (BANDE DESSINEE VER.)",
+    "partNo": "2228618",
+    "releaseDate": "2014-02",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2239",
+    "nameJp": "ＭＧ 1/100ドズル・ザビ専用リック・ドム",
+    "nameEn": "MG 1/100 MS-09R RICK DOM (DOZLE ZABI USE)",
+    "partNo": "2280035",
+    "releaseDate": "2015-03",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
     "id": "224",
     "nameJp": "HGUC 1/144 ゼクアイン",
-    "nameEn": "HGUC 1/144 RMS-141 ZEKU EINS",
+    "nameEn": "HGUC 1/144 RMS-141 XEKU EINS",
     "partNo": "1105265",
     "releaseDate": "2001-10",
     "brand": "HGUC",
     "series": "ガンダム・センチネル"
+  },
+  {
+    "id": "2240",
+    "nameJp": "ＨＧ 1/144 ガンダムアストレイゴールドフレーム",
+    "nameEn": "HG 1/144 GUNDAM ASTRAY GOLD FRAME",
+    "partNo": "2242117",
+    "releaseDate": "2014-01",
+    "brand": "HG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2241",
+    "nameJp": "ＨＧ 1/144 ジェガン ノーマルタイプ(F91Ｖｅｒ．)",
+    "nameEn": "HGUC 1/144 RGM-89J JEGAN NORMAL TYPE(F91 Ver.)",
+    "partNo": "2281073",
+    "releaseDate": "2014-11",
+    "brand": "HG",
+    "series": "機動戦士ガンダムF91"
+  },
+  {
+    "id": "2242",
+    "nameJp": "ＭＧ 1/100 ガンダムアストレイ レッドフレーム",
+    "nameEn": "MG 1/100 GUNDAM ASTRAY RED FRAME",
+    "partNo": "2242118",
+    "releaseDate": "2014-01",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2243",
+    "nameJp": "ＭＧ 1/100 ガンダムアストレイ ノワール",
+    "nameEn": "MG 1/100 GUNDAM ASTRAY NOIR",
+    "partNo": "2242119",
+    "releaseDate": "2014-01",
+    "brand": "MG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2244",
+    "nameJp": "ＨＧ 1/144 ジェガンBタイプ(F91Ｖｅｒ．)",
+    "nameEn": "HGUC 1/144 RGM-89M JEGAN B TYPE(F91Ver.)",
+    "partNo": "2281074",
+    "releaseDate": "2015-02",
+    "brand": "HG",
+    "series": "機動戦士ガンダムF91"
+  },
+  {
+    "id": "2245",
+    "nameJp": "ＨＧ 1/144 バイアラン・カスタム2号機",
+    "nameEn": "HGUC 1/144 BYARLANT CUSTOM 02",
+    "partNo": "2247780",
+    "releaseDate": "2014-02",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2246",
+    "nameJp": "ＭＧ 1/100 デスティニーインパルスガンダムＲ（リジェネス）",
+    "nameEn": "MG 1/100 DESTINY IMPULSE GUNDAM R (REGENES)",
+    "partNo": "2247801",
+    "releaseDate": "2014-02",
+    "brand": "MG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2247",
+    "nameJp": "ＨＧ 1/144 ZII(ゼッツー) トラヴィス・カークランドカラー",
+    "nameEn": "HGUC 1/144 ＺII TRAVIS KIRKLAND COLOR",
+    "partNo": "2297022",
+    "releaseDate": "2015-04",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2248",
+    "nameJp": "ＭＧ 1/100 プロトタイプガンダム",
+    "nameEn": "MG 1/100 RX-78-1 PROTOTYPE GUNDAM",
+    "partNo": "2248992",
+    "releaseDate": "2014-04",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2249",
+    "nameJp": "ＭＧ 1/100 サザビー Ｖｅｒ．Ka & RE/100 1/100 ナイチンゲール用 拡張ファンネルエフェクトセット",
+    "nameEn": "EXPANSION FUNNEL EFFECT SET FOR MG 1/100 SAZABI Ver.Ka & RE/100 NIGHTINGALE",
+    "partNo": "2297450",
+    "releaseDate": "2015-07",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
   },
   {
     "id": "225",
@@ -3051,6 +4545,96 @@
     "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
   },
   {
+    "id": "2250",
+    "nameJp": "ＭＧ 1/100 ユニコーンガンダム2号機 バンシィ・ノルン",
+    "nameEn": "MG 1/100 UNICORN GUNDAM 02 BANSHEE NORN",
+    "partNo": "2250299",
+    "releaseDate": "2014-06",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2251",
+    "nameJp": "ＨＧ 1/144 ギラ・ズール(キュアロン機)",
+    "nameEn": "HGUC 1/144 GEARA ZULU (CUARON USE)",
+    "partNo": "2252321",
+    "releaseDate": "2014-06",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2252",
+    "nameJp": "ＨＧ 1/144 ズサ",
+    "nameEn": "HGUC 1/144 ZSSA",
+    "partNo": "2297452",
+    "releaseDate": "2015-07",
+    "brand": "HG",
+    "series": "機動戦士ガンダムZZ"
+  },
+  {
+    "id": "2253",
+    "nameJp": "ＨＧ 1/144 ギラ・ズール(ギルボア・サント機)",
+    "nameEn": "HGUC 1/144 GEARA ZULU (GILBOA SANT USE)",
+    "partNo": "2255540",
+    "releaseDate": "2014-06",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2254",
+    "nameJp": "ＭＧ 1/100 ギラ・ドーガ(フル・フロンタル専用機)",
+    "nameEn": "MG 1/100 FULL FRONTAL’S GEARA DOGA",
+    "partNo": "2301236",
+    "releaseDate": "2015-07",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2255",
+    "nameJp": "ＨＧ 1/144 ゴッドガンダム VS マスターガンダム 流派東方不敗ハイパーモードセット",
+    "nameEn": "HGFC 1/144 G GUNDAM VS MASTER GUNDAM SCHOOL OF TOHO FUHAI HYPER MODE SET",
+    "partNo": "2259740",
+    "releaseDate": "2014-08",
+    "brand": "HG",
+    "series": "機動武闘伝Gガンダム"
+  },
+  {
+    "id": "2256",
+    "nameJp": "ＭＧ 1/100 ギラ・ドーガ(ユニコーンＶｅｒ．)",
+    "nameEn": "MG 1/100 GEARA DOGA(UNICORN Ver.)",
+    "partNo": "2301239",
+    "releaseDate": "2016-06",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2257",
+    "nameJp": "ＭＧ 1/100 フルアーマー・ユニコーンガンダム(レッドカラーＶｅｒ．)",
+    "nameEn": "MG 1/100 FULL ARMOR UNICORN GUNDAM (RED COLOR VER.)",
+    "partNo": "2259741",
+    "releaseDate": "2014-08",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2258",
+    "nameJp": "ＨＧ 1/144 GNアームズ TYPE-E(リアルカラーＶｅｒ．)",
+    "nameEn": "HG 1/144 GN ARMS TYPE-E (Real Color Ver.)",
+    "partNo": "2260751",
+    "releaseDate": "2014-05",
+    "brand": "HG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2259",
+    "nameJp": "ＭＧ 1/100 Sガンダム ブースター・ユニット装着型",
+    "nameEn": "MG 1/100 S-GUNDAM BOOSTER UNIT TYPE",
+    "partNo": "2262266",
+    "releaseDate": "2014-08",
+    "brand": "MG",
+    "series": "ガンダム・センチネル"
+  },
+  {
     "id": "226",
     "nameJp": "HGUC 1/144 MS-14Fs ゲルググマリーネシーマカスタム",
     "nameEn": "HGUC 1/144 MS-14Fs GELGOOG MARINE CIMA CUSTOM",
@@ -3058,6 +4642,96 @@
     "releaseDate": "2002-01",
     "brand": "HGUC",
     "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
+  },
+  {
+    "id": "2260",
+    "nameJp": "ＨＧ 1/144 スタークジェガン(CCA-MSV Ｖｅｒ．)",
+    "nameEn": "HGUC 1/144 RGM-89S STARK JEGAN (CCA-MSV Ver.)",
+    "partNo": "2301411",
+    "releaseDate": "2015-06",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "2261",
+    "nameJp": "ＲＧ 1/144 ガンダムアストレア タイプ-F",
+    "nameEn": "RG 1/144 GUNDAM ASTRAEA TYPE-F",
+    "partNo": "2279449",
+    "releaseDate": "2014-10",
+    "brand": "RG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2262",
+    "nameJp": "1/35 MS-06R-1A ザクヘッド(黒い三連星カラーＶｅｒ．)",
+    "nameEn": "1/35 MS-06R-1A ZAKU II HEAD (BLACK TRI-STARS CUSTOM Ver.)",
+    "partNo": "2279788",
+    "releaseDate": "2014-12",
+    "brand": "その他",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2263",
+    "nameJp": "ＨＧ 1/144 クロスボーン・ガンダムX1改",
+    "nameEn": "HGUC 1/144 CROSSBONE GUNDAM X1 KAI",
+    "partNo": "2301517",
+    "releaseDate": "2015-05",
+    "brand": "HG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2264",
+    "nameJp": "ＨＧ 1/144 ジェガン Aタイプ(F91Ｖｅｒ．)",
+    "nameEn": "HGUC 1/144 RGM-89R JEGAN A TYPE(F91Ver.)",
+    "partNo": "2301524",
+    "releaseDate": "2015-05",
+    "brand": "HG",
+    "series": "機動戦士ガンダムF91"
+  },
+  {
+    "id": "2265",
+    "nameJp": "ＭＧ 1/100 アルトロンガンダム EW",
+    "nameEn": "MG 1/100 ALTRON GUNDAM EW",
+    "partNo": "2266764",
+    "releaseDate": "2015-10",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2266",
+    "nameJp": "ＰＧ 1/60 ユニコーンガンダム用 FA拡張ユニット",
+    "nameEn": "PG 1/60 FULL ARMOR EXPANSION EFFECT UNIT for UNICORN GUNDAM",
+    "partNo": "2266772",
+    "releaseDate": "2015-01",
+    "brand": "PG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2267",
+    "nameJp": "ＭＧ 1/100 ゼータガンダム3号機P2型 レッド・ゼータ",
+    "nameEn": "MG 1/100 MSZ-006P2/3C ZETA GUNDAM III P2 TYPE RED ZETA",
+    "partNo": "2277363",
+    "releaseDate": "2015-06",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2268",
+    "nameJp": "ＲＧ 1/144 トランザムライザー グロスインジェクションＶｅｒ．",
+    "nameEn": "RG 1/144 TRANS-AM RAISER GLOSS INJECTION Ver.",
+    "partNo": "2302825",
+    "releaseDate": "2015-06",
+    "brand": "RG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2269",
+    "nameJp": "ＭＧ 1/100 ゼータガンダム3号機B型 グレイ・ゼータ",
+    "nameEn": "MG 1/100 MSZ-006-3B ZETA GUNDAM III B TYPE GRAY ZETA",
+    "partNo": "2277364",
+    "releaseDate": "2015-02",
+    "brand": "MG",
+    "series": "その他"
   },
   {
     "id": "227",
@@ -3069,6 +4743,96 @@
     "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
   },
   {
+    "id": "2270",
+    "nameJp": "ＭＧ 1/100 トールギスIII",
+    "nameEn": "MG 1/100 TALLGEESE III",
+    "partNo": "2277365",
+    "releaseDate": "2015-01",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2271",
+    "nameJp": "ＭＧ 1/100 ターンエーガンダム(月光蝶Ｖｅｒ．)",
+    "nameEn": "MG 1/100 ∀ GUNDAM （MOONLIGHT BUTTERFLY Ver.）",
+    "partNo": "2302840",
+    "releaseDate": "2015-07",
+    "brand": "MG",
+    "series": "∀ガンダム"
+  },
+  {
+    "id": "2272",
+    "nameJp": "ＨＧ 1/144 エルフ・ブルック(量産機)",
+    "nameEn": "HG 1/144 ELF BULLOCK MASS PRODUCTION TYPE",
+    "partNo": "2300511",
+    "releaseDate": "2015-06",
+    "brand": "HG",
+    "series": "ガンダム Gのレコンギスタ"
+  },
+  {
+    "id": "2273",
+    "nameJp": "ＨＧ 1/144 マックナイフ(量産機)",
+    "nameEn": "HG 1/144 MACK KNIFE MASS PRODUCTION TYPE",
+    "partNo": "2300512",
+    "releaseDate": "2015-06",
+    "brand": "HG",
+    "series": "ガンダム Gのレコンギスタ"
+  },
+  {
+    "id": "2274",
+    "nameJp": "ＨＧ 1/144 シルヴァ・バレト(ガエル・チャン専用機)",
+    "nameEn": "HGUC 1/144 GAEL CHAN’S SILVER BULLET",
+    "partNo": "2303386",
+    "releaseDate": "2015-09",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2275",
+    "nameJp": "ＭＧ 1/100 ヘビー・ガンダム",
+    "nameEn": "MG 1/100 HEAVY GUNDAM",
+    "partNo": "2301232",
+    "releaseDate": "2015-09",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2276",
+    "nameJp": "ＭＧ 1/100 ジム・キャノン",
+    "nameEn": "MG 1/100 RGC-80 GM CANNON",
+    "partNo": "2301237",
+    "releaseDate": "2015-08",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2277",
+    "nameJp": "ＨＧ 1/144 ジェガンA2型(ゼネラル・レビル配備機)",
+    "nameEn": "HGUC 1/144 JEGAN TYPE-A2 (GENERAL REVIL DEPLOYMENT)",
+    "partNo": "2304077",
+    "releaseDate": "2015-09",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2278",
+    "nameJp": "ＭＧ 1/100 ジェスタ・キャノン",
+    "nameEn": "MG 1/100 JESTA CANNON",
+    "partNo": "2301238",
+    "releaseDate": "2015-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2279",
+    "nameJp": "ＨＧ 1/144 ゼータプラスC1",
+    "nameEn": "HG 1/144 ZETA PLUS C1",
+    "partNo": "2304078",
+    "releaseDate": "2016-11",
+    "brand": "HG",
+    "series": "ガンダム・センチネル"
+  },
+  {
     "id": "228",
     "nameJp": "HGUC 1/144 Ex-S ガンダム",
     "nameEn": "HGUC 1/144 EX-S GUNDAM",
@@ -3078,6 +4842,96 @@
     "series": "ガンダム・センチネル"
   },
   {
+    "id": "2280",
+    "nameJp": "ＨＧ 1/144 クロスボーン・ガンダムX2改",
+    "nameEn": "HGUC 1/144 CROSSBONE GUNDAM X2 KAI",
+    "partNo": "2301518",
+    "releaseDate": "2015-06",
+    "brand": "HG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2281",
+    "nameJp": "ＭＧ 1/100 V2ガンダム Ｖｅｒ．Ka用 拡張エフェクトユニット “光の翼\"",
+    "nameEn": "MG 1/100 EXPANSION EFFECT UNIT “WING OF LIGHT” for VICTORY TWO GUNDAM “Ver.Ka”",
+    "partNo": "2304079",
+    "releaseDate": "2016-01",
+    "brand": "MG",
+    "series": "機動戦士Vガンダム"
+  },
+  {
+    "id": "2282",
+    "nameJp": "ＲＧ 1/144 ダブルオーガンダム セブンソード",
+    "nameEn": "RG 1/144 OO GUNDAM SEVEN SWORD",
+    "partNo": "2302826",
+    "releaseDate": "2016-12",
+    "brand": "RG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2283",
+    "nameJp": "ＲＧ 1/144 ガンダムアストレイ ブルーフレーム",
+    "nameEn": "RG 1/144 GUNDAM ASTRAY BLUE FRAME",
+    "partNo": "2302828",
+    "releaseDate": "2015-12",
+    "brand": "RG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2284",
+    "nameJp": "ＨＧ 1/144 キュベレイMk-II (プルツー専用機)",
+    "nameEn": "HGUC 1/144 PLE TWO’S QUBELEY Mk-II",
+    "partNo": "2304808",
+    "releaseDate": "2016-03",
+    "brand": "HG",
+    "series": "機動戦士ガンダムZZ"
+  },
+  {
+    "id": "2285",
+    "nameJp": "ＲＧ 1/144 ガンダムアストレイゴールドフレーム",
+    "nameEn": "RG 1/144 GUNDAM ASTRAY GOLD FRAME",
+    "partNo": "2302829",
+    "releaseDate": "2016-07",
+    "brand": "RG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2286",
+    "nameJp": "ＭＧ 1/100 量産型百式改",
+    "nameEn": "MG 1/100 M.P.T. HYAKUSHIKI-KAI",
+    "partNo": "2302842",
+    "releaseDate": "2015-12",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2287",
+    "nameJp": "ＭＧ 1/100 ゼータプラス(ユニコーンＶｅｒ．)",
+    "nameEn": "MG 1/100 ZETAplus(UNICORN Ver.)",
+    "partNo": "2311703",
+    "releaseDate": "2016-06",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2288",
+    "nameJp": "ＨＧ 1/144 ガンダムG-セルフ(リフレクターパック装備型)",
+    "nameEn": "HG 1/144 GUNDAM G-SELF (REFLECTOR PACK EQUIPPED)",
+    "partNo": "2303387",
+    "releaseDate": "2015-09",
+    "brand": "HG",
+    "series": "ガンダム Gのレコンギスタ"
+  },
+  {
+    "id": "2289",
+    "nameJp": "ＰＧ 1/60 ユニコーンガンダム(最終決戦Ｖｅｒ．)",
+    "nameEn": "PG 1/60 RX-0 UNICORN GUNDAM [FINAL BATTLE Ver.]",
+    "partNo": "2303443",
+    "releaseDate": "2016-04",
+    "brand": "PG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
     "id": "229",
     "nameJp": "HGUC 1/144 ガンダムMk-II(ティターンズ)",
     "nameEn": "HGUC 1/144 RX-178 GUNDAM MK-Ⅱ",
@@ -3085,6 +4939,78 @@
     "releaseDate": "2002-05",
     "brand": "HGUC",
     "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "2290",
+    "nameJp": "ＭＧ 1/100 ターンエーガンダム用拡張エフェクトユニット “月光蝶\"",
+    "nameEn": "MG 1/100 EXPANSION EFFECT UNIT ”MOONLIGHT BUTTERFLY” for ∀ GUNDAM",
+    "partNo": "2313188",
+    "releaseDate": "2015-07",
+    "brand": "MG",
+    "series": "∀ガンダム"
+  },
+  {
+    "id": "2291",
+    "nameJp": "ＨＧ 1/144 ジムII・セミストライカー",
+    "nameEn": "HGUC 1/144 GMII SEMI STRIKER",
+    "partNo": "2304804",
+    "releaseDate": "2015-10",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2293",
+    "nameJp": "ＭＧ 1/100 エリック・マンスフィールド専用ザクII",
+    "nameEn": "MG 1/100 ZAKU II ERIC MANTHFIELD’S CUSTOM",
+    "partNo": "2304805",
+    "releaseDate": "2016-05",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2294",
+    "nameJp": "ＨＧ 1/144 カテドラルガンダム",
+    "nameEn": "HGBF 1/144 CATHEDRAL GUNDAM",
+    "partNo": "2313214",
+    "releaseDate": "2015-08",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2295",
+    "nameJp": "ＭＧ 1/100 ガンダムフェニーチェリナーシタアルバ",
+    "nameEn": "MG 1/100 GUNDAM FENICE RINASCITA ALBA",
+    "partNo": "2313216",
+    "releaseDate": "2015-10",
+    "brand": "MG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2296",
+    "nameJp": "ＭＧ 1/100 ガンダムアメイジングエクシア",
+    "nameEn": "MG 1/100 GUNDAM AMAZING EXIA",
+    "partNo": "2313217",
+    "releaseDate": "2015-12",
+    "brand": "MG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2297",
+    "nameJp": "ＨＧ 1/144 ターンエーガンダムシン",
+    "nameEn": "HGBF 1/144 ∀GUNDAM SHIN",
+    "partNo": "2313218",
+    "releaseDate": "2015-11",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2298",
+    "nameJp": "ＨＧ 1/144 煌式(GILLA-SHIKI)",
+    "nameEn": "HGBF 1/144 GILLA-SHIKI",
+    "partNo": "2313219",
+    "releaseDate": "2016-02",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
   },
   {
     "id": "23",
@@ -3114,6 +5040,87 @@
     "series": "機動戦士Zガンダム"
   },
   {
+    "id": "2311",
+    "nameJp": "ＨＧ 1/144 ザクＩＩ Ｆ型 ルショーン機 ＆ 無識別型ザクＩＩ ルショーン機 (復讐のレクイエム)",
+    "nameEn": "HG 1/144 ZAKUⅡ F TYPE LeSEAN & ZAKUⅡ (UNIDENTIFIED TYPE) LeSEAN (RFV)",
+    "partNo": "2725234",
+    "releaseDate": "2025-01",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 復讐のレクイエム"
+  },
+  {
+    "id": "2312",
+    "nameJp": "ＨＧ 1/144 レオール",
+    "nameEn": "HG 1/144 LEO-R",
+    "partNo": "2733994",
+    "releaseDate": "2025-01",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2313",
+    "nameJp": "ＭＧ 1/100 ガンダムアストレア＋プロトＧＮツインブロードブレイド",
+    "nameEn": "MG 1/100 GUNDAM ASTRAEA + PROTO GN TWIN BROAD BLADE",
+    "partNo": "2733995",
+    "releaseDate": "2025-01",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2314",
+    "nameJp": "ＭＧ 1/100 ガンダムＭｋ-Ｖ",
+    "nameEn": "MG 1/100 GUNDAM Mk-Ⅴ",
+    "partNo": "2464714",
+    "releaseDate": "2021-04",
+    "brand": "MG",
+    "series": "ガンダム・センチネル"
+  },
+  {
+    "id": "2315",
+    "nameJp": "ＰＧ 1/60 ストライクガンダム用 パーフェクトストライクガンダム拡張パーツ",
+    "nameEn": "PG 1/60 PERFECT STRIKE GUNDAM EXPANSION PARTS FOR STRIKE GUNDAM",
+    "partNo": "2505861",
+    "releaseDate": "2020-02",
+    "brand": "PG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2316",
+    "nameJp": "ＨＧ 1/144 ガンダム５号機",
+    "nameEn": "HG 1/144 GUNDAM G05",
+    "partNo": "2510143",
+    "releaseDate": "2021-03",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2317",
+    "nameJp": "ＨＧ 1/144 ガンダムサンドロック改",
+    "nameEn": "HG 1/144 GUNDAM SANDROCK CUSTOM",
+    "partNo": "2520986",
+    "releaseDate": "2021-01",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2318",
+    "nameJp": "ＨＧ 1/144 ガンダムジェミナス０２",
+    "nameEn": "HG 1/144 GUNDAM GEMINASS 02",
+    "partNo": "2525315",
+    "releaseDate": "2021-01",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2319",
+    "nameJp": "ＨＧ 1/144 ライトライナー",
+    "nameEn": "HG 1/144 LIGHT LINER",
+    "partNo": "2525316",
+    "releaseDate": "2021-02",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
     "id": "232",
     "nameJp": "HGUC 1/144 ザク2(ガルマ専用機)",
     "nameEn": "HGUC 1/144 GARMA'S ZAKU",
@@ -3123,22 +5130,256 @@
     "series": "機動戦士ガンダム"
   },
   {
+    "id": "2320",
+    "nameJp": "ＨＧ 1/144 メッサーＦ０２型",
+    "nameEn": "HG 1/144 MESSER TYPE-F02",
+    "partNo": "2530645",
+    "releaseDate": "2021-09",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 閃光のハサウェイ"
+  },
+  {
+    "id": "2321",
+    "nameJp": "ＨＧ 1/144 ガンダム［2020年ドバイ国際博覧会 日本館PRアンバサダー］",
+    "nameEn": "HG 1/144 RX-78-2 GUNDAM [PR ambassador of the Japan Pavilion, Expo 2020 Dubai]",
+    "partNo": "2531664",
+    "releaseDate": "2021-10",
+    "brand": "HG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "2322",
+    "nameJp": "ＨＧ 1/144 エクストリームガンダム（type-レオス） エクリプス・フェース",
+    "nameEn": "HG 1/144 EXTREME GUNDAM (type-LEOS) ECLIPSE-FACE",
+    "partNo": "2532789",
+    "releaseDate": "2021-03",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2323",
+    "nameJp": "ＨＧ 1/144 ヴァイエイト ＆ メリクリウス",
+    "nameEn": "HG 1/144 GUNDAM SANDROCK CUSTOM",
+    "partNo": "2539736",
+    "releaseDate": "2021-01",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2324",
+    "nameJp": "ＰＧ 1/60 ユニコーンガンダム３号機 フェネクス（ナラティブＶｅｒ．)",
+    "nameEn": "PG 1/60 UNICORN GUNDAM 03 PHENEX (NARRATIVE Ver.)",
+    "partNo": "2539737",
+    "releaseDate": "2021-01",
+    "brand": "PG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "2326",
+    "nameJp": "ADVANCE OF Z ティターンズの旗のもとに 復刻セット",
+    "nameEn": "ADVANCE OF Z THE FLAG OF TITANS REVIVAL SET",
+    "partNo": "2543298",
+    "releaseDate": "2021-02",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2327",
+    "nameJp": "ＲＧ 1/144 MS-06R-2 ロバート・ギリアム専用ザクＩＩ",
+    "nameEn": "RG 1/144 MS-06R-2 ROBERT GILLIAM’S ZAKUⅡ",
+    "partNo": "2544525",
+    "releaseDate": "2022-05",
+    "brand": "RG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2328",
+    "nameJp": "ＨＧ 1/144 ガンダムジェミナス０２用 陸戦重装ユニット 拡張パーツ",
+    "nameEn": "HG 1/144 HEAVY GROUND ARMOR UNIT EXPANSION PARTS for GUNDAM GEMINASS 02",
+    "partNo": "2550147",
+    "releaseDate": "2021-05",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2329",
+    "nameJp": "ＨＧ 1/144 ガンダム ロールアウトカラー（GUNDAM THE ORIGIN版）",
+    "nameEn": "HG 1/144 RX-78-02 GUNDAM ROLLOUT COLOR(GUNDAM THE ORIGIN Ver.)",
+    "partNo": "2552262",
+    "releaseDate": "2021-04",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
     "id": "233",
     "nameJp": "HGUC 1/144 スーパーガンダム",
-    "nameEn": "HGUC 1/144 FXA-05D/RX178 SUPER GUNDAM",
+    "nameEn": "HGUC 1/144 FXA-05D/RX-178 SUPER GUNDAM",
     "partNo": "1114207",
     "releaseDate": "2002-11",
     "brand": "HGUC",
     "series": "機動戦士Zガンダム"
   },
   {
+    "id": "2330",
+    "nameJp": "ＭＧ 1/100 ガンダムエクシア リペアＩＩＩ",
+    "nameEn": "MG 1/100 GUNDAM EXIA REPAIR Ⅲ",
+    "partNo": "2553524",
+    "releaseDate": "2021-06",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2331",
+    "nameJp": "ＭＧ 1/100 ガンダムアストレア TYPE-F（フルウェポンセット）",
+    "nameEn": "MG 1/100 GUNDAM ASTRAEA TYPE-F (FULL WEAPON SET)",
+    "partNo": "2553525",
+    "releaseDate": "2022-04",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2332",
+    "nameJp": "ＨＧ 1/144 ガンダムＭｋ-ＩＩＩ",
+    "nameEn": "HG 1/144 GUNDAM Mk-Ⅲ",
+    "partNo": "2553798",
+    "releaseDate": "2021-04",
+    "brand": "HG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2334",
+    "nameJp": "ＨＧ 1/144 ディキトゥス（影のカリスト専用機）",
+    "nameEn": "HG 1/144 DICTUS ( CALLISTO OF SHADOW CUSTOM )",
+    "partNo": "2553799",
+    "releaseDate": "2021-05",
+    "brand": "HG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2335",
+    "nameJp": "ＨＧ 1/144 クロスボーン・ガンダムＸ-０フルクロス",
+    "nameEn": "HG 1/144 CROSSBONE GUNDAM X-0 FULL CLOTH",
+    "partNo": "2553860",
+    "releaseDate": "2021-05",
+    "brand": "HG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2336",
+    "nameJp": "ＨＧ 1/144 ゲルググ ウェルテクス",
+    "nameEn": "HG 1/144 GELGOOG VERTEX",
+    "partNo": "2553861",
+    "releaseDate": "2021-06",
+    "brand": "HG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2337",
+    "nameJp": "ＨＧ 1/144 イフリート・イェーガー",
+    "nameEn": "HG 1/144 EFREET JAEGER",
+    "partNo": "2554749",
+    "releaseDate": "2022-02",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2338",
+    "nameJp": "ＨＧ 1/144 ブラックライダー",
+    "nameEn": "HG 1/144 BLACK RIDER",
+    "partNo": "2554770",
+    "releaseDate": "2022-02",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
     "id": "234",
     "nameJp": "HGUC 1/144 ジ・オ",
-    "nameEn": "HGUC 1/144 PMX-003 THE. O",
+    "nameEn": "HGUC 1/144 PMX-003 THE-O",
     "partNo": "1114213",
     "releaseDate": "2002-12",
     "brand": "HGUC",
     "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "2341",
+    "nameJp": "ＲＥ/100 1/100 ビギナ・ギナＩＩ（木星決戦仕様）",
+    "nameEn": "RE/100 1/100 VIGNA-GHINA Ⅱ[JUPITER BATTLE Ver.]",
+    "partNo": "2555447",
+    "releaseDate": "2021-04",
+    "brand": "その他",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2342",
+    "nameJp": "ＲＧ 1/144 Hi-νガンダム専用ハイパー・メガ・バズーカ・ランチャー",
+    "nameEn": "RG 1/144 HYPER MEGA BAZOOKA LAUNCHER for Hi-ν GUNDAM",
+    "partNo": "2555541",
+    "releaseDate": "2021-09",
+    "brand": "RG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "2343",
+    "nameJp": "ＨＧ 1/144 バーザム（A.O.Z RE-BOOT版）",
+    "nameEn": "HG 1/144 BARZAM(TITANS)",
+    "partNo": "2555999",
+    "releaseDate": "2021-07",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2344",
+    "nameJp": "ＨＧ 1/144 バーザム レジオン鹵獲仕様 （A.O.Z RE-BOOT版）",
+    "nameEn": "HG 1/144 BARZAM(RE-ZEON CAPTURED)",
+    "partNo": "2556240",
+    "releaseDate": "2021-07",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2345",
+    "nameJp": "ＭＧ 1/100 クロスボーン・ガンダムＸ１（パッチワーク） Ｖｅｒ．Ｋａ",
+    "nameEn": "MG 1/100 CROSSBONE GUNDAM X1(PATCHWORK) Ver.Ka",
+    "partNo": "2561401",
+    "releaseDate": "2021-05",
+    "brand": "MG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2346",
+    "nameJp": "ＭＧ 1/100 ブレイズザクファントム（レイ・ザ・バレル専用機）",
+    "nameEn": "MG 1/100 BLAZE ZAKU PHANTOM(REY ZA BURREL CUSTOM)",
+    "partNo": "2563435",
+    "releaseDate": "2021-06",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2347",
+    "nameJp": "ＨＧ 1/144 ウィンダム＆ダガーＬ用 拡張セット",
+    "nameEn": "HG 1/144 EXPANSION SET for WINDAM & DAGGER L",
+    "partNo": "2563436",
+    "releaseDate": "2021-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2348",
+    "nameJp": "ＨＧ 1/144 メッサーＦ０２型（指揮官機）",
+    "nameEn": "HG 1/144 MESSER TYPE-F02 (COMMANDER TYPE)",
+    "partNo": "2563438",
+    "releaseDate": "2021-09",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 閃光のハサウェイ"
+  },
+  {
+    "id": "2349",
+    "nameJp": "ＨＧ 1/144 ザク・デザートタイプ（ダブルアンテナ仕様）",
+    "nameEn": "HG 1/144 ZAKU DESERT TYPE(DOUBLE ANTENNA TYPE)",
+    "partNo": "2563439",
+    "releaseDate": "2021-10",
+    "brand": "HG",
+    "series": "その他"
   },
   {
     "id": "235",
@@ -3150,6 +5391,96 @@
     "series": "機動戦士ガンダム0080 ポケットの中の戦争"
   },
   {
+    "id": "2350",
+    "nameJp": "ＨＧ 1/144 ロードアストレイΩ",
+    "nameEn": "HG 1/144 LOAD ASTRAY Ω",
+    "partNo": "2563440",
+    "releaseDate": "2022-04",
+    "brand": "HG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2351",
+    "nameJp": "ＭＧ 1/100 ガンダムF90（火星独立ジオン軍仕様）",
+    "nameEn": "MG 1/100 GUNDAM F90 [MARS INDEPENDENT ZEON FORCES TYPE]",
+    "partNo": "2563790",
+    "releaseDate": "2022-04",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2352",
+    "nameJp": "ＨＧ 1/144 レオス",
+    "nameEn": "HG 1/144 LEO-S",
+    "partNo": "2564291",
+    "releaseDate": "2021-09",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2353",
+    "nameJp": "ＨＧ ガンダムエルオーブースター",
+    "nameEn": "HG 1/144 GUNDAM L.O.BOOSTER",
+    "partNo": "2564294",
+    "releaseDate": "2022-10",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2354",
+    "nameJp": "ＨＧ 1/144 ガンダムアスクレプオス",
+    "nameEn": "HG 1/144 GUNDAM AESCULAPIUS",
+    "partNo": "2564295",
+    "releaseDate": "2022-01",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2355",
+    "nameJp": "ＨＧ 1/144 ペイルライダーＤＩＩ（ティターンズ仕様）",
+    "nameEn": "HG 1/144 PALE RIDER DⅡ (TITANS)",
+    "partNo": "2566808",
+    "releaseDate": "2021-08",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2356",
+    "nameJp": "ＨＧ 1/144 ガンダムＦ９１ヴァイタル １号機＆２号機セット",
+    "nameEn": "HG 1/144 GUNDAM F91 VITAL UNIT 01 & UNIT 02 SET",
+    "partNo": "2569531",
+    "releaseDate": "2021-10",
+    "brand": "HG",
+    "series": "機動戦士ガンダムF91"
+  },
+  {
+    "id": "2357",
+    "nameJp": "FULL MECHANICS 1/100 エールカラミティガンダム",
+    "nameEn": "FULL MECHANICS 1/100 AILE CALAMITY GUNDAM",
+    "partNo": "2570043",
+    "releaseDate": "2022-04",
+    "brand": "FULL MECHANICS",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2358",
+    "nameJp": "ＨＧ 1/144 ガンダムハルート（最終決戦仕様）",
+    "nameEn": "HG 1/144 GUNDAM HARUTE (FINAL BATTLE Ver.)",
+    "partNo": "2570543",
+    "releaseDate": "2021-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2359",
+    "nameJp": "ＰＧ 1/60 ユニコーンガンダム ペルフェクティビリティ",
+    "nameEn": "PG 1/60 UNICORN GUNDAM PERFECTIBILITY",
+    "partNo": "2570545",
+    "releaseDate": "2022-01",
+    "brand": "PG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
     "id": "236",
     "nameJp": "HGUC 1/144 ズゴックＥ",
     "nameEn": "HGUC 1/144 MSM-07E Z'GOCK E",
@@ -3157,6 +5488,96 @@
     "releaseDate": "2003-08",
     "brand": "HGUC",
     "series": "機動戦士ガンダム0080 ポケットの中の戦争"
+  },
+  {
+    "id": "2360",
+    "nameJp": "ＭＧ 1/100 トールギスＦ ＥＷ",
+    "nameEn": "MG 1/100 TALLGEESE FLUEGEL EW",
+    "partNo": "2573640",
+    "releaseDate": "2021-10",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2361",
+    "nameJp": "ＲＥ/100 1/100 ガンダムリントヴルム",
+    "nameEn": "RE/100 1/100 GUNDAM LINDWURM",
+    "partNo": "2583475",
+    "releaseDate": "2022-02",
+    "brand": "HG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "2362",
+    "nameJp": "ＨＧ 1/144 ストライクダガー",
+    "nameEn": "HG 1/144 STRIKE DAGGER",
+    "partNo": "",
+    "releaseDate": "2022-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2363",
+    "nameJp": "ＭＧ 1/100 ジングラディエイター",
+    "nameEn": "MG 1/100 GINN GLADIATOR",
+    "partNo": "2595697",
+    "releaseDate": "2022-07",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2364",
+    "nameJp": "ＨＧ 1/144 レッドライダー",
+    "nameEn": "HG 1/144 RED RIDER",
+    "partNo": "2605144",
+    "releaseDate": "2022-10",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2365",
+    "nameJp": "ＨＧ 1/144 ガンダムTR-1［ヘイズル・アウスラ］ギガンティック・アーム・ユニット装備",
+    "nameEn": "HG 1/144 GUNDAM TR-1 [HAZEL OWSLA][GIGANTIC ARM UNIT]",
+    "partNo": "2605761",
+    "releaseDate": "2022-05",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2366",
+    "nameJp": "ＨＧ 1/144 ファントムガンダム",
+    "nameEn": "HG 1/144 PHANTOM GUNDAM",
+    "partNo": "2607735",
+    "releaseDate": "2022-06",
+    "brand": "HG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2367",
+    "nameJp": "ＭＧ 1/100 ガンダムエクスインパルス",
+    "nameEn": "MG 1/100 GUNDAM Ex IMPULSE",
+    "partNo": "2607736",
+    "releaseDate": "2022-08",
+    "brand": "MG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "2368",
+    "nameJp": "ＨＧ 1/144 ガンダムAGE-1 レイザー & ガンダムAGE-2 アルティメス セット",
+    "nameEn": "HG 1/144 GUNDAM AGE-1 RAZOR & GUNDAM AGE-2 ARTIMES Set",
+    "partNo": "2608620",
+    "releaseDate": "2022-03",
+    "brand": "HG",
+    "series": "機動戦士ガンダムAGE"
+  },
+  {
+    "id": "2369",
+    "nameJp": "ＨＧ 1/144 ドアン専用ザク",
+    "nameEn": "HG 1/144 MS-06F CUCURUZ DOAN’S ZAKU",
+    "partNo": "2610295",
+    "releaseDate": "2022-07",
+    "brand": "HG",
+    "series": "その他"
   },
   {
     "id": "237",
@@ -3168,6 +5589,96 @@
     "series": "機動戦士ガンダム0080 ポケットの中の戦争"
   },
   {
+    "id": "2370",
+    "nameJp": "ガンダムデカールＤＸ 07 機動戦士ガンダム 鉄血のオルフェンズシリーズ用",
+    "nameEn": "GUNDAM DECAL DX 07",
+    "partNo": "2611130",
+    "releaseDate": "2022-08",
+    "brand": "その他",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2371",
+    "nameJp": "ＨＧ 1/144 ジム・スパルタン",
+    "nameEn": "HG 1/144 GM SPARTAN",
+    "partNo": "2619355",
+    "releaseDate": "2022-12",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2372",
+    "nameJp": "ＨＧ 1/144 ガンダムドライオンIII(ドライ)",
+    "nameEn": "HGBF 1/144 GUNDAM DRYON III",
+    "partNo": "2313215",
+    "releaseDate": "2015-08",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2373",
+    "nameJp": "ＭＧ 1/100 エクリプスガンダム ライジン装備",
+    "nameEn": "MG 1/100 ECLIPSE GUNDAM+RAIJIN STRIKER",
+    "partNo": "2620394",
+    "releaseDate": "2022-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2374",
+    "nameJp": "ＨＧ 1/144 ジム (スレッガー搭乗機)",
+    "nameEn": "HG 1/144 GM (SLEGGAR)",
+    "partNo": "2620612",
+    "releaseDate": "2022-11",
+    "brand": "HG",
+    "series": "機動戦士ガンダム ククルス・ドアンの島"
+  },
+  {
+    "id": "2375",
+    "nameJp": "ＨＧ 1/144 プロトタイプグフ(機動実証機 ブルーカラーＶｅｒ．)",
+    "nameEn": "HG 1/144 PROTOTYPE GOUF(MOBILITY DEMONSTRATOR BLUE COLOR Ver.)",
+    "partNo": "2316362",
+    "releaseDate": "2016-01",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2376",
+    "nameJp": "ＨＧ 1/144 赤い三巨星チームセット",
+    "nameEn": "HG 1/144 RED GIANT 03rd MS TEAM SET",
+    "partNo": "2633520",
+    "releaseDate": "2022-09",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2377",
+    "nameJp": "ＨＧ 1/144 モビルワーカー MW-01 01式 後期型(ランバ・ラル機)",
+    "nameEn": "HG 1/144 MOBILE WORKER MW-01 MODEL 01 LATE TYPE [RAMBA RAL]",
+    "partNo": "2323840",
+    "releaseDate": "2016-01",
+    "brand": "HG",
+    "series": "機動戦士ガンダム THE ORIGIN"
+  },
+  {
+    "id": "2378",
+    "nameJp": "ＨＧ 1/144 グレイズ(アーレス所属機 一般機/指揮官機)",
+    "nameEn": "HG 1/144 GRAZE ARES COLOR STANDARD TYPE / COMMANDER TYPE",
+    "partNo": "2330680",
+    "releaseDate": "2016-02",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2379",
+    "nameJp": "ＨＧ 1/144 シュヴァルベグレイズ(ガエリオ機)",
+    "nameEn": "HG 1/144 GAELIO’S SCHWALBE GRAZE",
+    "partNo": "2330681",
+    "releaseDate": "2016-02",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
     "id": "238",
     "nameJp": "HGUC 1/144 量産型ザク",
     "nameEn": "HGUC 1/144 ZAKUⅡ MASS PRODUCTION TYPE",
@@ -3177,6 +5688,96 @@
     "series": "機動戦士ガンダム"
   },
   {
+    "id": "2380",
+    "nameJp": "ＨＧ 1/144 キュベレイ用ファンネルエフェクトセット",
+    "nameEn": "HGUC 1/144 QUBELEY FUNNEL EFFECT SET",
+    "partNo": "2332553",
+    "releaseDate": "2016-03",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "2381",
+    "nameJp": "ＨＧ 1/144 ガンキャノン(21stCENTURY REAL TYPE Ｖｅｒ．)",
+    "nameEn": "HGUC 1/144 GUNCANNON （21stCENTURY REAL TYPE Ver.）",
+    "partNo": "2339481",
+    "releaseDate": "2016-06",
+    "brand": "HG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2382",
+    "nameJp": "ＨＧ 1/144 ガーベラ・テトラ(ロールアウトＶｅｒ．)",
+    "nameEn": "HGUC 1/144 GERBERA TETRA (ROLL OUT Ver.)",
+    "partNo": "2339482",
+    "releaseDate": "2016-05",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
+  },
+  {
+    "id": "2383",
+    "nameJp": "ＨＧ 1/144 ガーベラ・テトラ(キララ専用機)",
+    "nameEn": "HGBF 1/144 KIRARA'S GERBERA TETRA",
+    "partNo": "2339483",
+    "releaseDate": "2016-08",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2384",
+    "nameJp": "ＭＧ 1/100 フリーダムガンダム Ｖｅｒ．２．０用 拡張エフェクトセット",
+    "nameEn": "EXPANSION EFFECT SET FOR MG 1/100 FREEDOM GUNDAM Ver.2.0",
+    "partNo": "2340856",
+    "releaseDate": "2016-05",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2385",
+    "nameJp": "ＨＧ 1/144 ホワイトライダー",
+    "nameEn": "HG 1/144 WHITE RIDER",
+    "partNo": "2554748",
+    "releaseDate": "2022-02",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2386",
+    "nameJp": "ＨＧ 1/144 ドラッツェ改",
+    "nameEn": "HGUC 1/144 Dra-C CUSTOM",
+    "partNo": "2342143",
+    "releaseDate": "2016-05",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
+  },
+  {
+    "id": "2387",
+    "nameJp": "ＨＧ 1/144 ライトニングZガンダム アスプロス",
+    "nameEn": "HGBF 1/144 LIGHTNING Z GUNDAM ASPROS",
+    "partNo": "2342372",
+    "releaseDate": "2016-06",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2388",
+    "nameJp": "1/100 シュヴァルベグレイズ(ガエリオ機)",
+    "nameEn": "1/100 GAELIO’S SCHWALBE GRAZE",
+    "partNo": "2343457",
+    "releaseDate": "2016-04",
+    "brand": "その他",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2389",
+    "nameJp": "ＭＧ 1/100 νガンダム Ｖｅｒ．Ka用 HWS拡張セット",
+    "nameEn": "MG 1/100 HWS EXPANSION SET for ν GUNDAM Ver.Ka",
+    "partNo": "2346881",
+    "releaseDate": "2016-12",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
     "id": "239",
     "nameJp": "HGUC 1/144 リック・ドムII",
     "nameEn": "HGUC 1/144 RICK DOMⅡ",
@@ -3184,6 +5785,96 @@
     "releaseDate": "2004-01",
     "brand": "HGUC",
     "series": "機動戦士ガンダム0080 ポケットの中の戦争"
+  },
+  {
+    "id": "2390",
+    "nameJp": "ＭＧ 1/100 ジム・スナイパーII(ホワイト・ディンゴ隊仕様)",
+    "nameEn": "MG 1/100 GM SNIPERⅡ [WHITE DINGO TEAM CUSTOM]",
+    "partNo": "2346882",
+    "releaseDate": "2017-03",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2391",
+    "nameJp": "ＰＧ 1/60 ユニコーンガンダム３号機 フェネクス用 ナラティブＶｅｒ． 拡張セット",
+    "nameEn": "PG 1/60 NARRATIVE Ver. EXPANSION SET FOR UNICORN GUNDAM 03 PHENEX",
+    "partNo": "2487432",
+    "releaseDate": "2021-01",
+    "brand": "PG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "2392",
+    "nameJp": "ＭＧ 1/100 ガンダムＦ９１ Ｖｅｒ．２．０［チタニウムフィニッシュ］",
+    "nameEn": "MG 1/100 GUNDAM F91 Ver.2.0 [TITANIUM FINISH]",
+    "partNo": "",
+    "releaseDate": "2021-07",
+    "brand": "MG",
+    "series": "機動戦士ガンダムF91"
+  },
+  {
+    "id": "2393",
+    "nameJp": "ＨＧ 1/144 クルーザーモード用ブースター拡張セット（ADVANCE OF Z ティターンズの旗のもとに）",
+    "nameEn": "HG 1/144 BOOSTER EXPANSION SET FOR CRUISER MODE (ADVANCE OF Z THE FLAG OF TITANS)",
+    "partNo": "2542750",
+    "releaseDate": "2021-02",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2394",
+    "nameJp": "ＨＧ 1/144 クルーザーモード用ブースター拡張セット(実戦配備カラー)（ADVANCE OF Z ティターンズの旗のもとに）",
+    "nameEn": "HG 1/144 BOOSTER EXPANSION SET FOR CRUISER MODE (COMBAT DEPLOYMENT COLORS)(ADVANCE OF Z THE FLAG OF TITANS)",
+    "partNo": "2542751",
+    "releaseDate": "2021-02",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2395",
+    "nameJp": "ＭＧ 1/100 ガンダムＦ９０用 ミッションパック Ｉタイプ（木星決戦仕様）",
+    "nameEn": "MG 1/100 MISSION PACK I-TYPE[JUPITER BATTLE Ver.] for GUNDAM F90",
+    "partNo": "2542752",
+    "releaseDate": "2021-03",
+    "brand": "MG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2396",
+    "nameJp": "ＨＧ 1/144 ガンダムヘビーアームズ改",
+    "nameEn": "HG 1/144 GUNDAM HEAVYARMS CUSTOM",
+    "partNo": "2542753",
+    "releaseDate": "2022-06",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2397",
+    "nameJp": "ＭＧ 1/100 ガンダムアストレア TYPE-F用 アヴァランチダッシュユニット",
+    "nameEn": "MG 1/100 AVALANCHE´ UNIT FOR GUNDAM ASTRAEA TYPE-F",
+    "partNo": "2553526",
+    "releaseDate": "2022-04",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2398",
+    "nameJp": "ＨＧ 1/144 ガンダムTR-1 次世代量産機（実戦配備カラー）（ADVANCE OF Z ティターンズの旗のもとに）",
+    "nameEn": "HG1/144 GUNDAM TR-1 [HAZEL OWSLA] NEXT-GENERATION MASS PRODUCTION TYPE/(COMBAT DEPLOYMENT COLORS)(ADVANCE OF Z THE FLAG OF TITANS)",
+    "partNo": "2558668",
+    "releaseDate": "2021-02",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2399",
+    "nameJp": "ＨＧ 1/144 リック・ディアス",
+    "nameEn": "HG 1/144 RICK DIAS",
+    "partNo": "2560670",
+    "releaseDate": "2021-06",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
   },
   {
     "id": "24",
@@ -3204,13 +5895,112 @@
     "series": "機動戦士ガンダム0080 ポケットの中の戦争"
   },
   {
+    "id": "2400",
+    "nameJp": "ＲＧ 1/144 トールギスⅢ[チタニウムフィニッシュ]",
+    "nameEn": "RG 1/144 TALLGEESE Ⅲ [TITANIUM FINISH]",
+    "partNo": "2563020",
+    "releaseDate": "2021-06",
+    "brand": "RG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2401",
+    "nameJp": "ＭＧ 1/100 ガンダムＦ９０用 ミッションパック Ｒタイプ＆Ｖタイプ",
+    "nameEn": "MG 1/100 MISSION PACK R-TYPE & V-TYPE for GUNDAM F90",
+    "partNo": "2563768",
+    "releaseDate": "2021-06",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2402",
+    "nameJp": "ＭＧ 1/100 ガンダムＦ９０用 ミッションパック Ｗタイプ",
+    "nameEn": "MG 1/100 MISSION PACK W-TYPE for GUNDAM F90",
+    "partNo": "2563769",
+    "releaseDate": "2021-10",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2403",
+    "nameJp": "ＭＧ 1/100 ガンダムF90用 ミッションパック Hタイプ",
+    "nameEn": "MG 1/100 MISSION PACK H-TYPE for GUNDAM F90",
+    "partNo": "2563791",
+    "releaseDate": "2022-09",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2404",
+    "nameJp": "ＨＧ 1/144 バウンド・ドック（ゲーツ・キャパ専用機）",
+    "nameEn": "HG 1/144 BAUND DOC (GATES CAPA CUSTOM)",
+    "partNo": "2564292",
+    "releaseDate": "2021-10",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "2405",
+    "nameJp": "ＰＧ 1/60 ユニコーンガンダム ペルフェクティビリティ用 ディバイン拡張セット",
+    "nameEn": "PG 1/60 DIVINE EXPANSION SET for UNICORN GUNDAM PERFECTIBILITY",
+    "partNo": "2570546",
+    "releaseDate": "2022-01",
+    "brand": "PG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2406",
+    "nameJp": "ＭＧ 1/100 エールストライクガンダム Ｖｅｒ．ＲＭ用 ライトニングストライカーパック",
+    "nameEn": "MG 1/100 LIGHTNING STRIKER for AILE STRIKE GUNDAM Ver.RM",
+    "partNo": "2572820",
+    "releaseDate": "2021-08",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2407",
+    "nameJp": "ＭＧ 1/100 エクリプスガンダム用 マニューバストライカーパック",
+    "nameEn": "MG 1/100 MANEUVER STRIKER for ECLIPSE GUNDAM",
+    "partNo": "2583175",
+    "releaseDate": "2021-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2408",
+    "nameJp": "ＲＧ 1/144 ガンダム（チームブライトカスタム）",
+    "nameEn": "RG 1/144 RX-78-2 GUNDAM (TEAM BRIGHT CUSTOM)",
+    "partNo": "2584055",
+    "releaseDate": "2021-11",
+    "brand": "RG",
+    "series": "その他"
+  },
+  {
+    "id": "2409",
+    "nameJp": "ＲＧ 1/144 高機動型ザクＩＩ（チームモンストルカスタム）",
+    "nameEn": "RG 1/144 HIGH MOBILITY TYPE ZAKUⅡ (TEAM MONSTRE CUSTOM)",
+    "partNo": "2584056",
+    "releaseDate": "2021-11",
+    "brand": "RG",
+    "series": "その他"
+  },
+  {
     "id": "241",
     "nameJp": "HGUC 1/144 ゲルググJ",
-    "nameEn": "HGUC 1/144 GELGOOG J",
+    "nameEn": "HGUC 1/144 GELGOOG JÄGER",
     "partNo": "1124924",
     "releaseDate": "2004-04",
     "brand": "HGUC",
     "series": "機動戦士ガンダム0080 ポケットの中の戦争"
+  },
+  {
+    "id": "2410",
+    "nameJp": "ＨＧ 1/144 ユニコーンガンダム（デストロイモード） Ｖｅｒ．NIKE SB",
+    "nameEn": "HG 1/144 UNICORN GUNDAM (DESTROY MODE) Ver.NIKE SB",
+    "partNo": "2592154",
+    "releaseDate": "2021-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
   },
   {
     "id": "242",
@@ -3240,6 +6030,51 @@
     "series": "機動戦士ガンダム"
   },
   {
+    "id": "2443",
+    "nameJp": "ＨＧ 1/144 ユニコーンガンダム2号機バンシィ（デストロイモード）Ｖｅｒ．NIKE SB",
+    "nameEn": "HG 1/144 UNICORN GUNDAM 02 BANSHEE(DESTROY MODE) Ver.NIKE SB",
+    "partNo": "2592155",
+    "releaseDate": "2021-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2444",
+    "nameJp": "ＭＧ 1/100 ガンダムＦ９０用 ミッションパック Ｐタイプ",
+    "nameEn": "MG 1/100 MISSION PACK P-TYPE for GUNDAM F90",
+    "partNo": "2596332",
+    "releaseDate": "2023-06",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2447",
+    "nameJp": "ＭＧ 1/100 ジョニー・ライデン専用ゲルググ",
+    "nameEn": "MG 1/100 JOHNNY RIDDEN’S GELGOOG",
+    "partNo": "2611002",
+    "releaseDate": "2023-07",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2448",
+    "nameJp": "ＨＧ 1/144 アクア・ハンブラビＩＩ ティターンズ仕様 (A.O.Z RE-BOOT版)",
+    "nameEn": "HG 1/144 AQUA-HAMBRABI Ⅱ TITANS (A.O.Z RE-BOOT Ver.)",
+    "partNo": "2620001",
+    "releaseDate": "2023-06",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2449",
+    "nameJp": "ＭＧ 1/100 エクリプスガンダム用ライジンストライカーパック",
+    "nameEn": "MG 1/100 RAIJIN STRIKER for ECLIPSE GUNDAM",
+    "partNo": "2620395",
+    "releaseDate": "2022-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
     "id": "245",
     "nameJp": "HGUC 1/144 ジム・コマンド(宇宙仕様)",
     "nameEn": "HGUC 1/144 GM COMMAND SPACE",
@@ -3247,6 +6082,87 @@
     "releaseDate": "2004-11",
     "brand": "HGUC",
     "series": "機動戦士ガンダム0080 ポケットの中の戦争"
+  },
+  {
+    "id": "2450",
+    "nameJp": "ＭＧ 1/100 ガンダムＡＧＥ－１ フルグランサ用 拡張パーツ",
+    "nameEn": "MG 1/100 ENHANCED EXPANSION PARTS FOR GUNDAM AGE-1 FULL GLANSA",
+    "partNo": "2628638",
+    "releaseDate": "2023-01",
+    "brand": "MG",
+    "series": "機動戦士ガンダムAGE"
+  },
+  {
+    "id": "2451",
+    "nameJp": "ＨＧ 1/144 アクア・ハンブラビＩＩ (A.O.Z RE-BOOT版)",
+    "nameEn": "HG 1/144 AQUA-HAMBRABI Ⅱ (A.O.Z RE-BOOT Ver.)",
+    "partNo": "2629501",
+    "releaseDate": "2023-06",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2452",
+    "nameJp": "ＲＧ 1/144 Hi-νガンダム用 フィン・ファンネルエフェクト",
+    "nameEn": "RG 1/144 FIN FUNNEL EFFECT for Hi-ν GUNDAM",
+    "partNo": "2665783",
+    "releaseDate": "2023-07",
+    "brand": "RG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "2454",
+    "nameJp": "ＲＧ 1/144 アカツキガンダム用シラヌイパック & ＨＧ 1/144 ゼウスシルエット用接続パーツ",
+    "nameEn": "RG 1/144 SHIRANUI unit for AKATSUKI GUNDAM  & CONNECTING PARTS for HG ZEUS SILHOUETTE",
+    "partNo": "2700764",
+    "releaseDate": "2024-12",
+    "brand": "RG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2455",
+    "nameJp": "ＨＧ 1/144 機動戦士ガンダム 水星の魔女 ＭＳ拡張パーツセット１",
+    "nameEn": "HG 1/144 MOBILE SUIT GUNDAM THE WITCH FROM MERCURY EXPANSION PARTS SET 1",
+    "partNo": "2701326",
+    "releaseDate": "2024-01",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 水星の魔女"
+  },
+  {
+    "id": "2456",
+    "nameJp": "ＭＧ 1/100 ナラティブガンダム Ｂ装備 Ｖｅｒ．Ka",
+    "nameEn": "MG 1/100 NARRATIVE GUNDAM B-PACKS Ver.Ka",
+    "partNo": "2715391",
+    "releaseDate": "2024-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "2457",
+    "nameJp": "ＨＧ 1/144 イオフレーム獅電 (テイワズ所属機)",
+    "nameEn": "HG 1/144 IO FRAME SHIDEN (TEIWAZ CORPS)",
+    "partNo": "2418254",
+    "releaseDate": "2018-06",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2458",
+    "nameJp": "ＭＧ 1/100 ガンダムTR−1 [ヘイズル改]用 シールド・ブースター拡張セット",
+    "nameEn": "MG 1/100 SHIELD BOOSTER EXPANSION SET for GUNDAM TR-1 [HAZEL CUSTOM]",
+    "partNo": "2423967",
+    "releaseDate": "2018-07",
+    "brand": "MG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2459",
+    "nameJp": "ＨＧ 1/144 グレイズリッター(カルタ隊所属機)",
+    "nameEn": "HG 1/144 GRAZE RITTER (CARTA CORPS)",
+    "partNo": "2440862",
+    "releaseDate": "2018-09",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
   },
   {
     "id": "246",
@@ -3258,6 +6174,96 @@
     "series": "機動戦士Zガンダム"
   },
   {
+    "id": "2460",
+    "nameJp": "ＲＥ/100 1/100 ８９式ベース・ジャバー（ユニコーンＶｅｒ．）",
+    "nameEn": "RE/100 1/100 TYPE 89 BASE JABBER (UNICORN Ver.)",
+    "partNo": "2456840",
+    "releaseDate": "2019-04",
+    "brand": "その他",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2461",
+    "nameJp": "ＲＧ 1/144 ユニコーンガンダム2号機 バンシィ・ノルン (最終決戦仕様)",
+    "nameEn": "RG 1/144 UNICORN GUNDAM 02 BANSHEE NORN (FINAL BATTLE Ver.)",
+    "partNo": "2459527",
+    "releaseDate": "2019-02",
+    "brand": "RG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2462",
+    "nameJp": "ＨＧ 1/144 アドヴァンスドジンクス(デボラ機)",
+    "nameEn": "HG 1/144 DEBORAH’S ADVANCED GN-X",
+    "partNo": "2469591",
+    "releaseDate": "2019-04",
+    "brand": "HG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2463",
+    "nameJp": "ＨＧ 1/144 ジンクスⅣ (量産機)",
+    "nameEn": "HG 1/144 GN-X Ⅳ (Mass Production Type)",
+    "partNo": "2509137",
+    "releaseDate": "2019-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2464",
+    "nameJp": "ＨＧ 1/144 ガンダム Ｇ－エルス（ＢＥＦＯＲＥ）",
+    "nameEn": "HG 1/144 GUNDAM G-ELSE(BEFORE)",
+    "partNo": "2511449",
+    "releaseDate": "2020-10",
+    "brand": "HG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "2465",
+    "nameJp": "ＨＧ 1/144 フルアーマーガンダム",
+    "nameEn": "HG 1/144 FULL ARMOR GUNDAM",
+    "partNo": "2516448",
+    "releaseDate": "2023-02",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2466",
+    "nameJp": "ＨＧ 1/144 ガンダムデスサイズヘル",
+    "nameEn": "HG 1/144 GUNDAM DEATHSCYTHE HELL",
+    "partNo": "2554771",
+    "releaseDate": "2023-05",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2467",
+    "nameJp": "ＲＧ 1/144 デスティニーインパルス",
+    "nameEn": "RG 1/144 DESTINY IMPULSE GUNDAM",
+    "partNo": "2555449",
+    "releaseDate": "2023-04",
+    "brand": "RG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2468",
+    "nameJp": "ＭＧ 1/100 ガンダムアストレイ アウトフレームＤ",
+    "nameEn": "MG 1/100 GUNDAM ASTRAY OUT FRAME D",
+    "partNo": "2560673",
+    "releaseDate": "2023-04",
+    "brand": "MG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2469",
+    "nameJp": "ＨＧ 1/144 ジム・ナイトシーカーＩＩ",
+    "nameEn": "HG 1/144 GM NIGHT SEEKER Ⅱ",
+    "partNo": "2563441",
+    "releaseDate": "2024-09",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
     "id": "247",
     "nameJp": "HGUC 1/144 マラサイ",
     "nameEn": "HGUC 1/144 MARASAI",
@@ -3267,22 +6273,292 @@
     "series": "機動戦士Zガンダム"
   },
   {
+    "id": "2470",
+    "nameJp": "ＭＧ 1/100 ガナーウィザード／スラッシュウィザード／ブレイズウィザードセット",
+    "nameEn": "MG 1/100 GUNNER WIZARD/SLASH WIZARD/BLAZE WIZARD SET",
+    "partNo": "2572821",
+    "releaseDate": "2023-04",
+    "brand": "MG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2471",
+    "nameJp": "ＭＧ 1/100 モビルジン(ミゲル・アイマン専用機)",
+    "nameEn": "MG 1/100 MOBILE GINN (MIGUEL AYMAN CUSTOM)",
+    "partNo": "2576820",
+    "releaseDate": "2024-03",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2472",
+    "nameJp": "ＲＧ 1/144 ダブルオーザンライザー",
+    "nameEn": "ＲＧ 1/144 ダブルオーザンライザー",
+    "partNo": "2583585",
+    "releaseDate": "2024-01",
+    "brand": "RG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2473",
+    "nameJp": "ＭＧ 1/100 エクリプスガンダム２号機",
+    "nameEn": "MG 1/100 ECLIPSE GUNDAM REACTOR 2",
+    "partNo": "2595698",
+    "releaseDate": "2023-09",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2474",
+    "nameJp": "ＭＧ 1/100 ガンダムＦ９０用 ミッションパック 専用ハンガー 2個セット",
+    "nameEn": "MG 1/100 MISSION PACK HANGAR for GUNDAM F90 TWIN SET",
+    "partNo": "2596331",
+    "releaseDate": "2023-02",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2475",
+    "nameJp": "ＭＧ 1/100 ガンダムＦ９０用 ミッションパック Ｃタイプ&Ｔタイプ",
+    "nameEn": "MG 1/100 MISSION PACK C-TYPE & T-TYPE for GUNDAM F90",
+    "partNo": "2596333",
+    "releaseDate": "2023-02",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2476",
+    "nameJp": "ＭＧ 1/100 スタークジェガン",
+    "nameEn": "MG 1/100 STARK JEGAN",
+    "partNo": "2605143",
+    "releaseDate": "2023-02",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2477",
+    "nameJp": "ＭＧ 1/100 ガンダムＡＧＥ－１ フルグランサ [デザイナーズカラーＶｅｒ．]",
+    "nameEn": "MG 1/100 GUNDAM AGE-1 FULL GLANSA [DESIGNERS COLOR Ver.]",
+    "partNo": "2611131",
+    "releaseDate": "2023-01",
+    "brand": "MG",
+    "series": "機動戦士ガンダムAGE"
+  },
+  {
+    "id": "2478",
+    "nameJp": "ＨＧ 1/144 ヴァイエイト・シュイヴァン & メリクリウス・シュイヴァン",
+    "nameEn": "HG 1/144 VAYEATE SUIVANT & MERCURIUS SUIVANT",
+    "partNo": "2617409",
+    "releaseDate": "2023-04",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2479",
+    "nameJp": "ＨＧ 1/144 ガンダムローズ",
+    "nameEn": "HG 1/144 GUNDAM ROSE",
+    "partNo": "2619353",
+    "releaseDate": "2023-02",
+    "brand": "HG",
+    "series": "機動武闘伝Gガンダム"
+  },
+  {
     "id": "248",
     "nameJp": "HGUC 1/144 ヘイズル改",
-    "nameEn": "HGUC 1/144 HAZEL KAI",
+    "nameEn": "HGUC 1/144 HAZEL CUSTOM",
     "partNo": "1134107",
     "releaseDate": "2005-09-17",
     "brand": "HGUC",
     "series": "ADVANCE OF Z"
   },
   {
+    "id": "2480",
+    "nameJp": "ＨＧ 1/144 ガンダムTR-6[ウーンドウォート]サイコブレードカスタム（A.O.Z RE-BOOT版）",
+    "nameEn": "HG 1/144 GUNDAM TR-6 [WOUNDWORT] PSYCHO-BLADE CUSTOM (A.O.Z RE-BOOT Ver.)",
+    "partNo": "2620000",
+    "releaseDate": "2023-01",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2481",
+    "nameJp": "ＳＤＷ ＨＥＲＯＥＳ スペリオルフォーミュラー ファイナルドラゴン",
+    "nameEn": "SDW HEROES SUPERIOR FORMULA FINAL DRAGON",
+    "partNo": "2628916",
+    "releaseDate": "2023-10",
+    "brand": "RG",
+    "series": "その他"
+  },
+  {
+    "id": "2482",
+    "nameJp": "ＨＧ 1/144 アルトロンガンダム",
+    "nameEn": "HG 1/144 ALTRON GUNDAM",
+    "partNo": "2633523",
+    "releaseDate": "2024-10",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2483",
+    "nameJp": "ＨＧ 1/144 ガンダム端白星 第２形態",
+    "nameEn": "HG 1/144 GUNDAM HAJIROBOSHI 2ND FORM",
+    "partNo": "2635179",
+    "releaseDate": "2023-11",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2484",
+    "nameJp": "ＭＧ 1/100 ケンプファー・シュヴェーア",
+    "nameEn": "MG 1/100 KÄMPFER SCHWER",
+    "partNo": "2635260",
+    "releaseDate": "2023-08",
+    "brand": "MG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "2485",
+    "nameJp": "ＨＧ 1/144 ガンダム開発試験0番機（エンゲージゼロ）",
+    "nameEn": "HG 1/144 GUNDAM GP00(ENGAGE ZERO)",
+    "partNo": "2639671",
+    "releaseDate": "2023-11",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2486",
+    "nameJp": "FULL MECHANICS 1/100 ソードカラミティガンダム",
+    "nameEn": "FULL MECHANICS 1/100 SWORD CALAMITY GUNDAM",
+    "partNo": "2640766",
+    "releaseDate": "2024-05",
+    "brand": "FULL MECHANICS",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2487",
+    "nameJp": "ＨＧ 1/144 高機動型ザク地上用 (ウォルド機)",
+    "nameEn": "HG 1/144 ZAKU HIGH MOBILITY SURFACE TYPE (WALD)",
+    "partNo": "2646828",
+    "releaseDate": "2023-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダム ククルス・ドアンの島"
+  },
+  {
+    "id": "2488",
+    "nameJp": "ＨＧ 1/144 ジム (モロッコ戦線仕様)",
+    "nameEn": "HG 1/144 GM (MOROCCAN FRONT TYPE)",
+    "partNo": "2646829",
+    "releaseDate": "2023-06",
+    "brand": "HG",
+    "series": "機動戦士ガンダム ククルス・ドアンの島"
+  },
+  {
+    "id": "2489",
+    "nameJp": "ＨＧ 1/144 高機動型ザク 地上用 (サンホ機)",
+    "nameEn": "",
+    "partNo": "2646870",
+    "releaseDate": "2024-03",
+    "brand": "HG",
+    "series": "機動戦士ガンダム ククルス・ドアンの島"
+  },
+  {
     "id": "249",
     "nameJp": "HGUC 1/144 グリプス戦役セット",
-    "nameEn": "HGUC 1/144 GRIPSWAR SET",
+    "nameEn": "HGUC 1/144 GRYPHIOS WAR SET",
     "partNo": "1139090",
     "releaseDate": "2006-03-18",
     "brand": "HGUC",
     "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "2490",
+    "nameJp": "ＨＧ 1/144 高機動型ザク 地上用 (ダナン機)",
+    "nameEn": "HG 1/144 ZAKU HIGH MOBILITY SURFACE TYPE (DANAN)",
+    "partNo": "2646871",
+    "releaseDate": "2024-03",
+    "brand": "HG",
+    "series": "機動戦士ガンダム ククルス・ドアンの島"
+  },
+  {
+    "id": "2491",
+    "nameJp": "ＨＧ 1/144 高機動型ザク地上用 (セルマ機)",
+    "nameEn": "HG 1/144 ZAKU HIGH MOBILITY SURFACE TYPE (SELMA)",
+    "partNo": "2646872",
+    "releaseDate": "2023-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダム ククルス・ドアンの島"
+  },
+  {
+    "id": "2492",
+    "nameJp": "ＭＧ 1/100 ガンダムＦ９０用 ミッションパック Ｊタイプ&Ｑタイプ",
+    "nameEn": "MG 1/100 MISSION PACK J-TYPE & Q-TYPE for GUNDAM F90",
+    "partNo": "2654099",
+    "releaseDate": "2023-11",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2493",
+    "nameJp": "ＭＧ 1/100 ナラティブガンダム Ｃ装備 Ｖｅｒ．Ka用 Ｂ装備拡張セット",
+    "nameEn": "MG 1/100 B-PACKS EXPANSION SET for NARRATIVE GUNDAM C-PACKS Ver.Ka",
+    "partNo": "2654118",
+    "releaseDate": "2024-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "2494",
+    "nameJp": "FULL MECHANICS 1/100 ブーストレイダーガンダム",
+    "nameEn": "FULL MECHANICS 1/100 BOOST RAIDER GUNDAM",
+    "partNo": "2654678",
+    "releaseDate": "2024-12",
+    "brand": "FULL MECHANICS",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2495",
+    "nameJp": "ＨＧ 1/144 ゴーストガンダム",
+    "nameEn": "HG 1/144 GHOST GUNDAM",
+    "partNo": "2655097",
+    "releaseDate": "2023-10",
+    "brand": "HG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2496",
+    "nameJp": "ＨＧ 1/144 オルトリンデ",
+    "nameEn": "HG 1/144 OLTLINDE",
+    "partNo": "2657991",
+    "releaseDate": "2023-09",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2497",
+    "nameJp": "ＨＧ 1/144 ガンダムルブリスジウ",
+    "nameEn": "HG 1/144 GUNDAM LFRITH JIU",
+    "partNo": "2661389",
+    "releaseDate": "2023-07",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 水星の魔女"
+  },
+  {
+    "id": "2498",
+    "nameJp": "ＨＧ 1/144 ギャプランTR-5[フライルー]ギガンティック・アーム・ユニット装備(A.O.Z RE-BOOT版)",
+    "nameEn": "HG 1/144 GAPLANT TR-5 [HRAIROO] with GIGANTIC ARM UNIT  (A.O.Z RE-BOOT Ver.)",
+    "partNo": "2665784",
+    "releaseDate": "2024-02",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2499",
+    "nameJp": "ＨＧ 1/144 ギャプランTR-5[フライルー] (ティターンズ仕様)(A.O.Z RE-BOOT版)",
+    "nameEn": "HG 1/144 GAPLANT TR-5 [HRAIROO] (TITANS) (A.O.Z RE-BOOT Ver.)",
+    "partNo": "2665785",
+    "releaseDate": "2024-02",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
   },
   {
     "id": "25",
@@ -3303,6 +6579,78 @@
     "series": "ADVANCE OF Z"
   },
   {
+    "id": "2501",
+    "nameJp": "ＨＧ 1/144 ガンダムルブリスアノクタ",
+    "nameEn": "HG 1/144 GUNDAM LFRITH ANAVATA",
+    "partNo": "2675535",
+    "releaseDate": "2023-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 水星の魔女"
+  },
+  {
+    "id": "2502",
+    "nameJp": "ＨＧ 1/144 ガンダムエアリアル パーメットスコア・シックス",
+    "nameEn": "HG 1/144 GUNDAM AERIAL (PERMET SCORE SIX)",
+    "partNo": "2687957",
+    "releaseDate": "2023-07",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 水星の魔女"
+  },
+  {
+    "id": "2503",
+    "nameJp": "Figure-rise Standard スレッタ・マーキュリー(一般制服Ver.)",
+    "nameEn": "Figure-rise Standard SULETTA MERCURY (REGULAR UNIFORM Ver.)",
+    "partNo": "2687958",
+    "releaseDate": "2023-12",
+    "brand": "Figure-rise Standard",
+    "series": "機動戦士ガンダム 水星の魔女"
+  },
+  {
+    "id": "2504",
+    "nameJp": "ＨＧ 1/144 デミギャリソン",
+    "nameEn": "HG 1/144 DEMI GARRISON",
+    "partNo": "2687959",
+    "releaseDate": "2023-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 水星の魔女"
+  },
+  {
+    "id": "2505",
+    "nameJp": "ＭＧ 1/100 ガンダムＦ９０ Ｎタイプ",
+    "nameEn": "MG 1/100 GUNDAM F90 N-TYPE",
+    "partNo": "2690472",
+    "releaseDate": "2024-06",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2506",
+    "nameJp": "ＭＧ 1/100 Ｆ９０IIIＹ クラスターガンダム",
+    "nameEn": "MG 1/100 F90ⅢY CLUSTER GUNDAM",
+    "partNo": "2690473",
+    "releaseDate": "2024-10",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2507",
+    "nameJp": "ＨＧ 1/144 ゲルググメナース",
+    "nameEn": "HG 1/144 GELGOOG Menace",
+    "partNo": "2693620",
+    "releaseDate": "2024-10",
+    "brand": "HG",
+    "series": "機動戦士ガンダムSEED FREEDOM"
+  },
+  {
+    "id": "2508",
+    "nameJp": "ＨＧ 1/144 ギャンシュトローム(ヒルダ・ハーケン専用機)",
+    "nameEn": "HG 1/144 GYAN Strom (HILDA HAKEN CUSTOM)",
+    "partNo": "2693621",
+    "releaseDate": "2024-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダムSEED FREEDOM"
+  },
+  {
     "id": "251",
     "nameJp": "HGUC 1/144 ドム/リック・ドム",
     "nameEn": "HGUC 1/144 DOM/ RICK-DOM",
@@ -3310,6 +6658,87 @@
     "releaseDate": "2006-01-21",
     "brand": "HGUC",
     "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "2511",
+    "nameJp": "ＨＧ 1/144 ジーライン・スタンダードアーマー",
+    "nameEn": "HG 1/144 G-LINE STANDARD ARMOR",
+    "partNo": "2697226",
+    "releaseDate": "2024-02",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2512",
+    "nameJp": "ＨＧ 1/144 ハイングラ",
+    "nameEn": "HG 1/144 HEINGRA",
+    "partNo": "2703001",
+    "releaseDate": "2024-05",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 水星の魔女"
+  },
+  {
+    "id": "2513",
+    "nameJp": "ＨＧ 1/144 ガンダムルブリス量産試作モデル",
+    "nameEn": "HG 1/144 GUNDAM LFRITH PRE-PRODUCTION MODEL",
+    "partNo": "",
+    "releaseDate": "2024-05",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 水星の魔女"
+  },
+  {
+    "id": "2514",
+    "nameJp": "ＨＧ 1/144 ガンドノード",
+    "nameEn": "HG 1/144 GUNDNODE",
+    "partNo": "2703255",
+    "releaseDate": "2024-06",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 水星の魔女"
+  },
+  {
+    "id": "2515",
+    "nameJp": "ＨＧ 1/144 ガンダムバーンレプオス",
+    "nameEn": "HG 1/144 GUNDAM BURN LAPIUS",
+    "partNo": "2704792",
+    "releaseDate": "2024-07",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2516",
+    "nameJp": "ＭＧ 1/100 ガンダムストームブリンガー Ｐ.Ｆ.",
+    "nameEn": "MG 1/100 GUNDAM STORMBRINGER P.F.",
+    "partNo": "2704809",
+    "releaseDate": "2024-08",
+    "brand": "MG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "2517",
+    "nameJp": "ＲＧ 1/144 RX-78-2 ガンダム Ver.2.0用武器セット",
+    "nameEn": "RG 1/144 WEAPON SET for RX-78-2 GUNDAM Ver.2.0",
+    "partNo": "2715389",
+    "releaseDate": "2024-08",
+    "brand": "RG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "2518",
+    "nameJp": "ＨＧ 1/144 ガンダムTR-6[バーザムII]レジオン鹵獲仕様(A.O.Z RE-BOOT版)",
+    "nameEn": "HG 1/144 GUNDAM TR-6 [BARZAMⅡ] RE-ZEON CAPTURED (A.O.Z RE-BOOT Ver.)",
+    "partNo": "2715390",
+    "releaseDate": "2024-08",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2519",
+    "nameJp": "ＨＧ 1/144 ガンダムキャリバーン パーメットスコア・ファイブ",
+    "nameEn": "HG 1/144 GUNDAM CALIBARN (PERMET SCORE FIVE)",
+    "partNo": "2719381",
+    "releaseDate": "2024-06",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 水星の魔女"
   },
   {
     "id": "252",
@@ -3321,6 +6750,87 @@
     "series": "機動戦士ガンダム"
   },
   {
+    "id": "2520",
+    "nameJp": "ＨＧ 1/144 ダークダガーＬ",
+    "nameEn": "HG 1/144 DARK DAGGER L",
+    "partNo": "2723560",
+    "releaseDate": "2024-04",
+    "brand": "HG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2521",
+    "nameJp": "ＨＧ 1/144 ベギルベウトルシュ(ケナンジ小隊所属機/リドリック小隊所属機)",
+    "nameEn": "HG 1/144 BEGUIR-BEU TORCHE (KENANJI TEAM/RIDRICK TEAM)",
+    "partNo": "2723577",
+    "releaseDate": "2024-10",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 水星の魔女"
+  },
+  {
+    "id": "2522",
+    "nameJp": "FULL MECHANICS 1/100 ガンダムエアリアル パーメットスコア・シックス",
+    "nameEn": "FULL MECHANICS 1/100 GUNDAM AERIAL (PERMET SCORE SIX)",
+    "partNo": "2724848",
+    "releaseDate": "2024-07",
+    "brand": "FULL MECHANICS",
+    "series": "機動戦士ガンダム 水星の魔女"
+  },
+  {
+    "id": "2523",
+    "nameJp": "ＨＧ 1/144 ハイザック・カスタム (A.O.Z RE-BOOT版)",
+    "nameEn": "HG 1/144 HI-ZACK CUSTOM (A.O.Z RE-BOOT Ver.)",
+    "partNo": "2733976",
+    "releaseDate": "2024-12",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2525",
+    "nameJp": "1/100 ハイレゾリューションモデル ウイングガンダム EW",
+    "nameEn": "HI-RESOLUTION MODEL 1/100 WING GUNDAM EW",
+    "partNo": "2428536",
+    "releaseDate": "2019-02",
+    "brand": "その他",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2526",
+    "nameJp": "ＨＧ 1/144 リゲルグ（ユニコーンＶｅｒ．）",
+    "nameEn": "HG 1/144 REGELGU (UNICORN Ver.)",
+    "partNo": "2434361",
+    "releaseDate": "2019-03",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2527",
+    "nameJp": "ＭＧ 1/100 ガンダムアストレイ レッドドラゴン",
+    "nameEn": "MG 1/100 GUNDAM ASTRAY RED DRAGON",
+    "partNo": "2434368",
+    "releaseDate": "2019-02",
+    "brand": "MG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2528",
+    "nameJp": "ＨＧ 1/144 ジェガンD型 (護衛隊仕様)",
+    "nameEn": "HG 1/144 JEGAN TYPE-D (ESCORT TYPE)",
+    "partNo": "2436314",
+    "releaseDate": "2019-01",
+    "brand": "HG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "2529",
+    "nameJp": "ＨＧ 1/144 リーオー(飛行ユニット仕様)",
+    "nameEn": "HG 1/144 LEO (FLIGHT UNIT TYPE)",
+    "partNo": "2436316",
+    "releaseDate": "2019-01",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
     "id": "253",
     "nameJp": "HGUC 1/144 ザクI",
     "nameEn": "HGUC 1/144 ZAKUⅠ",
@@ -3328,6 +6838,96 @@
     "releaseDate": "2006-05-31",
     "brand": "HGUC",
     "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "2530",
+    "nameJp": "ＭＧ 1/100 ジムII・セミストライカー",
+    "nameEn": "MG 1/100 GMⅡ SEMI STRIKER",
+    "partNo": "2436429",
+    "releaseDate": "2019-01",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2531",
+    "nameJp": "RE/100 1/100 ガンブラスター",
+    "nameEn": "RE/100 1/100 GUN BLASTER",
+    "partNo": "2436528",
+    "releaseDate": "2019-03",
+    "brand": "RE/100",
+    "series": "機動戦士Vガンダム"
+  },
+  {
+    "id": "2532",
+    "nameJp": "ＨＧ 1/144 ガンダムTR-6[ヘイズルII]",
+    "nameEn": "HG 1/144 GUNDAM TR-6[HAZELⅡ]",
+    "partNo": "2439840",
+    "releaseDate": "2019-02",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2533",
+    "nameJp": "ＨＧ 1/144 ザク・キャノン",
+    "nameEn": "HG 1/144 ZAKU CANNON",
+    "partNo": "2442876",
+    "releaseDate": "2019-06",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2534",
+    "nameJp": "ＭＧ 1/100 RGM-89D ジェガンD型",
+    "nameEn": "MG 1/100 JEGAN TYPE-D",
+    "partNo": "2442918",
+    "releaseDate": "2019-04",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2535",
+    "nameJp": "ＨＧ 1/144 セカンドＶ",
+    "nameEn": "HG 1/144 SECOND V",
+    "partNo": "2449220",
+    "releaseDate": "2019-10",
+    "brand": "HG",
+    "series": "機動戦士Vガンダム"
+  },
+  {
+    "id": "2536",
+    "nameJp": "ＭＧ 1/100 百式壊",
+    "nameEn": "MG 1/100 HYAKU-SHIKI CRASH",
+    "partNo": "2457563",
+    "releaseDate": "2019-01",
+    "brand": "MG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "2537",
+    "nameJp": "ＨＧ 1/144 ＩＩネオ・ジオング（ナラティブＶｅｒ．）",
+    "nameEn": "HG 1/144 Ⅱ NEO ZEONG (NARRATIVE Ver.)",
+    "partNo": "2457610",
+    "releaseDate": "2019-02",
+    "brand": "HG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "2538",
+    "nameJp": "ＭＧ 1/100 ジェスタ (シェザール隊仕様 B&C班装備)",
+    "nameEn": "MG 1/100 JESTA (SHEZARR TYPE, TEAM B&C)",
+    "partNo": "2461360",
+    "releaseDate": "2019-04",
+    "brand": "MG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "2539",
+    "nameJp": "ＭＧ 1/100 ドワッジ",
+    "nameEn": "MG 1/100 DWADGE",
+    "partNo": "2464716",
+    "releaseDate": "2019-04",
+    "brand": "MG",
+    "series": "機動戦士ガンダムZZ"
   },
   {
     "id": "254",
@@ -3339,6 +6939,96 @@
     "series": "機動戦士ガンダム MS IGLOO"
   },
   {
+    "id": "2540",
+    "nameJp": "ＭＧ 1/100 リ・ガズィ・カスタム",
+    "nameEn": "MG 1/100 Re-GZ CUSTOM",
+    "partNo": "2464717",
+    "releaseDate": "2019-05",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "2541",
+    "nameJp": "ＭＧ 1/100 ガンダムF90",
+    "nameEn": "MG 1/100 GUNDAM F90",
+    "partNo": "2464719",
+    "releaseDate": "2019-08",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2542",
+    "nameJp": "ＨＧ 1/144 ガンダムTR-6 [ハイゼンスレイⅡ]（ADVANCE OF Z ティターンズの旗のもとに）",
+    "nameEn": "HG 1/144 GUNDAM TR-6 [HAZE’N-THLEYⅡ] (ADVANCE OF Z THE FLAG OF TITANS)",
+    "partNo": "2464721",
+    "releaseDate": "2019-10",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2543",
+    "nameJp": "RE/100 1/100 ビギナ・ゼラ",
+    "nameEn": "RE/100 1/100 VIGNA-ZIRAH",
+    "partNo": "2464723",
+    "releaseDate": "2019-11",
+    "brand": "RE/100",
+    "series": "その他"
+  },
+  {
+    "id": "2544",
+    "nameJp": "ＭＧ 1/100 ドワッジ改",
+    "nameEn": "MG 1/100 DWADGE CUSTOM",
+    "partNo": "2464724",
+    "releaseDate": "2019-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダムZZ"
+  },
+  {
+    "id": "2545",
+    "nameJp": "ＨＧ 1/144 ガンダムＴＲ-６［ハイゼンスレイII・ラー］（ADVANCE OF Z ティターンズの旗のもとに）",
+    "nameEn": "HG 1/144 GUNDAM TR-6 [HAZE’N-THLEYⅡ RAH](ADVANCE OF Z THE FLAG OF TITANS)",
+    "partNo": "2464725",
+    "releaseDate": "2020-02",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2546",
+    "nameJp": "ＭＧ 1/100 リ・ガズィ（ユニコーンＶｅｒ．）",
+    "nameEn": "MG 1/100 Re-GZ (UNICORN Ver.)",
+    "partNo": "2464726",
+    "releaseDate": "2019-12",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2547",
+    "nameJp": "ＲＧ 1/144 クロスボーン・ガンダムX2",
+    "nameEn": "RG 1/144 CROSSBONE GUNDAM X2",
+    "partNo": "2466961",
+    "releaseDate": "2019-12",
+    "brand": "RG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2548",
+    "nameJp": "ＲＧ 1/144 ガンダムエクシア リペアⅢ",
+    "nameEn": "RG 1/144 GUNDAM EXIA REPAIRⅢ",
+    "partNo": "2468555",
+    "releaseDate": "2019-06",
+    "brand": "RG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2549",
+    "nameJp": "ＭＧ 1/100 ジム(寒冷地仕様)",
+    "nameEn": "MG 1/100 GM (COLD DISTRICTS TYPE)",
+    "partNo": "2469596",
+    "releaseDate": "2019-06",
+    "brand": "MG",
+    "series": "機動戦士ガンダム0080 ポケットの中の戦争"
+  },
+  {
     "id": "255",
     "nameJp": "HGUC 1/144 ガンダムTR-1 ヘイズル2号機",
     "nameEn": "HGUC 1/144 GUNDAM HAZEL TR-1 [HAZEL No.2]",
@@ -3346,6 +7036,96 @@
     "releaseDate": "2006-09-23",
     "brand": "HGUC",
     "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2550",
+    "nameJp": "ＨＧ 1/144 グスタフ・カール（ギレンの野望Ver.）",
+    "nameEn": "HG 1/144 GUSTAV KARL (GIHREN’S GREED Ver.)",
+    "partNo": "2469598",
+    "releaseDate": "2019-07",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2551",
+    "nameJp": "ＨＧ 1/144 ガンダム6号機(マドロック）",
+    "nameEn": "HG 1/144 GUNDAM G06 (MUDROCK)",
+    "partNo": "2469599",
+    "releaseDate": "2019-11",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2552",
+    "nameJp": "ＨＧ 1/144 リーオー（フルウェポンセット）",
+    "nameEn": "HG 1/144 LEO (FULL WEAPON SET)",
+    "partNo": "2469602",
+    "releaseDate": "2020-01",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2553",
+    "nameJp": "ＭＧ 1/100 ガンダムTR-1[ヘイズル2号機](アーリータイプ)/ヘイズル予備機/ジム・クゥエル",
+    "nameEn": "MG 1/100 GUNDAM TR-1 [HAZELⅡ] EARLY TYPE / HAZEL RESERVE UNIT / GM QUEL",
+    "partNo": "2469604",
+    "releaseDate": "2019-09",
+    "brand": "MG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2554",
+    "nameJp": "ＲＥ/100 1/100 ガンイージ 陸戦タイプ",
+    "nameEn": "RE/100 1/100 GUN EZ GROUND TYPE",
+    "partNo": "2470054",
+    "releaseDate": "2019-06",
+    "brand": "その他",
+    "series": "機動戦士Vガンダム"
+  },
+  {
+    "id": "2555",
+    "nameJp": "ＨＧ 1/144 マグアナック（ラシード機／アブドゥル機）",
+    "nameEn": "HG 1/144 MAGANAC (RASID CUSTOM / ABDUL CUSTOM)",
+    "partNo": "2471956",
+    "releaseDate": "2019-07",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2556",
+    "nameJp": "ＨＧ 1/144 マグアナック（アウダ機／アフマド機）",
+    "nameEn": "HG 1/144 MAGANAC (AUDA CUSTOM / AHMAD CUSTOM)",
+    "partNo": "2471957",
+    "releaseDate": "2019-08",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2557",
+    "nameJp": "ＨＧ 1/144 マグアナック36機セット",
+    "nameEn": "HG 1/144 MAGANAC 36-PIECE SET",
+    "partNo": "2471958",
+    "releaseDate": "2019-08",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2558",
+    "nameJp": "BB戦士 LEGENDBB 新世大将軍",
+    "nameEn": "LEGENDBB SHINSEI DAISHOGUN",
+    "partNo": "2474244",
+    "releaseDate": "2019-11",
+    "brand": "その他",
+    "series": "その他"
+  },
+  {
+    "id": "2559",
+    "nameJp": "ＭＧ 1/100 クロスボーン・ガンダムＸ０ Ｖｅｒ．Ka",
+    "nameEn": "MG 1/100 CROSSBONE GUNDAM X-0 Ver.Ka",
+    "partNo": "2474719",
+    "releaseDate": "2019-08",
+    "brand": "MG",
+    "series": "機動戦士クロスボーン・ガンダム"
   },
   {
     "id": "256",
@@ -3357,6 +7137,96 @@
     "series": "ガンダムMSV"
   },
   {
+    "id": "2560",
+    "nameJp": "ＨＧ 1/144 ド・ダイ改",
+    "nameEn": "HG 1/144 DO-DAI KAI",
+    "partNo": "2475300",
+    "releaseDate": "2019-08",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "2561",
+    "nameJp": "ＨＧ 1/144 メガ・バズーカ・ランチャー(コンロイ機用)",
+    "nameEn": "HG 1/144 MEGA BAZOOKA LAUNCHER (CONROY USE)",
+    "partNo": "2475301",
+    "releaseDate": "2019-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2562",
+    "nameJp": "ＭＧ 1/100 ジム・ドミナンス(フィリップ・ヒューズ機)",
+    "nameEn": "MG 1/100 PHILIP HUGHS’S GM DOMINANCE",
+    "partNo": "2475303",
+    "releaseDate": "2019-10",
+    "brand": "MG",
+    "series": "機動戦士ガンダム外伝 THE BLUE DESTINY"
+  },
+  {
+    "id": "2563",
+    "nameJp": "ＲＧ 1/144 トールギスⅢ",
+    "nameEn": "RG 1/144 TALLGEESE Ⅲ",
+    "partNo": "2477809",
+    "releaseDate": "2019-08",
+    "brand": "RG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2564",
+    "nameJp": "ＨＧ 1/144 ジム・スナイパーカスタム（ミサイル・ランチャー装備）",
+    "nameEn": "HG 1/144 GM SNIPER CUSTOM (with MISSILE LAUNCHER)",
+    "partNo": "2487409",
+    "releaseDate": "2019-11",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2565",
+    "nameJp": "ＨＧ 1/144 ジム・キャノン（ロケット・バズーカ装備）",
+    "nameEn": "HG 1/144 GM CANNON (with ROCKET BAZOOKA)",
+    "partNo": "2487430",
+    "releaseDate": "2020-11",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2566",
+    "nameJp": "ＨＧ 1/144 ジム・ガードカスタム（Ｅ-２ビーム・スプレーガン装備）",
+    "nameEn": "HG 1/144 GM GUARD CUSTOM (with E-2 BEAM SPRAY GUN)",
+    "partNo": "2487431",
+    "releaseDate": "2021-01",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2567",
+    "nameJp": "ＲＧ 1/144 パーフェクトストライクガンダム",
+    "nameEn": "RG 1/144 PERFECT STRIKE GUNDAM",
+    "partNo": "2487790",
+    "releaseDate": "2019-09",
+    "brand": "RG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2568",
+    "nameJp": "ＭＧ 1/100 ジェガン Ｄ型（先行配備機）",
+    "nameEn": "MG 1/100 JEGAN TYPE-D (FIRST DEPLOYMENT TYPE)",
+    "partNo": "2487791",
+    "releaseDate": "2020-06",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2569",
+    "nameJp": "ＨＧ 1/144 エルドラドートレス",
+    "nameEn": "HG 1/144 ELDORA DAUGHTRESS",
+    "partNo": "2488881",
+    "releaseDate": "2020-02",
+    "brand": "HG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
     "id": "257",
     "nameJp": "HGUC 1/144 ザクＩスナイパー",
     "nameEn": "HGUC 1/144 ZAKU I SNIPER TYPE",
@@ -3364,6 +7234,96 @@
     "releaseDate": "2006-11-29",
     "brand": "HGUC",
     "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "2570",
+    "nameJp": "ＨＧ 1/144 イフリート（ダグ・シュナイド機）",
+    "nameEn": "HG 1/144 DOUG SCHNEID’S EFREET",
+    "partNo": "2488883",
+    "releaseDate": "2020-03",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2571",
+    "nameJp": "ＲＧ 1/144 ガンダムアストレイゴールドフレーム天ハナ",
+    "nameEn": "RG 1/144 Gundam Astray Gold Frame Amatsu Hana",
+    "partNo": "2488903",
+    "releaseDate": "2019-06",
+    "brand": "RG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2572",
+    "nameJp": "ＨＧ 1/144 スレイヴ・レイス（パラシュート・パック仕様）",
+    "nameEn": "HG 1/144 SLAVE WRAITH (PARACHUTE PACK)",
+    "partNo": "2491416",
+    "releaseDate": "2020-02",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2573",
+    "nameJp": "ＨＧ 1/144 ビルドガンマガンダム",
+    "nameEn": "HG 1/144 BUILD Γ GUNDAM",
+    "partNo": "2492939",
+    "releaseDate": "2020-01",
+    "brand": "HG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "2574",
+    "nameJp": "ＨＧ 1/144 ピクシー（フレッド・リーバー機）",
+    "nameEn": "HG 1/144 PIXY (FRED REBER CUSTOM)",
+    "partNo": "2496378",
+    "releaseDate": "2020-02",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2575",
+    "nameJp": "ＲＧ 1/144 ユニコーンガンダム3号機 フェネクス（ナラティブＶｅｒ．）",
+    "nameEn": "RG 1/144 UNICORN GUNDAM 03 PHENEX (NARRATIVE Ver.)",
+    "partNo": "2500130",
+    "releaseDate": "2020-02",
+    "brand": "RG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "2576",
+    "nameJp": "ＭＧ 1/100 ブラストインパルスガンダム",
+    "nameEn": "MG 1/100 BLAST IMPULSE GUNDAM",
+    "partNo": "2500761",
+    "releaseDate": "2020-01",
+    "brand": "MG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2577",
+    "nameJp": "ＭＧ 1/100 スラッシュザクファントム(イザーク・ジュール専用機)",
+    "nameEn": "MG 1/100 SLASH ZAKU PHANTOM (YZAK JULE CUSTOM)",
+    "partNo": "2500763",
+    "releaseDate": "2020-04",
+    "brand": "MG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2578",
+    "nameJp": "ＲＧ 1/144 ユーマ・ライトニング専用ザクII",
+    "nameEn": "RG 1/144 MS-06R-1A UMA LIGHTNING’S ZAKU Ⅱ",
+    "partNo": "2505860",
+    "releaseDate": "2020-01",
+    "brand": "RG",
+    "series": "その他"
+  },
+  {
+    "id": "2579",
+    "nameJp": "ＨＧ 1/144 ガンダムジェミナス０１",
+    "nameEn": "HG 1/144 GUNDAM GEMINASS 01",
+    "partNo": "2505896",
+    "releaseDate": "2020-05",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
   },
   {
     "id": "258",
@@ -3375,6 +7335,96 @@
     "series": "機動戦士ガンダム"
   },
   {
+    "id": "2580",
+    "nameJp": "RE/100 1/100 シャッコー",
+    "nameEn": "RE/100 1/100 SHOKEW",
+    "partNo": "2505897",
+    "releaseDate": "2020-05",
+    "brand": "RE/100",
+    "series": "機動戦士Vガンダム"
+  },
+  {
+    "id": "2581",
+    "nameJp": "ＨＧ 1/144 ガンダムＴＲ-１ ［ハイゼンスレイ］（ADVANCE OF Z ティターンズの旗のもとに）",
+    "nameEn": "HG 1/144 GUNDAM TR-6 [KEHAARⅡ] (ADVANCE OF Z THE FLAG OF TITANS)",
+    "partNo": "2507212",
+    "releaseDate": "2020-06",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2582",
+    "nameJp": "ＨＧ 1/144 ガンダムＴＲ-６ ［キハールII］（ADVANCE OF Z ティターンズの旗のもとに）",
+    "nameEn": "HG 1/144 GUNDAM TR-6 [KEHAARⅡ] (ADVANCE OF Z THE FLAG OF TITANS)",
+    "partNo": "2507213",
+    "releaseDate": "2020-06",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2583",
+    "nameJp": "ＨＧ 1/144 ドートレス",
+    "nameEn": "HG 1/144 DAUGHTRESS",
+    "partNo": "2507214",
+    "releaseDate": "2020-10",
+    "brand": "HG",
+    "series": "機動新世紀ガンダムＸ"
+  },
+  {
+    "id": "2584",
+    "nameJp": "ＨＧ 1/144 ガンダムエアマスターバースト",
+    "nameEn": "HG 1/144 GUNDAM AIRMASTER BURST",
+    "partNo": "2507215",
+    "releaseDate": "2020-10",
+    "brand": "HG",
+    "series": "機動新世紀ガンダムＸ"
+  },
+  {
+    "id": "2585",
+    "nameJp": "ＨＧ 1/144 バルギル",
+    "nameEn": "HG 1/144 VARGUIL",
+    "partNo": "2509133",
+    "releaseDate": "2020-04",
+    "brand": "HG",
+    "series": "機動戦士MOONガンダム"
+  },
+  {
+    "id": "2586",
+    "nameJp": "ＭＧ 1/100 テスタメントガンダム",
+    "nameEn": "MG 1/100 TESTAMENT GUNDAM",
+    "partNo": "2509136",
+    "releaseDate": "2020-10",
+    "brand": "MG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2587",
+    "nameJp": "ＨＧ 1/144 ガンダム４号機",
+    "nameEn": "HG 1/144 GUNDAM G04",
+    "partNo": "2510142",
+    "releaseDate": "2020-05",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2588",
+    "nameJp": "ＨＧ 1/144 エルドラウィンダム",
+    "nameEn": "HG 1/144 ELDORA WINDAM",
+    "partNo": "2511446",
+    "releaseDate": "2020-09",
+    "brand": "HG",
+    "series": "ガンダムビルドダイバーズRe:RISE"
+  },
+  {
+    "id": "2589",
+    "nameJp": "ＨＧ 1/144 ジム・ナイトシーカー",
+    "nameEn": "HG 1/144 GM NIGHT SEEKER",
+    "partNo": "2515193",
+    "releaseDate": "2020-08",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
     "id": "259",
     "nameJp": "HGUC 1/144 ギャプラン TR-5［フライルー］",
     "nameEn": "HGUC 1/144 ORX-005 GAPLANT TR-5 HRAIROO",
@@ -3382,6 +7432,96 @@
     "releaseDate": "2006-12-23",
     "brand": "HGUC",
     "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2590",
+    "nameJp": "ＨＧ 1/144 ガンダムジェミナス０１用アサルトブースター＆高機動型ユニット 拡張セット",
+    "nameEn": "HG 1/144 ASSAULT BOOSTER & HIGH MOBILITY UNIT for GUNDAM GEMINASS 01",
+    "partNo": "2515196",
+    "releaseDate": "2020-09",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2591",
+    "nameJp": "ＭＧ 1/100 ガンダムサンドロックEW (アーマディロ装備)",
+    "nameEn": "MG 1/100 GUNDAM SANDROCK EW (ARMADILLO UNIT)",
+    "partNo": "2516451",
+    "releaseDate": "2020-10",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2592",
+    "nameJp": "ＭＧ 1/100 ガンダムF90Ⅱ Iタイプ",
+    "nameEn": "MG 1/100 GUNDAM F90Ⅱ I-TYPE",
+    "partNo": "2518431",
+    "releaseDate": "2020-07",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2593",
+    "nameJp": "ＭＧ 1/100 ガンダムバルバトス用 拡張パーツセット",
+    "nameEn": "MG 1/100 EXPANSION PARTS SET for GUNDAM BARBATOS",
+    "partNo": "2518980",
+    "releaseDate": "2020-10",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2594",
+    "nameJp": "ＭＧ 1/100 ガンダムアストレイレッドフレーム フライトユニット",
+    "nameEn": "MG 1/100 GUNDAM ASTRAY RED FRAME FLIGHT UNIT",
+    "partNo": "2518981",
+    "releaseDate": "2020-08",
+    "brand": "MG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2595",
+    "nameJp": "ＨＧ 1/144 ガンダムプルトーネ",
+    "nameEn": "HG 1/144 GUNDAM PLUTONE",
+    "partNo": "2518983",
+    "releaseDate": "2020-09",
+    "brand": "HG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2596",
+    "nameJp": "ＨＧ 1/144 リック・ディアス（クワトロ・バジーナ機）",
+    "nameEn": "HG 1/144 QUATTRO BAJEENA’S RICK DIAS",
+    "partNo": "2518984",
+    "releaseDate": "2020-08",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "2597",
+    "nameJp": "ＭＧ 1/100 キュベレイ・アンベリール",
+    "nameEn": "MG 1/100 QUBELEY EMBELLIR",
+    "partNo": "2519695",
+    "releaseDate": "2020-08",
+    "brand": "MG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "2598",
+    "nameJp": "ＨＧ 1/144 トーリスリッター",
+    "nameEn": "HG 1/144 TODESRITTER",
+    "partNo": "2519696",
+    "releaseDate": "2020-12",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2599",
+    "nameJp": "ＭＧ 1/100 ブレイズザクファントム／ブレイズザクウォーリア",
+    "nameEn": "MG 1/100 BLAZE ZAKU PHANTOM / BLAZE ZAKU WARRIOR",
+    "partNo": "2520821",
+    "releaseDate": "2020-12",
+    "brand": "MG",
+    "series": "機動戦士ガンダムSEED DESTINY"
   },
   {
     "id": "26",
@@ -3402,6 +7542,96 @@
     "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
   },
   {
+    "id": "2600",
+    "nameJp": "RE/100 1/100 ガンイージ 陸戦タイプ (ブルーバード隊仕様)",
+    "nameEn": "RE/100 1/100 GUN EZ GROUND TYPE (BLUEBIRD TEAM CUSTOM)",
+    "partNo": "2523639",
+    "releaseDate": "2020-07",
+    "brand": "RE/100",
+    "series": "機動戦士Vガンダム"
+  },
+  {
+    "id": "2601",
+    "nameJp": "ＲＧ 1/144 ソードインパルスガンダム",
+    "nameEn": "RG 1/144 SWORD IMPULSE GUNDAM",
+    "partNo": "2526871",
+    "releaseDate": "2020-11",
+    "brand": "RG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2602",
+    "nameJp": "ＨＧ 1/144 トライエイジガンダム",
+    "nameEn": "HG 1/144 TRY AGE GUNDAM",
+    "partNo": "2536551",
+    "releaseDate": "2020-11",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2603",
+    "nameJp": "ＭＧ 1/100 緊急脱出ポッド[プリムローズ]拡張セット",
+    "nameEn": "MG 1/100 EMERGENCY ESCAPE POD [PRIMROSE] EXPANSION SET",
+    "partNo": "2536552",
+    "releaseDate": "2020-12",
+    "brand": "MG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2604",
+    "nameJp": "ＭＧ 1/100 ガンダムTR-1[ヘイズル・アウスラ]",
+    "nameEn": "MG 1/100 GUNDAM TR-1 [HAZEL OWSLA]",
+    "partNo": "2536553",
+    "releaseDate": "2020-12",
+    "brand": "MG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2605",
+    "nameJp": "ＭＧ 1/100 ガンダムストームブリンガー Ｆ.Ａ.（フェイタル・アッシュ）／ジム・タービュレンス",
+    "nameEn": "MG 1/100 GUNDAM STORMBRINGER F.A. / GM TURBULENCE",
+    "partNo": "2536554",
+    "releaseDate": "2020-11",
+    "brand": "MG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "2606",
+    "nameJp": "BB戦士 LEGENDBB 烈光頑駄無",
+    "nameEn": "LEGENDBB REKKO GUNDAM",
+    "partNo": "2537400",
+    "releaseDate": "2020-10",
+    "brand": "その他",
+    "series": "その他"
+  },
+  {
+    "id": "2607",
+    "nameJp": "ＨＧ 1/144 ガンダムTR-1［ハイゼンスレイ・ラーII］（ADVANCE OF Z ティターンズの旗のもとに）",
+    "nameEn": "HG 1/144 GUNDAM TR-1 [HAZE’N-THLEY RAH Ⅱ] (ADVANCE OF Z THE FLAG OF TITANS)",
+    "partNo": "2543885",
+    "releaseDate": "2020-11",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2608",
+    "nameJp": "ＨＧ1/144 MS-05 ザクI(黒い三連星機)",
+    "nameEn": "HG 1/144 MS-05 ZAKUⅠ [BLACK TRI-STARS]",
+    "partNo": "2333625",
+    "releaseDate": "2017-06",
+    "brand": "HG",
+    "series": "機動戦士ガンダム THE ORIGIN"
+  },
+  {
+    "id": "2609",
+    "nameJp": "ＨＧ 1/144 クロスボーン・ガンダム X3",
+    "nameEn": "HG 1/144 CROSSBONE GUNDAM X3",
+    "partNo": "2342363",
+    "releaseDate": "2017-02",
+    "brand": "HG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
     "id": "261",
     "nameJp": "HGUC  1/144 ジムクゥエル",
     "nameEn": "HGUC 1/144 GM QUEL",
@@ -3409,6 +7639,96 @@
     "releaseDate": "2007-01",
     "brand": "HGUC",
     "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
+  },
+  {
+    "id": "2610",
+    "nameJp": "RE/100 1/100 リバウ",
+    "nameEn": "RE 1/100 REBAWOO",
+    "partNo": "2346795",
+    "releaseDate": "2017-02",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2611",
+    "nameJp": "1/100 ハイレゾリューションモデル ガンダムバルバトス第6形態",
+    "nameEn": "1/100 Hi-Resolution Model GUNDAM BARBATOS 6TH FORM",
+    "partNo": "2351350",
+    "releaseDate": "2017-01",
+    "brand": "その他",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2612",
+    "nameJp": "ＲＧ 1/144 ガンダムエクシア リペアII",
+    "nameEn": "RG 1/144 GUNDAM EXIA REPAIRⅡ",
+    "partNo": "2353223",
+    "releaseDate": "2017-03",
+    "brand": "RG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2613",
+    "nameJp": "ＭＧ 1/100 シン・マツナガ専用ザクII(カスタムタイプ)",
+    "nameEn": "MG 1/100 MS-06R-1A SHIN MATSUNAGA’S ZAKU II (CUSTOM TYPE)",
+    "partNo": "2381671",
+    "releaseDate": "2017-06",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2614",
+    "nameJp": "ＨＧ 1/144 アクト・ザク",
+    "nameEn": "HG 1/144 ACT ZAKU",
+    "partNo": "2381814",
+    "releaseDate": "2018-02",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2615",
+    "nameJp": "ＨＧ 1/144 鉄華団コンプリートセット",
+    "nameEn": "HG 1/144 TEKKADAN COMPLETE SET",
+    "partNo": "2385248",
+    "releaseDate": "2017-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2616",
+    "nameJp": "ＨＧ 1/144 EWACジェガン",
+    "nameEn": "HG 1/144 EWAC JEGAN",
+    "partNo": "2387404",
+    "releaseDate": "2018-02",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2617",
+    "nameJp": "ＭＧ 1/100 プロヴィデンスガンダム [スペシャルコーティング]",
+    "nameEn": "MG 1/100 PROVIDENCE GUNDAM [SPECIAL COATING]",
+    "partNo": "2388840",
+    "releaseDate": "2018-01",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2618",
+    "nameJp": "ＨＧ 1/144 ゼータガンダム(ウェイブシューター)",
+    "nameEn": "HG 1/144 ZETA GUNDAM (WAVE SHOOTER)",
+    "partNo": "2388911",
+    "releaseDate": "2017-10",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "2619",
+    "nameJp": "ＭＧ 1/100 ガンダムアストレイ ターンレッド",
+    "nameEn": "MG 1/100 GUNDAM ASTRAY TURN RED",
+    "partNo": "2389332",
+    "releaseDate": "2018-02",
+    "brand": "MG",
+    "series": "機動戦士ガンダムSEED DESTINY"
   },
   {
     "id": "262",
@@ -3420,12 +7740,183 @@
     "series": "機動戦士ガンダム外伝 THE BLUE DESTINY"
   },
   {
+    "id": "2620",
+    "nameJp": "ＲＧ 1/144 シン・マツナガ専用ザクII",
+    "nameEn": "RG 1/144 MS-06R-1A SHIN MATSUNAGA’S ZAKU II",
+    "partNo": "2390740",
+    "releaseDate": "2018-01",
+    "brand": "RG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2621",
+    "nameJp": "ＲＧ 1/144 黒い三連星専用ザクII",
+    "nameEn": "RG 1/144 MS-06R-1A BLACK TRI-STARS ZAKU II",
+    "partNo": "2390741",
+    "releaseDate": "2018-03",
+    "brand": "RG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2622",
+    "nameJp": "ＨＧ 1/144 プルーマ クリュセ侵攻セット",
+    "nameEn": "HG 1/144 PLUMA SET (INVASION OF CHRYSE)",
+    "partNo": "2391920",
+    "releaseDate": "2017-06",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2623",
+    "nameJp": "ＨＧ 1/144 クロスボーン・ガンダムX-0",
+    "nameEn": "HG 1/144 CROSSBONE GUNDAM X-0",
+    "partNo": "2393743",
+    "releaseDate": "2018-04",
+    "brand": "HG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2625",
+    "nameJp": "ＨＧ 1/144 リックドギャン子",
+    "nameEn": "HG 1/144 RICK-DO GYANKO",
+    "partNo": "2401242",
+    "releaseDate": "2018-01",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2626",
+    "nameJp": "ＨＧ 1/144 ジンクスIV TYPE.GBF",
+    "nameEn": "HG 1/144 GN-XⅣ TYPE.GBF",
+    "partNo": "2401243",
+    "releaseDate": "2018-02",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2627",
+    "nameJp": "ＨＧ 1/144 ガンダムM91",
+    "nameEn": "HG 1/144 GUNDAM M91",
+    "partNo": "2401244",
+    "releaseDate": "2018-03",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2628",
+    "nameJp": "ＨＧ 1/144 トールストライクガンダムグリッター",
+    "nameEn": "HG 1/144 TALL STRIKE GUNDAM GLITTER",
+    "partNo": "2401245",
+    "releaseDate": "2018-03",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2629",
+    "nameJp": "ＭＧ 1/100 ユーマ・ライトニング専用高機動型ゲルググ",
+    "nameEn": "MG 1/100 MS-14B UMA LIGHTNING’S GELGOOG HIGH MOBILITY TYPE",
+    "partNo": "2405727",
+    "releaseDate": "2018-01",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
     "id": "263",
     "nameJp": "HGUC 1/144 ブルーディスティニー2号機",
     "nameEn": "HGUC 1/144 BLUE DESTINY UNIT 2",
     "partNo": "2004931",
     "releaseDate": "2007-04",
     "brand": "HGUC",
+    "series": "機動戦士ガンダム外伝 THE BLUE DESTINY"
+  },
+  {
+    "id": "2630",
+    "nameJp": "ＰＧ 1/60 ガンダムエクシア用リペアパーツセット",
+    "nameEn": "REPAIR PARTS SET FOR PG 1/60 GUNDAM EXIA",
+    "partNo": "2405728",
+    "releaseDate": "2018-03",
+    "brand": "PG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2631",
+    "nameJp": "ＨＧ 1/144 アトラスガンダム（GUNDAM THUNDERBOLT BANDIT FLOWER Ｖｅｒ．）",
+    "nameEn": "HG 1/144 ATLAS GUNDAM(GUNDAM THUNDERBOLT BANDIT FLOWER Ver.)",
+    "partNo": "2408030",
+    "releaseDate": "2018-01",
+    "brand": "HG",
+    "series": "機動戦士ガンダム サンダーボルト"
+  },
+  {
+    "id": "2632",
+    "nameJp": "ＨＧ 1/144 イフリート・ナハト",
+    "nameEn": "HG1/144 EFREET NACHT",
+    "partNo": "2414831",
+    "releaseDate": "2018-04",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2633",
+    "nameJp": "ＨＧ 1/144 ヘビーガンダム",
+    "nameEn": "HG 1/144 HEAVY GUNDAM",
+    "partNo": "2417172",
+    "releaseDate": "2018-05",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2634",
+    "nameJp": "ＭＧ 1/100 ガンダムTR−1 [アドバンスド・ヘイズル]",
+    "nameEn": "MG 1/100 GUNDAM TR-1 [ADVANCED HAZEL]",
+    "partNo": "2417173",
+    "releaseDate": "2018-05",
+    "brand": "MG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2635",
+    "nameJp": "ＨＧ 1/144 ガンダムピクシー",
+    "nameEn": "HG 1/144 GUNDAM PIXY",
+    "partNo": "2417174",
+    "releaseDate": "2018-06",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2636",
+    "nameJp": "ＨＧ 1/144 ガンダムTR-6[ウーンドウォート]",
+    "nameEn": "HG 1/144 GUNDAM TR-6 [WONDWART]",
+    "partNo": "2417175",
+    "releaseDate": "2018-06",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2637",
+    "nameJp": "ＨＧ 1/144 アドヴァンスドジンクス",
+    "nameEn": "HG 1/144 ADVANCED GN-X",
+    "partNo": "2417223",
+    "releaseDate": "2018-04",
+    "brand": "HG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2638",
+    "nameJp": "ＨＧ 1/144 イフリート",
+    "nameEn": "HG 1/144 EFREET",
+    "partNo": "2417487",
+    "releaseDate": "2018-07",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2639",
+    "nameJp": "ＭＧ 1/100 ジム・ドミナンス",
+    "nameEn": "MG 1/100 GM DOMINANCE",
+    "partNo": "2417489",
+    "releaseDate": "2018-06",
+    "brand": "MG",
     "series": "機動戦士ガンダム外伝 THE BLUE DESTINY"
   },
   {
@@ -3438,6 +7929,96 @@
     "series": "機動戦士ガンダム外伝 THE BLUE DESTINY"
   },
   {
+    "id": "2640",
+    "nameJp": "ＲＧ 1/144 ザク・マインレイヤー",
+    "nameEn": "RG 1/144 ZAKU MINELAYER",
+    "partNo": "2418252",
+    "releaseDate": "2018-05",
+    "brand": "RG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2641",
+    "nameJp": "ＭＧ 1/100 ジンクスIII (アロウズ型)",
+    "nameEn": "MG 1/100 GN-X III (A-LAWS TYPE)",
+    "partNo": "2418253",
+    "releaseDate": "2018-05",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2642",
+    "nameJp": "ＭＧ 1/100 Gパーツ[フルドド]",
+    "nameEn": "MG 1/100 G-PARTS [HRUDUDU]",
+    "partNo": "2419359",
+    "releaseDate": "2018-07",
+    "brand": "MG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2643",
+    "nameJp": "ＨＧ 1/144 ジム・スナイパーカスタム",
+    "nameEn": "HG 1/144 GM SNIPER CUSTOM",
+    "partNo": "2419371",
+    "releaseDate": "2018-08",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2644",
+    "nameJp": "ＨＧ 1/144 リゲルグ",
+    "nameEn": "HG 1/144 REGELGU",
+    "partNo": "2423964",
+    "releaseDate": "2018-07",
+    "brand": "HG",
+    "series": "機動戦士ガンダムZZ"
+  },
+  {
+    "id": "2645",
+    "nameJp": "ＨＧ 1/144 陸戦型ガンダム(パラシュート・パック仕様)",
+    "nameEn": "HG 1/144 GUNDAM GROUND TYPE (PARACHUTE PACK)",
+    "partNo": "2423965",
+    "releaseDate": "2018-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 第08MS小隊"
+  },
+  {
+    "id": "2646",
+    "nameJp": "ＨＧ 1/144 ゼータガンダム［Ｕ.Ｃ.００８８］",
+    "nameEn": "HG 1/144 ZETA GUNDAM[U.C.0088]",
+    "partNo": "2423966",
+    "releaseDate": "2018-09",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "2647",
+    "nameJp": "ＭＧ 1/100 ガンダムアヴァランチエクシアダッシュ",
+    "nameEn": "MG 1/100 GUNDAM AVALANCHE EXIA’",
+    "partNo": "2428533",
+    "releaseDate": "2018-08",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2648",
+    "nameJp": "ＭＧ 1/100 ジンクスIII (連邦カラー)",
+    "nameEn": "MG 1/100 GN-X III (ESF COLORS)",
+    "partNo": "2434366",
+    "releaseDate": "2018-12",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2649",
+    "nameJp": "ＭＧ 1/100 ポリポッドボール",
+    "nameEn": "MG 1/100 POLYPODBALL",
+    "partNo": "2435139",
+    "releaseDate": "2018-08",
+    "brand": "MG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
     "id": "265",
     "nameJp": "HG 1/144 ティエレン宇宙指揮官型",
     "nameEn": "HG 1/144 TIEREN Space Commander Type",
@@ -3445,6 +8026,96 @@
     "releaseDate": "2008-05",
     "brand": "HG",
     "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2650",
+    "nameJp": "RE/100 1/100 ビギナ・ギナ (ベラ・ロナ スペシャル)",
+    "nameEn": "RE/100 1/100 VIGNA-GHINA (BERAH RONAH SPECIAL)",
+    "partNo": "2435743",
+    "releaseDate": "2018-11",
+    "brand": "RE/100",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2651",
+    "nameJp": "ＭＧ 1/100 ガンダムＦ９１ Ｖｅｒ．２．０  バックキャノン装着型 ＆ ツイン・ヴェスバー装着型",
+    "nameEn": "MG 1/100 GUNDAM F91 ver2.0 BACK CANNON TYPE & TWIN V.S.B.R. SET UP TYPE",
+    "partNo": "2435745",
+    "releaseDate": "2018-11",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2652",
+    "nameJp": "ＨＧ 1/144 リーオー (宇宙仕様)",
+    "nameEn": "HG 1/144 LEO (SPACE TYPE)",
+    "partNo": "2436312",
+    "releaseDate": "2018-10",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2653",
+    "nameJp": "ＨＧ 1/144 ジェスタ (シェザール隊仕様 A班装備)",
+    "nameEn": "HG 1/144 JESTA (SHEZARR TYPE, TEAM A)",
+    "partNo": "2436313",
+    "releaseDate": "2018-11",
+    "brand": "HG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "2654",
+    "nameJp": "ＭＧ 1/100 ザクII F2型(ノイエン・ビッター機)",
+    "nameEn": "MG 1/100 NEUEN BITTER’S ZAKUⅡF2",
+    "partNo": "2436426",
+    "releaseDate": "2018-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
+  },
+  {
+    "id": "2655",
+    "nameJp": "ＭＧ 1/100 ザクII F2型(キンバライト基地仕様)",
+    "nameEn": "MG 1/100 ZAKUⅡF2(KIMBERLITE BASE TYPE)",
+    "partNo": "2436427",
+    "releaseDate": "2018-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
+  },
+  {
+    "id": "2656",
+    "nameJp": "ＭＧ 1/100 Ｖ２アサルトバスターガンダム Ｖｅｒ．Ka",
+    "nameEn": "MG 1/100 VICTORY TWO ASSAULT BUSTER GUNDAM Ver.Ka",
+    "partNo": "2436527",
+    "releaseDate": "2018-12",
+    "brand": "MG",
+    "series": "機動戦士Vガンダム"
+  },
+  {
+    "id": "2657",
+    "nameJp": "ＨＧ 1/144 ジム・キャノン(空間突撃仕様)",
+    "nameEn": "HG 1/144 GM CANNON (SPACE ASSAULT TYPE)",
+    "partNo": "2437815",
+    "releaseDate": "2018-12",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2658",
+    "nameJp": "ＭＧ 1/100 ガンダムストームブリンガー",
+    "nameEn": "MG 1/100 GUNDAM STORMBRINGER",
+    "partNo": "2438712",
+    "releaseDate": "2018-09",
+    "brand": "MG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "2659",
+    "nameJp": "RE/100 1/100 89式ベース・ジャバー",
+    "nameEn": "RE/100 1/100 TYPE 89 BASE JABBER",
+    "partNo": "2440866",
+    "releaseDate": "2018-10",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダム 逆襲のシャア"
   },
   {
     "id": "266",
@@ -3456,6 +8127,96 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "2660",
+    "nameJp": "ＭＧ 1/100 ユニコーンガンダム３号機 フェネクス （ナラティブＶｅｒ．）",
+    "nameEn": "MG 1/100 UNICORN GUNDAM 03 PHENEX (NARRATIVE Ver.)",
+    "partNo": "2442450",
+    "releaseDate": "2018-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "2661",
+    "nameJp": "ＲＧ 1/144 トールギスII",
+    "nameEn": "RG 1/144 TALLGEESE II",
+    "partNo": "2442453",
+    "releaseDate": "2018-12",
+    "brand": "RG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2662",
+    "nameJp": "ＨＧ 1/144 ジェスタ (シェザール隊仕様 B&C班装備)",
+    "nameEn": "HG 1/144 JESTA (SHEZARR TYPE, TEAM B&C)",
+    "partNo": "2444556",
+    "releaseDate": "2018-11",
+    "brand": "HG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "2663",
+    "nameJp": "ＲＧ 1/144 MS-06R-2 ギャビー・ハザード専用ザクII",
+    "nameEn": "RG 1/144 MS-06R-2 GABBY HAZARD’S ZAKUⅡ",
+    "partNo": "2444891",
+    "releaseDate": "2018-10",
+    "brand": "RG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2664",
+    "nameJp": "ＭＧ 1/100 キュベレイダムド",
+    "nameEn": "MG 1/100 QUBELEY DAMNED",
+    "partNo": "2454053",
+    "releaseDate": "2018-11",
+    "brand": "MG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "2665",
+    "nameJp": "ＭＧ 1/100 Ｖ２ガンダム Ｖｅｒ．Ka用 アサルトバスター拡張パーツ",
+    "nameEn": "MG 1/100 ASSAULT BUSTER EXPANSION PARTS for VICTORY TWO GUNDAM Ver.Ka",
+    "partNo": "2458858",
+    "releaseDate": "2018-12",
+    "brand": "MG",
+    "series": "機動戦士Vガンダム"
+  },
+  {
+    "id": "2666",
+    "nameJp": "ＰＧ 1/60 ユニコーンガンダム3号機 フェネクス",
+    "nameEn": "PG 1/60 UNICORN GUNDAM 03 PHENEX",
+    "partNo": "2353222",
+    "releaseDate": "2017-02",
+    "brand": "PG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2667",
+    "nameJp": "HG 1/144 ズゴック(SEED FREEDOM Ver.)",
+    "nameEn": "HG 1/144 Z’GOK(SEED FREEDOM Ver.)",
+    "partNo": "2750722",
+    "releaseDate": "2025-02-22",
+    "brand": "HG",
+    "series": "機動戦士ガンダムSEED FREEDOM"
+  },
+  {
+    "id": "2668",
+    "nameJp": "オプションパーツセット ガンプラ 15 (キャバリアーアイフリッド)",
+    "nameEn": "OPTION PARTS SET GUNPLA 15 (CAVALIER AIFRID)",
+    "partNo": "2750723",
+    "releaseDate": "2025-02-22",
+    "brand": "オプションパーツセット",
+    "series": "機動戦士ガンダムSEED FREEDOM"
+  },
+  {
+    "id": "2669",
+    "nameJp": "ＭＧ 1/100 プロトタイプグフ",
+    "nameEn": "MG 1/100 PROTOTYPE GOUF",
+    "partNo": "2358373",
+    "releaseDate": "2017-01",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
     "id": "267",
     "nameJp": "HG 1/144 ジンクス",
     "nameEn": "HG 1/144 GN-X",
@@ -3463,6 +8224,96 @@
     "releaseDate": "2008-07",
     "brand": "HG",
     "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2670",
+    "nameJp": "ＲＧ 1/144 ガンダムアストレイ ゴールドフレーム天(アマツ)",
+    "nameEn": "RG 1/144 GUNDAM ASTRAY GOLD FRAME AMATSU",
+    "partNo": "2370361",
+    "releaseDate": "2017-09",
+    "brand": "RG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2671",
+    "nameJp": "ＭＧ 1/100 ガンダムTR−1 [ヘイズル改]",
+    "nameEn": "MG 1/100 GUNDAM TR-1 [HAZEL CUSTOM]",
+    "partNo": "2375616",
+    "releaseDate": "2017-09",
+    "brand": "MG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2672",
+    "nameJp": "ＰＧ 1/60 トランザムライザー",
+    "nameEn": "PG 1/60 TRANS-AM RAISER",
+    "partNo": "2377391",
+    "releaseDate": "2017-06",
+    "brand": "PG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2673",
+    "nameJp": "ＲＧ 1/144 ダブルオーガンダム セブンソード/G インスペクション",
+    "nameEn": "RG 1/144 00 GUNDAM SEVEN SWORD/G INSPECTION",
+    "partNo": "2377393",
+    "releaseDate": "2017-12",
+    "brand": "RG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2674",
+    "nameJp": "ＭＧ 1/100 ジム・キャノン(北米戦線仕様)",
+    "nameEn": "MG 1/100 GM CANNON (NORTH AMERICAN FRONT)",
+    "partNo": "2378347",
+    "releaseDate": "2017-04",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2675",
+    "nameJp": "ＭＧ 1/100 クロスボーン・ガンダムX2改 Ｖｅｒ．Ka",
+    "nameEn": "MG 1/100 CROSSBONE GUNDAM X2 CUSTOM Ver.Ka",
+    "partNo": "2378348",
+    "releaseDate": "2017-06",
+    "brand": "MG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2676",
+    "nameJp": "ＨＧ 1/144 イフリート改",
+    "nameEn": "HG 1/144 EFREET CUSTOM",
+    "partNo": "2379385",
+    "releaseDate": "2017-09",
+    "brand": "HG",
+    "series": "機動戦士ガンダム外伝 THE BLUE DESTINY"
+  },
+  {
+    "id": "2677",
+    "nameJp": "ＨＧ 1/144 ペイルライダー(空間戦仕様)",
+    "nameEn": "HG 1/144 PALE RIDER (SPACE TYPE)",
+    "partNo": "2380413",
+    "releaseDate": "2017-08",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2678",
+    "nameJp": "ＲＧ 1/144 ダブルオークアンタ フルセイバー",
+    "nameEn": "RG 1/144 OO QAN[T] FULL SABER",
+    "partNo": "2381570",
+    "releaseDate": "2017-04",
+    "brand": "RG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2679",
+    "nameJp": "ＭＧ 1/100 強化型ダブルゼータガンダム Ｖｅｒ．Ka",
+    "nameEn": "MG 1/100 ENHANCED ZZ GUNDAM Ver.Ka",
+    "partNo": "2381811",
+    "releaseDate": "2017-12",
+    "brand": "MG",
+    "series": "機動戦士ガンダムZZ"
   },
   {
     "id": "268",
@@ -3474,6 +8325,96 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "2680",
+    "nameJp": "ＨＧ 1/144 ザク・キャノン テストタイプ",
+    "nameEn": "HG 1/144 ZAKU CANNON TEST TYPE",
+    "partNo": "2381813",
+    "releaseDate": "2017-12",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2681",
+    "nameJp": "ＨＧ 1/144 バイアラン・イゾルデ",
+    "nameEn": "HG 1/144 BYARLANT ISOLDE",
+    "partNo": "2384321",
+    "releaseDate": "2017-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダム Twilight AXIS"
+  },
+  {
+    "id": "2682",
+    "nameJp": "ＨＧ 1/144 ザクIII改 (Twilight AXIS Ｖｅｒ．)",
+    "nameEn": "HG 1/144 ZAKU Ⅲ CUSTOM (Twilight AXIS Ver.)",
+    "partNo": "2384323",
+    "releaseDate": "2017-06",
+    "brand": "HG",
+    "series": "機動戦士ガンダム Twilight AXIS"
+  },
+  {
+    "id": "2683",
+    "nameJp": "ＭＧ 1/100 アドヴァンスドジンクス",
+    "nameEn": "MG 1/100 ADVANCED GN-X",
+    "partNo": "2385245",
+    "releaseDate": "2017-07",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2684",
+    "nameJp": "ＭＧ 1/100 ジムII(ユニコーンＶｅｒ．)",
+    "nameEn": "MG 1/100 GMⅡ(UNICORN Ver.)",
+    "partNo": "2387306",
+    "releaseDate": "2017-09",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2685",
+    "nameJp": "ＭＧ 1/100 高機動型ザク “サイコ・ザク\" (GUNDAM THUNDERBOLT版) ラストセッションＶｅｒ．",
+    "nameEn": "MG 1/100 ZAKUⅡ HIGH MOBILITY TYPE \"PSYCHO ZAKU\" [GUNDAM THUNDERBOLT] LAST SESSION Ver.",
+    "partNo": "2387693",
+    "releaseDate": "2017-09",
+    "brand": "MG",
+    "series": "機動戦士ガンダム サンダーボルト"
+  },
+  {
+    "id": "2686",
+    "nameJp": "ＭＧ 1/100 マサヤ・ナカガワ専用ザクII",
+    "nameEn": "MG 1/100 MS-06R-1A MASAYA NAKAGAWA'S ZAKU II",
+    "partNo": "2388666",
+    "releaseDate": "2017-08",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2687",
+    "nameJp": "ＭＧ 1/100 ブレニフ・オグス専用ザクII",
+    "nameEn": "MG 1/100 MS-06R-1 BRENISS OX'S ZAKU II",
+    "partNo": "2388667",
+    "releaseDate": "2017-10",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2688",
+    "nameJp": "ＭＧ 1/100 フルアーマー・ガンダム(GUNDAM THUNDERBOLT版) ラストセッションＶｅｒ．",
+    "nameEn": "MG 1/100 FULL ARMOR GUNDAM [GUNDAM THUNDERBOLT] LAST SESSION Ver.",
+    "partNo": "2388841",
+    "releaseDate": "2017-08",
+    "brand": "MG",
+    "series": "機動戦士ガンダム サンダーボルト"
+  },
+  {
+    "id": "2689",
+    "nameJp": "ＭＧ 1/100 ジャスティスガンダム [スペシャルコーティング]",
+    "nameEn": "MG 1/100 JUSTICE GUNDAM [SPECIAL COATING]",
+    "partNo": "2388842",
+    "releaseDate": "2017-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
     "id": "269",
     "nameJp": "HG 1/144 ケルディムガンダム",
     "nameEn": "HG 1/144 CHERUDIM GUNDAM",
@@ -3481,6 +8422,96 @@
     "releaseDate": "2008-10",
     "brand": "HG",
     "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2690",
+    "nameJp": "ＭＧ 1/100 ガンダムサンドロック改 EW",
+    "nameEn": "MG 1/100 GUNDAM SANDROCK CUSTOM EW",
+    "partNo": "2389331",
+    "releaseDate": "2017-10",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2691",
+    "nameJp": "ＨＧ 1/144 ガンキャノン最初期型(ロールアウト1号機)",
+    "nameEn": "HG 1/144 GUNCANNON FIRST TYPE (ROLLOUT UNIT 1)",
+    "partNo": "2391598",
+    "releaseDate": "2017-05",
+    "brand": "HG",
+    "series": "機動戦士ガンダム THE ORIGIN"
+  },
+  {
+    "id": "2692",
+    "nameJp": "ＭＧ 1/100 ジム・コマンド(宇宙戦仕様)",
+    "nameEn": "MG 1/100 GM COMMAND SPACE",
+    "partNo": "2392443",
+    "releaseDate": "2017-11",
+    "brand": "HG",
+    "series": "機動戦士ガンダム0080 ポケットの中の戦争"
+  },
+  {
+    "id": "2693",
+    "nameJp": "ＨＧ 1/144 ハンブラビスバン",
+    "nameEn": "HG 1/144 HAMBRABI SUBAN",
+    "partNo": "2393107",
+    "releaseDate": "2017-08",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2694",
+    "nameJp": "ＨＧ 1/144 アメイジングズゴック",
+    "nameEn": "HG 1/144 AMAZING Z’GOK",
+    "partNo": "2393109",
+    "releaseDate": "2017-10",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2695",
+    "nameJp": "ＨＧ 1/144 チニャッガイ",
+    "nameEn": "HG 1/144 CHINYAGGUY",
+    "partNo": "2393110",
+    "releaseDate": "2017-10",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2696",
+    "nameJp": "ＨＧ 1/144 アクセルレイトジンクス",
+    "nameEn": "HG 1/144 ACCELERATE GN-X",
+    "partNo": "2393113",
+    "releaseDate": "2017-10",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2697",
+    "nameJp": "ＨＧ 1/144 ガンダムX十魔王",
+    "nameEn": "HG 1/144 GUNDAM X JUMAOH",
+    "partNo": "2393114",
+    "releaseDate": "2017-11",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2698",
+    "nameJp": "ＨＧ 1/144 ガンダムフェニーチェリベルタ",
+    "nameEn": "HG 1/144 GUNDAM FENICE LIBERTA",
+    "partNo": "2401236",
+    "releaseDate": "2017-11",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2699",
+    "nameJp": "ＨＧ 1/144 こまんどふみな",
+    "nameEn": "HG 1/144 COMMAND FUMINA",
+    "partNo": "2401237",
+    "releaseDate": "2017-11",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
   },
   {
     "id": "27",
@@ -3501,6 +8532,96 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "2700",
+    "nameJp": "ＨＧ 1/144 ヴァイスシナンジュ",
+    "nameEn": "HG 1/144 WEISS SINANJU",
+    "partNo": "2401238",
+    "releaseDate": "2017-12",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2701",
+    "nameJp": "ＨＧ 1/144 サイコジム",
+    "nameEn": "HG 1/144 PSYCHO GM",
+    "partNo": "2401240",
+    "releaseDate": "2017-12",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2702",
+    "nameJp": "ＨＧ 1/144 ヴァイスバーザム",
+    "nameEn": "HG 1/144 WEISS BARZAM",
+    "partNo": "2401241",
+    "releaseDate": "2017-12",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2703",
+    "nameJp": "ＰＧ 1/60 ユニコーンガンダム2号機 バンシィ・ノルン（最終決戦Ｖｅｒ．）",
+    "nameEn": "PG 1/60 RX-0[N] UNICORN GUNDAM 02 BANSHEE NORN (FINAL BATTLE Ver.)",
+    "partNo": "2412540",
+    "releaseDate": "2018-02",
+    "brand": "PG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2704",
+    "nameJp": "ＰＧ 1/60 ガンダムアストレイ レッドフレーム改",
+    "nameEn": "PG 1/60 GUNDAM ASTRAY RED FRAME KAI",
+    "partNo": "2417486",
+    "releaseDate": "2018-06",
+    "brand": "PG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2705",
+    "nameJp": "ＭＧ 1/100 ウイングガンダムゼロ EW & ドライツバーク [スペシャルコーティング]",
+    "nameEn": "MG 1/100 WING GUNDAM ZERO EW & DREI ZWERG [SPECIAL COATING]",
+    "partNo": "2389330",
+    "releaseDate": "2008-01",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2706",
+    "nameJp": "ＭＧ 1/100 ガンダムTR−1 [ヘイズル改](実戦配備カラー)",
+    "nameEn": "MG 1/100 GUNDAM TR-1 [HAZEL CUSTOM] (COMBAT DEPLOYMENT COLORS)",
+    "partNo": "2390742",
+    "releaseDate": "2018-02",
+    "brand": "MG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2707",
+    "nameJp": "ＭＧ 1/100 ジム・スナイパーカスタム (テネス・A・ユング機)",
+    "nameEn": "MG 1/100 TENNETH A. JUNG’S GM SNIPER CUSTOM",
+    "partNo": "2390744",
+    "releaseDate": "2018-01",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2708",
+    "nameJp": "ＨＧ 1/144 ギャラルホルン アリアンロッド艦隊コンプリートセット",
+    "nameEn": "HG 1/144 GJALLARHORN ARIANRHOD FLEET COMPLETE SET",
+    "partNo": "2408715",
+    "releaseDate": "2018-02",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2709",
+    "nameJp": "ＲＥ/100 1/100 ガンキャノン・ディテクター（Ｚ-ＭＳＶ Ｖｅｒ．）",
+    "nameEn": "RE/100 1/100 GUNCANNON DETECTOR (Z-MSV Ver.)",
+    "partNo": "2414832",
+    "releaseDate": "2018-04",
+    "brand": "その他",
+    "series": "ガンダムMSV"
+  },
+  {
     "id": "271",
     "nameJp": "HG 1/144 GN-X（ジンクス）III（アロウズ型）",
     "nameEn": "HG 1/144 GN-X III",
@@ -3510,12 +8631,192 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "2710",
+    "nameJp": "ＨＧ 1/144 グレイズシルト&グレイズ (アリアンロッド所属機) セット",
+    "nameEn": "HG 1/144 GRAZE SCHILD & GRAZE (ARIANRHOD FLEET) SET",
+    "partNo": "2418251",
+    "releaseDate": "2018-04",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2711",
+    "nameJp": "RE/100 1/100 ガンダムMk-III 8号機",
+    "nameEn": "RE/100 1/100 MSF-007-8 GUNDAM MK-Ⅲ UNIT8",
+    "partNo": "2419043",
+    "releaseDate": "2018-06",
+    "brand": "RE/100",
+    "series": "その他"
+  },
+  {
+    "id": "2712",
+    "nameJp": "ＭＧ 1/100 ジム (ホワイト・ディンゴ隊仕様)",
+    "nameEn": "MG 1/100 GM (WHITE DINGO TEAM CUSTOM)",
+    "partNo": "2423968",
+    "releaseDate": "2018-09",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2713",
+    "nameJp": "ＭＧ 1/100 ザク・キャノン (イアン・グレーデン専用機)",
+    "nameEn": "MG 1/100 IAN GRADEN’S ZAKU CANNON",
+    "partNo": "2428535",
+    "releaseDate": "2018-07",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2714",
+    "nameJp": "ＨＧ 1/144 ガズ R/L",
+    "nameEn": "HG 1/144 GAZ-R/L",
+    "partNo": "2428981",
+    "releaseDate": "2019-01",
+    "brand": "HG",
+    "series": "機動戦士ガンダムZZ"
+  },
+  {
+    "id": "2715",
+    "nameJp": "ＭＧ 1/100 ダブルオークアンタ (トランザムモード) [スペシャルコーティング]",
+    "nameEn": "MG 1/100 OO QAN[T] (TRANS-AM MODE) [SPECIAL COATING]",
+    "partNo": "2430750",
+    "releaseDate": "2018-04",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2716",
+    "nameJp": "ＭＧ 1/100 ダブルオーガンダム セブンソード/G (トランザムモード)[スペシャルコーティング]",
+    "nameEn": "MG 1/100 00 GUNDAM SEVEN SWORD/G (TRANS-AM MODE) [SPECIAL COATING]",
+    "partNo": "2431243",
+    "releaseDate": "2018-04",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2717",
+    "nameJp": "ＨＧ 1/144 ジンクスIV (指揮官機)",
+    "nameEn": "HG 1/144 GN-X Ⅳ (Commander Type)",
+    "partNo": "2431320",
+    "releaseDate": "2018-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2718",
+    "nameJp": "ＭＧ 1/100 アナベル・ガトー専用ゲルググ Ｖｅｒ．２．０",
+    "nameEn": "MG 1/100 MS-14A ANAVEL GATO’S GELGOOG Ver.2.0",
+    "partNo": "2431321",
+    "releaseDate": "2018-08",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
+  },
+  {
+    "id": "2719",
+    "nameJp": "ＨＧ 1/144 ヘビーガンダム(ロールアウトカラー)",
+    "nameEn": "HG1/144 HEAVY GUNDAM (ROLLOUT COLOR)",
+    "partNo": "2435748",
+    "releaseDate": "2018-10",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
     "id": "272",
     "nameJp": "HG 1/144 アヘッド",
     "nameEn": "HG 1/144 AHEAD",
     "partNo": "2029285",
     "releaseDate": "2008-11",
     "brand": "HG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2720",
+    "nameJp": "ＨＧ 1/144 ジョニー・ライデン専用ゲルググ",
+    "nameEn": "HG 1/144 MS-14B JOHNNY RIDDEN’S GELGOOG",
+    "partNo": "2435942",
+    "releaseDate": "2018-09",
+    "brand": "HG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2721",
+    "nameJp": "ＨＧ 1/144 シン・マツナガ専用ゲルググJ",
+    "nameEn": "HG 1/144 SHIN MATSUNAGA’S GELGOOG JAGER",
+    "partNo": "2435943",
+    "releaseDate": "2018-09",
+    "brand": "HG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2722",
+    "nameJp": "ＭＧ 1/100 ジム・キャノン [レッド・ヘッド](ジャブロー防衛隊仕様)",
+    "nameEn": "MG 1/100 GM CANNON [RED HEAD](JABRO DEFENSE TEAM CUSTOM)",
+    "partNo": "2435946",
+    "releaseDate": "2019-02",
+    "brand": "MG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "2723",
+    "nameJp": "ＨＧ 1/144 ディジェ（ナラティブＶｅｒ．）",
+    "nameEn": "HG 1/144 DIJEH(NARRATIVE Ver.)",
+    "partNo": "2436315",
+    "releaseDate": "2019-05",
+    "brand": "HG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "2724",
+    "nameJp": "ＲＧ 1/144 トールギス EW[チタニウムフィニッシュ]",
+    "nameEn": "RG 1/144 TALLGEESE EW [TITANIUM FINISH]",
+    "partNo": "2436424",
+    "releaseDate": "2018-10",
+    "brand": "RG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2725",
+    "nameJp": "ＭＧ 1/100 ジム・キャノン (ホワイト・ディンゴ隊仕様)",
+    "nameEn": "MG 1/100 GM CANNON (WHITE DINGO TEAM CUSTOM)",
+    "partNo": "2439478",
+    "releaseDate": "2018-09",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2726",
+    "nameJp": "ＭＧ 1/100 ガンダムX3号機",
+    "nameEn": "MG 1/00 GUNDAM X UNIT 3",
+    "partNo": "2440865",
+    "releaseDate": "2018-07",
+    "brand": "MG",
+    "series": "機動新世紀ガンダムＸ"
+  },
+  {
+    "id": "2727",
+    "nameJp": "RE/100 1/100 ヤクト・ドーガ(クェス・エア機)",
+    "nameEn": "RE/100 1/100 QUESS AIR’S JAGD DOGA",
+    "partNo": "2443698",
+    "releaseDate": "2019-01",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "2728",
+    "nameJp": "ＲＧ 1/144 ウイングガンダムゼロ EW & ドライツバーク[チタニウムフィニッシュ]",
+    "nameEn": "RG 1/144 WING GUNDAM ZERO EW & DREI ZWERG [TITANIUM FINISH]",
+    "partNo": "2454331",
+    "releaseDate": "2018-10",
+    "brand": "RG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2729",
+    "nameJp": "ＭＧ 1/100 ダブルオークアンタ フルセイバー [スペシャルコーティング]",
+    "nameEn": "",
+    "partNo": "2463103",
+    "releaseDate": "2019-07",
+    "brand": "MG",
     "series": "機動戦士ガンダム00"
   },
   {
@@ -3528,6 +8829,96 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "2730",
+    "nameJp": "ＨＧ 1/144 ナラティブガンダム用 B装備拡張セット",
+    "nameEn": "HG 1/144 B-PACKS EXPANSION SET for NARRATIVE GUNDAM",
+    "partNo": "2464715",
+    "releaseDate": "2019-04",
+    "brand": "HG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "2731",
+    "nameJp": "ＨＧ 1/144 緊急脱出ポッド［プリムローズ］",
+    "nameEn": "HG 1/144 EMERGENCY ESCAPE POD [PRIMROSE]",
+    "partNo": "2464718",
+    "releaseDate": "2019-07",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2732",
+    "nameJp": "ＨＧ 1/144 フルドドⅡ 拡張セット（ADVANCE OF Z ティターンズの旗のもとに）",
+    "nameEn": "HG 1/144 HRUDUDUⅡ EXPANSION SET (ADVANCE OF Z THE FLAG OF TITANS)",
+    "partNo": "2464722",
+    "releaseDate": "2019-10",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2733",
+    "nameJp": "ＲＧ 1/144 拡張ユニット アームド・アーマーVN/BS",
+    "nameEn": "RG 1/144 EXPANSION UNIT ARMED ARMOR VN/BS",
+    "partNo": "2466962",
+    "releaseDate": "2019-04",
+    "brand": "RG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2734",
+    "nameJp": "ＨＧ 1/144 ガンダムTR-1[ヘイズル改]&ガンダムTR-6専用拡張パーツセット",
+    "nameEn": "HG 1/144 GUNDAM TR-1 [HAZEL CUSTOM] & EXPANSION PARTS for GUNDAM TR-6",
+    "partNo": "2469592",
+    "releaseDate": "2019-05",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2735",
+    "nameJp": "ＨＧ 1/144 ガンダムTR-1[アドバンスド・ヘイズル]&ガンダムTR-6専用拡張パーツセット",
+    "nameEn": "HG 1/144 GUNDAM TR-1 [ADVANCED HAZEL] & EXPANSION PARTS for GUNDAM TR-6",
+    "partNo": "2469594",
+    "releaseDate": "2019-06",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2736",
+    "nameJp": "ＨＧ 1/144 Gパーツ[フルドド](実戦配備カラー)",
+    "nameEn": "HG 1/144 G-PARTS [HRUDUDU] (COMBAT DEPLOYMENT COLORS)",
+    "partNo": "2469595",
+    "releaseDate": "2019-06",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "2737",
+    "nameJp": "ＭＧ 1/100 シェンロンガンダム EW (タウヤー装備)",
+    "nameEn": "MG 1/100 SHENLONG GUNDAM EW(LIAO YA UNIT)",
+    "partNo": "2469597",
+    "releaseDate": "2019-05",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2738",
+    "nameJp": "ＭＧ 1/100　ガンダムヘビーアームズ EW(イーゲル装備)",
+    "nameEn": "MG 1/100 GUNDAM HEAVYARMS EW (IGEL UNIT)",
+    "partNo": "2469603",
+    "releaseDate": "2019-11",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2739",
+    "nameJp": "ＭＧ 1/144 ジム・スナイパーⅡ（リド・ウォルフ機）",
+    "nameEn": "MG 1/100 Jim Sniper II (Lido Wolf machine)",
+    "partNo": "2478106",
+    "releaseDate": "2019-07",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
     "id": "274",
     "nameJp": "HG 1/144 グフイグナイテッド（ルドルフ・ヴィトゲンシュタイン専用機）",
     "nameEn": "HG RUDOLF‘S GOUF IGNITED",
@@ -3537,6 +8928,96 @@
     "series": "機動戦士ガンダム SEED"
   },
   {
+    "id": "2740",
+    "nameJp": "ＭＧ 1/100 ガンダムF90用ミッションパック Eタイプ＆Sタイプ",
+    "nameEn": "MG 1/100 MISSION PACK E-TYPE & S-TYPE for GUNDAM F90",
+    "partNo": "2478696",
+    "releaseDate": "2019-08",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2741",
+    "nameJp": "ＭＧ 1/100 ガンダムF90用 ミッションパック Ｆタイプ＆Ｍタイプ",
+    "nameEn": "MG 1/100 MISSION PACK F-TYPE & M-TYPE for GUNDAM F90",
+    "partNo": "2478697",
+    "releaseDate": "2019-11",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2742",
+    "nameJp": "ＭＧ 1/100 ガンダムＦ９１ Ｖｅｒ．２．０（ハリソン・マディン専用機）",
+    "nameEn": "MG 1/100 GUNDAM F91 Ver.2.0(HARRISON MADIN CUSTOM)",
+    "partNo": "2482395",
+    "releaseDate": "2019-10",
+    "brand": "MG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2743",
+    "nameJp": "ＨＧ 1/144 ジム・インターセプトカスタム(フェロウ・ブースター装備)",
+    "nameEn": "HG 1/144 GM INTERCEPT CUSTOM (FELLOW BOOSTER UNIT)",
+    "partNo": "2487408",
+    "releaseDate": "2019-09",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2744",
+    "nameJp": "ＭＧ 1/100 ∀ガンダム/ターンX[ナノスキンイメージ]",
+    "nameEn": "MG 1/100 ∀GUNDAM/TURN X[nano skin image]",
+    "partNo": "2489150",
+    "releaseDate": "2019-08",
+    "brand": "MG",
+    "series": "∀ガンダム"
+  },
+  {
+    "id": "2745",
+    "nameJp": "ＨＧ 1/144 シャア専用ザクⅠ(LIMITED MODEL）",
+    "nameEn": "HG 1/144 MS-05S CHAR AZNABLE’S ZAKU Ⅰ(Limited Package Ver.)",
+    "partNo": "2492290",
+    "releaseDate": "2019-09",
+    "brand": "HG",
+    "series": "機動戦士ガンダム THE ORIGIN"
+  },
+  {
+    "id": "2746",
+    "nameJp": "ＭＧ 1/100 ガンダムデュナメス（トランザムモード）［グロスインジェクション］",
+    "nameEn": "MG 1/100 GUNDAM DYNAMES(TRANS-AM MODE)[METALLIC GROSS INJECTION]",
+    "partNo": "2494249",
+    "releaseDate": "2019-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2747",
+    "nameJp": "ＨＧ 1/144 ガンダムＡＧＥIIマグナムＳＶｖｅｒ．（ＦＸプロージョン）",
+    "nameEn": "HG 1/144 GUNDAM AGEⅡ MAGNUM SVver.(FX PLOSION)",
+    "partNo": "2499055",
+    "releaseDate": "2019-11",
+    "brand": "HG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "2748",
+    "nameJp": "ＨＧ 1/144 シナンジュ・スタイン（ユニコーンＶｅｒ．)",
+    "nameEn": "HG 1/144 SINANJU STEIN (UNICORN Ver.)",
+    "partNo": "2500762",
+    "releaseDate": "2019-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2749",
+    "nameJp": "ＭＧ 1/100 ガンダムデスサイズ EW （ルーセット装備)",
+    "nameEn": "MG 1/100 GUNDAM DEATHSCYTHE EW (ROUSSETTE UNIT)",
+    "partNo": "2505894",
+    "releaseDate": "2020-04",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
     "id": "275",
     "nameJp": "HG 1/144 ケルベロスバクゥハウンド(アレック・ラッド専用機)",
     "nameEn": "HG KERBEROS BuCUE HOUND (ASTRAYS ALEC LADD CUSTOM)",
@@ -3544,6 +9025,60 @@
     "releaseDate": "2008-02-23",
     "brand": "HG",
     "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2750",
+    "nameJp": "ＭＧ 1/100 ガンダムF90用 ミッションパック Bタイプ&Kタイプ",
+    "nameEn": "MG 1/100 MISSION PACK B-TYPE & K-TYPE for GUNDAM F90",
+    "partNo": "2510310",
+    "releaseDate": "2020-03",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2751",
+    "nameJp": "ＨＧ 1/144 ガンダムシャイニングブレイク（ＢＥＦＯＲＥ）",
+    "nameEn": "HG 1/144 GUNDAM SHINING BREAK(BEFORE)",
+    "partNo": "2511450",
+    "releaseDate": "2020-10",
+    "brand": "HG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "2752",
+    "nameJp": "ＰＧ 1/60 ダブルオーガンダムセブンソード／Ｇインスペクション",
+    "nameEn": "PG 1/60 00GUNDAM SEVEN SWORD/G INSPECTION",
+    "partNo": "2516456",
+    "releaseDate": "2020-06",
+    "brand": "PG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2753",
+    "nameJp": "ＭＧ 1/100 ガンダムF90用 ミッションパック Oタイプ＆Ｕタイプ",
+    "nameEn": "MG 1/100 MISSION PACK O-TYPE & U-TYPE for GUNDAM F90",
+    "partNo": "2518432",
+    "releaseDate": "2020-09",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2754",
+    "nameJp": "ＭＧ 1/100 ガンダムF90用 ミッションパック Dタイプ&Gタイプ",
+    "nameEn": "MG 1/100 MISSION PACK D-TYPE & G-TYPE for GUNDAM F90",
+    "partNo": "ＭＧ 1/100 ガンダムF90用 ミッションパック Dタイプ&Gタイプ",
+    "releaseDate": "2020-12",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2755",
+    "nameJp": "ＭＧ 1/100 ガンダムアストレイレッドフレーム用 フライトユニット拡張セット",
+    "nameEn": "MG 1/100 FLIGHT UNIT EXPANSION SET for GUNDAM ASTRAY RED FRAME",
+    "partNo": "2518982",
+    "releaseDate": "2020-08",
+    "brand": "MG",
+    "series": "機動戦士ガンダムSEED DESTINY"
   },
   {
     "id": "276",
@@ -3564,6 +9099,69 @@
     "series": "機動戦士ガンダム SEED"
   },
   {
+    "id": "2773",
+    "nameJp": "ＲＧ1/144 デスティニーガンダム[チタニウムフィニッシュ]",
+    "nameEn": "RG1/144 DESTINY GUNDAM[TITANIUM FINISH]",
+    "partNo": "2520371",
+    "releaseDate": "2020-06",
+    "brand": "RG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2774",
+    "nameJp": "ＲＧ 1/144 ストライクフリーダムガンダム[チタニウムフィニッシュ]",
+    "nameEn": "RG 1/144 STRIKE FREEDOM GUNDAM[TITANIUM FINISH]",
+    "partNo": "2520561",
+    "releaseDate": "2021-01",
+    "brand": "RG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2775",
+    "nameJp": "ＨＧ 1/144 クロスボーン・ガンダムＸ１フルクロス",
+    "nameEn": "HG 1/144 CROSSBONE GUNDAM X1 FULL CLOTH",
+    "partNo": "2520820",
+    "releaseDate": "2020-08",
+    "brand": "HG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2776",
+    "nameJp": "ＭＧ 1/100 ジムII（エゥーゴカラーＶｅｒ．）",
+    "nameEn": "MG 1/100 GMⅡ(A.E.U.G COLOR Ver.)",
+    "partNo": "2520987",
+    "releaseDate": "2020-09",
+    "brand": "MG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "2777",
+    "nameJp": "ＲＧ 1/144 νガンダムＨＷＳ",
+    "nameEn": "RG 1/144 ν GUNDAM HWS",
+    "partNo": "2521851",
+    "releaseDate": "2020-09",
+    "brand": "RG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2778",
+    "nameJp": "ＲＧ 1/144 νガンダム用ＨＷＳ拡張セット",
+    "nameEn": "RG 1/144 HWS EXPANSION SET for ν GUNDAM",
+    "partNo": "2521852",
+    "releaseDate": "2020-09",
+    "brand": "RG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2779",
+    "nameJp": "ＨＧ 1/144 Ｒ・ジャジャ （Twilight AXIS Ｖｅｒ．）",
+    "nameEn": "HG 1/144 R-JARJA (Twilight AXIS Ver.)",
+    "partNo": "2525022",
+    "releaseDate": "2020-07",
+    "brand": "HG",
+    "series": "機動戦士ガンダム Twilight AXIS"
+  },
+  {
     "id": "278",
     "nameJp": "HG 1/144 アームズアストレイPMCカスタム(レオンズ・グレイブス専用機)",
     "nameEn": "HG ARMS ASTRAY PMC CUSTOM (LEONS GRAVES)",
@@ -3580,6 +9178,60 @@
     "releaseDate": "2008-06",
     "brand": "HG",
     "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2794",
+    "nameJp": "ＨＧ 1/144 高機動試作型ザク",
+    "nameEn": "HG 1/144 ZAKU HIGH MOBILITY TEST TYPE",
+    "partNo": "2333619",
+    "releaseDate": "2016-04",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2795",
+    "nameJp": "RE/100 1/100 イフリート・シュナイド",
+    "nameEn": "RE 1/100 EFREET SCHNEID",
+    "partNo": "2339489",
+    "releaseDate": "2016-09",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2796",
+    "nameJp": "ＭＧ 1/100 百式改",
+    "nameEn": "MG 1/100 HYAKU SHIKI-KAI",
+    "partNo": "2339745",
+    "releaseDate": "2016-08",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2797",
+    "nameJp": "ＭＧ 1/100 スタービルドストライクガンダム(RGシステムＶｅｒ．)",
+    "nameEn": "MG 1/100 STAR BUILD STRIKE GUNDAM (RG SYSTEM Ver.)",
+    "partNo": "2342142",
+    "releaseDate": "2016-04",
+    "brand": "MG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2798",
+    "nameJp": "ＨＧ 1/144 クロスボーン・ガンダムX2",
+    "nameEn": "HGUC 1/144 CROSSBONE GUNDAM X2",
+    "partNo": "2342361",
+    "releaseDate": "2016-05",
+    "brand": "HG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "2799",
+    "nameJp": "ＨＧ 1/144 メガ・バズーカ・ランチャー",
+    "nameEn": "HGUC 1/144 MEGA BAZOOKA LAUNCHER",
+    "partNo": "2342364",
+    "releaseDate": "2016-09",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
   },
   {
     "id": "28",
@@ -3600,6 +9252,96 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "2800",
+    "nameJp": "ＨＧ 1/144 ブラストインパルスガンダム",
+    "nameEn": "HGCE 1/144 BLAST IMPULSE GUNDAM",
+    "partNo": "2342365",
+    "releaseDate": "2016-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "2801",
+    "nameJp": "ＨＧ 1/144 イージーエスアールフォックスハウンド",
+    "nameEn": "HG 1/144 Ez-SR-FOXHOUND",
+    "partNo": "2342370",
+    "releaseDate": "2016-04",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2802",
+    "nameJp": "ＨＧ 1/144 ゴーストジェガン Ｆ",
+    "nameEn": "HGBF 1/144 GHOST JEGAN F",
+    "partNo": "2342373",
+    "releaseDate": "2016-08",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2803",
+    "nameJp": "ＨＧ 1/144 ゴーストジェガン Ｍ",
+    "nameEn": "HGBF 1/144 GHOST JEGAN M",
+    "partNo": "2342374",
+    "releaseDate": "2016-08",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2804",
+    "nameJp": "ＨＧ 1/144 すーぱーふみな ティターンズメイドＶｅｒ．",
+    "nameEn": "HG 1/144 SUPER FUMINA TITANS MAID Ver.",
+    "partNo": "2342375",
+    "releaseDate": "2016-11",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2805",
+    "nameJp": "ＭＧ 1/100 パワード・ジム",
+    "nameEn": "MG 1/100 POWERED GM",
+    "partNo": "2346193",
+    "releaseDate": "2016-07",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
+  },
+  {
+    "id": "2806",
+    "nameJp": "ＭＧ 1/100 フリーダムガンダム Ｖｅｒ．２．０ フルバーストモード スペシャルコーティングＶｅｒ．",
+    "nameEn": "MG 1/100 FREEDOM GUNDAM Ver.2.0 FULL BURST MODE SPECIAL COATING Ver.",
+    "partNo": "2346194",
+    "releaseDate": "2016-05",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2807",
+    "nameJp": "ＨＧ 1/144 水中型ガンダム",
+    "nameEn": "HG 1/144 GUNDAM MARINE TYPE [GUNDIVER]",
+    "partNo": "2346793",
+    "releaseDate": "2016-10",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2808",
+    "nameJp": "ＭＧ 1/100 ウエポン&アーマーハンガー FOR フルアーマー・ガンダム Ｖｅｒ．Ka (GUNDAM THUNDERBOLT版)",
+    "nameEn": "MG 1/100 WEAPON & ARMOR HANGER for FULL ARMOR GUNDAM [GUNDAM THUNDERBOLT] Ver.Ka",
+    "partNo": "2346808",
+    "releaseDate": "2016-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダム サンダーボルト"
+  },
+  {
+    "id": "2809",
+    "nameJp": "ＭＧ 1/100 νガンダム HWS Ｖｅｒ．Ka",
+    "nameEn": "MG 1/100 ν GUNDAM HWS Ver.Ka",
+    "partNo": "2346880",
+    "releaseDate": "2016-12",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
     "id": "281",
     "nameJp": "HG 1/144 GNアームズ TYPE-D＋ガンダムデュナメス",
     "nameEn": "HG 1/144 GN ARMS TYPE-D + GUNDAM DYNAMES",
@@ -3607,6 +9349,42 @@
     "releaseDate": "2008-09",
     "brand": "HG",
     "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2810",
+    "nameJp": "ＭＧ 1/100 ガンダムヘビーアームズ改 EW",
+    "nameEn": "MG 1/100 GUNDAM HEAVYARMS CUSTOM EW",
+    "partNo": "2351770",
+    "releaseDate": "2016-10",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "2811",
+    "nameJp": "ＭＧ 1/100 インパルスガンダムブランシュ",
+    "nameEn": "MG 1/100 IMPULSE GUNDAM BLANCHE",
+    "partNo": "2358032",
+    "releaseDate": "2016-09",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2812",
+    "nameJp": "ＭＧ 1/100 パーフェクトストライクガンダム スペシャルコーティングＶｅｒ．",
+    "nameEn": "MG 1/100 PERFECT STRIKE GUNDAM SPECIAL COATING Ver.",
+    "partNo": "2358374",
+    "releaseDate": "2016-10",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2813",
+    "nameJp": "ＨＧ 1/144 ソードインパルスガンダム",
+    "nameEn": "HG 1/144 SWORD IMPULSE GUNDAM",
+    "partNo": "2359678",
+    "releaseDate": "2016-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダムSEED DESTINY"
   },
   {
     "id": "282",
@@ -3627,6 +9405,15 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "2839",
+    "nameJp": "ＲＧ 1/144 シナンジュ用 拡張セット",
+    "nameEn": "RG 1/144 EXPANSION SET for RG SINANJU",
+    "partNo": "2347107",
+    "releaseDate": "2016-09",
+    "brand": "RG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
     "id": "284",
     "nameJp": "HG 1/144 ミスター・ブシドー専用アヘッド",
     "nameEn": "HG 1/144 BUSHIDO'S AHEAD",
@@ -3634,6 +9421,51 @@
     "releaseDate": "2008-12-07",
     "brand": "HG",
     "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2840",
+    "nameJp": "ＨＧ 1/144 グフ(21stCENTURY REAL TYPE Ｖｅｒ．)",
+    "nameEn": "HGUC 1/144 GOUF（21stCENTURY REAL TYPE Ver.）",
+    "partNo": "2347690",
+    "releaseDate": "2016-06",
+    "brand": "HG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2841",
+    "nameJp": "ＨＧ 1/144 ガンダム(21stCENTURY REAL TYPE Ｖｅｒ．)",
+    "nameEn": "HGUC 1/144 RX-78 GUNDAM （21stCENTURY REAL TYPE Ver.）",
+    "partNo": "2347691",
+    "releaseDate": "2016-06",
+    "brand": "HG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2842",
+    "nameJp": "ＨＧ 1/144 ガンダムバルバトス コンプリートセット",
+    "nameEn": "HG 1/144 GUNDAM BARBATOS COMPLETE SET",
+    "partNo": "2350813",
+    "releaseDate": "2016-07",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2848",
+    "nameJp": "ガンダムデカールＤＸ 06 機動戦士ガンダムUC MS用 【1/100スケール 推奨】",
+    "nameEn": "",
+    "partNo": "2351313",
+    "releaseDate": "2014-04",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "2849",
+    "nameJp": "ＨＧ 1/144 ブグ",
+    "nameEn": "HG 1/144 MS-04 BUGU",
+    "partNo": "2352503",
+    "releaseDate": "2017-02",
+    "brand": "HG",
+    "series": "機動戦士ガンダム THE ORIGIN"
   },
   {
     "id": "285",
@@ -3645,6 +9477,96 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "2850",
+    "nameJp": "ＨＧ 1/144 ジム・スナイパーII(リド・ウォルフ機)",
+    "nameEn": "HGUC 1/144 LYDO WOLF'S GM SNIPER II",
+    "partNo": "2358984",
+    "releaseDate": "2016-09",
+    "brand": "HG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2851",
+    "nameJp": "ＭＧ 1/100 ロバート・ギリアム専用ザクII",
+    "nameEn": "MG 1/100 MS-06R-2 ROBERT GILLIAM’S ZAKU II",
+    "partNo": "2362316",
+    "releaseDate": "2016-11",
+    "brand": "MG",
+    "series": "ガンダムMSV"
+  },
+  {
+    "id": "2852",
+    "nameJp": "ＨＧ 1/144 イオフレーム獅電改(流星号)",
+    "nameEn": "HG 1/144 IO FRAME SHIDEN CUSTOM (RYUSEI-GO)",
+    "partNo": "2366160",
+    "releaseDate": "2016-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2853",
+    "nameJp": "ＨＧ 1/144 ユーゴー ツインセット",
+    "nameEn": "HG 1/144 HUGO TWIN SET",
+    "partNo": "2366161",
+    "releaseDate": "2017-01",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2854",
+    "nameJp": "ＨＧ 1/144 モビルレギンレイズ(イオク機)",
+    "nameEn": "HG 1/144 IOK'S MOBILE REGINLAZE",
+    "partNo": "2366163",
+    "releaseDate": "2017-03",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2855",
+    "nameJp": "ＭＧ 1/100 プロヴィデンスガンダム用 ドラグーンディスプレイエフェクト",
+    "nameEn": "MG 1/100 DRAGOON DISPLAY EFFECT for PROVIDENCE GUNDAM",
+    "partNo": "2375612",
+    "releaseDate": "2017-06",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2856",
+    "nameJp": "ＨＧ 1/144 ガンダムフラウロス(厄祭戦時)",
+    "nameEn": "HG 1/144 GUNDAM FLAUROS (CALAMITY WAR TYPE)",
+    "partNo": "2380411",
+    "releaseDate": "2017-04",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2857",
+    "nameJp": "ＨＧ 1/144 モビルレギンレイズ(一般機)",
+    "nameEn": "HG 1/144 MOBILE REGINLAZE (STANDARD TYPE)",
+    "partNo": "2380412",
+    "releaseDate": "2017-05",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2858",
+    "nameJp": "ＨＧ 1/144 ゲルググ(ユニコーンＶｅｒ．)",
+    "nameEn": "HG 1/144 GELGOOG（UNICORN Ver.）",
+    "partNo": "2381670",
+    "releaseDate": "2017-05",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2859",
+    "nameJp": "ＭＧ 1/100 ダブルゼータガンダム Ｖｅｒ．Ka用 強化型拡張パーツ",
+    "nameEn": "MG 1/100 ENHANCED EXPANSION PARTS FOR ZZ GUNDAM Ver.Ka",
+    "partNo": "2381812",
+    "releaseDate": "2017-12",
+    "brand": "MG",
+    "series": "機動戦士ガンダムZZ"
+  },
+  {
     "id": "286",
     "nameJp": "HG 1/144 トランザムライザー グロスインジェクションバージョン",
     "nameEn": "HG 1/144 TRANS-AM RAISER",
@@ -3654,6 +9576,87 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "2860",
+    "nameJp": "ＭＧ 1/100 ダブルオーザンライザー",
+    "nameEn": "MG 1/100　OO XN RAISER",
+    "partNo": "2385243",
+    "releaseDate": "2017-07",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2861",
+    "nameJp": "ＭＧ 1/100 アドヴァンスドジンクス(デボラ機)",
+    "nameEn": "MG 1/100 DEBORAH’S ADVANCED GN-X",
+    "partNo": "2385244",
+    "releaseDate": "2017-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2862",
+    "nameJp": "ＨＧ 1/144 イオフレーム獅電改(オルガ機)",
+    "nameEn": "HG 1/144 ORGA'S IO FRAME SHIDEN CUSTOM",
+    "partNo": "2385246",
+    "releaseDate": "2017-07",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2863",
+    "nameJp": "ＨＧ 1/144 ザクII改 Bタイプ(ユニコーンＶｅｒ．)",
+    "nameEn": "HG 1/144 ZAKU ⅡFZ TYPE-B (UNICORN Ver.)",
+    "partNo": "2385355",
+    "releaseDate": "2017-05",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2864",
+    "nameJp": "ＭＧ 1/100 キャスバル専用ガンダム Ｖｅｒ．３．０",
+    "nameEn": "MG 1/100 CASVAL'S GUNDAM Ver.3.0",
+    "partNo": "2387305",
+    "releaseDate": "2017-08",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "2866",
+    "nameJp": "RE/100 1/100 バウ（量産型）",
+    "nameEn": "RE/100 1/100 BAWOO (MASS PRODUCTION TYPE)",
+    "partNo": "2387405",
+    "releaseDate": "2017-09",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダムZZ"
+  },
+  {
+    "id": "2867",
+    "nameJp": "ＰＧ 1/60 トランザムライザー クリアカラーボディ",
+    "nameEn": "PG 1/60 CLEAR COLOR BODY for TRANS-AM RAISER",
+    "partNo": "2387691",
+    "releaseDate": "2017-06",
+    "brand": "PG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2868",
+    "nameJp": "ＨＧ 1/144 ストライクフリーダムガンダム 光の翼DXエディション",
+    "nameEn": "HG 1/144 STRIKE FREEDOM GUNDAM “WINGS OF LIGHT” DX EDITION",
+    "partNo": "2388843",
+    "releaseDate": "2017-10",
+    "brand": "HG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "2869",
+    "nameJp": "ＨＧ 1/144 局地型ガンダム (ロールアウトカラー)",
+    "nameEn": "HG 1/144 RX-78-01[N] GUNDAM LOCAL TYPE[ROLLOUT COLOR]",
+    "partNo": "2391572",
+    "releaseDate": "2017-11",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
     "id": "287",
     "nameJp": "HG 1/144 オーガンダム（実戦配備型）",
     "nameEn": "HG 1/144 O GUNDAM（Type A.C.D.）",
@@ -3661,6 +9664,33 @@
     "releaseDate": "2009-06",
     "brand": "HG",
     "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2870",
+    "nameJp": "ＨＧ 1/144 グレイズ(地上戦仕様) ツインセット",
+    "nameEn": "HG 1/144 GRAZE GROUND TYPE TWIN SET",
+    "partNo": "2408713",
+    "releaseDate": "2017-11",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2872",
+    "nameJp": "ＨＧ 1/144 Hi-νガンダムインフラックス",
+    "nameEn": "HGBF 1/144 Hi-vGUNDAM INFLUX",
+    "partNo": "2342371",
+    "releaseDate": "2016-04",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "2873",
+    "nameJp": "ＭＧ 1/100 新機動戦記ガンダムＷ ＥＷシリーズ用拡張パーツセット（敗者たちの栄光仕様）",
+    "nameEn": "MG 1/100 EXPANSION PARTS SET for MOBILE SUIT GUNDAM W EW SERIES (The Glory of Losers Ver.)",
+    "partNo": "2552263",
+    "releaseDate": "2021-05",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
   },
   {
     "id": "288",
@@ -3699,6 +9729,51 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "2905",
+    "nameJp": "ＲＧ 1/144 ユニコーンガンダム２号機 バンシィ・ノルン (最終決戦仕様) [スペシャルコーティング]",
+    "nameEn": "RG 1/144 UNICORN GUNDAM 02 BANSHEE NORN (FINAL BATTLE Ver.) [SPECIAL COATING]",
+    "partNo": "2564293",
+    "releaseDate": "2025-02",
+    "brand": "RG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "2906",
+    "nameJp": "ＨＧ 1/144 ガンダムサバーニャ（最終決戦仕様）",
+    "nameEn": "HG 1/144 GUNDAM ZABANYA (FINAL BATTLE Ver.)",
+    "partNo": "2570542",
+    "releaseDate": "2021-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2907",
+    "nameJp": "ＨＧ 1/144 デルタザイン",
+    "nameEn": "HG 1/144 DELTA ZAYIN",
+    "partNo": "2721354",
+    "releaseDate": "2025-02",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "2908",
+    "nameJp": "ＨＧ 1/144 ザクＩＩ Ｆ型 チャブス機 ＆ ケイル機 + 無識別型ザクＩＩ ソラリ機 再現パーツセット(復讐のレクイエム)",
+    "nameEn": "HG 1/144 ZAKUⅡ F TYPE CHUBS & KALE +  ZAKUⅡ (UNIDENTIFIED TYPE) SOLARI CUSTOM PARTS SET (RFV)",
+    "partNo": "2725235",
+    "releaseDate": "2025-02",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 復讐のレクイエム"
+  },
+  {
+    "id": "2909",
+    "nameJp": "ＨＧ 1/144 Ｄガンダムファースト",
+    "nameEn": "HG 1/144 D GUNDAM FIRST",
+    "partNo": "2745402",
+    "releaseDate": "2025-02",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
     "id": "291",
     "nameJp": "HG 1/144 リボーンズガンダム",
     "nameEn": "HG 1/144 REBORNS GUNDAM",
@@ -3706,6 +9781,15 @@
     "releaseDate": "2009-09-10",
     "brand": "HG",
     "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2910",
+    "nameJp": "ＨＧ 1/144 デスルター",
+    "nameEn": "HG 1/144 DESULTOR",
+    "partNo": "2753019",
+    "releaseDate": "2025-02",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 水星の魔女"
   },
   {
     "id": "292",
@@ -3724,6 +9808,24 @@
     "releaseDate": "2009-01",
     "brand": "HG",
     "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2938",
+    "nameJp": "MG 1/100 ガンダムヴィダール",
+    "nameEn": "MG 1/100 GUNDAM VIDAR",
+    "partNo": "2745391",
+    "releaseDate": "2025-03-22",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "2939",
+    "nameJp": "HG 1/144 サイコ・ガンダムMk-II",
+    "nameEn": "HG 1/144 PSYCHO GUNDAM Mk-II",
+    "partNo": "2745406",
+    "releaseDate": "2025-03-22",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
   },
   {
     "id": "294",
@@ -3760,6 +9862,24 @@
     "releaseDate": "2009-01",
     "brand": "HG",
     "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "2971",
+    "nameJp": "HG 1/144 軍警ザク",
+    "nameEn": "HG 1/144 POLICE ZAKU",
+    "partNo": "2759290",
+    "releaseDate": "2025-04-12",
+    "brand": "HG",
+    "series": "機動戦士Gundam GQuuuuuuX"
+  },
+  {
+    "id": "2972",
+    "nameJp": "オプションパーツセット ガンプラ 16 (メテオホッパー)",
+    "nameEn": "OPTION PARTS SET GUNPLA 16 (METEOR HOPPER)",
+    "partNo": "2762124",
+    "releaseDate": "2025-04-26",
+    "brand": "オプションパーツセット",
+    "series": "ガンダムビルドファイターズ"
   },
   {
     "id": "298",
@@ -3834,6 +9954,33 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "3037",
+    "nameJp": "EXPO2025 1/144 RX-78F00/E ガンダム (EX-001 グラスフェザー装備)",
+    "nameEn": "1/144 RX-78F00/E GUNDAM (EX-001 G.L.R.S.S. Feather UNIT)",
+    "partNo": "2742131",
+    "releaseDate": "2025-04-11",
+    "brand": "その他",
+    "series": "ガンプラ"
+  },
+  {
+    "id": "3038",
+    "nameJp": "EXPO2025 ENTRY GRADE 1/144 RX-78F00/E ガンダム",
+    "nameEn": "ENTRY GRADE 1/144 RX-78F00/E GUNDAM",
+    "partNo": "2742132",
+    "releaseDate": "2025-04-11",
+    "brand": "ENTRY GRADE",
+    "series": "ガンプラ"
+  },
+  {
+    "id": "3039",
+    "nameJp": "EXPO2025 ENTRY GRADE 1/144 RX-78F00/E ガンダム用オプションパーツセット (EX-001 グラスフェザー装備)",
+    "nameEn": "ENTRY GRADE 1/144 OPTION PARTS SET for RX-78F00/E GUNDAM (EX-001 G.L.R.S.S. Feather UNIT)",
+    "partNo": "2742133",
+    "releaseDate": "2025-04-11",
+    "brand": "ENTRY GRADE",
+    "series": "ガンプラ"
+  },
+  {
     "id": "304",
     "nameJp": "HG 1/144 ダブルオーライザー＋GNソードIII",
     "nameEn": "HG 1/144 OO RAISER+GN SWORD III",
@@ -3868,6 +10015,24 @@
     "releaseDate": "2009-12-17",
     "brand": "HG",
     "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "3070",
+    "nameJp": "アクションベース7 [クリアカラー] 機動戦士Gundam GQuuuuuuXシールセット",
+    "nameEn": "ACTION BASE 7 [CLEAR COLOR] Mobile Suit Gundam GQuuuuuuX STICKERS SET",
+    "partNo": "2773780",
+    "releaseDate": "2025-05-03",
+    "brand": "アクションベース",
+    "series": "機動戦士Gundam GQuuuuuuX"
+  },
+  {
+    "id": "3071",
+    "nameJp": "HG 1/144 ゲルググ スガイ機(GQ)",
+    "nameEn": "HG 1/144 SUGAI'S GELGOOG（GQ)",
+    "partNo": "2762126",
+    "releaseDate": "2025-05-03",
+    "brand": "HG",
+    "series": "機動戦士Gundam GQuuuuuuX"
   },
   {
     "id": "308",
@@ -3906,6 +10071,15 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "3103",
+    "nameJp": "HG 1/144 赤いガンダム",
+    "nameEn": "HG 1/144 RED GUNDAM",
+    "partNo": "2762125",
+    "releaseDate": "2025-05-31",
+    "brand": "HG",
+    "series": "機動戦士Gundam GQuuuuuuX"
+  },
+  {
     "id": "311",
     "nameJp": "HG 1/144 ダブルオーライザー（粒子貯蔵タンク型）",
     "nameEn": "HG 1/144 OO RAISER GN CONDENSER TYPE",
@@ -3933,6 +10107,42 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "3136",
+    "nameJp": "RE/100 1/100 MSN-04Ⅱ　ナイチンゲール",
+    "nameEn": "RE/100 1/100 MSN-04 II NIGHTINGALE",
+    "partNo": "2267000",
+    "releaseDate": "2014-09",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "3137",
+    "nameJp": "RE/100 1/100 MSF-007 ガンダムMkーⅢ",
+    "nameEn": "RE/100 1/100 GUNDAM MK-III",
+    "partNo": "2279783",
+    "releaseDate": "2015-01",
+    "brand": "RE/100",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "3138",
+    "nameJp": "RE/100 1/100 GP04G ガンダム試作4号機 ガーベラ",
+    "nameEn": "RE/100 1/100 GUNDAM GP04 GERBERA",
+    "partNo": "2279784",
+    "releaseDate": "2015-04",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
+  },
+  {
+    "id": "3139",
+    "nameJp": "RE/100 1/100 MSK-008 ディジェ",
+    "nameEn": "RE/100 1/100 DIJEH",
+    "partNo": "2297021",
+    "releaseDate": "2015-06",
+    "brand": "RE/100",
+    "series": "機動戦士Zガンダム"
+  },
+  {
     "id": "314",
     "nameJp": "HG 1/144 ラファエルガンダム",
     "nameEn": "HG 1/144 RAPHAEL GUNDAM",
@@ -3942,6 +10152,96 @@
     "series": "機動戦士ガンダム00"
   },
   {
+    "id": "3140",
+    "nameJp": "RE/100 1/100 MS-08TX[EXAM]　イフリート改",
+    "nameEn": "RE/100 1/100 EFREET CUSTOM",
+    "partNo": "2301245",
+    "releaseDate": "2016-04",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "3141",
+    "nameJp": "RE/100 1/100 AMX-107　バウ",
+    "nameEn": "RE/100 1/100 BAWOO",
+    "partNo": "2346794",
+    "releaseDate": "2016-11",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダムZZ"
+  },
+  {
+    "id": "3142",
+    "nameJp": "RE/100 1/100 AMX-107R  リバウ",
+    "nameEn": "RE/100 1/100 REBAWOO",
+    "partNo": "2346795",
+    "releaseDate": "2017-02",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "3143",
+    "nameJp": "RE/100 1/100 AMX-103　ハンマ・ハンマ",
+    "nameEn": "RE/100 1/100 HAMMA-HAMMA",
+    "partNo": "2378346",
+    "releaseDate": "2017-07",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダムZZ"
+  },
+  {
+    "id": "3144",
+    "nameJp": "RE/100 1/100 MSA-005K ガンキャノン・ディテクター",
+    "nameEn": "RE/100 1/100 GUNCANNON DETECTOR",
+    "partNo": "2404346",
+    "releaseDate": "2018-02",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "3145",
+    "nameJp": "RE/100 1/100 XM-07 ビギナ・ギナ",
+    "nameEn": "RE/100 1/100 VIGNA-GHINA",
+    "partNo": "2417171",
+    "releaseDate": "2018-06",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダムF91"
+  },
+  {
+    "id": "3146",
+    "nameJp": "RE/100 1/100 MSN-03 ヤクト・ドーガ（ギュネイ・ガス機）",
+    "nameEn": "RE/100 1/100 GYUNEI GUSS’S JAGD DOGA",
+    "partNo": "2419358",
+    "releaseDate": "2018-09",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "3147",
+    "nameJp": "RE/100 1/100 LM111E02　ガンイージ",
+    "nameEn": "RE/100 1/100 GUN EZ",
+    "partNo": "2436523",
+    "releaseDate": "2018-12",
+    "brand": "RE/100",
+    "series": "機動戦士Vガンダム"
+  },
+  {
+    "id": "3148",
+    "nameJp": "RE/100 1/100 XM-07B　ビギナ・ギナⅡ",
+    "nameEn": "RE/100 1/100 VIGNA-GHINA Ⅱ",
+    "partNo": "2464711",
+    "releaseDate": "2019-05",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダムF91"
+  },
+  {
+    "id": "3149",
+    "nameJp": "RE/100 1/100 MS-06FZ　ザクⅡ改",
+    "nameEn": "RE/100 1/100 ZAKUⅡ FZ",
+    "partNo": "2464713",
+    "releaseDate": "2019-07",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダム0080 ポケットの中の戦争"
+  },
+  {
     "id": "315",
     "nameJp": "HG 1/144 ブレイヴ指揮官用試験機",
     "nameEn": "HG 1/144 BRAVE (COMMANDER TEST TYPE)",
@@ -3949,6 +10249,24 @@
     "releaseDate": "2010-11-13",
     "brand": "HG",
     "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "3150",
+    "nameJp": "1/100 鉄血のオルフェンズ シュヴァルベグレイズ (マクギリス機)",
+    "nameEn": "1/100 MCGILLIS'S SCHWALBE GRAZE",
+    "partNo": "2326210",
+    "releaseDate": "2016-01",
+    "brand": "その他",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "3151",
+    "nameJp": "ＭＧ 1/100 ジムＩＩ",
+    "nameEn": "MG 1/100 RGM-179 GM II",
+    "partNo": "2353221",
+    "releaseDate": "2017-01",
+    "brand": "MG",
+    "series": "機動戦士Zガンダム"
   },
   {
     "id": "316",
@@ -3967,6 +10285,24 @@
     "releaseDate": "2011-09-23",
     "brand": "HG",
     "series": "機動戦士ガンダムAGE"
+  },
+  {
+    "id": "3170",
+    "nameJp": "HG 1/144 ゲルググ ボカタ機(GQ)",
+    "nameEn": "HG 1/144 BOCATA'S GELGOOG(GQ)",
+    "partNo": "2773788",
+    "releaseDate": "2025-06-07",
+    "brand": "HG",
+    "series": "機動戦士Gundam GQuuuuuuX"
+  },
+  {
+    "id": "3171",
+    "nameJp": "Figure-rise Standard アマテ・ユズリハ(マチュ)",
+    "nameEn": "Figure-rise Standard AMATE YUZURIHA(MACHU)",
+    "partNo": "2759291",
+    "releaseDate": "2025-06-07",
+    "brand": "Figure-rise Standard",
+    "series": "機動戦士Gundam GQuuuuuuX"
   },
   {
     "id": "318",
@@ -5978,7 +12314,7 @@
   {
     "id": "519",
     "nameJp": "MG 1/100 MS-06F-2 ザクII F2型 (連邦軍仕様)",
-    "nameEn": "MG 1/100 ZAKU F2 (EARTH FEDERATION)",
+    "nameEn": "MG 1/100 MS-06F-2 ZAKUII F2",
     "partNo": "1113781",
     "releaseDate": "2002-09",
     "brand": "MG",
@@ -6014,7 +12350,7 @@
   {
     "id": "522",
     "nameJp": "MG 1/100 RX-78-4 ガンダム4号機",
-    "nameEn": "MG 1/100 RX-78-4 GUNDAM",
+    "nameEn": "MG 1/100 RX-78-4 GUNDAM G04",
     "partNo": "1120466",
     "releaseDate": "2003-07",
     "brand": "MG",
@@ -6023,7 +12359,7 @@
   {
     "id": "523",
     "nameJp": "MG 1/100 RX-78-5 ガンダム5号機",
-    "nameEn": "MG 1/100 RX-78-5 GUNDAM",
+    "nameEn": "MG 1/100 RX-78-5 GUNDAM G05",
     "partNo": "1120467",
     "releaseDate": "2003-08",
     "brand": "MG",
@@ -6149,7 +12485,7 @@
   {
     "id": "536",
     "nameJp": "MG 1/100 百式＋バリュートシステム",
-    "nameEn": "MG 1/100 HYAKUSHIKI + BALLUTE SYSTEM",
+    "nameEn": "MG 1/100 HYAKU-SHIKI + BALLUTE SYSTEM",
     "partNo": "1134112",
     "releaseDate": "2005-09-17",
     "brand": "MG",
@@ -6670,7 +13006,7 @@
   },
   {
     "id": "589",
-    "nameJp": "MG 1/100 XXXG-01W ウィングガンダム EW",
+    "nameJp": "MG 1/100 XXXG-01W ウイングガンダム EW",
     "nameEn": "MG 1/100 XXXG-01W WING GUNDAM EW VER.",
     "partNo": "2130873",
     "releaseDate": "2011-03-26",
@@ -7544,7 +13880,7 @@
   {
     "id": "677",
     "nameJp": "RG 1/144 サザビー",
-    "nameEn": "RG 1/144 SAZABY",
+    "nameEn": "RG 1/144 SAZABI",
     "partNo": "2426271",
     "releaseDate": "2018-08-11",
     "brand": "RG",
@@ -8858,7 +15194,7 @@
   {
     "id": "810",
     "nameJp": "MG 1/100 MSN-00100 百式",
-    "nameEn": "MG 1/100 MSN-100 HYAKUSHIKI",
+    "nameEn": "MG 1/100 MSN-100 HYAKU-SHIKI",
     "partNo": "1100584",
     "releaseDate": "2001-03",
     "brand": "MG",
@@ -8921,7 +15257,7 @@
   {
     "id": "817",
     "nameJp": "MG 1/100 MSA-0011[Ext] Ex-Sガンダム",
-    "nameEn": "MG 1/100 MSA-0011(EXT) EX-S GUNDAM",
+    "nameEn": "MG 1/100 MSA-0011[EXT] EX-S GUNDAM",
     "partNo": "1116415",
     "releaseDate": "2003-03",
     "brand": "MG",
@@ -8966,7 +15302,7 @@
   {
     "id": "821",
     "nameJp": "HGUC 1/144 百式＋メガバズーカランチャー",
-    "nameEn": "HGUC 1/144 HYAKUSHIKI+ MEGA-BAZOOKA",
+    "nameEn": "HGUC 1/144 HYAKU-SHIKI+ MEGABAZOOKALAUNCHER",
     "partNo": "1126793",
     "releaseDate": "2004-07",
     "brand": "HGUC",
@@ -9127,7 +15463,7 @@
   },
   {
     "id": "838",
-    "nameJp": "MG 1/100 MS-06F ザク Ver.2.0",
+    "nameJp": "MG 1/100 MS-06F ザクⅡ Ver.2.0",
     "nameEn": "MG 1/100 MS-06Ｆ ZAKUⅡ Ver.2.0",
     "partNo": "2031560",
     "releaseDate": "2008-03",
@@ -9281,7 +15617,7 @@
   {
     "id": "853",
     "nameJp": "MG 1/100 百式 Ver.2.0",
-    "nameEn": "MG 1/100 HYAKUSHIKI Ver.2.0",
+    "nameEn": "MG 1/100 HYAKU-SHIKI Ver.2.0",
     "partNo": "2297020",
     "releaseDate": "2015-05-30",
     "brand": "MG",
@@ -9497,7 +15833,7 @@
   {
     "id": "875",
     "nameJp": "MG 1/100 RGM-79C ジム改（スタンダードカラー）",
-    "nameEn": "MG 1/100 RGM-79C GM (SPACE USE)",
+    "nameEn": "MG 1/100 RGM-79C GM TYPE C",
     "partNo": "1114214",
     "releaseDate": "2002-11",
     "brand": "MG",
@@ -9992,7 +16328,7 @@
   {
     "id": "924",
     "nameJp": "HGAW 1/144 ガンダムX(エックス)",
-    "nameEn": "HGUC 1/144 GUNDAM X",
+    "nameEn": "HGAW 1/144 GUNDAM X",
     "partNo": "2090757",
     "releaseDate": "2010-04-15",
     "brand": "HG",
