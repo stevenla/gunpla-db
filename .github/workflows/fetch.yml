@@ -10,6 +10,8 @@ on:
         description: 'Clean'
         default: false
         type: boolean
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   build:
