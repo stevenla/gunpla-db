@@ -8,6 +8,7 @@ import { mkdirp } from 'mkdirp'
 const CACHEDIR = path.resolve(import.meta.dirname, 'cache');
 const STATICDIR = path.resolve(import.meta.dirname, '..', 'static');
 const LISTINFO = path.resolve(CACHEDIR, 'listInfo.json');
+const BOXARTDIR = path.resolve(STATICDIR, 'images', 'boxarts')
 
 export const fetch = (url: RequestInfo, { headers, ...options }: RequestInit = {}) => {
   return nodeFetch(url, {
@@ -60,14 +61,16 @@ async function cacheImages(id: string, anchor: HTMLAnchorElement) {
   const boxartImg = anchor.querySelector<HTMLImageElement>('.bl_result_img img');
   const boxartSrc = boxartImg?.src;
   if (boxartSrc) {
-    await writeImageSrc(path.resolve(STATICDIR, 'images', 'boxarts', `${id}.jpeg`), boxartSrc)
+    await mkdirp(BOXARTDIR)
+    await writeImageSrc(path.resolve(BOXARTDIR, `${id}.jpeg`), boxartSrc)
   }
 
   const otherImgs = [...anchor.querySelectorAll<HTMLImageElement>('.bl_result_icon img')];
   const otherSrcs = otherImgs.map(img => img.src);
-  const otherSrcDownloadPromises = otherSrcs.map(src => {
+  const otherSrcDownloadPromises = otherSrcs.map(async src => {
     const split = src.split('/');
-    return writeImageSrc(path.resolve(STATICDIR, ...split), 'https://manual.bandai-hobby.net' + src);
+    await mkdirp(path.resolve(STATICDIR, ...split.slice(0, -1)))
+    return await writeImageSrc(path.resolve(STATICDIR, ...split), 'https://manual.bandai-hobby.net' + src);
   })
   await Promise.all(otherSrcDownloadPromises);
 }
@@ -75,7 +78,7 @@ async function cacheImages(id: string, anchor: HTMLAnchorElement) {
 async function fetchAll() {
   let page = 1;
 
-  let idToListInfo: Record<string, { nameEn: string }> = {};
+  const idToListInfo: Record<string, { nameEn: string }> = {};
 
   while (true) {
     try {
