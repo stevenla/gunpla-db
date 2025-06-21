@@ -26,4 +26,4 @@ jobs:
       - run: npm install
       - run: npm run fetch
       - run: npm run deploy
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v6
