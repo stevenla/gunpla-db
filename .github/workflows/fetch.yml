@@ -5,31 +5,38 @@ name: Fetch new data and build
 
 on:
   workflow_dispatch:
+    inputs:
+      clean:
+        description: 'Clean'
+        default: false
+        type: boolean
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [22.x]
-        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
     steps:
       - uses: actions/checkout@v4
       - uses: fregante/setup-git-user@v1
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v4
-        with:
-          node-version: ${{ matrix.node-version }}
-          cache: 'npm'
+      - uses: actions/setup-node@v4
+      - uses: actions/configure-pages@v5
       - run: npm install
       - run: npm run fetch
       - run: npm run build
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
-          cname: gunpla.fyi
       - uses: stefanzweifel/git-auto-commit-action@v6
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: build/
+
+  deploy:
+    needs: build
+    permissions:
+      pages: write # to deploy to Pages
+      id-token: write # to verify the deployment originates from an appropriate source
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4 # or specific "vX.X.X" version tag for this action
