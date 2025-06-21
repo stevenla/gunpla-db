@@ -11,7 +11,8 @@
 		"lint": "prettier --check . && eslint .",
 		"deploy": "npm run build && npx gh-pages -d build --nojekyll --cname gunpla.fyi",
 		"format": "prettier --write .",
-		"fetch": "tsx ./scripts/scrape.ts && tsx ./scripts/parse.ts && cp ./scripts/cache/products.json ./src/lib/data/products.json"
+		"fetch": "tsx ./scripts/scrape.ts && tsx ./scripts/parse.ts && cp ./scripts/cache/products.json ./src/lib/data/products.json",
+		"clean-cache": "rm -rf ./scripts/cache ./static/images/boxarts"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.3.1",
