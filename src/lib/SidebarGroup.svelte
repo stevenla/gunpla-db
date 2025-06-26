@@ -15,6 +15,9 @@
 	} = $props();
 
 	let isOpen = $state(true);
+	const uid = $props.id();
+	const buttonId = `${uid}-btn`;
+	const listId = `${uid}-list`;
 </script>
 
 <div class:root={true} class:isOpen>
@@ -25,10 +28,13 @@
 		}}
 	>
 		<button
+			id={buttonId}
 			onclick={() => {
 				isOpen = !isOpen;
 			}}
 			class="collapse"
+			aria-controls={listId}
+			aria-expanded={isOpen}
 		>
 			{#if isOpen}
 				▼
@@ -36,12 +42,14 @@
 				▶
 			{/if}
 		</button>
-		{title}
+		<label for={buttonId}>
+			{title}
+		</label>
 	</SidebarTitle>
 	{#if isOpen}
-		<div class="items">
+		<div id={listId} class="items" aria-expanded={isOpen}>
 			{#each items as item}
-				<label>
+				<label class="item">
 					<input
 						type="checkbox"
 						checked={enabledItems.includes(getID(item))}
@@ -64,6 +72,7 @@
 
 <style lang="scss">
 	.root {
+		background-color: var(--background-color);
 		border-bottom: 1px solid var(--border-color);
 		display: flex;
 		flex-direction: column;
@@ -89,7 +98,7 @@
 		text-align: left;
 	}
 
-	label {
+	.item {
 		font-size: 80%;
 		font-feature-settings: 'tnum';
 		display: flex;

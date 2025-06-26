@@ -22,17 +22,19 @@
 		</a>
 	</div>
 	<div class="right">
-		<div class="title">
-			<a href={`https://manual.bandai-hobby.net/menus/detail/${product.id}`} target="_blank">
-				{product.nameEn}
-			</a>
-			<span class="jp">
-				{product.nameJp}
-			</span>
-		</div>
+		<div class="meta">
+			<div class="title">
+				<a href={`https://manual.bandai-hobby.net/menus/detail/${product.id}`} target="_blank">
+					{product.nameEn || product.nameJp}
+				</a>
+				<span class="jp">
+					{product.nameJp}
+				</span>
+			</div>
 
-		<div class="releaseDate">
-			{product.releaseDate}
+			<div class="releaseDate">
+				{product.releaseDate}
+			</div>
 		</div>
 
 		<div class="info">
@@ -61,9 +63,12 @@
 <style lang="scss">
 	.root {
 		display: flex;
-		height: 128px;
+		min-height: 128px;
+		height: auto;
 		padding: 0 16px;
 		border-bottom: 1px solid var(--border-color);
+		align-items: center;
+		container: product / inline-size;
 	}
 
 	.left {
@@ -106,6 +111,10 @@
 		}
 	}
 
+	.meta {
+		display: contents;
+	}
+
 	.releaseDate {
 		flex: 0 0 120px;
 		font-feature-settings: 'tnum';
@@ -129,6 +138,41 @@
 		}
 		img {
 			width: 72px;
+		}
+	}
+	@container product (width < 480px) {
+		.left {
+			width: 72px;
+			height: 72px;
+		}
+		.right {
+			margin: 16px 0 16px 16px;
+			flex-direction: row;
+			align-items: stretch;
+			justify-content: center;
+			gap: 4px;
+		}
+		.releaseDate {
+			flex-basis: auto;
+			margin-top: 2px;
+			&:before {
+				content: '⬒';
+				margin-right: 2px;
+			}
+		}
+		.meta {
+			display: flex;
+			flex-direction: column;
+		}
+		.info {
+			margin-left: auto;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			flex: 0 0 auto;
+		}
+		:is(.brand, .series) img {
+			width: 48px;
 		}
 	}
 </style>

@@ -3,7 +3,9 @@
 :root {
 	font-family: 'Inter', sans-serif;
 
+	--background-color: #fff;
 	--border-color: #eee;
+	--text-color: #000;
 }
 
 @supports (font-variation-settings: normal) {
