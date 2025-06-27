@@ -1,20 +1,18 @@
 <script lang="ts">
 	import ProductListItem from '$lib/ProductListItem.svelte';
 	import { VList, type VListHandle } from 'virtua/svelte';
-	import type { Product, Series } from '$lib/types';
+	import type { Product } from '$lib/types';
 	import uniq from 'lodash/uniq';
-	import { ALL_BRANDS, ALL_SERIES } from '$lib/categories';
+	import { ALL_BRANDS, ALL_SERIES, translateBrand, translateSeries } from '$lib/categories';
 
 	import '$lib/styles/reset.css';
 	import '$lib/styles/root.css';
 
 	import products from '$lib/data/products.json';
-	import series from '$lib/data/series.json';
 	import SidebarGroup from '$lib/SidebarGroup.svelte';
 	import SidebarTitle from '$lib/SidebarTitle.svelte';
 	import { createCsvQueryParamState, createQueryParamState } from '$lib/state.svelte';
 	const productsTyped: Product[] = products as any;
-	const seriesTyped: Record<string, Series> = series as any;
 
 	let sortColumn: keyof Product = 'releaseDate';
 	let sortDirection: -1 | 1 = -1;
@@ -53,7 +51,8 @@
 	let productsSorted: Product[] = $derived(
 		productsTyped
 			.filter((product) => {
-				const currentSeries = seriesTyped[product.series];
+				const currentSeries = translateSeries(product.series);
+				const currentBrand = translateBrand(product.brand);
 				if (enabledBrands.length > 0 && !enabledBrands.includes(product.brand)) {
 					return false;
 				}
@@ -71,6 +70,8 @@
 					!(
 						product.nameEn.toLocaleLowerCase().includes(query.current.toLocaleLowerCase()) ||
 						product.nameJp.toLocaleLowerCase().includes(query.current.toLocaleLowerCase()) ||
+						currentBrand.nameEn.toLocaleLowerCase().includes(query.current.toLocaleLowerCase()) ||
+						currentBrand.nameJp.toLocaleLowerCase().includes(query.current.toLocaleLowerCase()) ||
 						currentSeries.nameEn.toLocaleLowerCase().includes(query.current.toLocaleLowerCase()) ||
 						currentSeries.nameJp.toLocaleLowerCase().includes(query.current.toLocaleLowerCase())
 					)
@@ -218,6 +219,7 @@
 			display: none;
 			margin-left: auto;
 			border: 1px solid var(--text-color);
+			color: var(---text-color);
 			background-color: transparent;
 			align-items: center;
 			justify-content: center;

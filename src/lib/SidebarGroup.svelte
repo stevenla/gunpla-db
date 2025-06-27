@@ -90,6 +90,7 @@
 	}
 
 	.collapse {
+		color: var(--text--color);
 		border: 0;
 		background: 0;
 		padding: 0;
