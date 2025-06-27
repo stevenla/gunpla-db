@@ -194,6 +194,8 @@
 		display: flex;
 		flex-direction: column;
 		flex: 0 0 360px;
+		max-width: 33%;
+		min-width: 240px;
 		border-right: 1px solid var(--border-color);
 		overflow-y: hidden;
 	}
@@ -240,6 +242,7 @@
 		flex-direction: column;
 		display: flex;
 		pointer-events: all;
+		flex: 1 1 auto;
 	}
 
 	.search {
@@ -275,6 +278,8 @@
 		}
 
 		.sidebar {
+			max-width: unset;
+			min-width: unset;
 			position: fixed;
 			top: 0;
 			left: 0;

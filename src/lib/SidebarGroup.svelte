@@ -76,7 +76,6 @@
 		border-bottom: 1px solid var(--border-color);
 		display: flex;
 		flex-direction: column;
-		flex: 0 0 auto;
 		overflow: hidden;
 
 		&.isOpen {
@@ -86,7 +85,10 @@
 
 	.items {
 		overflow: auto;
-		flex: 1 1;
+		flex: 1 1 320px;
+		max-height: max-content;
+		display: flex;
+		flex-direction: column;
 	}
 
 	.collapse {
