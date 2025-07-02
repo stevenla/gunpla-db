@@ -10350,6 +10350,60 @@
     "series": "機動戦士ガンダムAGE"
   },
   {
+    "id": "3204",
+    "nameJp": "ＨＧ 1/144 ザク・デザートタイプ ピンクパンサー隊機",
+    "nameEn": "HG 1/144 ZAKU DESERT TYPE PINK PANTHER FORCES",
+    "partNo": "2753037",
+    "releaseDate": "2025-04",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "3205",
+    "nameJp": "ＨＧ 1/144 ジーライン・ライトアーマー",
+    "nameEn": "HG 1/144 G-LINE LIGHT ARMOR",
+    "partNo": "2753038",
+    "releaseDate": "2025-04",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "3206",
+    "nameJp": "ＨＧ 1/144 リーベン・ヴォルフ(A.O.Z RE-BOOT版)",
+    "nameEn": "HG 1/144 REBEN-WOLF (A.O.Z RE-BOOT Ver.)",
+    "partNo": "2753047",
+    "releaseDate": "2025-05",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "3207",
+    "nameJp": "ＨＧ 1/144 ガンダムプルトーネブラック",
+    "nameEn": "",
+    "partNo": "2795386",
+    "releaseDate": "2025-06",
+    "brand": "HG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "3208",
+    "nameJp": "ＨＧ 1/144 レオン",
+    "nameEn": "",
+    "partNo": "2762133",
+    "releaseDate": "2025-06",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "3209",
+    "nameJp": "ＭＧ 1/100 Ｆ８０ ガンレイド",
+    "nameEn": "",
+    "partNo": "2762135",
+    "releaseDate": "2025-06",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
     "id": "321",
     "nameJp": "HG 1/144 アデル",
     "nameEn": "HG 1/144 ADELE",
@@ -10357,6 +10411,15 @@
     "releaseDate": "2012-02-11",
     "brand": "HG",
     "series": "機動戦士ガンダムAGE"
+  },
+  {
+    "id": "3210",
+    "nameJp": "ＲＧ 1/144 ガンダムアヴァランチエクシアダッシュ",
+    "nameEn": "",
+    "partNo": "2762134",
+    "releaseDate": "2025-06",
+    "brand": "RG",
+    "series": "機動戦士ガンダム00"
   },
   {
     "id": "322",
