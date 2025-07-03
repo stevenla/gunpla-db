@@ -1,7 +1,7 @@
 <script lang="ts">
 	import ProductListItem from '$lib/ProductListItem.svelte';
 	import { VList, type VListHandle } from 'virtua/svelte';
-	import type { Product } from '$lib/types';
+	import type { BandaiManualProduct } from '$lib/types';
 	import uniq from 'lodash/uniq';
 	import { ALL_BRANDS, ALL_SERIES, translateBrand, translateSeries } from '$lib/categories';
 
@@ -12,9 +12,9 @@
 	import SidebarGroup from '$lib/SidebarGroup.svelte';
 	import SidebarTitle from '$lib/SidebarTitle.svelte';
 	import { createCsvQueryParamState, createQueryParamState } from '$lib/state.svelte';
-	const productsTyped: Product[] = products as any;
+	const productsTyped: BandaiManualProduct[] = products as any;
 
-	let sortColumn: keyof Product = 'releaseDate';
+	let sortColumn: keyof BandaiManualProduct = 'releaseDate';
 	let sortDirection: -1 | 1 = -1;
 
 	let query = createQueryParamState('query', '');
@@ -48,7 +48,7 @@
 		return -a.localeCompare(b);
 	});
 
-	let productsSorted: Product[] = $derived(
+	let productsSorted: BandaiManualProduct[] = $derived(
 		productsTyped
 			.filter((product) => {
 				const currentSeries = translateSeries(product.series);

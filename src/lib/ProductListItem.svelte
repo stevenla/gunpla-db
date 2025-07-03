@@ -1,12 +1,12 @@
 <script lang="ts">
-	import { type Product } from '$lib/types';
+	import { type BandaiManualProduct } from '$lib/types';
 	import { translateBrand, translateSeries } from '$lib/categories';
 	let {
 		product,
 		onBrandClick,
 		onSeriesClick
 	}: {
-		product: Product;
+		product: BandaiManualProduct;
 		onBrandClick: (brand: string) => void;
 		onSeriesClick: (brand: string) => void;
 	} = $props();

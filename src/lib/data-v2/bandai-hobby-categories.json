@@ -1,0 +1,1623 @@
+{
+	"series_plannosaurus": {
+		"kind": "series",
+		"slug": "plannosaurus",
+		"nameJp": "プラノサウルス",
+		"nameEn": "PLANNOSAURUS"
+	},
+	"series_pokemon": {
+		"kind": "series",
+		"slug": "pokemon",
+		"nameJp": "ポケットモンスター",
+		"nameEn": "Pokémon"
+	},
+	"series_digimon": {
+		"kind": "series",
+		"slug": "digimon",
+		"nameJp": "デジモンシリーズ",
+		"nameEn": "DIGIMON series"
+	},
+	"series_yugioh": {
+		"kind": "series",
+		"slug": "yugioh",
+		"nameJp": "遊☆戯☆王デュエルモンスターズ",
+		"nameEn": "Yu-Gi-Oh!"
+	},
+	"series_yamato": {
+		"kind": "series",
+		"slug": "yamato",
+		"nameJp": "宇宙戦艦ヤマトシリーズ",
+		"nameEn": "STAR BLAZERS SPACE BATTLESHIP YAMATO Series"
+	},
+	"series_macross": {
+		"kind": "series",
+		"slug": "macross",
+		"nameJp": "マクロスシリーズ",
+		"nameEn": "Macross"
+	},
+	"series_dragonball": {
+		"kind": "series",
+		"slug": "dragonball",
+		"nameJp": "ドラゴンボールシリーズ",
+		"nameEn": "DRAGON BALL"
+	},
+	"series_superrobot_og": {
+		"kind": "series",
+		"slug": "superrobot_og",
+		"nameJp": "スーパーロボット大戦OG",
+		"nameEn": "Super Robot Wars OG"
+	},
+	"series_wataru": {
+		"kind": "series",
+		"slug": "wataru",
+		"nameJp": "ワタルシリーズ",
+		"nameEn": "WATARU series"
+	},
+	"series_ultraman": {
+		"kind": "series",
+		"slug": "ultraman",
+		"nameJp": "ウルトラマン",
+		"nameEn": "ULTRAMAN"
+	},
+	"series_unkosuldays": {
+		"kind": "series",
+		"slug": "unkosuldays",
+		"nameJp": "ウンコスルデイズ",
+		"nameEn": "Unkosur Days"
+	},
+	"series_onepiece": {
+		"kind": "series",
+		"slug": "onepiece",
+		"nameJp": "ワンピース",
+		"nameEn": "ONE PIECE"
+	},
+	"series_godzilla": {
+		"kind": "series",
+		"slug": "godzilla",
+		"nameJp": "ゴジラxコング 新たなる帝国",
+		"nameEn": "Godzilla x Kong: The New Empire"
+	},
+	"series_rider": {
+		"kind": "series",
+		"slug": "rider",
+		"nameJp": "仮面ライダーシリーズ",
+		"nameEn": "KAMEN RIDER"
+	},
+	"series_votoms": {
+		"kind": "series",
+		"slug": "votoms",
+		"nameJp": "装甲騎兵ボトムズ",
+		"nameEn": "Armored Trooper Votoms"
+	},
+	"series_synduality": {
+		"kind": "series",
+		"slug": "synduality",
+		"nameJp": "SYNDUALITY(シンデュアリティ)",
+		"nameEn": "SYNDUALITY"
+	},
+	"series_kyoukaisenki": {
+		"kind": "series",
+		"slug": "kyoukaisenki",
+		"nameJp": "境界戦機",
+		"nameEn": "AMAIM Warrior at the Borderline"
+	},
+	"series_kimetsu": {
+		"kind": "series",
+		"slug": "kimetsu",
+		"nameJp": "鬼滅の刃",
+		"nameEn": "DEMON SLAYER"
+	},
+	"series_sandland": {
+		"kind": "series",
+		"slug": "sandland",
+		"nameJp": "SAND LAND（サンドランド）",
+		"nameEn": "SAND LAND"
+	},
+	"series_geass": {
+		"kind": "series",
+		"slug": "geass",
+		"nameJp": "コードギアスシリーズ",
+		"nameEn": "CODE GEASS series"
+	},
+	"series_girlgunlady": {
+		"kind": "series",
+		"slug": "girlgunlady",
+		"nameJp": "ガールガンレディ"
+	},
+	"series_eightysix": {
+		"kind": "series",
+		"slug": "eightysix",
+		"nameJp": "86-エイティシックス-",
+		"nameEn": "86-EIGHTY-SIX-"
+	},
+	"series_vifam": {
+		"kind": "series",
+		"slug": "vifam",
+		"nameJp": "銀河漂流バイファム",
+		"nameEn": "Round Vernian Vifam"
+	},
+	"series_evangelion": {
+		"kind": "series",
+		"slug": "evangelion",
+		"nameJp": "エヴァンゲリオン",
+		"nameEn": "Evangelion"
+	},
+	"series_dccomics": {
+		"kind": "series",
+		"slug": "dccomics",
+		"nameJp": "DCコミックス",
+		"nameEn": "DC Comics"
+	},
+	"series_dragonar": {
+		"kind": "series",
+		"slug": "dragonar",
+		"nameJp": "機甲戦記ドラグナー",
+		"nameEn": "Metal Armor Dragonar"
+	},
+	"series_lgaim": {
+		"kind": "series",
+		"slug": "lgaim",
+		"nameJp": "重戦機エルガイム",
+		"nameEn": "Heavy Tank Elgaim"
+	},
+	"series_starwars": {
+		"kind": "series",
+		"slug": "starwars",
+		"nameJp": "STAR WARS",
+		"nameEn": "STAR WARS"
+	},
+	"series_sakugan": {
+		"kind": "series",
+		"slug": "sakugan",
+		"nameJp": "サクガン",
+		"nameEn": "SAKUGAN"
+	},
+	"series_kamenriderdouble": {
+		"kind": "series",
+		"slug": "kamenriderdouble",
+		"nameJp": "仮面ライダーW",
+		"nameEn": "KAMEN RIDER DOUBLE"
+	},
+	"series_idolmaster-shinycolors": {
+		"kind": "series",
+		"slug": "idolmaster-shinycolors",
+		"nameJp": "アイドルマスター シャイニーカラーズ",
+		"nameEn": "Idolmaster Shiny Colors"
+	},
+	"series_gquuuuuux": {
+		"kind": "series",
+		"slug": "gquuuuuux",
+		"nameJp": "機動戦士Gundam GQuuuuuuX",
+		"nameEn": "Mobile Suit Gundam GQuuuuuuX"
+	},
+	"series_seed-freedom": {
+		"kind": "series",
+		"slug": "seed-freedom",
+		"nameJp": "機動戦士ガンダムSEED FREEDOM",
+		"nameEn": "MOBILE SUIT GUNDAM SEED FREEDOM"
+	},
+	"series_bocchi-rocks": {
+		"kind": "series",
+		"slug": "bocchi-rocks",
+		"nameJp": "ぼっち・ざ・ろっく！",
+		"nameEn": "Bocchi-za-roku!"
+	},
+	"series_seed": {
+		"kind": "series",
+		"slug": "seed",
+		"nameJp": "機動戦士ガンダムSEED",
+		"nameEn": "MOBILE SUIT GUNDAM SEED"
+	},
+	"series_armoredcore": {
+		"kind": "series",
+		"slug": "armoredcore",
+		"nameJp": "ARMORED CORE Ⅵ FIRES OF RUBICON",
+		"nameEn": "ARMORED CORE Ⅵ FIRES OF RUBICON"
+	},
+	"series_g-witch": {
+		"kind": "series",
+		"slug": "g-witch",
+		"nameJp": "機動戦士ガンダム 水星の魔女",
+		"nameEn": "MOBILE SUIT GUNDAM the Witch from Mercury"
+	},
+	"series_gaogaigar": {
+		"kind": "series",
+		"slug": "gaogaigar",
+		"nameJp": "勇者王ガオガイガー",
+		"nameEn": "King of the Brave GaoGaiGar"
+	},
+	"series_kaiju-no8": {
+		"kind": "series",
+		"slug": "kaiju-no8",
+		"nameJp": "怪獣8号",
+		"nameEn": "Kaiju No. 8"
+	},
+	"series_tekketsu": {
+		"kind": "series",
+		"slug": "tekketsu",
+		"nameJp": "機動戦士ガンダム 鉄血のオルフェンズ",
+		"nameEn": "MOBILE SUIT GUNDAM IRON-BLOODED ORPHANS"
+	},
+	"series_naruto": {
+		"kind": "series",
+		"slug": "naruto",
+		"nameJp": "NARUTO -ナルト-",
+		"nameEn": "NARUTO -NARUTO-"
+	},
+	"series_endlesswaltz": {
+		"kind": "series",
+		"slug": "endlesswaltz",
+		"nameJp": "新機動戦記ガンダムWシリーズ",
+		"nameEn": "MOBILE SUIT GUNDAM WING series"
+	},
+	"series_gundam": {
+		"kind": "series",
+		"slug": "gundam",
+		"nameJp": "機動戦士ガンダム",
+		"nameEn": "MOBILE SUIT GUNDAM"
+	},
+	"series_umamusume": {
+		"kind": "series",
+		"slug": "umamusume",
+		"nameJp": "ウマ娘 プリティーダービー"
+	},
+	"series_z-gundam": {
+		"kind": "series",
+		"slug": "z-gundam",
+		"nameJp": "機動戦士Ｚガンダム",
+		"nameEn": "MOBILE SUIT Z GUNDAM"
+	},
+	"series_swordart-online": {
+		"kind": "series",
+		"slug": "swordart-online",
+		"nameJp": "ソードアート・オンライン",
+		"nameEn": "Sword Art Online"
+	},
+	"series_gundam-zz": {
+		"kind": "series",
+		"slug": "gundam-zz",
+		"nameJp": "機動戦士ガンダムＺＺ",
+		"nameEn": "MOBILE SUIT GUNDAM ZZ"
+	},
+	"series_gosaurar": {
+		"kind": "series",
+		"slug": "gosaurar",
+		"nameJp": "熱血最強ゴウザウラー",
+		"nameEn": "Hot-Blooded Strongest Gowsaurer"
+	},
+	"series_requiem": {
+		"kind": "series",
+		"slug": "requiem",
+		"nameJp": "機動戦士ガンダム 復讐のレクイエム",
+		"nameEn": "MOBILE SUIT GUNDAM: REQUIEM FOR VENGEANCE"
+	},
+	"series_sdgundamworld_heroes": {
+		"kind": "series",
+		"slug": "sdgundamworld_heroes",
+		"nameJp": "SDガンダムワールド ヒーローズ",
+		"nameEn": "SD GUNDAM WORLD HEROES"
+	},
+	"series_gunplakun": {
+		"kind": "series",
+		"slug": "gunplakun",
+		"nameJp": "ガンプラくん",
+		"nameEn": "GUNPLA-KUN"
+	},
+	"series_g-doan": {
+		"kind": "series",
+		"slug": "g-doan",
+		"nameJp": "機動戦士ガンダム ククルス・ドアンの島",
+		"nameEn": "MOBILE SUIT GUNDAM: Cucuruz Doan's Island"
+	},
+	"series_hathaway": {
+		"kind": "series",
+		"slug": "hathaway",
+		"nameJp": "機動戦士ガンダム 閃光のハサウェイ",
+		"nameEn": "MOBILE SUIT GUNDAM Hathaway’s Flash"
+	},
+	"series_unicorn": {
+		"kind": "series",
+		"slug": "unicorn",
+		"nameJp": "機動戦士ガンダムUC[ユニコーン]",
+		"nameEn": "MOBILE SUIT GUNDAM UC (Unicorn)"
+	},
+	"series_g-00": {
+		"kind": "series",
+		"slug": "g-00",
+		"nameJp": "機動戦士ガンダム00[ダブルオー]",
+		"nameEn": "MOBILE SUIT GUNDAM OO"
+	},
+	"series_gundam_breaker_battlogue": {
+		"kind": "series",
+		"slug": "gundam_breaker_battlogue",
+		"nameJp": "GUNDAM BREAKER BATTLOGUE",
+		"nameEn": "GUNDAM BREAKER BATTLOGUE"
+	},
+	"series_soketsuden": {
+		"kind": "series",
+		"slug": "soketsuden",
+		"nameJp": "三国創傑伝",
+		"nameEn": "SD SANGOKU SOKETSUDEN"
+	},
+	"series_gundam-cca": {
+		"kind": "series",
+		"slug": "gundam-cca",
+		"nameJp": "機動戦士ガンダム　逆襲のシャア",
+		"nameEn": "MOBILE SUIT GUNDAM Char’s Counterattack"
+	},
+	"series_sentinel": {
+		"kind": "series",
+		"slug": "sentinel",
+		"nameJp": "ガンダム・センチネル",
+		"nameEn": "GUNDAM SENTINEL"
+	},
+	"series_builddivers-rerise": {
+		"kind": "series",
+		"slug": "builddivers-rerise",
+		"nameJp": "ガンダムビルドダイバーズ Re:RISE",
+		"nameEn": "GUNDAM BUILD DIVERS Re:RISE"
+	},
+	"series_builddivers": {
+		"kind": "series",
+		"slug": "builddivers",
+		"nameJp": "ガンダムビルドダイバーズ",
+		"nameEn": "GUNDAM BUILD DIVERS"
+	},
+	"series_origin": {
+		"kind": "series",
+		"slug": "origin",
+		"nameJp": "機動戦士ガンダム THE ORIGIN",
+		"nameEn": "MOBILE SUIT GUNDAM THE ORIGIN"
+	},
+	"series_buildfighters": {
+		"kind": "series",
+		"slug": "buildfighters",
+		"nameJp": "ガンダムビルドファイターズ",
+		"nameEn": "GUNDAM BUILD FIGHTERS"
+	},
+	"series_ggundam": {
+		"kind": "series",
+		"slug": "ggundam",
+		"nameJp": "機動武闘伝Ｇガンダム",
+		"nameEn": "MOBILE FIGHTER G GUNDAM"
+	},
+	"series_v-gundam": {
+		"kind": "series",
+		"slug": "v-gundam",
+		"nameJp": "機動戦士Vガンダム",
+		"nameEn": "MOBILE SUIT V GUNDAM"
+	},
+	"series_g-0083": {
+		"kind": "series",
+		"slug": "g-0083",
+		"nameJp": "機動戦士ガンダム0083 STARDUST MEMORY",
+		"nameEn": "MOBILE SUIT GUNDAM 0083 Stardust Memory"
+	},
+	"series_crossbone": {
+		"kind": "series",
+		"slug": "crossbone",
+		"nameJp": "機動戦士クロスボーン・ガンダム",
+		"nameEn": "MOBILE SUIT CROSSBONE GUNDAM"
+	},
+	"series_narrative": {
+		"kind": "series",
+		"slug": "narrative",
+		"nameJp": "機動戦士ガンダムNT[ナラティブ]",
+		"nameEn": "MOBILE SUIT GUNDAM NT (NARRATIVE)"
+	},
+	"series_missinglink": {
+		"kind": "series",
+		"slug": "missinglink",
+		"nameJp": "機動戦士ガンダム外伝 ミッシングリンク",
+		"nameEn": "MOBILE SUIT GUNDAM Side Story: Missing Link"
+	},
+	"series_x": {
+		"kind": "series",
+		"slug": "x",
+		"nameJp": "機動新世紀ガンダムＸ",
+		"nameEn": "AFTER WAR GUNDAM X"
+	},
+	"series_turn-a": {
+		"kind": "series",
+		"slug": "turn-a",
+		"nameJp": "∀ガンダム",
+		"nameEn": "TURN A GUNDAM"
+	},
+	"series_arale": {
+		"kind": "series",
+		"slug": "arale",
+		"nameJp": "Dr.スランプアラレちゃん",
+		"nameEn": "Dr.SLUMP"
+	},
+	"series_lbx": {
+		"kind": "series",
+		"slug": "lbx",
+		"nameJp": "ダンボール戦機",
+		"nameEn": "Little Battlers eXperience"
+	},
+	"series_doraemon": {
+		"kind": "series",
+		"slug": "doraemon",
+		"nameJp": "ドラえもん",
+		"nameEn": "DORAEMON"
+	},
+	"series_fullmetal_panic": {
+		"kind": "series",
+		"slug": "fullmetal_panic",
+		"nameJp": "フルメタル・パニック!"
+	},
+	"series_pacificrim": {
+		"kind": "series",
+		"slug": "pacificrim",
+		"nameJp": "パシフィック・リム",
+		"nameEn": "PACIFIC RIM"
+	},
+	"series_pikachin-kit": {
+		"kind": "series",
+		"slug": "pikachin-kit",
+		"nameJp": "ポチっと発明ピカちんキット"
+	},
+	"series_dynamic_characters": {
+		"kind": "series",
+		"slug": "dynamic_characters",
+		"nameJp": "ダイナミックキャラクターズ",
+		"nameEn": "DYNAMIC CHARACTERS"
+	},
+	"series_toystory4": {
+		"kind": "series",
+		"slug": "toystory4",
+		"nameJp": "トイ・ストーリー4",
+		"nameEn": "TOY STORY 4"
+	},
+	"series_sakura_wars": {
+		"kind": "series",
+		"slug": "sakura_wars",
+		"nameJp": "サクラ大戦"
+	},
+	"series_shinsakura_wars": {
+		"kind": "series",
+		"slug": "shinsakura_wars",
+		"nameJp": "新サクラ大戦",
+		"nameEn": "SAKURA WARS"
+	},
+	"series_fate": {
+		"kind": "series",
+		"slug": "fate",
+		"nameJp": "Fate/Grand Order",
+		"nameEn": "Fate/Grand Order"
+	},
+	"series_kakaofriends": {
+		"kind": "series",
+		"slug": "kakaofriends",
+		"nameJp": "KAKAO FRIENDS",
+		"nameEn": "KAKAO FRIENDS"
+	},
+	"series_dunbine": {
+		"kind": "series",
+		"slug": "dunbine",
+		"nameJp": "聖戦士ダンバイン",
+		"nameEn": "Aura Battler Dunbine"
+	},
+	"series_hellokitty": {
+		"kind": "series",
+		"slug": "hellokitty",
+		"nameJp": "ハローキティ",
+		"nameEn": "Hello kitty"
+	},
+	"series_rider-555": {
+		"kind": "series",
+		"slug": "rider-555",
+		"nameJp": "仮面ライダー555"
+	},
+	"series_rider-wizard": {
+		"kind": "series",
+		"slug": "rider-wizard",
+		"nameJp": "仮面ライダーウィザード"
+	},
+	"series_rider-ooo": {
+		"kind": "series",
+		"slug": "rider-ooo",
+		"nameJp": "仮面ライダーオーズ/OOO"
+	},
+	"series_rider-decade": {
+		"kind": "series",
+		"slug": "rider-decade",
+		"nameJp": "仮面ライダーディケイド"
+	},
+	"series_rider-drive": {
+		"kind": "series",
+		"slug": "rider-drive",
+		"nameJp": "仮面ライダードライブ"
+	},
+	"series_rider-fourze": {
+		"kind": "series",
+		"slug": "rider-fourze",
+		"nameJp": "仮面ライダーフォーゼ"
+	},
+	"series_rider-gaimu": {
+		"kind": "series",
+		"slug": "rider-gaimu",
+		"nameJp": "仮面ライダー鎧武"
+	},
+	"series_rider-kabuto": {
+		"kind": "series",
+		"slug": "rider-kabuto",
+		"nameJp": "仮面ライダーカブト"
+	},
+	"series_nextgeneration-patlabor": {
+		"kind": "series",
+		"slug": "nextgeneration-patlabor",
+		"nameJp": "THE NEXT GENERATION パトレイバー"
+	},
+	"series_funassyi": {
+		"kind": "series",
+		"slug": "funassyi",
+		"nameJp": "ふなっしー"
+	},
+	"series_valvrave": {
+		"kind": "series",
+		"slug": "valvrave",
+		"nameJp": "革命機ヴァルヴレイヴ"
+	},
+	"series_nausicaa": {
+		"kind": "series",
+		"slug": "nausicaa",
+		"nameJp": "風の谷のナウシカ"
+	},
+	"series_rideen": {
+		"kind": "series",
+		"slug": "rideen",
+		"nameJp": "勇者ライディーン"
+	},
+	"series_ideon": {
+		"kind": "series",
+		"slug": "ideon",
+		"nameJp": "伝説巨神イデオン"
+	},
+	"series_saintseiya": {
+		"kind": "series",
+		"slug": "saintseiya",
+		"nameJp": "聖闘士星矢"
+	},
+	"series_shin-mazinger": {
+		"kind": "series",
+		"slug": "shin-mazinger",
+		"nameJp": "真マジンガー衝撃！Ｚ編"
+	},
+	"series_change_getter": {
+		"kind": "series",
+		"slug": "change_getter",
+		"nameJp": "真ゲッターロボ"
+	},
+	"series_eureka": {
+		"kind": "series",
+		"slug": "eureka",
+		"nameJp": "交響詩篇エウレカセブン"
+	},
+	"series_999": {
+		"kind": "series",
+		"slug": "999",
+		"nameJp": "銀河鉄道999"
+	},
+	"series_nadeshiko": {
+		"kind": "series",
+		"slug": "nadeshiko",
+		"nameJp": "機動戦艦ナデシコ"
+	},
+	"series_bakemonogatari": {
+		"kind": "series",
+		"slug": "bakemonogatari",
+		"nameJp": "化物語"
+	},
+	"series_uchukyodai": {
+		"kind": "series",
+		"slug": "uchukyodai",
+		"nameJp": "宇宙兄弟"
+	},
+	"series_herlock": {
+		"kind": "series",
+		"slug": "herlock",
+		"nameJp": "宇宙海賊キャプテンハーロック"
+	},
+	"series_tekkaman": {
+		"kind": "series",
+		"slug": "tekkaman",
+		"nameJp": "宇宙の騎士テッカマンブレード"
+	},
+	"series_robotry": {
+		"kind": "series",
+		"slug": "robotry",
+		"nameJp": "超機甲爆走ロボトライ"
+	},
+	"series_majinbone": {
+		"kind": "series",
+		"slug": "majinbone",
+		"nameJp": "マジンボーン"
+	},
+	"series_mazingerz": {
+		"kind": "series",
+		"slug": "mazingerz",
+		"nameJp": "マジンガーＺ"
+	},
+	"series_macross-f": {
+		"kind": "series",
+		"slug": "macross-f",
+		"nameJp": "マクロスF"
+	},
+	"series_macross-seven": {
+		"kind": "series",
+		"slug": "macross-seven",
+		"nameJp": "マクロス７"
+	},
+	"series_brainpowered": {
+		"kind": "series",
+		"slug": "brainpowered",
+		"nameJp": "ブレンパワード"
+	},
+	"series_thunderbirds": {
+		"kind": "series",
+		"slug": "thunderbirds",
+		"nameJp": "サンダーバード"
+	},
+	"series_getter-g": {
+		"kind": "series",
+		"slug": "getter-g",
+		"nameJp": "ゲッターロボG"
+	},
+	"series_getter": {
+		"kind": "series",
+		"slug": "getter",
+		"nameJp": "ゲッターロボ"
+	},
+	"series_greatmazinger": {
+		"kind": "series",
+		"slug": "greatmazinger",
+		"nameJp": "グレートマジンガー"
+	},
+	"series_layzner": {
+		"kind": "series",
+		"slug": "layzner",
+		"nameJp": "蒼き流星SPTレイズナー"
+	},
+	"series_monthly_bandai_making_journal": {
+		"kind": "series",
+		"slug": "monthly_bandai_making_journal",
+		"nameJp": "Monthly Bandai Making Journal"
+	},
+	"series_g-evolve": {
+		"kind": "series",
+		"slug": "g-evolve",
+		"nameJp": "GUNDAM EVOLVE"
+	},
+	"series_unicorn-msv": {
+		"kind": "series",
+		"slug": "unicorn-msv",
+		"nameJp": "機動戦士ガンダムUC MSV"
+	},
+	"series_crossbone-koutetsu7": {
+		"kind": "series",
+		"slug": "crossbone-koutetsu7",
+		"nameJp": "機動戦士クロスボーン・ガンダム 鋼鉄の7人"
+	},
+	"series_seed-d-astrays": {
+		"kind": "series",
+		"slug": "seed-d-astrays",
+		"nameJp": "機動戦士ガンダムSEED DESTINY ASTRAY"
+	},
+	"series_extreme-maxi": {
+		"kind": "series",
+		"slug": "extreme-maxi",
+		"nameJp": "機動戦士ガンダム EXTREME VS. マキシブースト ON"
+	},
+	"series_seed-msv": {
+		"kind": "series",
+		"slug": "seed-msv",
+		"nameJp": "機動戦士ガンダムSEED MSV"
+	},
+	"series_cca-beltorchika": {
+		"kind": "series",
+		"slug": "cca-beltorchika",
+		"nameJp": "機動戦士ガンダム 逆襲のシャア ベルトーチカ・チルドレン"
+	},
+	"series_gundamf91-prequel": {
+		"kind": "series",
+		"slug": "gundamf91-prequel",
+		"nameJp": "機動戦士ガンダムF91プリクエル"
+	},
+	"series_seed-ecripse": {
+		"kind": "series",
+		"slug": "seed-ecripse",
+		"nameJp": "機動戦士ガンダムSEED ECRIPSE"
+	},
+	"series_builddivers-ghl": {
+		"kind": "series",
+		"slug": "builddivers-ghl",
+		"nameJp": "ガンダムビルドダイバーズ Genius Head Line"
+	},
+	"series_g-bb": {
+		"kind": "series",
+		"slug": "g-bb",
+		"nameJp": "ガンダムブレイカー バトローグ"
+	},
+	"series_g-wing": {
+		"kind": "series",
+		"slug": "g-wing",
+		"nameJp": "機動戦士ガンダムW"
+	},
+	"series_g-akai3": {
+		"kind": "series",
+		"slug": "g-akai3",
+		"nameJp": "機動戦士ガンダム 赤い三巨星"
+	},
+	"series_g-aggressor": {
+		"kind": "series",
+		"slug": "g-aggressor",
+		"nameJp": "機動戦士ガンダム　アグレッサー"
+	},
+	"series_uc-engage": {
+		"kind": "series",
+		"slug": "uc-engage",
+		"nameJp": "機動戦士ガンダム U.C ENGAGE"
+	},
+	"series_seed-d-msv": {
+		"kind": "series",
+		"slug": "seed-d-msv",
+		"nameJp": "機動戦士ガンダムSEED DESTINY MSV"
+	},
+	"series_g-witch-gaiden": {
+		"kind": "series",
+		"slug": "g-witch-gaiden",
+		"nameJp": "機動戦士ガンダム 水星の魔女外伝"
+	},
+	"series_tekketsu-g": {
+		"kind": "series",
+		"slug": "tekketsu-g",
+		"nameJp": "機動戦士ガンダム 鉄血のオルフェンズG"
+	},
+	"series_tekketsu-gekkou": {
+		"kind": "series",
+		"slug": "tekketsu-gekkou",
+		"nameJp": "機動戦士ガンダム 鉄血のオルフェンズ 月鋼"
+	},
+	"series_digimon_tamers": {
+		"kind": "series",
+		"slug": "digimon_tamers",
+		"nameJp": "デジモンテイマーズ"
+	},
+	"series_dejimon02": {
+		"kind": "series",
+		"slug": "dejimon02",
+		"nameJp": "デジモンアドベンチャー02"
+	},
+	"series_xabungle": {
+		"kind": "series",
+		"slug": "xabungle",
+		"nameJp": "戦闘メカ ザブングル"
+	},
+	"series_patlabor": {
+		"kind": "series",
+		"slug": "patlabor",
+		"nameJp": "機動警察パトレイバー",
+		"nameEn": "Mobile Police PATLABOR"
+	},
+	"series_characterplastic": {
+		"kind": "series",
+		"slug": "characterplastic",
+		"nameJp": "キャラクタープラモデル",
+		"nameEn": "CHARACTER PLASTIC MODEL KITS"
+	},
+	"series_msv": {
+		"kind": "series",
+		"slug": "msv",
+		"nameJp": "ガンダムＭＳＶ"
+	},
+	"series_bo_code_fairy": {
+		"kind": "series",
+		"slug": "bo_code_fairy",
+		"nameJp": "機動戦士ガンダム バトルオペレーション Code Fairy"
+	},
+	"series_00-awot": {
+		"kind": "series",
+		"slug": "00-awot",
+		"nameJp": "劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-"
+	},
+	"series_gundam-musou": {
+		"kind": "series",
+		"slug": "gundam-musou",
+		"nameJp": "ガンダム無双"
+	},
+	"series_g-extremevs": {
+		"kind": "series",
+		"slug": "g-extremevs",
+		"nameJp": "機動戦士ガンダム エクストリームバーサス"
+	},
+	"series_g-bluedestiny": {
+		"kind": "series",
+		"slug": "g-bluedestiny",
+		"nameJp": "機動戦士ガンダム外伝 THE BLUE DESTINY"
+	},
+	"series_g-coliny": {
+		"kind": "series",
+		"slug": "g-coliny",
+		"nameJp": "機動戦士ガンダム外伝 コロニーの落ちた地で…"
+	},
+	"series_0087-green": {
+		"kind": "series",
+		"slug": "0087-green",
+		"nameJp": "ガンダム新体験 0087 グリーンダイバーズ"
+	},
+	"series_astrays-b": {
+		"kind": "series",
+		"slug": "astrays-b",
+		"nameJp": "機動戦士ガンダムSEED DESTINY ASTRAY B"
+	},
+	"series_g-msv-r": {
+		"kind": "series",
+		"slug": "g-msv-r",
+		"nameJp": "機動戦士ガンダム MSV-R"
+	},
+	"series_astrays-r": {
+		"kind": "series",
+		"slug": "astrays-r",
+		"nameJp": "機動戦士ガンダムSEED DESTINY ASTRAY R"
+	},
+	"series_00-v": {
+		"kind": "series",
+		"slug": "00-v",
+		"nameJp": "機動戦士ガンダム00Ｖ戦記"
+	},
+	"series_g-gihren": {
+		"kind": "series",
+		"slug": "g-gihren",
+		"nameJp": "機動戦士ガンダム ギレンの野望"
+	},
+	"series_cca-msv": {
+		"kind": "series",
+		"slug": "cca-msv",
+		"nameJp": "CCA-MSV"
+	},
+	"series_00-f": {
+		"kind": "series",
+		"slug": "00-f",
+		"nameJp": "機動戦士ガンダム00Ｆ"
+	},
+	"series_00-p": {
+		"kind": "series",
+		"slug": "00-p",
+		"nameJp": "機動戦士ガンダム00P"
+	},
+	"series_w-ew": {
+		"kind": "series",
+		"slug": "w-ew",
+		"nameJp": "新機動戦記ガンダムW Endless Waltz"
+	},
+	"series_buildfighterstry-a": {
+		"kind": "series",
+		"slug": "buildfighterstry-a",
+		"nameJp": "ガンダムビルドファイターズA"
+	},
+	"series_buildfighters-ad": {
+		"kind": "series",
+		"slug": "buildfighters-ad",
+		"nameJp": "ガンダムビルドファイターズ A/D"
+	},
+	"series_buildfighterstry-ar": {
+		"kind": "series",
+		"slug": "buildfighterstry-ar",
+		"nameJp": "ガンダムビルドファイターズ A-R"
+	},
+	"series_buildfighters-try": {
+		"kind": "series",
+		"slug": "buildfighters-try",
+		"nameJp": "ガンダムビルドファイターズ炎トライ"
+	},
+	"series_buildfighterstry-battlogue": {
+		"kind": "series",
+		"slug": "buildfighterstry-battlogue",
+		"nameJp": "ガンダムビルドファイターズ バトローグ"
+	},
+	"series_buildfighterstry-gm": {
+		"kind": "series",
+		"slug": "buildfighterstry-gm",
+		"nameJp": "ガンダムビルドファイターズ GMの逆襲"
+	},
+	"series_buildfighterstry-iw": {
+		"kind": "series",
+		"slug": "buildfighterstry-iw",
+		"nameJp": "ガンダムビルドファイターズトライ アイランドウォーズ"
+	},
+	"series_buildfighters-img": {
+		"kind": "series",
+		"slug": "buildfighters-img",
+		"nameJp": "ガンダムビルドファイターズ HOBBY HOBBY イメージングビルダーズ"
+	},
+	"series_builddivers-gbwc": {
+		"kind": "series",
+		"slug": "builddivers-gbwc",
+		"nameJp": "ガンダムビルドダイバーズ GIMM&BALL'S WORLD CHALLENGE"
+	},
+	"series_g-origin-msd": {
+		"kind": "series",
+		"slug": "g-origin-msd",
+		"nameJp": "機動戦士ガンダム THE ORIGIN MSD"
+	},
+	"series_z-msv": {
+		"kind": "series",
+		"slug": "z-msv",
+		"nameJp": "Z-MSV"
+	},
+	"series_astray-princess": {
+		"kind": "series",
+		"slug": "astray-princess",
+		"nameJp": "機動戦士ガンダムSEED ASTRAY 天空の皇女"
+	},
+	"series_crossbone-skullheart": {
+		"kind": "series",
+		"slug": "crossbone-skullheart",
+		"nameJp": "機動戦士クロスボーン・ガンダム スカルハート"
+	},
+	"series_odaiba-dome-g": {
+		"kind": "series",
+		"slug": "odaiba-dome-g",
+		"nameJp": "お台場DOME-G"
+	},
+	"series_advance-of-z": {
+		"kind": "series",
+		"slug": "advance-of-z",
+		"nameJp": "ADVANCE OF Z"
+	},
+	"series_crossbone-ghost": {
+		"kind": "series",
+		"slug": "crossbone-ghost",
+		"nameJp": "機動戦士クロスボーン・ガンダム ゴースト"
+	},
+	"series_g-senki": {
+		"kind": "series",
+		"slug": "g-senki",
+		"nameJp": "機動戦士ガンダム戦記"
+	},
+	"series_cross-dimension": {
+		"kind": "series",
+		"slug": "cross-dimension",
+		"nameJp": "機動戦士ガンダム CROSS DIMENSION 0079"
+	},
+	"series_anaheim": {
+		"kind": "series",
+		"slug": "anaheim",
+		"nameJp": "アナハイム・ラボラトリー・ログ"
+	},
+	"series_gundamf91-msv": {
+		"kind": "series",
+		"slug": "gundamf91-msv",
+		"nameJp": "機動戦士ガンダムF91 MSV"
+	},
+	"series_endlesswaltz-haisya": {
+		"kind": "series",
+		"slug": "endlesswaltz-haisya",
+		"nameJp": "新機動戦記ガンダムW Endless Waltz 敗者たちの栄光"
+	},
+	"series_v-gundam-newms": {
+		"kind": "series",
+		"slug": "v-gundam-newms",
+		"nameJp": "機動戦士Ｖガンダム ニューモビルスーツバリエーション"
+	},
+	"series_zeonic-0079": {
+		"kind": "series",
+		"slug": "zeonic-0079",
+		"nameJp": "ジオニックフロント 機動戦士ガンダム0079"
+	},
+	"series_seed-stargazer": {
+		"kind": "series",
+		"slug": "seed-stargazer",
+		"nameJp": "ガンダムSEED C.E.73 STAR GAZER"
+	},
+	"series_silhouette-formula": {
+		"kind": "series",
+		"slug": "silhouette-formula",
+		"nameJp": "機動戦士ガンダム シルエットフォーミュラ91"
+	},
+	"series_msigloo": {
+		"kind": "series",
+		"slug": "msigloo",
+		"nameJp": "機動戦士ガンダム MS IGLOO"
+	},
+	"series_f90": {
+		"kind": "series",
+		"slug": "f90",
+		"nameJp": "機動戦士ガンダムF90"
+	},
+	"series_astrays": {
+		"kind": "series",
+		"slug": "astrays",
+		"nameJp": "機動戦士ガンダムSEED ASTRAY"
+	},
+	"series_08ms-team": {
+		"kind": "series",
+		"slug": "08ms-team",
+		"nameJp": "機動戦士ガンダム第０８ＭＳ小隊"
+	},
+	"series_beginning-g": {
+		"kind": "series",
+		"slug": "beginning-g",
+		"nameJp": "模型戦士ガンプラビルダーズ ビギニングG"
+	},
+	"series_axis": {
+		"kind": "series",
+		"slug": "axis",
+		"nameJp": "機動戦士ガンダム Twilight AXIS"
+	},
+	"series_builddivers-break": {
+		"kind": "series",
+		"slug": "builddivers-break",
+		"nameJp": "ガンダムビルドダイバーズブレイク"
+	},
+	"series_moon-gundam": {
+		"kind": "series",
+		"slug": "moon-gundam",
+		"nameJp": "機動戦士MOONガンダム"
+	},
+	"series_sora-senkou": {
+		"kind": "series",
+		"slug": "sora-senkou",
+		"nameJp": "機動戦士ガンダム外伝 宇宙、閃光の果てに…"
+	},
+	"series_g-saviour": {
+		"kind": "series",
+		"slug": "g-saviour",
+		"nameJp": "G-SAVIOUR"
+	},
+	"series_gundamforce": {
+		"kind": "series",
+		"slug": "gundamforce",
+		"nameJp": "ＳＤガンダムフォース"
+	},
+	"series_ggeneration": {
+		"kind": "series",
+		"slug": "ggeneration",
+		"nameJp": "ＳＤガンダムＧジェネレーション"
+	},
+	"series_3gd": {
+		"kind": "series",
+		"slug": "3gd",
+		"nameJp": "ＳＤガンダム三国伝"
+	},
+	"series_garupan": {
+		"kind": "series",
+		"slug": "garupan",
+		"nameJp": "ガールズ＆パンツァー",
+		"nameEn": "GIRLS and PANZER"
+	},
+	"series_lovelive": {
+		"kind": "series",
+		"slug": "lovelive",
+		"nameJp": "ラブライブ！サンシャイン!!",
+		"nameEn": "Love Live! Sunshine!!"
+	},
+	"series_youkai": {
+		"kind": "series",
+		"slug": "youkai",
+		"nameJp": "妖怪ウォッチ"
+	},
+	"series_dory": {
+		"kind": "series",
+		"slug": "dory",
+		"nameJp": "ファインディング・ドリー"
+	},
+	"series_activeraid": {
+		"kind": "series",
+		"slug": "activeraid",
+		"nameJp": "アクティヴレイド"
+	},
+	"series_framerobo": {
+		"kind": "series",
+		"slug": "framerobo",
+		"nameJp": "超次元変形 フレームロボ"
+	},
+	"series_macross-plus": {
+		"kind": "series",
+		"slug": "macross-plus",
+		"nameJp": "マクロスプラス",
+		"nameEn": "Macross Plus"
+	},
+	"series_mazingerz-infinity": {
+		"kind": "series",
+		"slug": "mazingerz-infinity",
+		"nameJp": "マジンガーZ／INFINITY",
+		"nameEn": "Mazinger Z/INFINITY"
+	},
+	"series_age": {
+		"kind": "series",
+		"slug": "age",
+		"nameJp": "機動戦士ガンダムAGE",
+		"nameEn": "MOBILE SUIT GUNDAM AGE"
+	},
+	"series_g-0080": {
+		"kind": "series",
+		"slug": "g-0080",
+		"nameJp": "機動戦士ガンダム0080 ポケットの中の戦争",
+		"nameEn": "MOBILE SUIT GUNDAM 0080 War in the Pocket"
+	},
+	"series_g-unit": {
+		"kind": "series",
+		"slug": "g-unit",
+		"nameJp": "新機動戦記ガンダムW デュアルストーリー G-UNIT",
+		"nameEn": "MOBILE SUIT GUNDAM WING Dual Story G-UNIT"
+	},
+	"series_gundamf91": {
+		"kind": "series",
+		"slug": "gundamf91",
+		"nameJp": "機動戦士ガンダムF91",
+		"nameEn": "MOBILE SUIT GUNDAM F91"
+	},
+	"series_macrossd": {
+		"kind": "series",
+		"slug": "macrossd",
+		"nameJp": "マクロスΔ（デルタ）",
+		"nameEn": "Macross Delta"
+	},
+	"series_buildfighterstry": {
+		"kind": "series",
+		"slug": "buildfighterstry",
+		"nameJp": "ガンダムビルドファイターズトライ"
+	},
+	"series_thunderbolt": {
+		"kind": "series",
+		"slug": "thunderbolt",
+		"nameJp": "機動戦士ガンダム サンダーボルト",
+		"nameEn": "MOBILE SUIT GUNDAM THUNDERBOLT"
+	},
+	"series_g-reco": {
+		"kind": "series",
+		"slug": "g-reco",
+		"nameJp": "ガンダム Gのレコンギスタ",
+		"nameEn": "GUNDAM RECONGUISTA IN G"
+	},
+	"series_gundambuildmetaverse": {
+		"kind": "series",
+		"slug": "gundambuildmetaverse",
+		"nameJp": "ガンダムビルドメタバース",
+		"nameEn": "GUNDAM BUILD METAVERSE"
+	},
+	"series_seed-d": {
+		"kind": "series",
+		"slug": "seed-d",
+		"nameJp": "機動戦士ガンダムSEED DESTINY",
+		"nameEn": "MOBILE SUIT GUNDAM SEED DESTINY"
+	},
+	"series_gunpla": {
+		"kind": "series",
+		"slug": "gunpla",
+		"nameJp": "ガンプラ",
+		"nameEn": "GUNPLA"
+	},
+	"brand_hg": {
+		"kind": "brand",
+		"slug": "hg",
+		"nameJp": "HG［ハイグレード］",
+		"nameEn": "HG [HIGH GRADE]"
+	},
+	"brand_rg": {
+		"kind": "brand",
+		"slug": "rg",
+		"nameJp": "RG［リアルグレード］",
+		"nameEn": "RG [REAL GRADE]"
+	},
+	"brand_mg": {
+		"kind": "brand",
+		"slug": "mg",
+		"nameJp": "MG [マスターグレード]",
+		"nameEn": "MG [MASTER GRADE]"
+	},
+	"brand_mgka": {
+		"kind": "brand",
+		"slug": "mgka",
+		"nameJp": "MG Ver.Ka［マスターグレード バージョンカトキ］",
+		"nameEn": "MG Ver.Ka [MASTER GRADE Ver.Katoki]"
+	},
+	"brand_mgex": {
+		"kind": "brand",
+		"slug": "mgex",
+		"nameJp": "MGEX [マスターグレードエクストリーム]",
+		"nameEn": "MGEX [MASTER GRADE EXTREME]"
+	},
+	"brand_pg": {
+		"kind": "brand",
+		"slug": "pg",
+		"nameJp": "PG［パーフェクトグレード］",
+		"nameEn": "PG [PERFECT GRADE]"
+	},
+	"brand_entry_grade_g": {
+		"kind": "brand",
+		"slug": "entry_grade_g",
+		"nameJp": "ENTRY GRADE　",
+		"nameEn": "ENTRY GRADE"
+	},
+	"brand_30mm": {
+		"kind": "brand",
+		"slug": "30mm",
+		"nameJp": "30 MINUTES MISSIONS",
+		"nameEn": "30 MINUTES MISSIONS"
+	},
+	"brand_30ms": {
+		"kind": "brand",
+		"slug": "30ms",
+		"nameJp": "30 MINUTES SISTERS",
+		"nameEn": "30 MINUTES SISTERS"
+	},
+	"brand_30mf": {
+		"kind": "brand",
+		"slug": "30mf",
+		"nameJp": "30 MINUTES FANTASY",
+		"nameEn": "30 MINUTES FANTASY"
+	},
+	"brand_30mp": {
+		"kind": "brand",
+		"slug": "30mp",
+		"nameJp": "30 MINUTES PREFERENCE",
+		"nameEn": "30 MINUTES PREFERENCE"
+	},
+	"brand_figurerise-standard": {
+		"kind": "brand",
+		"slug": "figurerise-standard",
+		"nameJp": "Figure-rise Standard[フィギュアライズ スタンダード]",
+		"nameEn": "Figure-rise Standard"
+	},
+	"brand_figurerise-standard-amp": {
+		"kind": "brand",
+		"slug": "figurerise-standard-amp",
+		"nameJp": "Figure-rise Standard Amplified[フィギュアライズ スタンダード アンプリファイド]",
+		"nameEn": "Figure-rise Standard Amplified"
+	},
+	"brand_entry_grade": {
+		"kind": "brand",
+		"slug": "entry_grade",
+		"nameJp": "ENTRY GRADE",
+		"nameEn": "ENTRY GRADE"
+	},
+	"brand_hg-c": {
+		"kind": "brand",
+		"slug": "hg-c",
+		"nameJp": "ＨＧ[ハイグレード]",
+		"nameEn": "HG [HIGH GRADE]"
+	},
+	"brand_rg-c": {
+		"kind": "brand",
+		"slug": "rg-c",
+		"nameJp": "RG［ リアルグレード ］",
+		"nameEn": "RG [-REAL GRADE-]"
+	},
+	"brand_optionpartsset_c": {
+		"kind": "brand",
+		"slug": "optionpartsset_c",
+		"nameJp": "オプションパーツ　セット",
+		"nameEn": "OPTION PARTS SET"
+	},
+	"brand_claymodelkit": {
+		"kind": "brand",
+		"slug": "claymodelkit",
+		"nameJp": "クレイモデルキット",
+		"nameEn": "Clay Model Kit"
+	},
+	"brand_actionbase_c": {
+		"kind": "brand",
+		"slug": "actionbase_c",
+		"nameJp": "アクションベース_c",
+		"nameEn": "ACTION BASE"
+	},
+	"brand_optionpartsset": {
+		"kind": "brand",
+		"slug": "optionpartsset",
+		"nameJp": "オプションパーツセット",
+		"nameEn": "OPTION PARTS SET"
+	},
+	"brand_customize_scenebase": {
+		"kind": "brand",
+		"slug": "customize_scenebase",
+		"nameJp": "カスタマイズシーンベース/エフェクト/マテリアル/ウェポンズ",
+		"nameEn": "CUSTOMIZE SCENE BASE/EFFECT/MATERIAL/WEAPONS"
+	},
+	"brand_mgsd": {
+		"kind": "brand",
+		"slug": "mgsd",
+		"nameJp": "MASTER GRADE SD",
+		"nameEn": "MASTER GRADE SD"
+	},
+	"brand_bb": {
+		"kind": "brand",
+		"slug": "bb",
+		"nameJp": "SDガンダムBB戦士",
+		"nameEn": "BB SENSHI"
+	},
+	"brand_entry_nipper_c": {
+		"kind": "brand",
+		"slug": "entry_nipper_c",
+		"nameJp": "BANDAI SPIRITS ツール",
+		"nameEn": "BANDAI SPIRITS TOOL"
+	},
+	"brand_fullmechanics": {
+		"kind": "brand",
+		"slug": "fullmechanics",
+		"nameJp": "FULL MECHANICS[フルメカニクス]",
+		"nameEn": "FULL MECHANICS"
+	},
+	"brand_expo2025-gunpla": {
+		"kind": "brand",
+		"slug": "expo2025-gunpla",
+		"nameJp": "GUNDAM NEXT FUTURE PAVILION",
+		"nameEn": "GUNDAM NEXT FUTURE PAVILION"
+	},
+	"brand_sdcs": {
+		"kind": "brand",
+		"slug": "sdcs",
+		"nameJp": "SDガンダム クロスシルエット",
+		"nameEn": "SD GUNDAM CROSS SILHOUETTE"
+	},
+	"brand_SDEX": {
+		"kind": "brand",
+		"slug": "SDEX",
+		"nameJp": "SDEXスタンダード",
+		"nameEn": "SDEX STANDARD"
+	},
+	"brand_ecoplaproject_g": {
+		"kind": "brand",
+		"slug": "ecoplaproject_g",
+		"nameJp": "エコプラプロジェクト",
+		"nameEn": "ECO PROJECT"
+	},
+	"brand_actionbase": {
+		"kind": "brand",
+		"slug": "actionbase",
+		"nameJp": "アクションベース"
+	},
+	"brand_limex": {
+		"kind": "brand",
+		"slug": "limex",
+		"nameJp": "ライメックス",
+		"nameEn": "LIMEX"
+	},
+	"brand_gundarium_gundam": {
+		"kind": "brand",
+		"slug": "gundarium_gundam",
+		"nameJp": "ガンダリウム合金モデル",
+		"nameEn": "GUNDARIUM ALLOY MODEL"
+	},
+	"brand_imaginary_skeleton": {
+		"kind": "brand",
+		"slug": "imaginary_skeleton",
+		"nameJp": "Imaginary Skeleton ",
+		"nameEn": "Imaginary Skeleton"
+	},
+	"brand_mecha-colle": {
+		"kind": "brand",
+		"slug": "mecha-colle",
+		"nameJp": "メカコレクション",
+		"nameEn": "MECHA COLLECTION"
+	},
+	"brand_exploringlab_nature": {
+		"kind": "brand",
+		"slug": "exploringlab_nature",
+		"nameJp": "Exploring Lab Nature[エクスプローリングラボネイチャー]",
+		"nameEn": "Exploring Lab Nature"
+	},
+	"brand_ultimagear": {
+		"kind": "brand",
+		"slug": "ultimagear",
+		"nameJp": "ULTIMAGEAR",
+		"nameEn": "ULTIMAGEAR"
+	},
+	"brand_figurerise-labo": {
+		"kind": "brand",
+		"slug": "figurerise-labo",
+		"nameJp": "Figure-riseLABO[フィギュアライズラボ]",
+		"nameEn": "Figure-riseLABO"
+	},
+	"brand_besthit_chronicle": {
+		"kind": "brand",
+		"slug": "besthit_chronicle",
+		"nameJp": "BEST HIT CHRONICLE",
+		"nameEn": "BEST HIT CHRONICLE"
+	},
+	"brand_tokyo2020_official": {
+		"kind": "brand",
+		"slug": "tokyo2020_official",
+		"nameJp": "東京2020 公式ライセンス商品"
+	},
+	"brand_figurerise-mechanics": {
+		"kind": "brand",
+		"slug": "figurerise-mechanics",
+		"nameJp": "Figure-rise Mechanics[フィギュアライズメカニクス]",
+		"nameEn": "Figure-rise Mechanics"
+	},
+	"brand_figurerise-bust": {
+		"kind": "brand",
+		"slug": "figurerise-bust",
+		"nameJp": "Figure-riseBust[フィギュアライズバスト]",
+		"nameEn": "Figure-riseBust"
+	},
+	"brand_figurerise-effect": {
+		"kind": "brand",
+		"slug": "figurerise-effect",
+		"nameJp": "Figure-rise Effect[フィギュアライズエフェクト]",
+		"nameEn": "Figure-rise Effect"
+	},
+	"brand_petit_rits": {
+		"kind": "brand",
+		"slug": "petit_rits",
+		"nameJp": "ぷちりっつ",
+		"nameEn": "PETITRITS"
+	},
+	"brand_keitorabusou": {
+		"kind": "brand",
+		"slug": "keitorabusou",
+		"nameJp": "軽トラぶそう",
+		"nameEn": "Light Tiger Buso"
+	},
+	"brand_sdcs-c": {
+		"kind": "brand",
+		"slug": "sdcs-c",
+		"nameJp": "SDクロスシルエット",
+		"nameEn": "SD Cross Silhouette"
+	},
+	"brand_keroro": {
+		"kind": "brand",
+		"slug": "keroro",
+		"nameJp": "ケロプラ"
+	},
+	"brand_hgamplifiedimgn": {
+		"kind": "brand",
+		"slug": "hgamplifiedimgn",
+		"nameJp": "HG Amplified IMGN",
+		"nameEn": "HG Amplified IMGN"
+	},
+	"brand_tool": {
+		"kind": "brand",
+		"slug": "tool",
+		"nameJp": "BANDAI SPIRITS ツール",
+		"nameEn": "BANDAI SPIRITS TOOL"
+	},
+	"brand_gunpla40th": {
+		"kind": "brand",
+		"slug": "gunpla40th",
+		"nameJp": "ガンプラ40周年記念",
+		"nameEn": "GUNDAM 40th ANNIVERSARY"
+	},
+	"brand_pb_hg": {
+		"kind": "brand",
+		"slug": "pb_hg",
+		"nameJp": "HG［ハイグレード］／プレバンガンプラ",
+		"nameEn": "HG/PREMIUM BANDAI GUNDAM"
+	},
+	"brand_ecopla": {
+		"kind": "brand",
+		"slug": "ecopla",
+		"nameJp": "エコプラ"
+	},
+	"brand_pb_charapla": {
+		"kind": "brand",
+		"slug": "pb_charapla",
+		"nameJp": "プレバンキャラプラ",
+		"nameEn": "PREMIUM BANDAI CHARACTER PLASTIC MODEL KITS"
+	},
+	"brand_pb_others": {
+		"kind": "brand",
+		"slug": "pb_others",
+		"nameJp": "その他シリーズ／プレバンガンプラ",
+		"nameEn": "OTHERS/PREMIUM BANDAI GUNDAM"
+	},
+	"brand_pb_bb": {
+		"kind": "brand",
+		"slug": "pb_bb",
+		"nameJp": "SDガンダムBB戦士／プレバンガンプラ",
+		"nameEn": "BB SENSHI/PREMIUM BANDAI GUNDAM"
+	},
+	"brand_pb_pg": {
+		"kind": "brand",
+		"slug": "pb_pg",
+		"nameJp": "PG［パーフェクトグレード］／プレバンガンプラ",
+		"nameEn": "PG/PREMIUM BANDAI GUNDAM"
+	},
+	"brand_pb_rg": {
+		"kind": "brand",
+		"slug": "pb_rg",
+		"nameJp": "RG［リアルグレード］／プレバンガンプラ",
+		"nameEn": "RG/PREMIUM BANDAI GUNDAM"
+	},
+	"brand_pb_mg": {
+		"kind": "brand",
+		"slug": "pb_mg",
+		"nameJp": "MG [マスターグレード]／プレバンガンプラ",
+		"nameEn": "MG/PREMIUM BANDAI GUNDAM"
+	},
+	"brand_pb_gunpla": {
+		"kind": "brand",
+		"slug": "pb_gunpla",
+		"nameJp": "プレバンガンプラ",
+		"nameEn": "PREMIUM BANDAI GUNDAM"
+	},
+	"brand_geki-drive": {
+		"kind": "brand",
+		"slug": "geki-drive",
+		"nameJp": "ゲキドライヴ"
+	},
+	"brand_peti": {
+		"kind": "brand",
+		"slug": "peti",
+		"nameJp": "ぷちゅあらいず"
+	},
+	"brand_disney_castle": {
+		"kind": "brand",
+		"slug": "disney_castle",
+		"nameJp": "キャッスルクラフトコレクション",
+		"nameEn": "CATSLE COLLECTION"
+	},
+	"brand_train": {
+		"kind": "brand",
+		"slug": "train",
+		"nameJp": "Bトレインショーティー"
+	},
+	"brand_petitgguy": {
+		"kind": "brand",
+		"slug": "petitgguy",
+		"nameJp": "プチッガイ/ベアッガイ",
+		"nameEn": "PETIT’GGUY/BEARGGUY"
+	},
+	"brand_hirm": {
+		"kind": "brand",
+		"slug": "hirm",
+		"nameJp": "Hi-Resolution Model[ハイレゾリューションモデル]",
+		"nameEn": "Hi-Resolution Model"
+	},
+	"brand_gundam_decal": {
+		"kind": "brand",
+		"slug": "gundam_decal",
+		"nameJp": "ガンダムデカール",
+		"nameEn": "GUNDAM DECAL"
+	},
+	"brand_gundam_g40": {
+		"kind": "brand",
+		"slug": "gundam_g40",
+		"nameJp": "ガンダムG40",
+		"nameEn": "GUNDAM G40"
+	},
+	"brand_hguc": {
+		"kind": "brand",
+		"slug": "hguc",
+		"nameJp": "HG UNIVERSAL CENTURY",
+		"nameEn": "HG UNIVERSAL CENTURY"
+	},
+	"brand_re100": {
+		"kind": "brand",
+		"slug": "re100",
+		"nameJp": "RE/100[リボーンワンハンドレッド]",
+		"nameEn": "RE/100 [REBORN ONE HUNDRED]"
+	},
+	"brand_nekobusou": {
+		"kind": "brand",
+		"slug": "nekobusou",
+		"nameJp": "ねこぶそう"
+	},
+	"brand_hgce": {
+		"kind": "brand",
+		"slug": "hgce",
+		"nameJp": "HG COSMIC ERA",
+		"nameEn": "HG COSMIC ERA"
+	},
+	"brand_gfy": {
+		"kind": "brand",
+		"slug": "gfy",
+		"nameJp": "GUNDAM FACTORY YOKOHAMA",
+		"nameEn": "GUNDAM FACTORY YOKOHAMA"
+	},
+	"brand_parts": {
+		"kind": "brand",
+		"slug": "parts",
+		"nameJp": "ビルダーズパーツ",
+		"nameEn": "BUILDERS PARTS"
+	},
+	"brand_sdgundamseries": {
+		"kind": "brand",
+		"slug": "sdgundamseries",
+		"nameJp": "SDガンダムシリーズ",
+		"nameEn": "SD GUNDAM SERIES"
+	}
+}
