@@ -187,9 +187,25 @@ async function downloadImage(urlString: string, filePath?: string) {
 		return cleanUrl;
 	} catch (_) {
 		return await block(`Downloading image "${cleanUrl}`, async () => {
-			const res = await fetch(urlString);
+			const res = await fetch(urlString, {
+				headers: {
+					accept: 'image/avif,image/jxl,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5',
+					'accept-encoding': 'gzip, deflate, br, zstd',
+					'accept-language': 'en-US,en;q=0.5',
+					'Cache-Control': 'no-cache',
+					connection: 'close',
+					dnt: '1',
+					pragma: 'no-cache',
+					priority: 'u=5, i',
+					'alt-used': url.hostname,
+					'Sec-Fetch-Dest': 'image',
+					'Sec-Fetch-Mode': 'no-cors',
+					'Sec-Fetch-Site': 'cross-site',
+					'Sec-GPC': '1'
+				}
+			});
 			const buf = await res.arrayBuffer();
-			if (!fileTypeChecker.validateFileType(buf, [ext])) {
+			if (!fileTypeChecker.validateFileType(buf, [ext.replace('jpg', 'jpeg')])) {
 				error(`File type not valid for "${urlString}"\n${new TextDecoder().decode(buf)}`);
 				return;
 			}
