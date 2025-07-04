@@ -10,6 +10,7 @@ import type {
 	BandaiHobbyItem
 } from '../../src/lib/types';
 import { block, error, fetch, filterNull, log, parseJpy, sha256, translateDate } from './helpers';
+import fileTypeChecker from 'file-type-checker';
 
 const CACHE_DIR = path.resolve(import.meta.dirname, './cache');
 // const DATA_DIR = path.resolve(import.meta.dirname, '../../src/lib/data-v2');
@@ -103,7 +104,7 @@ async function scrapeCategory(
 			// On page 1, download the image for the category
 			if (pageNumber === 1) {
 				const imgUrl = document.querySelector<HTMLImageElement>('.pg-brand__brandImg img')?.src;
-				if (imgUrl) {
+				if (imgUrl != null) {
 					categoryItems.thumbnailUrl = await downloadImage(imgUrl);
 				}
 			}
@@ -185,14 +186,21 @@ async function downloadImage(urlString: string, filePath?: string) {
 		await fs.readFile(localPath);
 		return cleanUrl;
 	} catch (_) {
-		await block(`Downloading image "${cleanUrl}`, async () => {
+		return await block(`Downloading image "${cleanUrl}`, async () => {
 			const res = await fetch(urlString);
-			const { body } = res;
-			if (body) {
-				return fs.writeFile(localPath, body);
+			const buf = await res.arrayBuffer();
+			if (!fileTypeChecker.validateFileType(buf, [ext])) {
+				error(`File type not valid for "${urlString}"\n${new TextDecoder().decode(buf)}`);
+				return;
 			}
+			const { body } = res;
+			if (!body) {
+				error(`No body for "${urlString}"`);
+				return;
+			}
+			await fs.writeFile(localPath, body);
+			return cleanUrl;
 		});
-		return cleanUrl;
 	}
 }
 

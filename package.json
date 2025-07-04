@@ -29,6 +29,7 @@
 		"eslint": "^8.56.0",
 		"eslint-config-prettier": "^9.1.0",
 		"eslint-plugin-svelte": "^2.36.0-next.4",
+		"file-type-checker": "^1.1.4",
 		"gh-pages": "^6.1.1",
 		"jsdom": "^24.1.0",
 		"lodash": "^4.17.21",
