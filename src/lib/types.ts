@@ -28,12 +28,10 @@ export type BandaiManualItem = {
 export type BandaiHobbyItem = {
   itemUrl: string,
   nameJp: string,
-  thumbnailUrl: string,
-  msrpJpy: number,
-  releaseDate: string,
-  brands: string[],
-  series: string[],
-  imageUrls: string[],
+  thumbnailUrl?: string,
+  msrpJpy?: number,
+  releaseDate?: string,
+  tags: string[],
 }
 
 type BandaiHobbyCategoryKind = 'brand' | 'series';
@@ -45,9 +43,9 @@ export type BandaiHobbyCategory = {
   nameEn?: string,
 }
 
-export type BandaiHobbyCategoryItemList = {
+export type BandaiHobbyCategoryItems = {
   kind: BandaiHobbyCategoryKind,
   slug: string,
-  thumbnailUrl: string,
+  thumbnailUrl?: string,
   itemUrls: string[],
 }
