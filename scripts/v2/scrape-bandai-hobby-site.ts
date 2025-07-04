@@ -106,8 +106,12 @@ async function scrapeCategory(items: Record<string, BandaiHobbyItem>, category: 
         items[cardEl.href] = item
         categoryItems.itemUrls.push(cardEl.href)
       }
-      const nextPageEl = document.querySelector('.p-pagination__nextList');
-      hasNextPage = nextPageEl ? !nextPageEl.classList.contains('is-inert') : false
+      if (cardEls.length === 0) {
+        hasNextPage = false;
+      } else {
+        const nextPageEl = document.querySelector('.p-pagination__nextList');
+        hasNextPage = nextPageEl ? !nextPageEl.classList.contains('is-inert') : false
+      }
     })
     if (!hasNextPage) {
       break;
@@ -146,7 +150,8 @@ async function downloadImage(urlString: string) {
 }
 
 if (esMain(import.meta)) {
-  // scrapeCategories()
+  const categories = await scrapeCategories()
+
   let items: Record<string, BandaiHobbyItem> = {}
   await block('Reading items list', async () => {
     try {
@@ -158,14 +163,12 @@ if (esMain(import.meta)) {
     }
   });
 
-  await scrapeCategory(items, {
-    "kind": "series",
-    "slug": "gquuuuuux",
-    "nameJp": "機動戦士Gundam GQuuuuuuX",
-    "nameEn": "Mobile Suit Gundam GQuuuuuuX"
-  })
+  for (const category of Object.values(categories)) {
+    await scrapeCategory(items, category)
 
-  await block('Writing items list', async () => {
-    await fs.writeFile(ITEMS_PATH, JSON.stringify(items, null, '\t'))
-  })
+    // Write the items list every time, just in case something crashes
+    await block('Writing items list', async () => {
+      await fs.writeFile(ITEMS_PATH, JSON.stringify(items, null, '\t'))
+    })
+  }
 }
