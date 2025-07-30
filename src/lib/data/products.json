@@ -10503,11 +10503,38 @@
     "series": "機動戦士ガンダムAGE"
   },
   {
+    "id": "3268",
+    "nameJp": "ＭＧ 1/100 Ｅｘ-Ｓガンダム/Ｓガンダム (タスクフォースα Ｖｅｒ.)",
+    "nameEn": "MG 1/100 Ex-S GUNDAM/S GUNDAM (TASK FORCE α Ver.)",
+    "partNo": "2540816",
+    "releaseDate": "2025-07",
+    "brand": "MG",
+    "series": "ガンダム・センチネル"
+  },
+  {
+    "id": "3269",
+    "nameJp": "ＨＧ 1/144 ガンダムジリウス",
+    "nameEn": "HG 1/144 GUNDAM ZIRIUS",
+    "partNo": "2753039",
+    "releaseDate": "2025-07",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
     "id": "327",
     "nameJp": "HG 1/144 ゼダスR",
     "nameEn": "HG 1/144 ZEDAS R",
     "partNo": "2146989",
     "releaseDate": "2012-01-28",
+    "brand": "HG",
+    "series": "機動戦士ガンダムAGE"
+  },
+  {
+    "id": "3270",
+    "nameJp": "ＨＧ 1/144 ジェノアスＯカスタム",
+    "nameEn": "HG 1/144 GENOACE O CUSTOM",
+    "partNo": "2762148",
+    "releaseDate": "2025-07",
     "brand": "HG",
     "series": "機動戦士ガンダムAGE"
   },
