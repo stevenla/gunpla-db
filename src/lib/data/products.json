@@ -10944,6 +10944,51 @@
     "series": "機動戦士ガンダムUC"
   },
   {
+    "id": "3610",
+    "nameJp": "30MS SIS-V00 ライディラ[カラーA]",
+    "nameEn": "30MS SIS-V00 RYDIRA [COLOR A]",
+    "partNo": "2773806",
+    "releaseDate": "2025-08-08",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3611",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.12 全4種 ミディアムヘア2[イエロー4]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.12 ALL 4 TYPES MEDIUM HAIR 2 [YELLOW 4]",
+    "partNo": "2773808",
+    "releaseDate": "2025-08-08",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3612",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.12 全4種 ツインテ―ル9[ブラウン5]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.12 ALL 4 TYPES PIGTAILS 9 [BROWN 5]",
+    "partNo": "2773809",
+    "releaseDate": "2025-08-08",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3613",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.12 全4種 ミディアムヘア6[パープル2]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.12 ALL 4 TYPES MEDIUM HAIR 6 [PURPLE 2]",
+    "partNo": "2773810",
+    "releaseDate": "2025-08-08",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3614",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.12 全4種 ストレートヘア1[ネイビー1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.12 ALL 4 TYPES STRAIGHT HAIR 1 [NAVY 1]",
+    "partNo": "2773811",
+    "releaseDate": "2025-08-08",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
     "id": "362",
     "nameJp": "HGUC 1/144 ジムII",
     "nameEn": "HGUC 1/144 GM Ⅱ",
@@ -11133,6 +11178,33 @@
     "series": "機動戦士ガンダムUC"
   },
   {
+    "id": "3804",
+    "nameJp": "30MM 1/144 オプションパーツセット20(フルアーマーユニット1)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 20 (FULL ARMOR UNIT 1)",
+    "partNo": "2773798",
+    "releaseDate": "2025-07-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3805",
+    "nameJp": "30MM 1/144 エグザビークル(ブーストブレイブバイクVer.)",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (BOOST BRAVE BIKE Ver.)",
+    "partNo": "2773827",
+    "releaseDate": "2025-08-30",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3806",
+    "nameJp": "30MM 1/144 オプションパーツセット21(マルチミサイル1)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 21 (MULTI MISSILE 1)",
+    "partNo": "2773805",
+    "releaseDate": "2025-08-30",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
     "id": "381",
     "nameJp": "HGUC 1/144 MS-06R-1A シン・マツナガ専用ザク",
     "nameEn": "HGUC 1/144 MS-06R-1A SHIN MATSUNAGA ZAKU II",
@@ -11185,6 +11257,42 @@
     "releaseDate": "2014-01-25",
     "brand": "HGUC",
     "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "3862",
+    "nameJp": "30MF ローザンウィザード",
+    "nameEn": "30MF ROSAN WIZARD",
+    "partNo": "2745398",
+    "releaseDate": "2025-09-06",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3863",
+    "nameJp": "30MF クラスアップアーマー (ローザンソーサラー)",
+    "nameEn": "30MF CLASS UP ARMOR (ROSAN SORCERER)",
+    "partNo": "2773812",
+    "releaseDate": "2025-09-06",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3864",
+    "nameJp": "30MF クラスアップアーマー (ローザンエンチャンター)",
+    "nameEn": "30MF CLASS UP ARMOR (ROSAN ENCHANTER)",
+    "partNo": "2773813",
+    "releaseDate": "2025-09-06",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3865",
+    "nameJp": "30MF アイテムショップ4(クエストオプション)",
+    "nameEn": "30MF ITEM SHOP 4 (QUEST OPTION)",
+    "partNo": "2745409",
+    "releaseDate": "2025-09-06",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
   },
   {
     "id": "387",
