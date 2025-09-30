@@ -11340,6 +11340,33 @@
     "series": "機動戦士Gundam GQuuuuuuX"
   },
   {
+    "id": "3897",
+    "nameJp": "RG 1/144 ウイングガンダムゼロ",
+    "nameEn": "RG 1/144 WING GUNDAM ZERO",
+    "partNo": "2773802",
+    "releaseDate": "2025-09-27",
+    "brand": "RG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "3898",
+    "nameJp": "HG 1/144 ガンダムナイオン",
+    "nameEn": "HG 1/144 GUNDAM NAION",
+    "partNo": "2773832",
+    "releaseDate": "2025-09",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 水星の魔女"
+  },
+  {
+    "id": "3899",
+    "nameJp": "HG 1/144 グラハム専用ユニオンフラッグカスタムII(GNフラッグ)",
+    "nameEn": "HG 1/144 UNION FLAG CUSTOM II [GN FLAG]",
+    "partNo": "2773833",
+    "releaseDate": "2025-09",
+    "brand": "HG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
     "id": "39",
     "nameJp": "HG 1/144 高機動型ザクII（ガイア/マッシュ専用機）",
     "nameEn": "HG 1/144 MS-06R-1A ZAKUⅡ GAIA/MASH CUSTOM",
@@ -11356,6 +11383,15 @@
     "releaseDate": "2013-12-21",
     "brand": "HGUC",
     "series": "機動戦士ガンダムF91"
+  },
+  {
+    "id": "3900",
+    "nameJp": "RG 1/144 G-3ガンダム Ver.2.0",
+    "nameEn": "RG 1/144 G-3 GUNDAM Ver.2.0",
+    "partNo": "2801759",
+    "releaseDate": "2025-09",
+    "brand": "RG",
+    "series": "機動戦士ガンダム"
   },
   {
     "id": "391",
