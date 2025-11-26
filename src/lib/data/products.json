@@ -11538,6 +11538,24 @@
     "series": "機動戦士ガンダム SEED"
   },
   {
+    "id": "3994",
+    "nameJp": "MG 1/100 ガンダムバルバトスルプス",
+    "nameEn": "MG 1/100 GUNDAM BARBATOS LUPUS",
+    "partNo": "2753051",
+    "releaseDate": "2025-11-22",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "3995",
+    "nameJp": "オプションパーツセット ガンプラ 18 (ビルドブースターセット)",
+    "nameEn": "OPTION PARTS SET GUNPLA 18 (BUILD BOOSTER SET)",
+    "partNo": "2783937",
+    "releaseDate": "2025-11-22",
+    "brand": "オプションパーツセット",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
     "id": "3998",
     "nameJp": "30MF ドラゴニアナイト",
     "nameEn": "30MF DRAGONIA KNIGHT",
