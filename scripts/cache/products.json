@@ -11556,6 +11556,24 @@
     "series": "ガンダムビルドファイターズ"
   },
   {
+    "id": "3996",
+    "nameJp": "30MM 1/144 EXM-X20B レヴィニクス(TYPE-B)",
+    "nameEn": "30MM 1/144 EXM-X20B LEVINIX (TYPE-B)",
+    "partNo": "2783940",
+    "releaseDate": "2025-11-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3997",
+    "nameJp": "30MM 1/144 オプションパーツセット22(ウィングユニット2)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 22 (WING UNIT 2)",
+    "partNo": "2783941",
+    "releaseDate": "2025-11-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
     "id": "3998",
     "nameJp": "30MF ドラゴニアナイト",
     "nameEn": "30MF DRAGONIA KNIGHT",
@@ -11617,6 +11635,33 @@
     "releaseDate": "2025-11-17",
     "brand": "30 MINUTES LABEL",
     "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "4002",
+    "nameJp": "HG 1/144 マンダラガンダム",
+    "nameEn": "",
+    "partNo": "2783961",
+    "releaseDate": "2025-11",
+    "brand": "HG",
+    "series": "機動武闘伝Gガンダム"
+  },
+  {
+    "id": "4003",
+    "nameJp": "MG 1/100 ガンダムアストレイミラージュフレーム セカンドイシュー",
+    "nameEn": "",
+    "partNo": "2805108",
+    "releaseDate": "2025-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4004",
+    "nameJp": "RG 1/144 Hi-νガンダム専用ハイパー・メガ・バズーカ・ランチャー&ファンネルディスプレイセット",
+    "nameEn": "",
+    "partNo": "2805107",
+    "releaseDate": "2025-11",
+    "brand": "RG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
   },
   {
     "id": "401",
