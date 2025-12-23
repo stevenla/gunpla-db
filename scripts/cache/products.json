@@ -11736,6 +11736,33 @@
     "series": "機動戦士ガンダム"
   },
   {
+    "id": "4060",
+    "nameJp": "HG 1/144 ガンダム7号機",
+    "nameEn": "",
+    "partNo": "2794149",
+    "releaseDate": "2025-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4061",
+    "nameJp": "HG 1/144 ガンダムグリープ",
+    "nameEn": "",
+    "partNo": "2794150",
+    "releaseDate": "2025-12",
+    "brand": "HG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "4062",
+    "nameJp": "30MM 1/144 エグザビークル(ブーストワイルドバイクVer.)",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (BOOST WILD BIKE Ver.)",
+    "partNo": "2773847",
+    "releaseDate": "2025-12-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
     "id": "4063",
     "nameJp": "30MF クラスアップアーマー(ドラゴニアロード)",
     "nameEn": "30MF CLASS UP ARMOR (DRAGONIA LORD)",
@@ -11743,6 +11770,24 @@
     "releaseDate": "2025-12-13",
     "brand": "30 MINUTES LABEL",
     "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "4064",
+    "nameJp": "30MS SIS-K00 ミコルル[カラーB]",
+    "nameEn": "30MS SIS-K00 MICOLULU [COLOR B]",
+    "partNo": "2783945",
+    "releaseDate": "2025-12-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "4065",
+    "nameJp": "30MS オプションパーツセット22(ターボコスチュームα)[カラーB]",
+    "nameEn": "30MS OPTION PARTS SET 22 (TURBO COSTUME α) [COLOR B]",
+    "partNo": "2773807",
+    "releaseDate": "2025-12-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "407",
