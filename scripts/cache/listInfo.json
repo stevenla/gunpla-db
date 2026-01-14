@@ -5868,10 +5868,10 @@
     "nameEn": "HG 1/144 CHAR'S ZAKU(GQ)"
   },
   "4060": {
-    "nameEn": ""
+    "nameEn": "HG 1/144 GUNDAM G07"
   },
   "4061": {
-    "nameEn": ""
+    "nameEn": "HG 1/144 GUNDAM GRIEPE"
   },
   "4062": {
     "nameEn": "30MM 1/144 Extended Armament Vehicle (BOOST WILD BIKE Ver.)"
@@ -5884,5 +5884,17 @@
   },
   "4065": {
     "nameEn": "30MS OPTION PARTS SET 22 (TURBO COSTUME α) [COLOR B]"
+  },
+  "4093": {
+    "nameEn": "HG 1/144 GQuuuuuuX(Endymion Unit Awakened)"
+  },
+  "4094": {
+    "nameEn": "Figure-rise Standard TIFFA ADILL"
+  },
+  "4095": {
+    "nameEn": "30MM 1/144 eEXM-23 TECPROT 01"
+  },
+  "4096": {
+    "nameEn": "30MS OPTION PARTS SET 24 (TURBO COSTUME β) [COLOR A]"
   }
 }

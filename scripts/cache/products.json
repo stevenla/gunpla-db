@@ -11747,7 +11747,7 @@
   {
     "id": "4060",
     "nameJp": "HG 1/144 ガンダム7号機",
-    "nameEn": "",
+    "nameEn": "HG 1/144 GUNDAM G07",
     "partNo": "2794149",
     "releaseDate": "2025-12",
     "brand": "HG",
@@ -11756,7 +11756,7 @@
   {
     "id": "4061",
     "nameJp": "HG 1/144 ガンダムグリープ",
-    "nameEn": "",
+    "nameEn": "HG 1/144 GUNDAM GRIEPE",
     "partNo": "2794150",
     "releaseDate": "2025-12",
     "brand": "HG",
@@ -11824,6 +11824,42 @@
     "releaseDate": "2009-01-17",
     "brand": "HGUC",
     "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4093",
+    "nameJp": "HG 1/144 GQuuuuuuX(エンディミオン・ユニット覚醒時)",
+    "nameEn": "HG 1/144 GQuuuuuuX(Endymion Unit Awakened)",
+    "partNo": "2794144",
+    "releaseDate": "2026-01-10",
+    "brand": "HG",
+    "series": "機動戦士Gundam GQuuuuuuX"
+  },
+  {
+    "id": "4094",
+    "nameJp": "Figure-rise Standard ティファ・アディール",
+    "nameEn": "Figure-rise Standard TIFFA ADILL",
+    "partNo": "2783938",
+    "releaseDate": "2026-01-10",
+    "brand": "Figure-rise Standard",
+    "series": "機動新世紀ガンダムＸ"
+  },
+  {
+    "id": "4095",
+    "nameJp": "30MM 1/144 eEXM-23 テックプロト 01",
+    "nameEn": "30MM 1/144 eEXM-23 TECPROT 01",
+    "partNo": "2794162",
+    "releaseDate": "2026-01-10",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "4096",
+    "nameJp": "30MS オプションパーツセット24(ターボコスチュームβ)[カラーA]",
+    "nameEn": "30MS OPTION PARTS SET 24 (TURBO COSTUME β) [COLOR A]",
+    "partNo": "2773829",
+    "releaseDate": "2026-01-10",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "41",
