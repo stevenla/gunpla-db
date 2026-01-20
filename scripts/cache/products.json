@@ -11898,6 +11898,33 @@
     "series": "機動戦士ガンダムUC"
   },
   {
+    "id": "4126",
+    "nameJp": "ウェポンディスプレイベース01",
+    "nameEn": "WEAPON DISPLAY BASE 01",
+    "partNo": "2805081",
+    "releaseDate": "2026-01-17",
+    "brand": "アクションベース",
+    "series": "その他"
+  },
+  {
+    "id": "4127",
+    "nameJp": "30MF リーベルソードマン",
+    "nameEn": "30MF LIBER SWORDMAN",
+    "partNo": "2794165",
+    "releaseDate": "2026-01-17",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "4128",
+    "nameJp": "30MF クラスアップアーマー(リーベルグラディエーター)",
+    "nameEn": "30MF CLASS UP ARMOR LIBER GLADIATOR",
+    "partNo": "2794166",
+    "releaseDate": "2026-01-17",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
     "id": "413",
     "nameJp": "MG 1/100 Zガンダム",
     "nameEn": "MG 1/100 Z-GUNDAM",
