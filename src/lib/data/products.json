@@ -11952,6 +11952,15 @@
     "series": "機動戦士ガンダムUC"
   },
   {
+    "id": "4159",
+    "nameJp": "オプションパーツセット ガンプラ 19 (フィン・ファンネル)",
+    "nameEn": "OPTION PARTS SET GUNPLA 19 (FIN FUNNEL)",
+    "partNo": "2815147",
+    "releaseDate": "2026-01-24",
+    "brand": "オプションパーツセット",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
     "id": "416",
     "nameJp": "MG 1/100 量産型ゲルググ",
     "nameEn": "MG 1/100 GELGOG MASS PRODUCTION TYPE",
@@ -11959,6 +11968,24 @@
     "releaseDate": "1997-09",
     "brand": "MG",
     "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4160",
+    "nameJp": "30MS SIS-W00 マリカル[カラーC]",
+    "nameEn": "30MS SIS-W00 MARICAL [COLOR C]",
+    "partNo": "2762128",
+    "releaseDate": "2026-01-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "4161",
+    "nameJp": "30MS オプションパーツセット23(ヴァルキュリアコスチューム)[カラーC]",
+    "nameEn": "30MS OPTION PARTS SET 23 (VALKYRIE COSTUME) [COLOR C]",
+    "partNo": "2762129",
+    "releaseDate": "2026-01-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "417",
