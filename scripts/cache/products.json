@@ -12015,6 +12015,78 @@
     "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
   },
   {
+    "id": "4192",
+    "nameJp": "PG UNLEASHED 1/60 νガンダム用 LEDユニット",
+    "nameEn": "PG UNLEASHED 1/60 LED UNIT FOR ν GUNDAM",
+    "partNo": "2812712",
+    "releaseDate": "2026-01-31",
+    "brand": "PG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4193",
+    "nameJp": "HG 1/144 レジェンドガンダム",
+    "nameEn": "HG 1/144 LEGEND GUNDAM",
+    "partNo": "2794160",
+    "releaseDate": "2026-01-31",
+    "brand": "HG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "4194",
+    "nameJp": "アクションベース7 & オプションボックス1 [ホワイト]",
+    "nameEn": "ACTION BASE 7 & OPTION BOX [WHITE]",
+    "partNo": "2815146",
+    "releaseDate": "2026-01-31",
+    "brand": "アクションベース",
+    "series": "その他"
+  },
+  {
+    "id": "4195",
+    "nameJp": "HG 1/144 G-セルフ(大気圏用パック&宇宙用パック)(劇場版『Gのレコンギスタ』Ver.)",
+    "nameEn": "HG 1/144 G-SELF(ATMOSPHERIC BACKPACK&SPACE BACKPACK)(Reconguista in G the Movie Ver.)",
+    "partNo": "2815148",
+    "releaseDate": "2026-01",
+    "brand": "HG",
+    "series": "ガンダム Gのレコンギスタ"
+  },
+  {
+    "id": "4196",
+    "nameJp": "MGEX 1/100 ストライクフリーダムガンダム [メカニカルクリア]",
+    "nameEn": "MGEX 1/100 STRIKE FREEDOM GUNDAM [MECHANICAL CLEAR]",
+    "partNo": "2654092",
+    "releaseDate": "2026-01",
+    "brand": "MGEX",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "4197",
+    "nameJp": "HG 1/144 01ガンダム",
+    "nameEn": "HG 1/144 01 GUNDAM",
+    "partNo": "2783963",
+    "releaseDate": "2026-01",
+    "brand": "HG",
+    "series": "機動戦士Gundam GQuuuuuuX"
+  },
+  {
+    "id": "4198",
+    "nameJp": "30MM 1/144 eEXM-9dm バスキーロットカスタム(水中仕様)",
+    "nameEn": "30MM 1/144 eEXM-9dm BASKYROTTO CUSTOM (MARINE TYPE)",
+    "partNo": "2794154",
+    "releaseDate": "2026-01",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "4199",
+    "nameJp": "30MS シャルロナ(アニマートフォーム)",
+    "nameEn": "30MS CHARLONA (ANIMATO FORM)",
+    "partNo": "2794155",
+    "releaseDate": "2026-01",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
     "id": "42",
     "nameJp": "HG 1/144 YMS-03 ヴァッフ",
     "nameEn": "HG 1/144 YMS-03 WAFF",
@@ -12031,6 +12103,15 @@
     "releaseDate": "2010-10-23",
     "brand": "HGUC",
     "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4200",
+    "nameJp": "PG UNLEASHED 1/60 νガンダム",
+    "nameEn": "PG UNLEASHED 1/60 ν GUNDAM",
+    "partNo": "2773843",
+    "releaseDate": "2026-01-31",
+    "brand": "PG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
   },
   {
     "id": "421",
