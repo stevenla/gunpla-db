@@ -12186,6 +12186,24 @@
     "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
   },
   {
+    "id": "4258",
+    "nameJp": "30MM 1/144 eEXM-23 テックプロト 02",
+    "nameEn": "30MM 1/144 eEXM-23 TECPROT 02",
+    "partNo": "2794170",
+    "releaseDate": "2026-02-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "4259",
+    "nameJp": "30MS ルルチェ(リリーウエア)[カラーC]",
+    "nameEn": "30MS LULUCE (LILY WEAR) [COLOR C]",
+    "partNo": "2805084",
+    "releaseDate": "2026-02-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
     "id": "426",
     "nameJp": "HGUC 1/144 ガンプラスターターセット",
     "nameEn": "HGUC 1/144 GUNPLA STARTER SET",
@@ -12193,6 +12211,24 @@
     "releaseDate": "2010-07-15",
     "brand": "HGUC",
     "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4260",
+    "nameJp": "30MS オプションパーツセット25(ターボコスチュームγ)[カラーC]",
+    "nameEn": "30MS OPTION PARTS SET 25 (TURBO COSTUME γ) [COLOR C]",
+    "partNo": "2805085",
+    "releaseDate": "2026-02-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "4261",
+    "nameJp": "30MS オプションパーツセット26(クライムユニット)[カラーC]",
+    "nameEn": "30MS OPTION PARTS SET 26 (CLIMB UNIT) [COLOR C]",
+    "partNo": "2805086",
+    "releaseDate": "2026-02-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "427",
