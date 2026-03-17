@@ -12951,6 +12951,51 @@
     "series": "機動戦士ガンダムNT（ナラティブ）"
   },
   {
+    "id": "4885",
+    "nameJp": "30MM 1/144 bEXM-15FA フルアーマーポルタノヴァ",
+    "nameEn": "30MM 1/144 bEXM-15FA FULL ARMOR PORTANOVA",
+    "partNo": "2796933",
+    "releaseDate": "2026-03-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "4886",
+    "nameJp": "カスタマイズマテリアル (EXジョイントコアキューブ)",
+    "nameEn": "CUSTOMIZE MATERIAL (EX JOINTCORE CUBE)",
+    "partNo": "2794146",
+    "releaseDate": "2026-03-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "4887",
+    "nameJp": "30MF ローザンソードマン",
+    "nameEn": "30MF ROSAN SWORDMAN",
+    "partNo": "2794171",
+    "releaseDate": "2026-03-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "4888",
+    "nameJp": "30MF クラスアップアーマー(ローザングラディエーター)",
+    "nameEn": "30MF CLASS UP ARMOR ROSAN GLADIATOR",
+    "partNo": "2794172",
+    "releaseDate": "2026-03-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "4889",
+    "nameJp": "30MS SIS-Hc106k ベルベリア=ベリィス(フェローチェフォーム)",
+    "nameEn": "30MS SIS-Hc106k BELVERIA-BERYS(FEROCE FORM)",
+    "partNo": "2805087",
+    "releaseDate": "2026-03-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
     "id": "489",
     "nameJp": "HGCE 1/144 デスティニーガンダム",
     "nameEn": "HGCE 1/144 DESTINY GUNDAM",
@@ -12958,6 +13003,15 @@
     "releaseDate": "2019-05-31",
     "brand": "HG",
     "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "4890",
+    "nameJp": "30MS オプションパーツセット27(ミネルヴァコスチューム)[カラーA]",
+    "nameEn": "30MS OPTION PARTS SET 27 (MINERVA COSTUME) [COLOR A]",
+    "partNo": "2794164",
+    "releaseDate": "2026-03-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "49",
@@ -12987,6 +13041,24 @@
     "series": "機動戦士ガンダム 閃光のハサウェイ"
   },
   {
+    "id": "4918",
+    "nameJp": "ガンダムデカールDX 10",
+    "nameEn": "",
+    "partNo": "2569528",
+    "releaseDate": "2026-03",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4919",
+    "nameJp": "ＭＧ 1/100 ガンダムサンドロックＥＷ (アーマディロリザード装備)",
+    "nameEn": "",
+    "partNo": "2753048",
+    "releaseDate": "2026-03",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
     "id": "492",
     "nameJp": "HGAC 1/144 ガンダムサンドロック",
     "nameEn": "HG 1/144 GUNDAM SANDROCK",
@@ -12994,6 +13066,51 @@
     "releaseDate": "2019-09-14",
     "brand": "HG",
     "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "4920",
+    "nameJp": "MG 1/100 F90IIIY クラスターガンダム用 ミッションパック Xタイプ",
+    "nameEn": "",
+    "partNo": "2794151",
+    "releaseDate": "2026-03",
+    "brand": "MG",
+    "series": "その他"
+  },
+  {
+    "id": "4921",
+    "nameJp": "HG ガンダムTR-1[ヘイズル改]イカロス・ユニット装備(ADVANCE OF Z ティターンズの旗のもとに)",
+    "nameEn": "",
+    "partNo": "2794167",
+    "releaseDate": "2026-03",
+    "brand": "HG",
+    "series": "ADVANCE OF Z"
+  },
+  {
+    "id": "4922",
+    "nameJp": "HG 1/144 ストライクフリーダムガンダム弐式&光の翼エフェクトセット",
+    "nameEn": "",
+    "partNo": "2805113",
+    "releaseDate": "2026-03",
+    "brand": "HG",
+    "series": "機動戦士ガンダムSEED FREEDOM"
+  },
+  {
+    "id": "4923",
+    "nameJp": "RG 1/144 ガンダムベース限定 ガンダムエピオン [スペシャルコーティング]",
+    "nameEn": "RG 1/144 THE GUNDAM BASE LIMITED GUNDAM EPYON [SPECIAL COATING]",
+    "partNo": "2805122",
+    "releaseDate": "2026-03",
+    "brand": "RG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "4924",
+    "nameJp": "HG 1/144 量産型ルカ専用ザク",
+    "nameEn": "",
+    "partNo": "2836519",
+    "releaseDate": "2026-03",
+    "brand": "HG",
+    "series": "その他"
   },
   {
     "id": "493",
