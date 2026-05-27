@@ -13356,6 +13356,69 @@
     "series": "機動戦士ガンダム 逆襲のシャア"
   },
   {
+    "id": "5083",
+    "nameJp": "HG 1/144 ゲルググ(GQ)",
+    "nameEn": "HG 1/144 GELGOOG(GQ)",
+    "partNo": "2780468",
+    "releaseDate": "2026-05",
+    "brand": "HG",
+    "series": "機動戦士Gundam GQuuuuuuX"
+  },
+  {
+    "id": "5084",
+    "nameJp": "HG 1/144 Dガンダムセカンド",
+    "nameEn": "HG 1/144 D GUNDAM SECOND",
+    "partNo": "2815191",
+    "releaseDate": "2026-05",
+    "brand": "HG",
+    "series": "その他ガンプラ"
+  },
+  {
+    "id": "5085",
+    "nameJp": "HG 1/144 ガンダムバルバトスアダプト",
+    "nameEn": "HG 1/144 GUNDAM BARBATOS ADAPT",
+    "partNo": "2815192",
+    "releaseDate": "2026-05",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "5086",
+    "nameJp": "30MM 1/144 EXM-H15X アチェルビー(TYPE-X)",
+    "nameEn": "30MM 1/144 EXM-H15X ACERBY (TYPE-X)",
+    "partNo": "2815196",
+    "releaseDate": "2026-05",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "5087",
+    "nameJp": "1/1 ガンダムベース限定 ガンプラくんDXセット(ランナーVer.再現パーツ付き) [ペインティングモデル]",
+    "nameEn": "1/1 THE GUNDAM BASE LIMITED GUNPLA-KUN DX SET (WITH RUNNER Ver. RECREATION PARTS) [PAINTING MODEL]",
+    "partNo": "2815198",
+    "releaseDate": "2026-05-02",
+    "brand": "その他",
+    "series": "その他"
+  },
+  {
+    "id": "5088",
+    "nameJp": "ガンダムベース限定 ベストメカコレクション 1/144 RX-78-2 ガンダム (REVIVAL Ver.) [ガンダムベースカラー]",
+    "nameEn": "THE GUNDAM BASE LIMITED BEST MECHA COLLECTION 1/144 RX-78-2 GUNDAM (REVIVAL Ver.) [THE GUNDAM BASE COLOR]",
+    "partNo": "2815200",
+    "releaseDate": "2026-05-02",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "5089",
+    "nameJp": "RG 1/144 MSN-04FF サザビー[クリアカラー]",
+    "nameEn": "RG 1/144 MSN-04FF SAZABI[CLEAR COLOR]",
+    "partNo": "2845053",
+    "releaseDate": "2026-05-02",
+    "brand": "RG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
     "id": "509",
     "nameJp": "MG 1/100 AMX-004 キュベレイ",
     "nameEn": "MG 1/100 AMX-004 QUBELLEY",
