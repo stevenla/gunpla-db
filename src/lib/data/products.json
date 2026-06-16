@@ -13329,6 +13329,15 @@
     "series": "機動戦士ガンダムSEED DESTINY"
   },
   {
+    "id": "5050",
+    "nameJp": "ENTRY GRADE 1/144 νガンダム &フィン・ファンネル[リサーキュレーションカラー/ネオングリーン] ペーパーレス",
+    "nameEn": "",
+    "partNo": "2857397",
+    "releaseDate": "2026-06",
+    "brand": "ENTRY GRADE",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
     "id": "506",
     "nameJp": "HGAC 1/144 ガンダムデスサイズ",
     "nameEn": "HGAC 1/144 GUNDAM DEATHSCYTHE",
@@ -13597,6 +13606,42 @@
     "releaseDate": "2003-02",
     "brand": "MG",
     "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
+  },
+  {
+    "id": "5215",
+    "nameJp": "ポケモンプラモコレクション 62 セレクトシリーズ カイオーガ",
+    "nameEn": "Pokémon Model Kit KYOGRE",
+    "partNo": "2773846",
+    "releaseDate": "2026-06-13",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "5216",
+    "nameJp": "30MM 1/144 bEXM-40 ノヴァルヴ[グリーン]",
+    "nameEn": "30MM 1/144 bEXM-40 NOVALV [GREEN]",
+    "partNo": "2825328",
+    "releaseDate": "2026-06-13",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "5217",
+    "nameJp": "30MM 1/144 オプションパーツセット23(フルアーマーユニット2)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 23 (FULL ARMOR UNIT 2)",
+    "partNo": "2825329",
+    "releaseDate": "2026-06-13",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "5218",
+    "nameJp": "30MM 1/144 オプションパーツセット24(マルチオブジェクト1)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 24 (MULTI OBJECT 1)",
+    "partNo": "2825350",
+    "releaseDate": "2026-06-13",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
   },
   {
     "id": "522",
