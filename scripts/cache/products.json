@@ -13644,6 +13644,15 @@
     "series": "30 MINUTES MISSIONS"
   },
   {
+    "id": "5219",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.13 全4種 ツインテール1[イエロー5]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.13 ALL 4 TYPES PIGTAILS 1 [YELLOW 5]",
+    "partNo": "2805088",
+    "releaseDate": "2026-06-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
     "id": "522",
     "nameJp": "MG 1/100 RX-78-4 ガンダム4号機",
     "nameEn": "MG 1/100 RX-78-4 GUNDAM G04",
@@ -13651,6 +13660,69 @@
     "releaseDate": "2003-07",
     "brand": "MG",
     "series": "ガンプラ"
+  },
+  {
+    "id": "5220",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.13 全4種 ツインテール10[ピンク3]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.13 ALL 4 TYPES PIGTAILS 10 [PINK 3]",
+    "partNo": "2805089",
+    "releaseDate": "2026-06-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "5221",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.13 全4種 ミディアムヘア7[ブルー2]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.13 ALL 4 TYPES MEDIUM HAIR 7 [BLUE 2]",
+    "partNo": "2805090",
+    "releaseDate": "2026-06-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "5222",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.13 全4種 ミディアムヘア8[ブラック1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.13 ALL 4 TYPES MEDIUM HAIR 8 [BLACK 1]",
+    "partNo": "2805091",
+    "releaseDate": "2026-06-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "5223",
+    "nameJp": "30MF クラスアップアーマー (リーベルコマンダー)",
+    "nameEn": "30MF CLASS UP ARMOR (LIBER COMMANDER)",
+    "partNo": "2825351",
+    "releaseDate": "2026-06-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "5224",
+    "nameJp": "30MF クラスアップアーマー (ローザンフォートレス)",
+    "nameEn": "30MF CLASS UP ARMOR (ROSAN FORTRESS)",
+    "partNo": "2825352",
+    "releaseDate": "2026-06-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "5225",
+    "nameJp": "30MF ドゥローワイバーン",
+    "nameEn": "30MF DLROWYVERN",
+    "partNo": "2825353",
+    "releaseDate": "2026-06-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "5226",
+    "nameJp": "30MS SIS-J00 メルンジャ[カラーA]",
+    "nameEn": "30MS SIS-J00 MERUNJA [COLOR A]",
+    "partNo": "2825354",
+    "releaseDate": "2026-06-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "523",
