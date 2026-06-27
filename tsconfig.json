@@ -9,8 +9,10 @@
 		"skipLibCheck": true,
 		"sourceMap": true,
 		"strict": true,
+		"module": "ES2022",
 		"moduleResolution": "bundler",
-		"types": ["node"]
+		"types": ["node"],
+		"target": "ES2022"
 	}
 	// Path aliases are handled by https://kit.svelte.dev/docs/configuration#alias
 	// except $lib which is handled by https://kit.svelte.dev/docs/configuration#files
