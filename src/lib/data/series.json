@@ -308,35 +308,35 @@
     "year": 2025
   },
   "30 MINUTES SISTERS": {
-    "slug": "SISTERS",
+    "slug": "30MS",
     "nameEn": "30 Minutes Sisters",
     "imageIndex": "201",
     "nameJp": "30 MINUTES SISTERS",
     "year": 2025
   },
   "30 MINUTES FANTASY": {
-    "slug": "FANTASY",
+    "slug": "30MF",
     "nameEn": "30 Minutes Fantasy",
     "imageIndex": "200",
     "nameJp": "30 MINUTES FANTASY",
     "year": 2025
   },
   "ポケモンプラモコレクション クイック!!": {
-    "slug": "POKEMON-QUICK",
-    "nameEn": "Pokémon Plastic Model Collection Quick!!",
+    "slug": "PKMN-QUICK",
+    "nameEn": "Pokémon Quick!!",
     "imageIndex": "233",
     "nameJp": "ポケモンプラモコレクション クイック!!",
     "year": 2026
   },
   "ポケモンプラモコレクション セレクトシリーズ": {
-    "slug": "POKEMON-SELECT",
-    "nameEn": "Pokémon Plastic Model Collection Select Series",
+    "slug": "PKMN-SELECT",
+    "nameEn": "Pokémon Select Series",
     "imageIndex": "232",
     "nameJp": "ポケモンプラモコレクション セレクトシリーズ",
     "year": 2026
   },
   "30 MINUTES MISSIONS": {
-    "slug": "MISSIONS",
+    "slug": "30MM",
     "nameEn": "30 Minutes Missions",
     "imageIndex": "199",
     "nameJp": "30 MINUTES MISSIONS",
@@ -350,36 +350,36 @@
     "year": 1996
   },
   "ポケモンプラモコレクション 進化シリーズ": {
-    "slug": "POKEMON-EVO",
-    "nameEn": "Pokémon Plastic Model Collection Evolution Series",
+    "slug": "PKMN-EVO",
+    "nameEn": "Pokémon Evolution Series",
     "imageIndex": "265",
     "nameJp": "ポケモンプラモコレクション 進化シリーズ",
     "year": 2009
   },
   "ポケモンプラモコレクション ファーストシリーズ": {
-    "slug": "POKEMON-FIRST",
-    "nameEn": "Pokémon Plastic Model Collection First Series",
+    "slug": "PKMN-FIRST",
+    "nameEn": "Pokémon First Series",
     "imageIndex": "266",
     "nameJp": "ポケモンプラモコレクション ファーストシリーズ",
     "year": 2011
   },
   "ポケモンプラモコレクション BIG": {
-    "slug": "POKEMON-BIG",
-    "nameEn": "Pokémon Plastic Model Collection BIG",
+    "slug": "PKMN-BIG",
+    "nameEn": "Pokémon Big",
     "imageIndex": "234",
     "nameJp": "ポケモンプラモコレクション BIG",
     "year": 2021
   },
   "ポケモンプラモコレクション カセキポケモンシリーズ": {
-    "slug": "POKEMON-KASEKI",
-    "nameEn": "Pokémon Plastic Model Collection Kaseki Pokémon Series",
+    "slug": "PKMN-FOSSIL",
+    "nameEn": "Pokémon Fossil Series",
     "imageIndex": "236",
     "nameJp": "ポケモンプラモコレクション カセキポケモンシリーズ",
     "year": 2026
   },
   "ポケモンプラモコレクション クイック!! Lite": {
-    "slug": "POKEMON-QUICK-LITE",
-    "nameEn": "Pokémon Plastic Model Collection Quick!! Lite",
+    "slug": "PKMN-QUICK",
+    "nameEn": "Pokémon Quick!! Lite",
     "imageIndex": "235",
     "nameJp": "ポケモンプラモコレクション クイック!! Lite",
     "year": 2026

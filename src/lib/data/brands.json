@@ -109,8 +109,8 @@
     "year": 2025
   },
   "ポケモンプラモコレクション": {
-    "slug": "POKEMON",
-    "nameEn": "Pokémon Plastic Model Collection",
+    "slug": "PKMN",
+    "nameEn": "Pokémon",
     "imageIndex": "199",
     "nameJp": "ポケモンプラモコレクション",
     "year": 2026
@@ -123,8 +123,8 @@
     "year": 2014
   },
   "メガサイズモデル": {
-    "slug": "MESUI",
-    "nameEn": "Mecha Sui Mote Ru",
+    "slug": "MEGA",
+    "nameEn": "Mega Size Model",
     "imageIndex": "232",
     "nameJp": "メガサイズモデル",
     "year": 2010
