@@ -102,15 +102,17 @@
     "nameJp": "SDBF"
   },
   "30 MINUTES LABEL": {
-    "slug": "166",
-    "nameEn": "30 MINUTES LABEL",
+    "slug": "30MIN",
+    "nameEn": "30 Minutes Label",
     "imageIndex": "166",
-    "nameJp": "30 MINUTES LABEL"
+    "nameJp": "30 MINUTES LABEL",
+    "year": 2025
   },
   "ポケモンプラモコレクション": {
-    "slug": "199",
-    "nameEn": "ポケモンプラモコレクション",
+    "slug": "POKEMON",
+    "nameEn": "Pokémon Plastic Model Collection",
     "imageIndex": "199",
-    "nameJp": "ポケモンプラモコレクション"
+    "nameJp": "ポケモンプラモコレクション",
+    "year": 2026
   }
 }

@@ -308,38 +308,38 @@
     "year": 2025
   },
   "30 MINUTES SISTERS": {
-    "slug": "201",
-    "nameEn": "30 MINUTES SISTERS",
+    "slug": "SISTERS",
+    "nameEn": "30 Minutes Sisters",
     "imageIndex": "201",
     "nameJp": "30 MINUTES SISTERS",
-    "year": 9999
+    "year": 2025
   },
   "30 MINUTES FANTASY": {
-    "slug": "200",
-    "nameEn": "30 MINUTES FANTASY",
+    "slug": "FANTASY",
+    "nameEn": "30 Minutes Fantasy",
     "imageIndex": "200",
     "nameJp": "30 MINUTES FANTASY",
-    "year": 9999
+    "year": 2025
   },
   "ポケモンプラモコレクション クイック!!": {
-    "slug": "233",
-    "nameEn": "ポケモンプラモコレクション クイック!!",
+    "slug": "POKEMON-QUICK",
+    "nameEn": "Pokémon Plastic Model Collection Quick!!",
     "imageIndex": "233",
     "nameJp": "ポケモンプラモコレクション クイック!!",
-    "year": 9999
+    "year": 2026
   },
   "ポケモンプラモコレクション セレクトシリーズ": {
-    "slug": "232",
-    "nameEn": "ポケモンプラモコレクション セレクトシリーズ",
+    "slug": "POKEMON-SELECT",
+    "nameEn": "Pokémon Plastic Model Collection Select Series",
     "imageIndex": "232",
     "nameJp": "ポケモンプラモコレクション セレクトシリーズ",
-    "year": 9999
+    "year": 2026
   },
   "30 MINUTES MISSIONS": {
-    "slug": "199",
-    "nameEn": "30 MINUTES MISSIONS",
+    "slug": "MISSIONS",
+    "nameEn": "30 Minutes Missions",
     "imageIndex": "199",
     "nameJp": "30 MINUTES MISSIONS",
-    "year": 9999
+    "year": 2025
   }
 }
