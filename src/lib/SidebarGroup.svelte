@@ -6,12 +6,14 @@
 		items,
 		enabledItems = $bindable(),
 		getID,
-		title
+		title,
+		children
 	}: {
 		items: T[];
 		enabledItems: ID[];
 		getID(item: T): ID;
 		title: string;
+		children: (item: T) => any;
 	} = $props();
 
 	let isOpen = $state(true);
@@ -62,7 +64,7 @@
 						}}
 					/>
 					<div>
-						<slot {item}>{getID(item)}</slot>
+						{@render children(item)}
 					</div>
 				</label>
 			{/each}
@@ -94,7 +96,7 @@
 	.collapse {
 		color: var(--text--color);
 		border: 0;
-		background: 0;
+		background: none;
 		padding: 0;
 		width: 18px;
 		font-size: 70%;

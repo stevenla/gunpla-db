@@ -141,27 +141,30 @@
 				items={allYears}
 				getID={(year) => year}
 				bind:enabledItems={enabledYears.current}
-				let:item={year}
 			>
-				{year}
+				{#snippet children(year)}
+					{year}
+				{/snippet}
 			</SidebarGroup>
 			<SidebarGroup
 				title="Grade"
 				items={ALL_BRANDS}
 				getID={(brand) => brand.nameJp}
 				bind:enabledItems={enabledBrands}
-				let:item={brand}
 			>
-				{brand.nameEn}
+				{#snippet children(brand)}
+					{brand.nameEn}
+				{/snippet}
 			</SidebarGroup>
 			<SidebarGroup
 				title="Series"
 				items={ALL_SERIES}
 				getID={(series) => series.nameJp}
 				bind:enabledItems={enabledSeries}
-				let:item={series}
 			>
-				{series.nameEn}
+				{#snippet children(series)}
+					{series.nameEn}
+				{/snippet}
 			</SidebarGroup>
 		</div>
 	</div>

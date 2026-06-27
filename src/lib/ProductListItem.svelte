@@ -11,8 +11,8 @@
 		onSeriesClick: (brand: string) => void;
 	} = $props();
 
-	const brandInfo = translateBrand(product.brand);
-	const seriesInfo = translateSeries(product.series);
+	const brandInfo = $derived(translateBrand(product.brand));
+	const seriesInfo = $derived(translateSeries(product.series));
 </script>
 
 <div class="root">
