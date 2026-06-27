@@ -116,15 +116,17 @@
     "year": 2026
   },
   "RE/100": {
-    "slug": "133",
+    "slug": "RE100",
     "nameEn": "RE/100",
     "imageIndex": "133",
-    "nameJp": "RE/100"
+    "nameJp": "RE/100",
+    "year": 2014
   },
   "メガサイズモデル": {
-    "slug": "232",
-    "nameEn": "メガサイズモデル",
+    "slug": "MESUI",
+    "nameEn": "Mecha Sui Mote Ru",
     "imageIndex": "232",
-    "nameJp": "メガサイズモデル"
+    "nameJp": "メガサイズモデル",
+    "year": 2010
   }
 }

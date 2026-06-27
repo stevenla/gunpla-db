@@ -343,45 +343,45 @@
     "year": 2025
   },
   "その他ガンプラ": {
-    "slug": "34",
-    "nameEn": "その他ガンプラ",
+    "slug": "OTHER-GUNPLA",
+    "nameEn": "Other Gunpla",
     "imageIndex": "34",
     "nameJp": "その他ガンプラ",
-    "year": 9999
+    "year": 1996
   },
   "ポケモンプラモコレクション 進化シリーズ": {
-    "slug": "265",
-    "nameEn": "ポケモンプラモコレクション 進化シリーズ",
+    "slug": "POKEMON-EVO",
+    "nameEn": "Pokémon Plastic Model Collection Evolution Series",
     "imageIndex": "265",
     "nameJp": "ポケモンプラモコレクション 進化シリーズ",
-    "year": 9999
+    "year": 2009
   },
   "ポケモンプラモコレクション ファーストシリーズ": {
-    "slug": "266",
-    "nameEn": "ポケモンプラモコレクション ファーストシリーズ",
+    "slug": "POKEMON-FIRST",
+    "nameEn": "Pokémon Plastic Model Collection First Series",
     "imageIndex": "266",
     "nameJp": "ポケモンプラモコレクション ファーストシリーズ",
-    "year": 9999
+    "year": 2011
   },
   "ポケモンプラモコレクション BIG": {
-    "slug": "234",
-    "nameEn": "ポケモンプラモコレクション BIG",
+    "slug": "POKEMON-BIG",
+    "nameEn": "Pokémon Plastic Model Collection BIG",
     "imageIndex": "234",
     "nameJp": "ポケモンプラモコレクション BIG",
-    "year": 9999
+    "year": 2021
   },
   "ポケモンプラモコレクション カセキポケモンシリーズ": {
-    "slug": "236",
-    "nameEn": "ポケモンプラモコレクション カセキポケモンシリーズ",
+    "slug": "POKEMON-KASEKI",
+    "nameEn": "Pokémon Plastic Model Collection Kaseki Pokémon Series",
     "imageIndex": "236",
     "nameJp": "ポケモンプラモコレクション カセキポケモンシリーズ",
-    "year": 9999
+    "year": 2026
   },
   "ポケモンプラモコレクション クイック!! Lite": {
-    "slug": "235",
-    "nameEn": "ポケモンプラモコレクション クイック!! Lite",
+    "slug": "POKEMON-QUICK-LITE",
+    "nameEn": "Pokémon Plastic Model Collection Quick!! Lite",
     "imageIndex": "235",
     "nameJp": "ポケモンプラモコレクション クイック!! Lite",
-    "year": 9999
+    "year": 2026
   }
 }
