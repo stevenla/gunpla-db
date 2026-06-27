@@ -96,12 +96,21 @@ async function fetchAll() {
 			const anchors = [...doc.querySelectorAll<HTMLAnchorElement>('.bl_result_item a')];
 			if (anchors.length === 0) break;
 
-			const detailFetchPromises = anchors.map((anchor: HTMLAnchorElement) => {
+			const detailFetchPromises = anchors.map(async (anchor: HTMLAnchorElement) => {
 				const id = anchor.getAttribute('href')?.replace(/[^0-9]/g, '');
 				if (!id) return Promise.resolve(null);
 				cacheImages(id, anchor);
+				const iconImgs = [...anchor.querySelectorAll<HTMLImageElement>('.bl_result_icon img')];
+				const brandIconUrl = iconImgs[0]?.src
+					? iconImgs[0].src.replace('https://manual.bandai-hobby.net', '')
+					: null;
+				const seriesIconUrl = iconImgs[1]?.src
+					? iconImgs[1].src.replace('https://manual.bandai-hobby.net', '')
+					: null;
 				idToListInfo[id] = {
-					nameEn: anchor.querySelector('.bl_result_name_en')?.textContent ?? ''
+					nameEn: anchor.querySelector('.bl_result_name_en')?.textContent ?? '',
+					...(brandIconUrl ? { brandIconUrl } : {}),
+					...(seriesIconUrl ? { seriesIconUrl } : {})
 				};
 				return fetchDetailHTML(id);
 			});

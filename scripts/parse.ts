@@ -3,6 +3,8 @@ import esMain from 'es-main'
 import path from 'path'
 import { JSDOM } from 'jsdom'
 import Throttle from 'promise-parallel-throttle'
+import brands from '../src/lib/data/brands.json'
+import series from '../src/lib/data/series.json'
 
 const CACHEDIR = path.resolve(import.meta.dirname, 'cache')
 import listInfo from './cache/listInfo.json';
@@ -71,7 +73,35 @@ async function parseAll() {
   })
   const products = await Throttle.all(productListPromises, { maxInProgress: 10 });
 
+  for (const product of products) {
+    if (!(product.brand in brands)) {
+      const iconUrl = listInfo[product.id]?.brandIconUrl as string | undefined;
+      if (!iconUrl) continue;
+      const imageIndex = iconUrl.split('/').pop()?.replace('.jpeg', '');
+      brands[product.brand] = {
+        slug: imageIndex,
+        nameEn: product.brand,
+        imageIndex,
+        nameJp: product.brand
+      };
+    }
+    if (!(product.series in series)) {
+      const iconUrl = listInfo[product.id]?.seriesIconUrl as string | undefined;
+      if (!iconUrl) continue;
+      const imageIndex = iconUrl.split('/').pop()?.replace('.jpeg', '');
+      series[product.series] = {
+        slug: imageIndex,
+        nameEn: product.series,
+        imageIndex,
+        nameJp: product.series,
+        year: 9999
+      };
+    }
+  }
+
   await fs.writeFile(path.resolve(CACHEDIR, 'products.json'), JSON.stringify(products, null, 2));
+  await fs.writeFile(path.resolve(import.meta.dirname, '..', 'src', 'lib', 'data', 'brands.json'), JSON.stringify(brands, null, 2));
+  await fs.writeFile(path.resolve(import.meta.dirname, '..', 'src', 'lib', 'data', 'series.json'), JSON.stringify(series, null, 2));
 }
 
 if (esMain(import.meta)) {

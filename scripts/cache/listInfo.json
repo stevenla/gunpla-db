@@ -6066,7 +6066,9 @@
     "nameEn": "Pokémon Model Kit QUICK!! 26 JOLTEON"
   },
   "5050": {
-    "nameEn": "ENTRY GRADE 1/144 ν GUNDAM &FIN FUNNEL [RECIRCULATION COLOR/NEON GREEN] PAPERLESS"
+    "nameEn": "ENTRY GRADE 1/144 ν GUNDAM &FIN FUNNEL [RECIRCULATION COLOR/NEON GREEN] PAPERLESS",
+    "brandIconUrl": "/images/categories/2.jpeg",
+    "seriesIconUrl": "/images/titles/16.jpeg"
   },
   "5083": {
     "nameEn": "HG 1/144 GELGOOG(GQ)"
@@ -6084,60 +6086,98 @@
     "nameEn": "1/1 THE GUNDAM BASE LIMITED GUNPLA-KUN DX SET (WITH RUNNER Ver. RECREATION PARTS) [PAINTING MODEL]"
   },
   "5088": {
-    "nameEn": "THE GUNDAM BASE LIMITED BEST MECHA COLLECTION 1/144 RX-78-2 GUNDAM (REVIVAL Ver.) [THE GUNDAM BASE COLOR]"
+    "nameEn": "THE GUNDAM BASE LIMITED BEST MECHA COLLECTION 1/144 RX-78-2 GUNDAM (REVIVAL Ver.) [THE GUNDAM BASE COLOR]",
+    "brandIconUrl": "/images/categories/34.jpeg",
+    "seriesIconUrl": "/images/titles/19.jpeg"
   },
   "5089": {
-    "nameEn": "RG 1/144 MSN-04FF SAZABI[CLEAR COLOR]"
+    "nameEn": "RG 1/144 MSN-04FF SAZABI[CLEAR COLOR]",
+    "brandIconUrl": "/images/categories/10.jpeg",
+    "seriesIconUrl": "/images/titles/16.jpeg"
   },
   "5116": {
-    "nameEn": "30MS OPTION PARTS SET 28 (ACTION WEAR α) [COLOR A]"
+    "nameEn": "30MS OPTION PARTS SET 28 (ACTION WEAR α) [COLOR A]",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/201.jpeg"
   },
   "5117": {
-    "nameEn": "30MF CUSTOMIZE STRUCTURE3"
+    "nameEn": "30MF CUSTOMIZE STRUCTURE3",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/200.jpeg"
   },
   "5118": {
-    "nameEn": "Pokémon Model Kit QUICK!! 27 VAPOREON"
+    "nameEn": "Pokémon Model Kit QUICK!! 27 VAPOREON",
+    "brandIconUrl": "/images/categories/199.jpeg",
+    "seriesIconUrl": "/images/titles/233.jpeg"
   },
   "5119": {
-    "nameEn": "HG 1/144 MESSER TYPE-M01 (GAWMAN USE）"
+    "nameEn": "HG 1/144 MESSER TYPE-M01 (GAWMAN USE）",
+    "brandIconUrl": "/images/categories/1.jpeg",
+    "seriesIconUrl": "/images/titles/17.jpeg"
   },
   "5182": {
-    "nameEn": "HG 1/144 GUNDAM SANDROCK CUSTOM EW"
+    "nameEn": "HG 1/144 GUNDAM SANDROCK CUSTOM EW",
+    "brandIconUrl": "/images/categories/1.jpeg",
+    "seriesIconUrl": "/images/titles/30.jpeg"
   },
   "5215": {
-    "nameEn": "Pokémon Model Kit KYOGRE"
+    "nameEn": "Pokémon Model Kit KYOGRE",
+    "brandIconUrl": "/images/categories/199.jpeg",
+    "seriesIconUrl": "/images/titles/232.jpeg"
   },
   "5216": {
-    "nameEn": "30MM 1/144 bEXM-40 NOVALV [GREEN]"
+    "nameEn": "30MM 1/144 bEXM-40 NOVALV [GREEN]",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/199.jpeg"
   },
   "5217": {
-    "nameEn": "30MM 1/144 OPTION PARTS SET 23 (FULL ARMOR UNIT 2)"
+    "nameEn": "30MM 1/144 OPTION PARTS SET 23 (FULL ARMOR UNIT 2)",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/199.jpeg"
   },
   "5218": {
-    "nameEn": "30MM 1/144 OPTION PARTS SET 24 (MULTI OBJECT 1)"
+    "nameEn": "30MM 1/144 OPTION PARTS SET 24 (MULTI OBJECT 1)",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/199.jpeg"
   },
   "5219": {
-    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.13 ALL 4 TYPES PIGTAILS 1 [YELLOW 5]"
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.13 ALL 4 TYPES PIGTAILS 1 [YELLOW 5]",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/201.jpeg"
   },
   "5220": {
-    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.13 ALL 4 TYPES PIGTAILS 10 [PINK 3]"
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.13 ALL 4 TYPES PIGTAILS 10 [PINK 3]",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/201.jpeg"
   },
   "5221": {
-    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.13 ALL 4 TYPES MEDIUM HAIR 7 [BLUE 2]"
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.13 ALL 4 TYPES MEDIUM HAIR 7 [BLUE 2]",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/201.jpeg"
   },
   "5222": {
-    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.13 ALL 4 TYPES MEDIUM HAIR 8 [BLACK 1]"
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.13 ALL 4 TYPES MEDIUM HAIR 8 [BLACK 1]",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/201.jpeg"
   },
   "5223": {
-    "nameEn": "30MF CLASS UP ARMOR (LIBER COMMANDER)"
+    "nameEn": "30MF CLASS UP ARMOR (LIBER COMMANDER)",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/200.jpeg"
   },
   "5224": {
-    "nameEn": "30MF CLASS UP ARMOR (ROSAN FORTRESS)"
+    "nameEn": "30MF CLASS UP ARMOR (ROSAN FORTRESS)",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/200.jpeg"
   },
   "5225": {
-    "nameEn": "30MF DLROWYVERN"
+    "nameEn": "30MF DLROWYVERN",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/200.jpeg"
   },
   "5226": {
-    "nameEn": "30MS SIS-J00 MERUNJA [COLOR A]"
+    "nameEn": "30MS SIS-J00 MERUNJA [COLOR A]",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/201.jpeg"
   }
 }
