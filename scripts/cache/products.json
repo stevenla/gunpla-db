@@ -3516,7 +3516,7 @@
     "partNo": "2703256",
     "releaseDate": "2025-01-17",
     "brand": "オプションパーツセット",
-    "series": "ガンダムMSV"
+    "series": "機動戦士ガンダム SEED"
   },
   {
     "id": "2081",
@@ -3858,7 +3858,7 @@
     "partNo": "2205695",
     "releaseDate": "2013-03",
     "brand": "HG",
-    "series": "機動戦士ガンダム外伝 THE BLUE DESTINY"
+    "series": "その他"
   },
   {
     "id": "2145",
@@ -5582,7 +5582,7 @@
   {
     "id": "237",
     "nameJp": "HGUC 1/144 ジム寒冷地仕様",
-    "nameEn": "HGUC 1/144 RGM-79D GM COLD DISTRICT TYPE",
+    "nameEn": "HGUC 1/144 RGM-79D GM COLD DISTRICTS TYPE",
     "partNo": "1120465",
     "releaseDate": "2003-07",
     "brand": "HGUC",
@@ -6054,7 +6054,7 @@
     "partNo": "2611002",
     "releaseDate": "2023-07",
     "brand": "MG",
-    "series": "その他"
+    "series": "その他ガンプラ"
   },
   {
     "id": "2448",
@@ -6379,15 +6379,6 @@
     "releaseDate": "2023-01",
     "brand": "HG",
     "series": "ADVANCE OF Z"
-  },
-  {
-    "id": "2481",
-    "nameJp": "ＳＤＷ ＨＥＲＯＥＳ スペリオルフォーミュラー ファイナルドラゴン",
-    "nameEn": "SDW HEROES SUPERIOR FORMULA FINAL DRAGON",
-    "partNo": "2628916",
-    "releaseDate": "2023-10",
-    "brand": "RG",
-    "series": "その他"
   },
   {
     "id": "2482",
@@ -8447,7 +8438,7 @@
     "nameEn": "MG 1/100 GM COMMAND SPACE",
     "partNo": "2392443",
     "releaseDate": "2017-11",
-    "brand": "HG",
+    "brand": "MG",
     "series": "機動戦士ガンダム0080 ポケットの中の戦争"
   },
   {
@@ -8911,7 +8902,7 @@
   },
   {
     "id": "2739",
-    "nameJp": "ＭＧ 1/144 ジム・スナイパーⅡ（リド・ウォルフ機）",
+    "nameJp": "ＭＧ 1/00 ジム・スナイパーⅡ（リド・ウォルフ機）",
     "nameEn": "MG 1/100 Jim Sniper II (Lido Wolf machine)",
     "partNo": "2478106",
     "releaseDate": "2019-07",
@@ -9969,7 +9960,7 @@
     "partNo": "2742131",
     "releaseDate": "2025-04-11",
     "brand": "その他",
-    "series": "ガンプラ"
+    "series": "その他ガンプラ"
   },
   {
     "id": "3038",
@@ -9978,7 +9969,7 @@
     "partNo": "2742132",
     "releaseDate": "2025-04-11",
     "brand": "ENTRY GRADE",
-    "series": "ガンプラ"
+    "series": "その他ガンプラ"
   },
   {
     "id": "3039",
@@ -9987,7 +9978,7 @@
     "partNo": "2742133",
     "releaseDate": "2025-04-11",
     "brand": "ENTRY GRADE",
-    "series": "ガンプラ"
+    "series": "その他ガンプラ"
   },
   {
     "id": "304",
@@ -10359,6 +10350,24 @@
     "series": "機動戦士ガンダムAGE"
   },
   {
+    "id": "3202",
+    "nameJp": "ＨＧ 1/144 シャア専用高機動型ザクII",
+    "nameEn": "HG 1/144 ZAKU II HIGH MOBILITY TYPE",
+    "partNo": "2654091",
+    "releaseDate": "2025-03",
+    "brand": "HG",
+    "series": "機動戦士ガンダム ククルス・ドアンの島"
+  },
+  {
+    "id": "3203",
+    "nameJp": "RG 1/144 ソードインパルスガンダムＳｐｅｃＩＩ",
+    "nameEn": "RG 1/144 SWORD IMPULSE GUNDAM SpecII",
+    "partNo": "2679391",
+    "releaseDate": "2025-03",
+    "brand": "RG",
+    "series": "機動戦士ガンダムSEED FREEDOM"
+  },
+  {
     "id": "3204",
     "nameJp": "ＨＧ 1/144 ザク・デザートタイプ ピンクパンサー隊機",
     "nameEn": "HG 1/144 ZAKU DESERT TYPE PINK PANTHER FORCES",
@@ -10635,7 +10644,7 @@
     "partNo": "2801711",
     "releaseDate": "2025-08",
     "brand": "HG",
-    "series": "機動戦士ガンダムSEED DESTINY"
+    "series": "機動戦士ガンダムSEED FREEDOM"
   },
   {
     "id": "3335",
@@ -10643,7 +10652,7 @@
     "nameEn": "MG 1/100 BLAZE ZAKU PHANTOM (DEARKA ELTHMAN CUSTOM)",
     "partNo": "2801712",
     "releaseDate": "2025-08",
-    "brand": "HG",
+    "brand": "MG",
     "series": "機動戦士ガンダムSEED DESTINY"
   },
   {
@@ -10652,7 +10661,7 @@
     "nameEn": "RG 1/144 MS-06S ZAKUⅡ [HATSUNE MIKU Ver.]",
     "partNo": "2784363",
     "releaseDate": "2025-08",
-    "brand": "HG",
+    "brand": "RG",
     "series": "機動戦士ガンダム"
   },
   {
@@ -10690,6 +10699,24 @@
     "releaseDate": "2012-01-21",
     "brand": "HG",
     "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "3367",
+    "nameJp": "30MF リーベルナイト",
+    "nameEn": "30MF LIBER KNIGHT",
+    "partNo": "2715314",
+    "releaseDate": "2024-08-31",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3368",
+    "nameJp": "30MF クラスアップアーマー (リーベルホーリーナイト)",
+    "nameEn": "30MF CLASS UP ARMOR (LIBER HOLY KNIGHT)",
+    "partNo": "2715316",
+    "releaseDate": "2024-08-31",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
   },
   {
     "id": "337",
@@ -10737,6 +10764,96 @@
     "series": "機動戦士ガンダム SEED"
   },
   {
+    "id": "3400",
+    "nameJp": "30MF クラスアップアーマー (リーベルパラディン)",
+    "nameEn": "30MF CLASS UP ARMOR (LIBER PALADIN)",
+    "partNo": "2715315",
+    "releaseDate": "2024-08-31",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3401",
+    "nameJp": "30MF ローザンナイト",
+    "nameEn": "30MF ROSAN KNIGHT",
+    "partNo": "2715319",
+    "releaseDate": "2024-09-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3402",
+    "nameJp": "30MF クラスアップアーマー (ローザンホーリーナイト)",
+    "nameEn": "30MF CLASS UP ARMOR (ROSAN HOLY KNIGHT)",
+    "partNo": "2715381",
+    "releaseDate": "2024-09-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3403",
+    "nameJp": "30MF クラスアップアーマー (ローザンパラディン)",
+    "nameEn": "30MF CLASS UP ARMOR (ROSAN PALADIN)",
+    "partNo": "2715380",
+    "releaseDate": "2024-09-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3404",
+    "nameJp": "30MF アイテムショップ1 (ナイトオプション)",
+    "nameEn": "30MF ITEM SHOP 1 (KNIGHT OPTION)",
+    "partNo": "2733961",
+    "releaseDate": "2024-09-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3405",
+    "nameJp": "30MF リーベルファイター",
+    "nameEn": "30MF LIBER FIGHTER",
+    "partNo": "2723587",
+    "releaseDate": "2024-11-23",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3406",
+    "nameJp": "30MF クラスアップアーマー(リーベルウォーリア)",
+    "nameEn": "30MF CLASS UP ARMOR (LIBER WARRIOR)",
+    "partNo": "2733967",
+    "releaseDate": "2024-11-23",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3407",
+    "nameJp": "30MF クラスアップアーマー(リーベルヴァイキング)",
+    "nameEn": "30MF CLASS UP ARMOR (LIBER VIKING)",
+    "partNo": "2723588",
+    "releaseDate": "2024-11-23",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3408",
+    "nameJp": "30MF ローザンファイター",
+    "nameEn": "30MF ROSAN FIGHTER",
+    "partNo": "2723589",
+    "releaseDate": "2024-12-21",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3409",
+    "nameJp": "30MF クラスアップアーマー(ローザンウォーリア)",
+    "nameEn": "30MF CLASS UP ARMOR (ROSAN WARRIOR)",
+    "partNo": "2733971",
+    "releaseDate": "2024-12-21",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
     "id": "341",
     "nameJp": "HG 1/144 R11 ラゴゥ",
     "nameEn": "HG 1/144 R11 LaGOWE",
@@ -10744,6 +10861,96 @@
     "releaseDate": "2012-02-25",
     "brand": "HG",
     "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "3410",
+    "nameJp": "30MF クラスアップアーマー(ローザンヴァイキング)",
+    "nameEn": "30MF CLASS UP ARMOR (ROSAN VIKING)",
+    "partNo": "2723590",
+    "releaseDate": "2024-12-21",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3411",
+    "nameJp": "30MF アイテムショップ2(ファイターオプション)",
+    "nameEn": "30MF ITEM SHOP 2 (FIGHTER OPTION)",
+    "partNo": "2733972",
+    "releaseDate": "2024-12-21",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3412",
+    "nameJp": "30MF リーベルプリースト",
+    "nameEn": "30MF LIBER PRIEST",
+    "partNo": "2761751",
+    "releaseDate": "2025-01-17",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3413",
+    "nameJp": "30MF クラスアップアーマー (リーベルビショップ)",
+    "nameEn": "30MF CLASS UP ARMOR (LIBER BISHOP)",
+    "partNo": "2745400",
+    "releaseDate": "2025-01-17",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3414",
+    "nameJp": "30MF ローザンプリースト",
+    "nameEn": "30MF ROSAN PRIEST",
+    "partNo": "2761753",
+    "releaseDate": "2025-02-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3415",
+    "nameJp": "30MF クラスアップアーマー (ローザンビショップ)",
+    "nameEn": "30MF CLASS UP ARMOR (ROSAN BISHOP)",
+    "partNo": "2745408",
+    "releaseDate": "2025-02-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3416",
+    "nameJp": "30MF リーベルアーチャー",
+    "nameEn": "30MF LIBER ARCHER",
+    "partNo": "2761754",
+    "releaseDate": "2025-03-08",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3417",
+    "nameJp": "30MF ローザンアーチャー",
+    "nameEn": "30MF ROSAN ARCHER",
+    "partNo": "2761756",
+    "releaseDate": "2025-03-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3418",
+    "nameJp": "30MF リーベルアサシン",
+    "nameEn": "30MF LIBER ASSASSIN",
+    "partNo": "2773773",
+    "releaseDate": "2025-05-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3419",
+    "nameJp": "30MF リーベルランサー",
+    "nameEn": "30MF LIBER LANCER",
+    "partNo": "2773774",
+    "releaseDate": "2025-05-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
   },
   {
     "id": "342",
@@ -10755,6 +10962,78 @@
     "series": "機動戦士ガンダム SEED"
   },
   {
+    "id": "3420",
+    "nameJp": "30MF クラスアップアーマー(リーベルアサシンスラッシュ)",
+    "nameEn": "30MF CLASS UP ARMOR(LIBER ASSASSIN SLASH)",
+    "partNo": "2773775",
+    "releaseDate": "2025-05-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3421",
+    "nameJp": "30MF ローザンアサシン",
+    "nameEn": "30MF ROSAN ASSASSIN",
+    "partNo": "2773784",
+    "releaseDate": "2025-06-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3422",
+    "nameJp": "30MF ローザンランサー",
+    "nameEn": "30MF ROSAN LANCER",
+    "partNo": "2773785",
+    "releaseDate": "2025-06-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3423",
+    "nameJp": "30MF クラスアップアーマー(ローザンアサシンスラッシュ)",
+    "nameEn": "30MF CLASS UP ARMOR(ROSAN ASSASSIN SLASH)",
+    "partNo": "2773786",
+    "releaseDate": "2025-06-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3424",
+    "nameJp": "30MF アイテムショップ3(ウェポンオプション)",
+    "nameEn": "30MF ITEM SHOP 3 (WEAPON OPTION)",
+    "partNo": "2773787",
+    "releaseDate": "2025-06-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3425",
+    "nameJp": "30MF リーベルウィザード",
+    "nameEn": "30MF LIBER WIZARD",
+    "partNo": "2733984",
+    "releaseDate": "2025-07-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3426",
+    "nameJp": "30MF クラスアップアーマー (リーベルソーサラー)",
+    "nameEn": "30MF CLASS UP ARMOR (LIBER SORCERER)",
+    "partNo": "2733985",
+    "releaseDate": "2025-07-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "3427",
+    "nameJp": "30MF クラスアップアーマー (リーベルエンチャンター)",
+    "nameEn": "30MF CLASS UP ARMOR (LIBER ENCHANTER)",
+    "partNo": "2745399",
+    "releaseDate": "2025-07-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
     "id": "343",
     "nameJp": "HG 1/144 R12 モビルバクゥ",
     "nameEn": "HG 1/144 R12 MOBILE BuCUE",
@@ -10762,6 +11041,69 @@
     "releaseDate": "2012-02-25",
     "brand": "HG",
     "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "3433",
+    "nameJp": "30MS SIS-G00 リシェッタ[カラーA]",
+    "nameEn": "30MS SIS-G00 RISHETTA [COLOR A]",
+    "partNo": "2561677",
+    "releaseDate": "2021-08-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3434",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.1 全4種 ツインテール1[ピンク1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.1 All 4 TYPES PIGTAILS 1 [PINK 1]",
+    "partNo": "2561678",
+    "releaseDate": "2021-08-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3435",
+    "nameJp": "30MS　オプションヘアスタイルパーツVol.1 全4種 ツインテール2[イエロー1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.1 All 4 TYPES PIGTAILS 2 [YELLOW 1]",
+    "partNo": "2562151",
+    "releaseDate": "2021-08-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3436",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.1 全4種 ショートヘア1[レッド1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.1 All 4 TYPES SHORT HAIR 1 [RED 1]",
+    "partNo": "2562152",
+    "releaseDate": "2021-08-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3437",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.1 全4種 ショートヘア2[ネイビー1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.1 All 4 TYPES SHORT HAIR 2 [NAVY 1]",
+    "partNo": "2562153",
+    "releaseDate": "2021-08-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3438",
+    "nameJp": "30MS オプションボディパーツ タイプG01[カラーA]",
+    "nameEn": "30MS OPTION BODY PARTS TYPE G01 [COLOR A]",
+    "partNo": "2561680",
+    "releaseDate": "2021-08-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3439",
+    "nameJp": "30MS オプションパーツセット1(スピードアーマー)",
+    "nameEn": "30MS OPTION PARTS SET 1 (SPEED ARMOR)",
+    "partNo": "2561681",
+    "releaseDate": "2021-08-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "344",
@@ -10773,6 +11115,96 @@
     "series": "機動戦士ガンダム SEED"
   },
   {
+    "id": "3440",
+    "nameJp": "30MS オプションボディパーツ タイプA01[カラーB]",
+    "nameEn": "30MS OPTION BODY PARTS TYPE A01 [COLOR B]",
+    "partNo": "2561685",
+    "releaseDate": "2021-09-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3441",
+    "nameJp": "30MS SIS-A00 ティアーシャ[カラーB]",
+    "nameEn": "30MS SIS-A00 TIASHA [COLOR B]",
+    "partNo": "2561682",
+    "releaseDate": "2021-09-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3442",
+    "nameJp": "30MS オプションパーツセット2(フライトアーマー)",
+    "nameEn": "30MS OPTION PARTS SET 2 (FLIGHT ARMOR)",
+    "partNo": "2561686",
+    "releaseDate": "2021-09-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3443",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.2 全4種 ポニーテールヘア1[ネイビー1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.2 All 4 TYPES PONYTAIL HAIR 1 [NAVY 1]",
+    "partNo": "2561683",
+    "releaseDate": "2021-09-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3444",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.2 全4種 ポニーテールヘア2[レッド2]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.2 All 4 TYPES PONYTAIL HAIR 2 [RED 2]",
+    "partNo": "2562157",
+    "releaseDate": "2021-09-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3445",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.2 全4種 ミディアムヘア1[ブラウン1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.2 All 4 TYPES MEDIUM HAIR 1 [BROWN 1]",
+    "partNo": "2562158",
+    "releaseDate": "2021-09-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3446",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.2 全4種 ミディアムヘア2[パープル1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.2 All 4 TYPES MEDIUM HAIR 2 [PURPLE1]",
+    "partNo": "2562159",
+    "releaseDate": "2021-09-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3447",
+    "nameJp": "30MS SIS-A00 ルルチェ[カラーC]",
+    "nameEn": "30MS SIS-A00 LULUCE [COLOR C]",
+    "partNo": "2583276",
+    "releaseDate": "2021-10-23",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3448",
+    "nameJp": "30MS オプションパーツセット3(メカニカルユニット)",
+    "nameEn": "30MS OPTION PARTS SET 3 (MECHANICHAL UNIT)",
+    "partNo": "2561687",
+    "releaseDate": "2021-10-23",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3449",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.3 全4種 ロングヘア1[ブラック1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.3 All 4 TYPES LONG HAIR 1 [BLACK1]",
+    "partNo": "2583278",
+    "releaseDate": "2021-11-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
     "id": "345",
     "nameJp": "HG 1/144 R14 ジャスティスガンダム",
     "nameEn": "HG 1/144 R14 JUSTICE GUNDAM",
@@ -10780,6 +11212,96 @@
     "releaseDate": "2012-02-29",
     "brand": "HG",
     "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "3450",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.3 全4種 ロングヘア2[レッド2]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.3 All 4 TYPES LONG HAIR 2 [RED2]",
+    "partNo": "2583279",
+    "releaseDate": "2021-11-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3451",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.3 全4種 ツインテール3[パープル1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.3 All 4 TYPES PIGTAILS 3 [PURPLE1]",
+    "partNo": "2583290",
+    "releaseDate": "2021-11-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3452",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.3 全4種 ポニーテールヘア3[イエロー2]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.3 All 4 TYPES PONYTAIL HAIR 3 [YELLOW2]",
+    "partNo": "2583291",
+    "releaseDate": "2021-11-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3453",
+    "nameJp": "30MS オプションボディパーツ タイプG02[カラーC]",
+    "nameEn": "30MS OPTION BODY PARTS TYPE G02 [COLOR C]",
+    "partNo": "2568063",
+    "releaseDate": "2021-11-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3454",
+    "nameJp": "30MS オプションハンドパーツ ［ホワイト/ブラック］",
+    "nameEn": "30MS OPTION HAND PARTS [WHITE/BLACK]",
+    "partNo": "2601791",
+    "releaseDate": "2022-01-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3455",
+    "nameJp": "30MS オプションパーツセット4(ステルスアーマー)",
+    "nameEn": "30MS OPTION PARTS SET 4 (STEALTH ARMOR)",
+    "partNo": "2583292",
+    "releaseDate": "2022-02-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3456",
+    "nameJp": "30MS オプションボディパーツ タイプA02[カラーA]",
+    "nameEn": "30MS OPTION BODY PARTS TYPE A02 [COLOR A]",
+    "partNo": "2583277",
+    "releaseDate": "2022-02-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3457",
+    "nameJp": "30MS オプションフェイスパーツVol.1 全4種 表情セット1[カラーA]",
+    "nameEn": "30MS OPTION FACE PARTS Vol.1 All 4 TYPES FACIAL EXPRESSION SET 1 [COLOR A]",
+    "partNo": "2568050",
+    "releaseDate": "2022-03-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3458",
+    "nameJp": "30MS オプションフェイスパーツVol.1 全4種 表情セット2[カラーB]",
+    "nameEn": "30MS OPTION FACE PARTS Vol.1 All 4 TYPES FACIAL EXPRESSION SET 2 [COLOR B]",
+    "partNo": "2568051",
+    "releaseDate": "2022-03-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3459",
+    "nameJp": "30MS オプションフェイスパーツVol.1 全4種 表情セット3[カラーA]",
+    "nameEn": "30MS OPTION FACE PARTS Vol.1 All 4 TYPES FACIAL EXPRESSION SET 3 [COLOR A]",
+    "partNo": "2568052",
+    "releaseDate": "2022-03-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "346",
@@ -10791,6 +11313,96 @@
     "series": "機動戦士ガンダムAGE"
   },
   {
+    "id": "3460",
+    "nameJp": "30MS オプションフェイスパーツVol.1 全4種 表情セット4[カラーA]",
+    "nameEn": "30MS OPTION FACE PARTS Vol.1 All 4 TYPES FACIAL EXPRESSION SET 4 [COLOR A]",
+    "partNo": "2568053",
+    "releaseDate": "2022-03-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3461",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.4 全4種 ショートヘア3[ブラウン2]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.4 ALL 4 TYPES SHORT HAIR 3 [BROWN 2]",
+    "partNo": "2590334",
+    "releaseDate": "2022-03-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3462",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.4 全4種 ミディアムヘア3[ピンク2]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.4 ALL 4 TYPES MEDIUM HAIR 3 [PINK 2]",
+    "partNo": "2590335",
+    "releaseDate": "2022-03-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3463",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.4 全4種 ロングヘア3[イエロー1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.4 ALL 4 TYPES LONG HAIR 3 [YELLOW 1]",
+    "partNo": "2590336",
+    "releaseDate": "2022-03-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3464",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.4 全4種 ロングヘア4[ホワイト1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.4 ALL 4 TYPES LONG HAIR 4 [WHITE 1]",
+    "partNo": "2590337",
+    "releaseDate": "2022-03-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3465",
+    "nameJp": "30MS オプションパーツセット5(ヘビーアーマー)",
+    "nameEn": "30MS OPTION PARTS SET 5 (HEAVY ARMOR)",
+    "partNo": "2590333",
+    "releaseDate": "2022-04-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3466",
+    "nameJp": "30MS SIS-Gc69r アルカ=カルティー(カルテットフォーム)",
+    "nameEn": "30MS SIS-Gc69r ALKA-CARTI (QUARTET FORM)",
+    "partNo": "2568062",
+    "releaseDate": "2022-05-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3467",
+    "nameJp": "30MS オプションボディパーツ タイプG03[カラーB]",
+    "nameEn": "30MS OPTION BODY PARTS TYPE G03 [COLOR B]",
+    "partNo": "2590331",
+    "releaseDate": "2022-05-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3468",
+    "nameJp": "30MS SIS-Ac25g ファル=ファリーナ(コンダクターフォーム)",
+    "nameEn": "30MS SIS-Ac25g FAR-FARINA (CONDUCTOR FORM)",
+    "partNo": "2590332",
+    "releaseDate": "2022-06-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3469",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.5 全4種 ロングヘア4[ブラウン3]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.5 ALL 4 TYPES LONG HAIR 4 [BROWN 3]",
+    "partNo": "2601787",
+    "releaseDate": "2022-06-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
     "id": "347",
     "nameJp": "HG 1/144 クランシェ",
     "nameEn": "HG 1/144 CLANCHE",
@@ -10798,6 +11410,96 @@
     "releaseDate": "2012-09-08",
     "brand": "HG",
     "series": "機動戦士ガンダムAGE"
+  },
+  {
+    "id": "3470",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.5 全4種 ショートヘア1[イエロー1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.5 ALL 4 TYPES SHORT HAIR 1 [YELLOW 1]",
+    "partNo": "2601788",
+    "releaseDate": "2022-06-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3471",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.5 全4種 ツインテール4[ホワイト1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.5 ALL 4 TYPES PIGTAILS 4 [WHITE 1]",
+    "partNo": "2601789",
+    "releaseDate": "2022-06-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3472",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.5 全4種 ショートヘア2[グリーン1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.5 ALL 4 TYPES SHORT HAIR 2 [GREEN 1]",
+    "partNo": "2601790",
+    "releaseDate": "2022-06-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3473",
+    "nameJp": "30MS オプションボディパーツ タイプS01[カラーA]",
+    "nameEn": "30MS OPTION BODY PARTS TYPE S01 [COLOR A]",
+    "partNo": "2616271",
+    "releaseDate": "2022-07-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3474",
+    "nameJp": "30MS オプションボディパーツ アームパーツ&レッグパーツ[カラーA]",
+    "nameEn": "30MS OPTION BODY PARTS ARM PARTS & LEG PARTS [COLOR A]",
+    "partNo": "2616274",
+    "releaseDate": "2022-07-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3475",
+    "nameJp": "30MS オプションボディパーツ タイプS02[カラーB]",
+    "nameEn": "30MS OPTION BODY PARTS TYPE S02 [COLOR B]",
+    "partNo": "2616272",
+    "releaseDate": "2022-08-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3476",
+    "nameJp": "30MS オプションボディパーツ アームパーツ&レッグパーツ[カラーB]",
+    "nameEn": "30MS OPTION BODY PARTS ARM PARTS & LEG PARTS [COLOR B]",
+    "partNo": "2616275",
+    "releaseDate": "2022-08-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3477",
+    "nameJp": "30MS オプションボディパーツ タイプS03[カラーC]",
+    "nameEn": "30MS OPTION BODY PARTS TYPE S03 [COLOR C]",
+    "partNo": "2616273",
+    "releaseDate": "2022-09-17",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3478",
+    "nameJp": "30MS オプションボディパーツ アームパーツ&レッグパーツ[カラーC]",
+    "nameEn": "30MS OPTION BODY PARTS ARM PARTS & LEG PARTS [COLOR C]",
+    "partNo": "2616276",
+    "releaseDate": "2022-09-17",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3479",
+    "nameJp": "30MS SIS-T00 リリネル[カラーA]",
+    "nameEn": "30MS SIS-T00 LIRINEL [COLOR A]",
+    "partNo": "2616278",
+    "releaseDate": "2022-11-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "348",
@@ -10809,6 +11511,96 @@
     "series": "機動戦士ガンダムAGE"
   },
   {
+    "id": "3480",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.6 全4種 ロングヘア1[ピンク1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.6 ALL 4 TYPES LONG HAIR 1 [PINK 1]",
+    "partNo": "2645013",
+    "releaseDate": "2022-11-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3481",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.6 全4種 ミディアムヘア2[ブラウン1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.6 ALL 4 TYPES MEDIUM HAIR 2 [BROWN 1]",
+    "partNo": "2645014",
+    "releaseDate": "2022-11-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3482",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.6 全4種 ポニーテールヘア4[パープル1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.6 ALL 4 TYPES PONYTAIL HAIR 4 [PURPLE 1]",
+    "partNo": "2645015",
+    "releaseDate": "2022-11-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3483",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.6 全4種 ミディアムヘア1[イエロー3]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.6 ALL 4 TYPES MEDIUM HAIR 1 [YELLOW 3]",
+    "partNo": "2645016",
+    "releaseDate": "2022-11-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3484",
+    "nameJp": "30MS SIS-T00 ララネル[カラーB]",
+    "nameEn": "30MS SIS-T00 LARANEL[COLOR B]",
+    "partNo": "2616279",
+    "releaseDate": "2022-12-17",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3485",
+    "nameJp": "30MS SIS-D00 ネヴァリア［カラーＡ］",
+    "nameEn": "30MS SIS-D00 NEVERLIA[COLOR A]",
+    "partNo": "2620608",
+    "releaseDate": "2023-02-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3486",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.7 全4種 ストレートヘア1［レッド2］",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.7 ALL 4 TYPES STRAIGHT HAIR 1 [RED 2]",
+    "partNo": "2645018",
+    "releaseDate": "2023-02-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3487",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.7 全4種 ポニーテールヘア5［ホワイト1］",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.7 ALL 4 TYPES PONYTAIL HAIR 5 [WHITE 1]",
+    "partNo": "2645019",
+    "releaseDate": "2023-02-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3488",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.7 全4種 ツインテール5［ネイビー1］",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.7 ALL 4 TYPES PIGTAILS 5 [NAVY 1]",
+    "partNo": "2645140",
+    "releaseDate": "2023-02-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3489",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.7 全4種 ロングヘア2［イエロー2］",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.7 ALL 4 TYPES LONG HAIR 2 [YELLOW 2]",
+    "partNo": "2645141",
+    "releaseDate": "2023-02-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
     "id": "349",
     "nameJp": "HG 1/144 シャルドール ローグ",
     "nameEn": "HG 1/144 SHALDOLL ROGUE",
@@ -10816,6 +11608,96 @@
     "releaseDate": "2013-02-09",
     "brand": "HG",
     "series": "機動戦士ガンダムAGE"
+  },
+  {
+    "id": "3490",
+    "nameJp": "30MS オプションパーツセット6（チェイサーコスチューム）［カラーA］",
+    "nameEn": "30MS OPTION PARTS SET 6 (CHASER COSTUME) [COLOR A]",
+    "partNo": "2620609",
+    "releaseDate": "2023-02-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3491",
+    "nameJp": "30MS オプションパーツセット７（イビルコスチューム）［カラーＡ］",
+    "nameEn": "30MS OPTION PARTS SET 7 (EVIL COSTUME) [COLOR A]",
+    "partNo": "2620610",
+    "releaseDate": "2023-03-18",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3492",
+    "nameJp": "30MS オプションボディパーツ アームパーツ＆レッグパーツ［ホワイト/ブラック］",
+    "nameEn": "30MS OPTION BODY PARTS ARM PARTS & LEG PARTS [WHITE/BLACK]",
+    "partNo": "2645017",
+    "releaseDate": "2023-03-18",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3493",
+    "nameJp": "30MS SIS-Ac19b シアナ=アマルシア(ヴィヴァーチェフォーム)",
+    "nameEn": "30MS SIS-Ac19b SIANA-AMARCIA (VIVACE FORM)",
+    "partNo": "2601786",
+    "releaseDate": "2023-05-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3494",
+    "nameJp": "30MS オプションボディパーツ タイプA03[カラーC]",
+    "nameEn": "30MS OPTION BODY PARTS TYPE A03 [COLOR C]",
+    "partNo": "2590338",
+    "releaseDate": "2023-05-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3495",
+    "nameJp": "30MS SIS-Ac65n パワラリー=パリトン(グラーヴェフォーム)",
+    "nameEn": "30MS SIS-Ac65n POWERARI=PALYTON (GRAVE FORM)",
+    "partNo": "2661388",
+    "releaseDate": "2023-05-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3496",
+    "nameJp": "30MS オプションボディパーツ タイプS04[カラーC]",
+    "nameEn": "30MS OPTION BODY PARTS TYPE S04 [COLOR C]",
+    "partNo": "2661365",
+    "releaseDate": "2023-06-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3497",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.8 全4種 ツインテ―ル6[イエロー1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.8 ALL 4 TYPES PIGTAILS 6 [YELLOW 1]",
+    "partNo": "2661366",
+    "releaseDate": "2023-07-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3498",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.8 全4種 ストレートヘア2[ブラウン3]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.8 ALL 4 TYPES STRAIGHT HAIR 2 [BROWN 3]",
+    "partNo": "2661367",
+    "releaseDate": "2023-07-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3499",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.8 全4種 ストレートヘア3[パープル1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.8 ALL 4 TYPES STRAIGHT HAIR 3 [PURPLE 1]",
+    "partNo": "2661368",
+    "releaseDate": "2023-07-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "35",
@@ -10834,6 +11716,15 @@
     "releaseDate": "2012-06-16",
     "brand": "HG",
     "series": "機動戦士ガンダムAGE"
+  },
+  {
+    "id": "3500",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.8 全4種 ロングヘア3[ネイビー1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.8 ALL 4 TYPES LONG HAIR 3 [NAVY 1]",
+    "partNo": "2680791",
+    "releaseDate": "2023-07-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "351",
@@ -10899,6 +11790,51 @@
     "series": "機動戦士ガンダムAGE"
   },
   {
+    "id": "3565",
+    "nameJp": "30MS オプションフェイスパーツ 表情セット5[カラーB]",
+    "nameEn": "30MS OPTION FACE PARTS FACIAL EXPRESSION SET 5 [COLOR B]",
+    "partNo": "2568054",
+    "releaseDate": "2023-07-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3566",
+    "nameJp": "30MS オプションフェイスパーツ 表情セット6[カラーC]",
+    "nameEn": "30MS OPTION FACE PARTS FACIAL EXPRESSION SET 6 [COLOR C]",
+    "partNo": "2568055",
+    "releaseDate": "2023-07-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3567",
+    "nameJp": "30MS SIS-M00 イルシャナ[カラーC]",
+    "nameEn": "30MS SIS-M00 ILSHANA [COLOR C]",
+    "partNo": "2661380",
+    "releaseDate": "2023-08-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3568",
+    "nameJp": "30MS オプションパーツセット8(スカウトコスチューム)[カラーC]",
+    "nameEn": "30MS OPTION PARTS SET 8 (SCOUT COSTUME) [COLOR C]",
+    "partNo": "2661381",
+    "releaseDate": "2023-08-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3569",
+    "nameJp": "30MS オプションパーツセット9(コマンダーコスチューム)[カラーC]",
+    "nameEn": "30MS OPTION PARTS SET 9 (COMMANDER COSTUME) [COLOR C]",
+    "partNo": "2661383",
+    "releaseDate": "2023-09-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
     "id": "357",
     "nameJp": "HG 1/144 ガンダムAGE-3 フォートレス",
     "nameEn": "HG 1/144 GUNDAM AGE-3 FORTRESS",
@@ -10906,6 +11842,96 @@
     "releaseDate": "2012-11-23",
     "brand": "HG",
     "series": "機動戦士ガンダムAGE"
+  },
+  {
+    "id": "3570",
+    "nameJp": "30MS オプションパーツセット10(リーパーアーマー)",
+    "nameEn": "30MS OPTION PARTS SET 10 (REAPER ARMOR)",
+    "partNo": "2661384",
+    "releaseDate": "2023-09-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3571",
+    "nameJp": "30MS オプションボディパーツ タイプS05[カラーA]",
+    "nameEn": "30MS OPTION BODY PARTS TYPE S05 [COLOR A]",
+    "partNo": "2676315",
+    "releaseDate": "2023-11-11",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3572",
+    "nameJp": "30MS オプションボディパーツ タイプS06[カラーB]",
+    "nameEn": "30MS OPTION BODY PARTS TYPE S06 [COLOR B]",
+    "partNo": "2676316",
+    "releaseDate": "2023-12-09",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3573",
+    "nameJp": "30MS SIS-Gc11w スティプラ=ステロイ(アルディートフォーム)",
+    "nameEn": "30MS SIS-Gc11w STIPLA-STEROY(ARDITO FORM)",
+    "partNo": "2676319",
+    "releaseDate": "2023-12-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3574",
+    "nameJp": "30MS オプションパーツセット11(ファングコスチューム)[カラーA]",
+    "nameEn": "30MS OPTION PARTS SET 11 (FANG COSTUME) [COLOR A]",
+    "partNo": "2676317",
+    "releaseDate": "2024-01-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3575",
+    "nameJp": "30MS SIS-Tc20g ツキルナ=ディアース(イノセンテフォーム)",
+    "nameEn": "30MS SIS-Tc20g TUKIRNA-DIEARTH(INNOCENTE FORM)",
+    "partNo": "2676318",
+    "releaseDate": "2024-02-23",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3576",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.9 全4種 ポニーテールヘア6[ブラウン2]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.9 ALL 4 TYPES PONYTAIL HAIR 6 [BROWN 2]",
+    "partNo": "2680792",
+    "releaseDate": "2024-03-23",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3577",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.9 全4種 ミディアムヘア4[ブルー1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.9 ALL 4 TYPES MEDIUM HAIR 4 [BLUE 1]",
+    "partNo": "2680793",
+    "releaseDate": "2024-03-23",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3578",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.9 全4種 ショートヘア3[ピンク2]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.9 ALL 4 TYPES SHORT HAIR 3 [PINK 2]",
+    "partNo": "2680794",
+    "releaseDate": "2024-03-23",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3579",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.9 全4種 ポニーテールヘア7[グリーン2]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.9 ALL 4 TYPES PONYTAIL HAIR 7 [GREEN 2]",
+    "partNo": "2661369",
+    "releaseDate": "2024-03-23",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "358",
@@ -10917,6 +11943,96 @@
     "series": "機動戦士ガンダムAGE"
   },
   {
+    "id": "3580",
+    "nameJp": "30MS オプションパーツセット12(リーパーコスチューム)[カラーA]",
+    "nameEn": "30MS OPTION PARTS SET 12 (REAPER COSTUME) [COLOR A]",
+    "partNo": "2680795",
+    "releaseDate": "2024-03-23",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3581",
+    "nameJp": "30MS SIS-Dc88w エリエネ=エリエリカ(エレガンテフォーム)",
+    "nameEn": "30MS SIS-Dc88w ELIENE-ELIERICA (ELEGANTE FORM)",
+    "partNo": "2700390",
+    "releaseDate": "2024-06-22",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3582",
+    "nameJp": "30MS SIS-F00 ユフィア[カラーA]",
+    "nameEn": "30MS SIS-F00 YUFIA [COLOR A]",
+    "partNo": "2700391",
+    "releaseDate": "2024-07-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3583",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.10 全4種 ミディアムヘア3[ホワイト1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.10 ALL 4 TYPES MEDIUM HAIR 3 [WHITE 1]",
+    "partNo": "2700392",
+    "releaseDate": "2024-07-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3584",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.10 全4種 ミディアムヘア5［レッド3］",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.10 ALL 4 TYPES MEDIUM HAIR 5 [RED 3]",
+    "partNo": "2700393",
+    "releaseDate": "2024-07-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3585",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.10 全4種 ショートヘア2［ブラウン4］",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.10 ALL 4 TYPES SHORT HAIR 2 [BROWN 4]",
+    "partNo": "2700394",
+    "releaseDate": "2024-07-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3586",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.10 全4種 ツインテール7［ブラック1］",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.10 ALL 4 TYPES PIGTAILS 7 [BLACK 1]",
+    "partNo": "2700395",
+    "releaseDate": "2024-07-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3587",
+    "nameJp": "30MS オプションパーツセット13(タクティカルコスチューム)[カラーB]",
+    "nameEn": "30MS OPTION PARTS SET 13 (TACTICAL COSTUME) [COLOR B]",
+    "partNo": "2700396",
+    "releaseDate": "2024-07-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3588",
+    "nameJp": "30MS オプションボディパーツ タイプMD01[カラーA]",
+    "nameEn": "30MS OPTION BODY PARTS TYPE MD01 [COLOR A]",
+    "partNo": "2707661",
+    "releaseDate": "2024-08-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3589",
+    "nameJp": "30MS SIS-Tc10m レプレロ=プローペン(スケルツァンドフォーム)",
+    "nameEn": "30MS SIS-Tc10m REPLERO-PROPEN(SCHERZANDO FORM)",
+    "partNo": "2715392",
+    "releaseDate": "2024-08-23",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
     "id": "359",
     "nameJp": "HGUC 1/144 ジム・キャノンII",
     "nameEn": "HGUC 1/144 GM CANNON Ⅱ",
@@ -10924,6 +12040,96 @@
     "releaseDate": "2011-06-18",
     "brand": "HGUC",
     "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
+  },
+  {
+    "id": "3590",
+    "nameJp": "30MS オプションボディパーツ アームパーツ&レッグパーツ[ブラウン]",
+    "nameEn": "30MS OPTION BODY PARTS ARM PARTS & LEG PARTS [BROWN]",
+    "partNo": "2700399",
+    "releaseDate": "2024-09-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3591",
+    "nameJp": "30MS リシェッタ(フリージアウエア)[カラーA]",
+    "nameEn": "30MS RISHETTA (FREESIA WEAR) [COLOR A]",
+    "partNo": "2700402",
+    "releaseDate": "2024-11-30",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3592",
+    "nameJp": "30MS オプションパーツセット14(スポッターコスチューム)[カラーB]",
+    "nameEn": "30MS OPTION PARTS SET 14 (SPOTTER COSTUME) [COLOR B]",
+    "partNo": "2700398",
+    "releaseDate": "2024-11-30",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3593",
+    "nameJp": "30MS オプションパーツセット15(ナイトメアコスチューム)[カラーC]",
+    "nameEn": "30MS OPTION PARTS SET 15 (NIGHTMARE COSTUME) [COLOR C]",
+    "partNo": "2700403",
+    "releaseDate": "2024-12-21",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3594",
+    "nameJp": "30MS SIS-Dc75b ノティリカ=トラティリカ(コモドフォーム)",
+    "nameEn": "30MS SIS-Dc75b NAUTILICA-TRATILICA(COMODO FORM)",
+    "partNo": "2733978",
+    "releaseDate": "2024-12-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3595",
+    "nameJp": "30MS SIS-N00 ソウレイ[カラーB]",
+    "nameEn": "30MS SIS-N00 SOUREI [COLOR B]",
+    "partNo": "2707664",
+    "releaseDate": "2025-02-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3596",
+    "nameJp": "30MS オプションパーツセット16(フェアリーコスチューム)[カラーB]",
+    "nameEn": "30MS OPTION PARTS SET 16 (FAIRY COSTUME) [COLOR B]",
+    "partNo": "2700404",
+    "releaseDate": "2025-02-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3597",
+    "nameJp": "30MS オプションフェイスパーツ 表情セット7[カラーA]",
+    "nameEn": "30MS OPTION FACE PARTS FACIAL EXPRESSION SET 7 [COLOR A]",
+    "partNo": "2744260",
+    "releaseDate": "2025-03-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3598",
+    "nameJp": "30MS オプションフェイスパーツ 表情セット8[カラーB]",
+    "nameEn": "30MS OPTION FACE PARTS FACIAL EXPRESSION SET 8 [COLOR B]",
+    "partNo": "2744261",
+    "releaseDate": "2025-03-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3599",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.11 全4種 ロングヘア5[ホワイト1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.11 ALL 4 TYPES LONG HAIR 5 [WHITE 1]",
+    "partNo": "2707667",
+    "releaseDate": "2025-03-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "36",
@@ -10942,6 +12148,96 @@
     "releaseDate": "2012-03-08",
     "brand": "HGUC",
     "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "3600",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.11 全4種 ツインテール8[ピンク1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.11 ALL 4 TYPES PIGTAILS 8 [PINK 1]",
+    "partNo": "2707668",
+    "releaseDate": "2025-03-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3601",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.11 全4種 ポニーテールヘア3[ブラック1]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.11 ALL 4 TYPES PONYTAIL HAIR 3 [BLACK 1]",
+    "partNo": "2707669",
+    "releaseDate": "2025-03-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3602",
+    "nameJp": "30MS オプションヘアスタイルパーツVol.11 全4種 ロングヘア4[イエロー3]",
+    "nameEn": "30MS OPTION HAIR STYLE PARTS Vol.11 ALL 4 TYPES LONG HAIR 4 [YELLOW 3]",
+    "partNo": "2707680",
+    "releaseDate": "2025-03-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3603",
+    "nameJp": "30MS オプションパーツセット17(エイダーコスチューム)[カラーA]",
+    "nameEn": "30MS OPTION PARTS SET 17 (AIDER COSTUME) [COLOR A]",
+    "partNo": "2707666",
+    "releaseDate": "2025-04-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3604",
+    "nameJp": "30MS SIS-H00 セスティエ[カラーC]",
+    "nameEn": "30MS SIS-H00 SESTIEH [COLOR C]",
+    "partNo": "2753041",
+    "releaseDate": "2025-05-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3605",
+    "nameJp": "30MS オプションパーツセット18(サージェントコスチューム)[カラーC]",
+    "nameEn": "30MS OPTION PARTS SET 18 (SERGEANT COSTUME) [COLOR C]",
+    "partNo": "2753042",
+    "releaseDate": "2025-05-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3606",
+    "nameJp": "30MS オプションパーツセット19(ダッシュユニット)[カラーA]",
+    "nameEn": "30MS OPTION PARTS SET 19(DASH UNIT) [COLOR A]",
+    "partNo": "2753043",
+    "releaseDate": "2025-05-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3607",
+    "nameJp": "30MS SIS-Y00 シュレミ[カラーB]",
+    "nameEn": "30MS SIS-Y00 SHUREMI [COLOR B]",
+    "partNo": "2773790",
+    "releaseDate": "2025-06-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3608",
+    "nameJp": "30MS オプションパーツセット20(フロートユニット)[カラーB]",
+    "nameEn": "30MS OPTION PARTS SET 20(FLOAT UNIT) [COLOR B]",
+    "partNo": "2762130",
+    "releaseDate": "2025-06-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "3609",
+    "nameJp": "30MS SIS-Mc42p ニャレンティ=ニャボロ(プレストフォーム)",
+    "nameEn": "30MS SIS-Mc42p NYALENTI-NYABOLO (PRESTO FORM)",
+    "partNo": "2773791",
+    "releaseDate": "2025-06-23",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "361",
@@ -10998,6 +12294,51 @@
     "series": "30 MINUTES SISTERS"
   },
   {
+    "id": "3615",
+    "nameJp": "30MM 1/144 eEXM-17 アルト[ホワイト]",
+    "nameEn": "30MM 1/144 eEMX-17 ALTO [WHITE]",
+    "partNo": "2469609",
+    "releaseDate": "2019-06-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3616",
+    "nameJp": "30MM 1/144 eEXM-17 アルト[イエロー]",
+    "nameEn": "30MM 1/144 eEMX-17 ALTO [YELLOW]",
+    "partNo": "2477790",
+    "releaseDate": "2019-06-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3617",
+    "nameJp": "30MM 1/144 eEXM-17 アルト[ブルー]",
+    "nameEn": "30MM 1/144 eEMX-17 ALTO [BLUE]",
+    "partNo": "2477791",
+    "releaseDate": "2019-06-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3618",
+    "nameJp": "30MM 1/144 近接戦闘用オプションアーマー[アルト用/ダークグリーン]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR CLOSE COMBAT [ALTO EXCLUSIVE/ DARK GREEN]",
+    "partNo": "2477793",
+    "releaseDate": "2019-06-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3619",
+    "nameJp": "30MM 1/144 近接戦闘用オプションアーマー[アルト用/オレンジ]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR CLOSE COMBAT [ALTO EXCLUSIVE/ ORANGE]",
+    "partNo": "2477792",
+    "releaseDate": "2019-06-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
     "id": "362",
     "nameJp": "HGUC 1/144 ジムII",
     "nameEn": "HGUC 1/144 GM Ⅱ",
@@ -11005,6 +12346,96 @@
     "releaseDate": "2011-10-22",
     "brand": "HGUC",
     "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "3620",
+    "nameJp": "30MM 1/144 長距離狙撃用オプションアーマー[アルト用/ダークグレー]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR LONG RANGE SNIPING [ALTO EXCLUSIVE/ DARK GRAY]",
+    "partNo": "2477794",
+    "releaseDate": "2019-06-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3621",
+    "nameJp": "30MM 1/144 長距離狙撃用オプションアーマー[アルト用/ブルー]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR LONG RANGE SNIPING [ALTO EXCLUSIVE/ BLUE]",
+    "partNo": "2477795",
+    "releaseDate": "2019-06-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3622",
+    "nameJp": "30MM 1/144 アルト用オプションウェポン１",
+    "nameEn": "30MM 1/144 OPTION WEAPON 1 FOR ALTO",
+    "partNo": "2477796",
+    "releaseDate": "2019-06-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3623",
+    "nameJp": "30MM 1/144 bEXM-15 ポルタノヴァ[グリーン]",
+    "nameEn": "30MM 1/144 bEMX-15 PORTANOVA [GREEN]",
+    "partNo": "2477797",
+    "releaseDate": "2019-07-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3624",
+    "nameJp": "30MM 1/144 bEXM-15 ポルタノヴァ[ダークグレー]",
+    "nameEn": "30MM 1/144 bEMX-15 PORTANOVA [DARK GRAY]",
+    "partNo": "2469610",
+    "releaseDate": "2019-07-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3625",
+    "nameJp": "30MM 1/144 bEXM-15 ポルタノヴァ[レッド]",
+    "nameEn": "30MM 1/144 bEMX-15 PORTANOVA [RED]",
+    "partNo": "2477798",
+    "releaseDate": "2019-07-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3626",
+    "nameJp": "30MM 1/144 近接格闘用オプションアーマー[ポルタノヴァ用/ダークレッド]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR CLOSE FIGHTING [PORTANOVA EXCLUSIVE/ DARK RED]",
+    "partNo": "2477799",
+    "releaseDate": "2019-07-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3627",
+    "nameJp": "30MM 1/144 近接格闘用オプションアーマー[ポルタノヴァ用/サンドイエロー]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR CLOSE FIGHTING [PORTANOVA EXCLUSIVE/ SAND YELLOW]",
+    "partNo": "2477800",
+    "releaseDate": "2019-07-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3628",
+    "nameJp": "30MM 1/144 特殊部隊用オプションアーマー[ポルタノヴァ用/ライトグレー]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR SPECIAL SQUAD [PORTANOVA  EXCLUSIVE/ LIGHT GRAY]",
+    "partNo": "2477801",
+    "releaseDate": "2019-07-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3629",
+    "nameJp": "30MM 1/144 特殊部隊用オプションアーマー[ポルタノヴァ用/ライトブルー]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR SPECIAL SQUAD [PORTANOVA  EXCLUSIVE/ LIGHT BLUE]",
+    "partNo": "2477802",
+    "releaseDate": "2019-07-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
   },
   {
     "id": "363",
@@ -11016,6 +12447,96 @@
     "series": "機動戦士ガンダムUC"
   },
   {
+    "id": "3630",
+    "nameJp": "30MM 1/144 ポルタノヴァ用オプションウェポン１",
+    "nameEn": "30MM 1/144 OPTION WEAPON 1 FOR PORTANOVA",
+    "partNo": "2477803",
+    "releaseDate": "2019-07-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3631",
+    "nameJp": "30MM 1/144 eEXM-17 アルト[レッド]",
+    "nameEn": "30MM 1/144 eEMX-17 ALTO [RED]",
+    "partNo": "2487798",
+    "releaseDate": "2019-08-10",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3632",
+    "nameJp": "30MM 1/144 bEXM-15 ポルタノヴァ[ブルー]",
+    "nameEn": "30MM 1/144 bEMX-15 PORTANOVA [BLUE]",
+    "partNo": "2487800",
+    "releaseDate": "2019-08-10",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3633",
+    "nameJp": "30MM 1/144 指揮官機用オプションアーマー[アルト用/ホワイト]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR COMMANDER [ALTO EXCLUSIVE/ WHITE]",
+    "partNo": "2487792",
+    "releaseDate": "2019-08-10",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3634",
+    "nameJp": "30MM 1/144 指揮官機用オプションアーマー[アルト用/ブラック]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR COMMANDER [ALTO EXCLUSIVE/ BLACK]",
+    "partNo": "2487793",
+    "releaseDate": "2019-08-10",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3635",
+    "nameJp": "30MM 1/144 オプションバックパック 1",
+    "nameEn": "30MM 1/144 OPTION BACKPACK 1",
+    "partNo": "2487796",
+    "releaseDate": "2019-08-10",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3636",
+    "nameJp": "30MM 1/144 マルチブースターユニット",
+    "nameEn": "30MM 1/144 MULTI BOOSTER UNIT",
+    "partNo": "2469613",
+    "releaseDate": "2019-08-10",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3637",
+    "nameJp": "30MM 1/144 eEXM-17 アルト[ダークグレー]",
+    "nameEn": "30MM 1/144 eEMX-17 ALTO [DARK GRAY]",
+    "partNo": "2487799",
+    "releaseDate": "2019-09-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3638",
+    "nameJp": "30MM 1/144 bEXM-15 ポルタノヴァ[イエロー]",
+    "nameEn": "30MM 1/144 bEMX-15 PORTANOVA [YELLOW]",
+    "partNo": "2487801",
+    "releaseDate": "2019-09-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3639",
+    "nameJp": "30MM 1/144 指揮官機用オプションアーマー[ポルタノヴァ用/レッド]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR COMMANDER [PORTANOVA  EXCLUSIVE/ RED]",
+    "partNo": "2487794",
+    "releaseDate": "2019-09-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
     "id": "364",
     "nameJp": "HGUC 1/144 ネモ（ユニコーンVer.）",
     "nameEn": "HGUC 1/144 NEMO (UNICORN VER.)",
@@ -11023,6 +12544,42 @@
     "releaseDate": "2012-04-21",
     "brand": "HGUC",
     "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "3640",
+    "nameJp": "30MM 1/144 指揮官機用オプションアーマー[ポルタノヴァ用/ネイビー]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR COMMANDER [PORTANOVA  EXCLUSIVE/ NAVY]",
+    "partNo": "2487795",
+    "releaseDate": "2019-09-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3641",
+    "nameJp": "30MM 1/144 オプションバックパック ２",
+    "nameEn": "30MM 1/144 OPTION BACKPACK 2",
+    "partNo": "2487797",
+    "releaseDate": "2019-09-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3642",
+    "nameJp": "30MM 1/144 アームユニット ライフル/大型クロー",
+    "nameEn": "30MM 1/144 ARM UNIT RIFLE / LARGE CLAW",
+    "partNo": "2469614",
+    "releaseDate": "2019-09-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3643",
+    "nameJp": "30MM 1/144 eEXM-17 アルト[グリーン]",
+    "nameEn": "30MM 1/144 eEMX-17 ALTO [GREEN]",
+    "partNo": "2500623",
+    "releaseDate": "2019-10-12",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
   },
   {
     "id": "365",
@@ -11043,6 +12600,60 @@
     "series": "機動戦士Zガンダム"
   },
   {
+    "id": "3664",
+    "nameJp": "30MM 1/144 bEXM-15 ポルタノヴァ[ホワイト]",
+    "nameEn": "30MM 1/144 bEMX-15 PORTANOVA [WHITE]",
+    "partNo": "2500624",
+    "releaseDate": "2019-10-12",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3665",
+    "nameJp": "30MM 1/144 eEXM-17 アルト[ブラック]",
+    "nameEn": "30MM 1/144 eEMX-17 ALTO [BLACK]",
+    "partNo": "2500625",
+    "releaseDate": "2019-11-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3666",
+    "nameJp": "30MM 1/144 bEXM-15 ポルタノヴァ[ネイビー]",
+    "nameEn": "30MM 1/144 bEMX-15 PORTANOVA [NAVY]",
+    "partNo": "2500626",
+    "releaseDate": "2019-11-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3667",
+    "nameJp": "30MM 1/144 eEXM-17 アルト（空中戦仕様）[ネイビー]",
+    "nameEn": "30MM 1/144 eEXM-17 ALTO (FLIGHT TYPE) [NAVY]",
+    "partNo": "2500627",
+    "releaseDate": "2019-12-21",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3668",
+    "nameJp": "30MM 1/144 bEXM-15 ポルタノヴァ[ブラウン]",
+    "nameEn": "30MM 1/144 bEXM-15 PORTANOVA [BROWN]",
+    "partNo": "2506560",
+    "releaseDate": "2019-12-21",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3669",
+    "nameJp": "30MM 1/144 eEXM-17 アルト[パープル]",
+    "nameEn": "30MM 1/144 eEXM-17 ALTO[PURPLE]",
+    "partNo": "2506561",
+    "releaseDate": "2020-01-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
     "id": "367",
     "nameJp": "HGUC 1/144 ザクＩ・スナイパータイプ(ヨンム・カークス機)",
     "nameEn": "HGUC 1/144 ZAKUⅠ SNIPER TYPE (YONEM KIRKS)",
@@ -11050,6 +12661,96 @@
     "releaseDate": "2012-03-24",
     "brand": "HGUC",
     "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "3670",
+    "nameJp": "30MM 1/144 bEXM-15 ポルタノヴァ（宇宙仕様）[グレー]",
+    "nameEn": "30MM 1/144 bEXM-15 PORTANOVA(SPACE TYPE)[GRAY]",
+    "partNo": "2500628",
+    "releaseDate": "2020-01-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3671",
+    "nameJp": "30MM 1/144 eEXM-17 アルト(陸戦仕様)[ブラウン]",
+    "nameEn": "30MM 1/144 eEXM-17 ALTO(GROUND TYPE)[BROWN]",
+    "partNo": "2500629",
+    "releaseDate": "2020-02-22",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3672",
+    "nameJp": "30MM 1/144 オプションパーツセット1",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 1",
+    "partNo": "2506564",
+    "releaseDate": "2020-02-22",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3673",
+    "nameJp": "30MM 1/144 bEXM-15 ポルタノヴァ[ブラック]",
+    "nameEn": "30MM 1/144 bEXM-15 PORTANOVA [BLACK]",
+    "partNo": "2506562",
+    "releaseDate": "2020-02-22",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3674",
+    "nameJp": "30MM 1/144 eEXM-17 アルト[グレー]",
+    "nameEn": "30MM 1/144 eEXM-17 ALTO [GRAY]",
+    "partNo": "2506563",
+    "releaseDate": "2020-03-07",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3675",
+    "nameJp": "30MM 1/144 bEXM-15 ポルタノヴァ(水中仕様)[パープル]",
+    "nameEn": "30MM 1/144 bEXM-15 PORTANOVA(MARINE TYPE)[PURPLE]",
+    "partNo": "2500760",
+    "releaseDate": "2020-03-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3676",
+    "nameJp": "30MM 1/144 オプションパーツセット 2",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 2",
+    "partNo": "2506565",
+    "releaseDate": "2020-03-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3677",
+    "nameJp": "30MM 1/144 eEXM-21 ラビオット[ホワイト]",
+    "nameEn": "30MM 1/144 eEXM-21 RABIOT [WHITE]",
+    "partNo": "2518684",
+    "releaseDate": "2020-04-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3678",
+    "nameJp": "30MM 1/144 eEXM-21 ラビオット[オレンジ]",
+    "nameEn": "30MM 1/144 eEXM-21 RABIOT [ORANGE]",
+    "partNo": "2518685",
+    "releaseDate": "2020-04-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3679",
+    "nameJp": "30MM 1/144 特殊作業用オプションアーマー[ラビオット用/イエロー]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR SPECIAL OPERATION [RABIOT EXCLUSIVE / YELLOW]",
+    "partNo": "2518740",
+    "releaseDate": "2020-04-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
   },
   {
     "id": "368",
@@ -11061,6 +12762,96 @@
     "series": "機動戦士ガンダムUC"
   },
   {
+    "id": "3680",
+    "nameJp": "30MM 1/144 拠点攻撃用オプションアーマー[ラビオット用/ダークブラウン]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR BASE ATTACK [RABIOT EXCLUSIVE / DARK BROWN]",
+    "partNo": "2518741",
+    "releaseDate": "2020-04-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3681",
+    "nameJp": "30MM 1/144 eEXM-21 ラビオット[ダークグレー]",
+    "nameEn": "30MM 1/144 eEXM-21 RABIOT [DARK GRAY]",
+    "partNo": "2518686",
+    "releaseDate": "2020-05-30",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3682",
+    "nameJp": "30MM 1/144 特殊作業用オプションアーマー[ラビオット用/ライトグリーン]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR SPECIAL OPERATION [RABIOT EXCLUSIVE / LIGHT GREEN]",
+    "partNo": "2530616",
+    "releaseDate": "2020-05-30",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3683",
+    "nameJp": "30MM 1/144 拠点攻撃用オプションアーマー[ラビオット用/ダークグレー]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR BASE ATTACK [RABIOT EXCLUSIVE / DARK GRAY]",
+    "partNo": "2530617",
+    "releaseDate": "2020-05-30",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3684",
+    "nameJp": "30MM 1/144 エグザビークル(エアファイターVer.)［ホワイト］",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (AIR FIGHTER Ver.)[WHITE]",
+    "partNo": "2518742",
+    "releaseDate": "2020-05-30",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3685",
+    "nameJp": "30MM 1/144 エグザビークル(エアファイターVer.)［グレー］",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (AIR FIGHTER Ver.)[GRAY]",
+    "partNo": "2518743",
+    "releaseDate": "2020-05-30",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3686",
+    "nameJp": "30MM 1/144 bEXM-14T シエルノヴァ[ダークグレー]",
+    "nameEn": "30MM 1/144 bEXM-14T CIELNOVA [DARK GRAY]",
+    "partNo": "2518689",
+    "releaseDate": "2020-06-13",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3687",
+    "nameJp": "30MM 1/144 bEXM-14T シエルノヴァ[グリーン]",
+    "nameEn": "30MM 1/144 bEXM-14T CIELNOVA [GREEN]",
+    "partNo": "2518687",
+    "releaseDate": "2020-06-13",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3688",
+    "nameJp": "30MM 1/144 防衛作戦用オプションアーマー[シエルノヴァ用/グレー]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR DEFENSE OPERATIONS [CIELNOVA EXCLUSIVE /GRAY]",
+    "partNo": "2518745",
+    "releaseDate": "2020-06-13",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3689",
+    "nameJp": "30MM 1/144 士官部隊用オプションアーマー[シエルノヴァ用/レッド]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR ELITE OFFICER[CIELNOVA EXCLUSIVE / RED]",
+    "partNo": "2518744",
+    "releaseDate": "2020-06-13",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
     "id": "369",
     "nameJp": "HGUC 1/144 MSA-003 ネモ(ユニコーンデザートカラーVer.)",
     "nameEn": "HGUC 1/144 MSA-003 NEMO (UNICORN DESERT COLOR Ver. )",
@@ -11068,6 +12859,96 @@
     "releaseDate": "2013-11-16",
     "brand": "HGUC",
     "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "3690",
+    "nameJp": "30MM 1/144 eEXM-17 アルト(空中戦仕様)[オレンジ]",
+    "nameEn": "30MM 1/144 eEXM-17 ALTO (FLIGHT TYPE) [ORANGE]",
+    "partNo": "2530618",
+    "releaseDate": "2020-06-13",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3691",
+    "nameJp": "30MM 1/144 ラビオット用オプションウェポン1",
+    "nameEn": "30MM 1/144 OPTION WEAPON 1 FOR RABIOT",
+    "partNo": "2526613",
+    "releaseDate": "2020-07-11",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3692",
+    "nameJp": "30MM 1/144 エグザビークル（タンクVer.）[オリーブドラブ］",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (TANK Ver.)[OLIVE DRAB]",
+    "partNo": "2526612",
+    "releaseDate": "2020-07-11",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3693",
+    "nameJp": "30MM 1/144 士官部隊用オプションアーマー[シエルノヴァ用/ダークグリーン]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR ELITE OFFICER[CIELNOVA EXCLUSIVE / DARK GREEN]",
+    "partNo": "2530619",
+    "releaseDate": "2020-07-11",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3694",
+    "nameJp": "30MM 1/144 防衛作戦用オプションアーマー[シエルノヴァ用/サンドイエロー]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR DEFENSE OPERATIONS [CIELNOVA EXCLUSIVE /SAND YELLOW]",
+    "partNo": "2530620",
+    "releaseDate": "2020-07-11",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3695",
+    "nameJp": "30MM 1/144 指揮官機用オプションアーマー[ラビオット用/ネイビー]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR COMMANDER [RABIOT EXCLUSIVE / NAVY]",
+    "partNo": "2530621",
+    "releaseDate": "2020-08-08",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3696",
+    "nameJp": "30MM 1/144 エグザビークル(タンクVer.)[ブラウン]",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (TANK Ver.)[BROWN]",
+    "partNo": "2530623",
+    "releaseDate": "2020-08-22",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3697",
+    "nameJp": "30MM 1/144 eEXM-17 アルト(陸戦仕様)[オリーブドラブ]",
+    "nameEn": "30MM 1/144 eEXM-17 ALTO(GROUND TYPE)[OLIVE DRAB]",
+    "partNo": "2530624",
+    "releaseDate": "2020-08-22",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3698",
+    "nameJp": "30MM 1/144 無人偵察用オプションアーマー[ラビオット用/パープル]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR SPY DRONE [RABIOT EXCLUSIVE / PURPLE]",
+    "partNo": "2530622",
+    "releaseDate": "2020-09-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3699",
+    "nameJp": "30MM 1/144 シエルノヴァ用オプションウェポン１",
+    "nameEn": "30MM 1/144 OPTION WEAPON 1 FOR CIELNOVA",
+    "partNo": "2530628",
+    "releaseDate": "2020-09-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
   },
   {
     "id": "37",
@@ -11088,6 +12969,96 @@
     "series": "機動戦士ガンダムUC"
   },
   {
+    "id": "3700",
+    "nameJp": "30MM 1/144 無人偵察用オプションアーマー[ラビオット用/ライトグレー]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR SPY DRONE [RABIOT EXCLUSIVE / LIGHT GRAY]",
+    "partNo": "2530631",
+    "releaseDate": "2020-11-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3701",
+    "nameJp": "30MM 1/144 指揮官機用オプションアーマー[ラビオット用/ホワイト]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR COMMANDER [RABIOT EXCLUSIVE　/ WHITE]",
+    "partNo": "2530632",
+    "releaseDate": "2020-11-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3702",
+    "nameJp": "30MM 1/144 エグザビークル(アタックサブマリンVer.)[ライトグレー]",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (ATTACK SUBMARINE Ver.)[LIGHT GRAY]",
+    "partNo": "2530626",
+    "releaseDate": "2020-11-07",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3703",
+    "nameJp": "30MM 1/144 bEXM-15 ポルタノヴァ(水中仕様)[ブルーグレー]",
+    "nameEn": "30MM 1/144 bEXM-15 PORTANOVA(MARINE TYPE)[BLUE GRAY]",
+    "partNo": "2530633",
+    "releaseDate": "2020-11-07",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3704",
+    "nameJp": "30MM 1/144 bEXM-14T シエルノヴァ[ホワイト]",
+    "nameEn": "30MM 1/144 bEXM-14T CIELNOVA [WHITE]",
+    "partNo": "2530630",
+    "releaseDate": "2020-12-12",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3705",
+    "nameJp": "30MM 1/144 高機動型用オプションアーマー[シエルノヴァ用/ブラック]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR HIGH-MOBILITY [CIELNOVA EXCLUSIVE / BLACK]",
+    "partNo": "2530641",
+    "releaseDate": "2020-12-12",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3706",
+    "nameJp": "30MM 1/144 高機動型用オプションアーマー[シエルノヴァ用/ブルー]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR HIGH-MOBILITY [CIELNOVA EXCLUSIVE / BLUE]",
+    "partNo": "2537339",
+    "releaseDate": "2020-12-12",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3707",
+    "nameJp": "30MM 1/144 エグザビークル(アタックサブマリンVer.)[ブルーグレー]",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (ATTACK SUBMARINE Ver.)[BLUE GRAY]",
+    "partNo": "2530627",
+    "releaseDate": "2020-12-05",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3708",
+    "nameJp": "30MM 1/144 eEXM-21 ラビオット [ネイビー]",
+    "nameEn": "30MM 1/144 eEXM-21 RABIOT [NAVY]",
+    "partNo": "2530625",
+    "releaseDate": "2021-01-09",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3709",
+    "nameJp": "30MM 1/144 指揮官機用オプションアーマー[シエルノヴァ用/ホワイト]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR COMMANDER [CIELNOVA EXCLUSIVE/ WHITE]",
+    "partNo": "2530640",
+    "releaseDate": "2021-01-09",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
     "id": "371",
     "nameJp": "HGUC 1/144 ハンブラビ",
     "nameEn": "HGUC 1/144 HAMBRABI",
@@ -11095,6 +13066,96 @@
     "releaseDate": "2012-08-25",
     "brand": "HGUC",
     "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "3710",
+    "nameJp": "30MM 1/144 指揮官機用オプションアーマー[シエルノヴァ用/ブルーグレー]",
+    "nameEn": "30MM 1/144 OPTION ARMOR FOR COMMANDER [CIELNOVA EXCLUSIVE/ BLUE GRAY]",
+    "partNo": "2530636",
+    "releaseDate": "2021-01-09",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3711",
+    "nameJp": "30MM 1/144 エグザビークル(スペースクラフトVer.)[パープル]",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (SPACE CRAFT Ver.)[PURPLE]",
+    "partNo": "2530637",
+    "releaseDate": "2021-02-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3712",
+    "nameJp": "30MM 1/144 オプションパーツセット 3",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 3",
+    "partNo": "2530642",
+    "releaseDate": "2021-03-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3713",
+    "nameJp": "30MM 1/144 オプションパーツセット4(戦国アーマー)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 4 (SENGOKU ARMOR)",
+    "partNo": "2553530",
+    "releaseDate": "2021-04-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3714",
+    "nameJp": "30MM 1/144 EXM-A9n スピナティオ (忍者仕様)",
+    "nameEn": "30MM 1/144 EXM-A9n SPINATIO (NINJA TYPE)",
+    "partNo": "2553529",
+    "releaseDate": "2021-05-22",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3715",
+    "nameJp": "30MM 1/144 bEXM-14T シエルノヴァ[ブラック]",
+    "nameEn": "30MM 1/144 bEXM-14T CIELNOVA [BLACK]",
+    "partNo": "2530635",
+    "releaseDate": "2021-05-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3716",
+    "nameJp": "30MM 1/144 eEXM-21 ラビオット [グリーン]",
+    "nameEn": "30MM 1/144 eEXM-21 RABIOT [GREEN]",
+    "partNo": "2530634",
+    "releaseDate": "2021-05-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3717",
+    "nameJp": "カスタマイズウェポンズ (戦国兵装)",
+    "nameEn": "CUSTOMIZE WEAPONS (SENGOKU ARMY)",
+    "partNo": "2553534",
+    "releaseDate": "2021-05-22",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3718",
+    "nameJp": "30MM 1/144 bEXM-15 ポルタノヴァ(宇宙仕様)[ダークパープル]",
+    "nameEn": "30MM 1/144 bEXM-15 PORTANOVA(SPACE TYPE)[DARK PURPLE]",
+    "partNo": "2530643",
+    "releaseDate": "2021-06-12",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3719",
+    "nameJp": "30MM 1/144 エグザビークル(スペースクラフトVer.)[ブラック]",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (SPACE CRAFT Ver.)[BLACK]",
+    "partNo": "2530638",
+    "releaseDate": "2021-06-12",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
   },
   {
     "id": "372",
@@ -11106,6 +13167,96 @@
     "series": "機動戦士ガンダムZZ"
   },
   {
+    "id": "3720",
+    "nameJp": "30MM 1/144 エグザビークル(キャノンバイクVer.)",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (CANNON BIKE Ver.)",
+    "partNo": "2553532",
+    "releaseDate": "2021-06-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3721",
+    "nameJp": "30MM 1/144 EXM-A9s スピナティオ (戦国仕様)",
+    "nameEn": "30MM 1/144 EXM-A9s SPINATIO (SENGOKU TYPE)",
+    "partNo": "2553528",
+    "releaseDate": "2021-04-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3722",
+    "nameJp": "30MM 1/144 EXM-E7f スピナティア (フェンサー仕様)",
+    "nameEn": "30MM 1/144 EXM-E7f SPINATIA (FENCER TYPE)",
+    "partNo": "2553538",
+    "releaseDate": "2021-07-17",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3723",
+    "nameJp": "30MM 1/144 オプションパーツセット5(マルチウィング/マルチブースター)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 5 (MULTI WING /MULTI BOOSTER)",
+    "partNo": "2553540",
+    "releaseDate": "2021-07-17",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3724",
+    "nameJp": "30MM 1/144 EXM-E7a スピナティア (アサシン仕様)",
+    "nameEn": "30MM 1/144 EXM-E7a SPINATIA (ASSASSIN TYPE)",
+    "partNo": "2553539",
+    "releaseDate": "2021-08-07",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3725",
+    "nameJp": "カスタマイズウェポンズ(魔法武装)",
+    "nameEn": "CUSTOMIZE WEAPONS(WITCHCRAFT WEAPON)",
+    "partNo": "2553544",
+    "releaseDate": "2021-08-07",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3726",
+    "nameJp": "30MM 1/144 エグザビークル (ドッグメカVer.)",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (DOG MECHA Ver.)",
+    "partNo": "2553542",
+    "releaseDate": "2021-09-18",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3727",
+    "nameJp": "30MM 1/144 eEXM-30 エスポジット β",
+    "nameEn": "30MM 1/144 eEXM-30 ESPOSSITO β",
+    "partNo": "2584059",
+    "releaseDate": "2021-10-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3728",
+    "nameJp": "30MM 1/144 オプションパーツセット6(カスタマイズヘッドA)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 6 (CUSTOMIZE HEADS A)",
+    "partNo": "2584082",
+    "releaseDate": "2021-10-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3729",
+    "nameJp": "30MM 1/144 eEXM-30 エスポジット α",
+    "nameEn": "30MM 1/144 eEXM-30 ESPOSSITO α",
+    "partNo": "2584080",
+    "releaseDate": "2021-11-13",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
     "id": "373",
     "nameJp": "HGUC 1/144 ベースジャバー（ユニコーンVer.）",
     "nameEn": "HGUC 1/144 BASE JABBER (UNICORN Ver.)",
@@ -11113,6 +13264,96 @@
     "releaseDate": "2012-07-14",
     "brand": "HGUC",
     "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "3730",
+    "nameJp": "カスタマイズウェポンズ (ファンタジー武装)",
+    "nameEn": "CUSTOMIZE WEAPONS (FANTASY WEAPON)",
+    "partNo": "2584081",
+    "releaseDate": "2021-11-13",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3731",
+    "nameJp": "30MM 1/144 エグザビークル(小型量産機Ver.)",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (MASS PRODUCED SUB MACHINE Ver.)",
+    "partNo": "2584083",
+    "releaseDate": "2021-12-11",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3732",
+    "nameJp": "30MM 1/144 eEXM-17A アルト（X777部隊所属機）",
+    "nameEn": "30MM 1/144 eEXM-17A ALTO (X777 CORPS)",
+    "partNo": "2584057",
+    "releaseDate": "2021-12-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3733",
+    "nameJp": "30MM 1/144 bEXM-15C ポルタノヴァ（特殊部隊所属機）",
+    "nameEn": "30MM 1/144 bEXM-15C PORTANOVA (SPECIAL SQUAD)",
+    "partNo": "2584058",
+    "releaseDate": "2021-12-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3734",
+    "nameJp": "30MM 1/144 EXM-A9a スピナティオ (アーミー仕様)",
+    "nameEn": "30MM 1/144 EXM-A9a SPINATIO (ARMY TYPE)",
+    "partNo": "2582157",
+    "releaseDate": "2022-02-11",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3735",
+    "nameJp": "30MM 1/144 EXM-E7c スピナティア (コマンド仕様)",
+    "nameEn": "30MM 1/144 EXM-E7c SPINATIA (COMMANDO TYPE)",
+    "partNo": "2582158",
+    "releaseDate": "2022-03-12",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3736",
+    "nameJp": "30MM 1/144 bEXM-28 レヴェルノヴァ[グリーン]",
+    "nameEn": "30MM 1/144 bEXM-28 REVERNOVA [GREEN]",
+    "partNo": "2607519",
+    "releaseDate": "2022-04-09",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3737",
+    "nameJp": "30MM 1/144 オプションパーツセット7(カスタマイズヘッドB)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 7 (CUSTOMIZE HEADS B)",
+    "partNo": "2607520",
+    "releaseDate": "2022-04-09",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3738",
+    "nameJp": "30MM 1/144 bEXM-29 ガルドノヴァ[ブラウン]",
+    "nameEn": "30MM 1/144 bEXM-29  GARDONOVA [BROWN]",
+    "partNo": "2607521",
+    "releaseDate": "2022-05-21",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3739",
+    "nameJp": "30MM 1/144 オプションパーツセット8(マルチバックパック)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 8 (MULTI BACKPACK)",
+    "partNo": "2607522",
+    "releaseDate": "2022-05-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
   },
   {
     "id": "374",
@@ -11124,6 +13365,96 @@
     "series": "機動戦士ガンダム0080 ポケットの中の戦争"
   },
   {
+    "id": "3740",
+    "nameJp": "カスタマイズウェポンズ(ガトリングユニット)",
+    "nameEn": "CUSTOMIZE WEAPONS (GATLING UNIT)",
+    "partNo": "2616281",
+    "releaseDate": "2022-06-11",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3741",
+    "nameJp": "30MM 1/144 eEXM-S01U フォレスティエリ 01",
+    "nameEn": "30MM 1/144 eEXM-S01U FORESTIERI 01",
+    "partNo": "2607527",
+    "releaseDate": "2022-07-30",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3742",
+    "nameJp": "30MM 1/144 eEXM-21 ラビオット（R623部隊所属機）",
+    "nameEn": "30MM 1/144 eEXM-21 RABIOT (R623 CORPS)",
+    "partNo": "2607533",
+    "releaseDate": "2022-07-21",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3743",
+    "nameJp": "30MM 1/144 オプションパーツセット9(大型ブースターユニット)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 9(LARGE BOOSTER UNIT)",
+    "partNo": "2607526",
+    "releaseDate": "2022-08-13",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3744",
+    "nameJp": "30MM 1/144 eEXM-S02M フォレスティエリ 02",
+    "nameEn": "30MM 1/144 eEXM-S02M FORESTIERI 02",
+    "partNo": "2607528",
+    "releaseDate": "2022-09-10",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3745",
+    "nameJp": "カスタマイズウェポンズ(ミリタリー武装)",
+    "nameEn": "CUSTOMIZE WEAPONS(MILITARY WEAPON)",
+    "partNo": "2616282",
+    "releaseDate": "2022-09-10",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3746",
+    "nameJp": "30MM 1/144 エグザビークル(装甲突撃メカVer.)",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (ARMORED ASSAULT MECHA Ver.)",
+    "partNo": "2624436",
+    "releaseDate": "2022-10-22",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3747",
+    "nameJp": "30MM 1/144 EXM-A9k スピナティオ (ナイト仕様)",
+    "nameEn": "30MM 1/144 EXM-A9k SPINATIO (KNIGHT TYPE)",
+    "partNo": "2616283",
+    "releaseDate": "2022-11-12",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3748",
+    "nameJp": "30MM 1/144 オプションパーツセット10(大型プロペラントタンクユニット)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 10 (LARGE PROPELLANT TANK UNIT)",
+    "partNo": "2607529",
+    "releaseDate": "2022-11-12",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3749",
+    "nameJp": "30MM 1/144 eEXM-30 エスポジット Θ",
+    "nameEn": "30MM 1/144 eEXM-30 ESPOSSITO θ",
+    "partNo": "2607534",
+    "releaseDate": "2022-12-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
     "id": "375",
     "nameJp": "HGUC 1/144 バイアラン・カスタム",
     "nameEn": "HGUC 1/144 BYARLANT CUSTOM",
@@ -11131,6 +13462,96 @@
     "releaseDate": "2012-11-10",
     "brand": "HGUC",
     "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "3750",
+    "nameJp": "30MM 1/144 オプションパーツセット11(大型キャノン/アームユニット)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 11 (LARGE CANNON / ARM UNIT)",
+    "partNo": "2616284",
+    "releaseDate": "2023-01-21",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3751",
+    "nameJp": "カスタマイズマテリアル（パイプパーツ/マルチジョイント）",
+    "nameEn": "CUSTOMIZE MATERIAL (PIPE PARTS/MULTI-JOINT)",
+    "partNo": "2653371",
+    "releaseDate": "2023-01-21",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3752",
+    "nameJp": "30MM 1/144 EXM-E7r スピナティア (リーパー仕様)",
+    "nameEn": "30MM 1/144 EXM-E7r SPINATIA (REAPER TYPE)",
+    "partNo": "2607531",
+    "releaseDate": "2023-02-11",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3753",
+    "nameJp": "カスタマイズマテリアル（サイバーエフェクト/マルチジョイント）",
+    "nameEn": "CUSTOMIZE MATERIAL (CYBER EFFECT/MULTI-JOINT)",
+    "partNo": "2653374",
+    "releaseDate": "2023-02-11",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3754",
+    "nameJp": "カスタマイズマテリアル（チェーンパーツ/マルチジョイント）",
+    "nameEn": "CUSTOMIZE MATERIAL (CHAIN PARTS/MULTI-JOINT)",
+    "partNo": "2653375",
+    "releaseDate": "2023-03-11",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3755",
+    "nameJp": "30MM 1/144 EXM-A9sg スピナティオ (将軍仕様)",
+    "nameEn": "30MM 1/144 EXM-A9sg SPINATIO (SHOGUN TYPE)",
+    "partNo": "2648678",
+    "releaseDate": "2023-03-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3756",
+    "nameJp": "30MM 1/144 bEXM-33QB ヴォルパノヴァ(クアッドバイクVer.)",
+    "nameEn": "30MM 1/144 bEXM-33QB VOLPANOVA(QUAD BIKE Ver.)",
+    "partNo": "2648679",
+    "releaseDate": "2023-04-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3757",
+    "nameJp": "30MM 1/144 オプションパーツセット12(ハンドパーツ/マルチジョイント)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 12 (HAND PARTS /MULTI-JOINT)",
+    "partNo": "2648690",
+    "releaseDate": "2023-04-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3758",
+    "nameJp": "30MM 1/144 bEXM-33T ヴォルパノヴァ(タンクVer.)",
+    "nameEn": "30MM 1/144 bEXM-33T VOLPANOVA(TANK Ver.)",
+    "partNo": "2648691",
+    "releaseDate": "2023-05-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3759",
+    "nameJp": "カスタマイズウェポンズ(エネルギー武装)",
+    "nameEn": "CUSTOMIZE WEAPONS (ENERGY WEAPON)",
+    "partNo": "2648692",
+    "releaseDate": "2023-05-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
   },
   {
     "id": "376",
@@ -11142,6 +13563,96 @@
     "series": "ガンダムMSV"
   },
   {
+    "id": "3760",
+    "nameJp": "30MM 1/144 エグザビークル(カスタマイズキャリアVer.)",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (CUSTOMIZE CARRIER Ver.)",
+    "partNo": "2648693",
+    "releaseDate": "2023-06-17",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3761",
+    "nameJp": "30MM 1/144 bEXM-28G レヴェルノヴァ (陸戦強化仕様)",
+    "nameEn": "30MM 1/144 bEXM-28G REVERNOVA  (ENHANCED GROUND TYPE)",
+    "partNo": "2648704",
+    "releaseDate": "2023-06-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3762",
+    "nameJp": "30MM 1/144 eEXM GIG-R01 プロヴェデル(type-REX 01)",
+    "nameEn": "30MM 1/144 eEXM GIG-R01 PROVEDEL(type-REX 01)",
+    "partNo": "2648694",
+    "releaseDate": "2023-07-29",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3763",
+    "nameJp": "カスタマイズウェポンズ(ヘビーウェポン 1)",
+    "nameEn": "CUSTOMIZE WEAPONS(HEAVY WEAPON 1)",
+    "partNo": "2648695",
+    "releaseDate": "2023-08-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3764",
+    "nameJp": "30MM 1/144 エグザビークル(ティルトローターVer.)",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle(TILT ROTOR Ver.)",
+    "partNo": "2648696",
+    "releaseDate": "2023-09-09",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3765",
+    "nameJp": "30MM 1/144 EXM-H15A アチェルビー (TYPE-A)",
+    "nameEn": "30MM 1/144 EXM-H15A ACERBY (TYPE-A)",
+    "partNo": "2648698",
+    "releaseDate": "2023-10-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3766",
+    "nameJp": "30MM 1/144 オプションパーツセット13 (レッグブースター/ワイヤレスウェポンパック)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 13 (LEG BOOSTER UNIT / WIRELESS WEAPON PACK)",
+    "partNo": "2648703",
+    "releaseDate": "2023-10-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3767",
+    "nameJp": "30MM 1/144 EXM-H15B アチェルビー (TYPE-B)",
+    "nameEn": "30MM 1/144 EXM-H15B ACERBY (TYPE-B)",
+    "partNo": "2648700",
+    "releaseDate": "2023-11-18",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3768",
+    "nameJp": "30MM 1/144 エグザビークル (多脚メカVer.)",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (MULTIPLE LEGS MECHA Ver.)",
+    "partNo": "2648701",
+    "releaseDate": "2023-11-18",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3769",
+    "nameJp": "30MM 1/144 オプションパーツセット14 (マルチクロス)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 14 (MULTI CLOTH)",
+    "partNo": "2648699",
+    "releaseDate": "2023-12-09",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
     "id": "377",
     "nameJp": "HGUC 1/144 ユニコーンガンダム2号機 バンシィ・ノルン(ユニコーンモード)",
     "nameEn": "HGUC 1/144 UNICORN GUNDAM 02 BANSHEE NORN (UNICORN MODE)",
@@ -11149,6 +13660,96 @@
     "releaseDate": "2013-03-09",
     "brand": "HGUC",
     "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "3770",
+    "nameJp": "30MM 1/144 bEXM-C14TS シエルノヴァカスタム (宇宙仕様)",
+    "nameEn": "30MM 1/144 bEXM-C14TS CIELNOVA CUSTOM (SPACE TYPE)",
+    "partNo": "2648705",
+    "releaseDate": "2023-12-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3771",
+    "nameJp": "30MM 1/144 eEXM GIG-C02 プロヴェデル (type-COMMAND 02)",
+    "nameEn": "30MM 1/144 eEXM GIG-C02 PROVEDEL (type-COMMAND 02)",
+    "partNo": "2648702",
+    "releaseDate": "2024-01-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3772",
+    "nameJp": "30MM 1/144 オプションパーツセット15 (マルチバーニア/マルチジョイント)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 15 (MULTI VERNIER/MULTI-JOINT)",
+    "partNo": "2696192",
+    "releaseDate": "2024-01-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3773",
+    "nameJp": "30MM 1/144 EXM-H15C アチェルビー (TYPE-C)",
+    "nameEn": "30MM 1/144 EXM-H15C ACERBY (TYPE-C)",
+    "partNo": "2696194",
+    "releaseDate": "2024-02-17",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3774",
+    "nameJp": "30MM 1/144 eEXM-30 エスポジット γ",
+    "nameEn": "30MM 1/144 eEXM-30 ESPOSSITO γ",
+    "partNo": "2704771",
+    "releaseDate": "2024-03-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3775",
+    "nameJp": "30MM 1/144 eEXM-S03H フォレスティエリ 03",
+    "nameEn": "30MM 1/144 eEXM-S03H FORESTIERI 03",
+    "partNo": "2704772",
+    "releaseDate": "2024-03-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3776",
+    "nameJp": "30MM 1/144 エグザビークル (ホースメカVer.) [ダークグレー]",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (HORSE MECHA Ver.) [DARK GRAY]",
+    "partNo": "2696196",
+    "releaseDate": "2024-03-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3777",
+    "nameJp": "30MM 1/144 eEXM-9 バスキーロット[グレー]",
+    "nameEn": "30MM 1/144 eEXM-9 BASKYROTTO [GRAY]",
+    "partNo": "2704774",
+    "releaseDate": "2024-04-13",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3778",
+    "nameJp": "30MM 1/144 bEXM-28 レヴェルノヴァ [ブラウン]",
+    "nameEn": "30MM 1/144 bEXM-28 REVERNOVA [BROWN]",
+    "partNo": "2704787",
+    "releaseDate": "2024-05-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3779",
+    "nameJp": "30MM 1/144 bEXM-29 ガルドノヴァ [グリーン]",
+    "nameEn": "30MM 1/144 bEXM-29 GARDONOVA [GREEN]",
+    "partNo": "2723572",
+    "releaseDate": "2024-05-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
   },
   {
     "id": "378",
@@ -11160,6 +13761,96 @@
     "series": "機動戦士ガンダム 第08MS小隊"
   },
   {
+    "id": "3780",
+    "nameJp": "30MM 1/144 eEXM-9 バスキーロット[ブラウン]",
+    "nameEn": "30MM 1/144 eEXM-9 BASKYROTTO [BROWN]",
+    "partNo": "2704780",
+    "releaseDate": "2024-06-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3781",
+    "nameJp": "30MM 1/144 オプションパーツセット16 (アームユニット/レッグユニット1)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 16 (ARM UNIT/LEG UNIT 1)",
+    "partNo": "2704788",
+    "releaseDate": "2024-06-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3782",
+    "nameJp": "30MM 1/144 EXM-A9bk スピナティオ (ブラックナイト仕様)",
+    "nameEn": "30MM 1/144 EXM-A9bk SPINATIO (BLACK KNIGHT TYPE)",
+    "partNo": "2704794",
+    "releaseDate": "2024-06-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3783",
+    "nameJp": "30MM 1/144 bEXM-21 ヴェルデノヴァ［グリーン］",
+    "nameEn": "30MM 1/144 bEXM-21 VERDENOVA [GREEN]",
+    "partNo": "2733945",
+    "releaseDate": "2024-07-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3784",
+    "nameJp": "30MM 1/144 bEXM-21 ヴェルデノヴァ[ネイビー]",
+    "nameEn": "30MM 1/144 bEXM-21 VERDENOVA [NAVY]",
+    "partNo": "2733947",
+    "releaseDate": "2024-08-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3785",
+    "nameJp": "カスタマイズウェポンズ (ヘビーウェポン 2)",
+    "nameEn": "CUSTOMIZE WEAPONS (HEAVY WEAPON 2)",
+    "partNo": "2723573",
+    "releaseDate": "2024-08-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3786",
+    "nameJp": "30MM 1/144 EXM-H15D アチェルビー(TYPE-D)",
+    "nameEn": "30MM 1/144 EXM-H15D ACERBY (TYPE-D)",
+    "partNo": "2733963",
+    "releaseDate": "2024-10-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3787",
+    "nameJp": "30MM 1/144 エグザビークル(ホースメカVer.)[ホワイト]",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (HORSE MECHA Ver.) [WHITE]",
+    "partNo": "2715312",
+    "releaseDate": "2024-11-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3788",
+    "nameJp": "30MM 1/144 オプションパーツセット17(ウィングユニット1)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 17 (WING UNIT 1)",
+    "partNo": "2715311",
+    "releaseDate": "2024-11-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3789",
+    "nameJp": "30MM 1/144 eEXM-S04A フォレスティエリ 04",
+    "nameEn": "30MM 1/144 eEXM-S04A FORESTIERI 04",
+    "partNo": "2733977",
+    "releaseDate": "2024-12-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
     "id": "379",
     "nameJp": "HGUC 1/144 メッサーラ",
     "nameEn": "HGUC 1/144 MESSALA",
@@ -11167,6 +13858,96 @@
     "releaseDate": "2013-06-15",
     "brand": "HGUC",
     "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "3790",
+    "nameJp": "30MM 1/144 EXM-H15E アチェルビー(TYPE-E)",
+    "nameEn": "30MM 1/144 EXM-H15E ACERBY (TYPE-E)",
+    "partNo": "2733983",
+    "releaseDate": "2024-12-21",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3791",
+    "nameJp": "30MM 1/144 エグザビークル(小型可変機Ver.)",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (SMART TRANSFORMABLE MACHINE Ver.)",
+    "partNo": "2723583",
+    "releaseDate": "2024-12-07",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3792",
+    "nameJp": "30MM 1/144 eEXM-17FA  フルアーマーアルト",
+    "nameEn": "30MM 1/144 eEXM-17FA FULL ARMOR ALTO",
+    "partNo": "2761739",
+    "releaseDate": "2025-01-11",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3793",
+    "nameJp": "30MM 1/144 エグザビークル(ウィングモービルVer.)",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (WING MOBILE Ver.)",
+    "partNo": "2761750",
+    "releaseDate": "2025-01-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3794",
+    "nameJp": "30MM 1/144 EXM-A9rk スピナティオ(ロイヤルナイト仕様)",
+    "nameEn": "30MM 1/144 EXM-A9rk SPINATIO (ROYAL KNIGHT TYPE)",
+    "partNo": "2733966",
+    "releaseDate": "2025-02-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3795",
+    "nameJp": "30MM 1/144 オプションパーツセット18(アームユニット/レッグユニット2)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 18 (ARM UNIT/LEG UNIT 2)",
+    "partNo": "2745397",
+    "releaseDate": "2025-02-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3796",
+    "nameJp": "30MM 1/144 エグザビークル(メタルキャノンバイクVer.)",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (METAL CANNON BIKE Ver.)",
+    "partNo": "2733970",
+    "releaseDate": "2025-03-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3797",
+    "nameJp": "30MM 1/144 エグザビークル(ホイールモービルVer.)",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (WHEEL MOBILE Ver.)",
+    "partNo": "2761755",
+    "releaseDate": "2025-03-15",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3798",
+    "nameJp": "30MM 1/144 オプションパーツセット19(マルチシールド)",
+    "nameEn": "30MM 1/144 OPTION PARTS SET 19 (MULTI SHIELD)",
+    "partNo": "2773783",
+    "releaseDate": "2025-05-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3799",
+    "nameJp": "30MM 1/144 bEXM-6 ラウンドノヴァI",
+    "nameEn": "30MM 1/144 bEXM-6 ROUNDNOVA I",
+    "partNo": "2773772",
+    "releaseDate": "2025-05-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
   },
   {
     "id": "38",
@@ -11185,6 +13966,42 @@
     "releaseDate": "2013-06-15",
     "brand": "HGUC",
     "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "3800",
+    "nameJp": "カスタマイズウェポンズ(プラズマ武装)",
+    "nameEn": "CUSTOMIZE WEAPONS (PLASMA WEAPON)",
+    "partNo": "2773789",
+    "releaseDate": "2025-06-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3801",
+    "nameJp": "30MM 1/144 bEXM-6 ラウンドノヴァII",
+    "nameEn": "30MM 1/144 bEXM-6 ROUNDNOVA II",
+    "partNo": "2773782",
+    "releaseDate": "2025-06-14",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3802",
+    "nameJp": "30MM 1/144 eEXM-40 イグライト 01",
+    "nameEn": "30MM 1/144 eEXM-40 IGLIGHT 01",
+    "partNo": "2773797",
+    "releaseDate": "2025-07-19",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3803",
+    "nameJp": "30MM 1/144 EXM-E7sv スピナティア (セイントヴァルキリー仕様)",
+    "nameEn": "30MM 1/144 EXM-E7sv SPINATIA (SAINT VALKYRIE TYPE)",
+    "partNo": "2773801",
+    "releaseDate": "2025-07-18",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
   },
   {
     "id": "3804",
@@ -11232,6 +14049,15 @@
     "series": "機動戦士ガンダムUC"
   },
   {
+    "id": "3829",
+    "nameJp": "カスタマイズシーンベース(雪原Ver.)",
+    "nameEn": "CUSTOMIZE SCENE BASE  (SNOWFIELD Ver.)",
+    "partNo": "2516444",
+    "releaseDate": "2020-05-30",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
     "id": "383",
     "nameJp": "HGUC 1/144 ガーベラ・テトラ",
     "nameEn": "HGUC 1/144 GERBERA-TETRA",
@@ -11241,6 +14067,96 @@
     "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
   },
   {
+    "id": "3830",
+    "nameJp": "カスタマイズシーンベース",
+    "nameEn": "CUSTOMIZE SCENE BASE",
+    "partNo": "2516442",
+    "releaseDate": "2020-05-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3831",
+    "nameJp": "カスタマイズシーンベース(砂漠Ver.)",
+    "nameEn": "CUSTOMIZE SCENE BASE (DESERT Ver.)",
+    "partNo": "2516443",
+    "releaseDate": "2020-05-16",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3832",
+    "nameJp": "カスタマイズエフェクト (銃撃イメージVer.) [イエロー]",
+    "nameEn": "CUSTOMIZE EFFECT (GUNFIRE IMAGE Ver.) [YELLOW]",
+    "partNo": "2516445",
+    "releaseDate": "2020-06-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3833",
+    "nameJp": "カスタマイズエフェクト (銃撃イメージVer.) [ブルー]",
+    "nameEn": "CUSTOMIZE EFFECT (GUNFIRE IMAGE Ver.) [BLUE]",
+    "partNo": "2531313",
+    "releaseDate": "2020-06-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3834",
+    "nameJp": "カスタマイズシーンベース (情景Ver.)",
+    "nameEn": "CUSTOMIZE SCENE BASE (LANDSCAPE Ver.)",
+    "partNo": "2516447",
+    "releaseDate": "2020-06-27",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3835",
+    "nameJp": "カスタマイズエフェクト (爆発イメージVer.) [オレンジ]",
+    "nameEn": "CUSTOMIZE EFFECT (BURST IMAGE Ver.) [ORANGE]",
+    "partNo": "2516446",
+    "releaseDate": "2020-08-08",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3836",
+    "nameJp": "カスタマイズエフェクト (爆発イメージVer.) [グレー]",
+    "nameEn": "CUSTOMIZE EFFECT (BURST IMAGE Ver.) [GRAY]",
+    "partNo": "2531314",
+    "releaseDate": "2020-08-08",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3837",
+    "nameJp": "カスタマイズエフェクト (斬撃イメージVer.) [グリーン]",
+    "nameEn": "CUSTOMIZE EFFECT (SLASH IMAGE Ver.) [GREEN]",
+    "partNo": "2531315",
+    "releaseDate": "2020-11-07",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3838",
+    "nameJp": "カスタマイズエフェクト (斬撃イメージVer.) [ブルー]",
+    "nameEn": "CUSTOMIZE EFFECT (SLASH IMAGE Ver.) [BLUE]",
+    "partNo": "2531316",
+    "releaseDate": "2020-11-07",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3839",
+    "nameJp": "カスタマイズシーンベース (水上Ver.)",
+    "nameEn": "CUSTOMIZE SCENE BASE (WATER FIELD Ver.)",
+    "partNo": "2532167",
+    "releaseDate": "2020-11-28",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
     "id": "384",
     "nameJp": "HGUC 1/144 ドーベン・ウルフ（ユニコーンVer.）",
     "nameEn": "HGUC 1/144 DOVEN WOLF (UNICORN VER.)",
@@ -11248,6 +14164,42 @@
     "releaseDate": "2013-08-07",
     "brand": "HGUC",
     "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "3840",
+    "nameJp": "カスタマイズエフェクト (アクションイメージVer.) [イエロー]",
+    "nameEn": "CUSTOMIZE EFFECT (ACTION IMAGE Ver.) [YELLOW]",
+    "partNo": "2531317",
+    "releaseDate": "2021-02-06",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3841",
+    "nameJp": "カスタマイズエフェクト (アクションイメージVer.) [レッド]",
+    "nameEn": "CUSTOMIZE EFFECT (ACTION IMAGE Ver.) [RED]",
+    "partNo": "2531318",
+    "releaseDate": "2021-02-06",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3842",
+    "nameJp": "カスタマイズシーンベース (市街地Ver.)",
+    "nameEn": "CUSTOMIZE SCENE BASE (CITY AREA Ver.)",
+    "partNo": "2532168",
+    "releaseDate": "2021-03-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "3843",
+    "nameJp": "カスタマイズシーンベース(トラスベースVer.)",
+    "nameEn": "CUSTOMIZE SCENE BASE (TRUSS BASE Ver.)",
+    "partNo": "2553537",
+    "releaseDate": "2021-11-20",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
   },
   {
     "id": "385",
@@ -11462,7 +14414,7 @@
     "nameEn": "RE/100 1/100 DEN’AN-GEI",
     "partNo": "2783960",
     "releaseDate": "2025-10",
-    "brand": "HG",
+    "brand": "RE/100",
     "series": "機動戦士ガンダムF91"
   },
   {
@@ -12174,7 +15126,7 @@
     "partNo": "2101620",
     "releaseDate": "2011-02-19",
     "brand": "HG",
-    "series": "ガンプラ"
+    "series": "その他ガンプラ"
   },
   {
     "id": "424",
@@ -12267,6 +15219,87 @@
     "series": "機動戦士ガンダムUC"
   },
   {
+    "id": "4291",
+    "nameJp": "RG 1/144 ガンダムベース限定 RX-0 ユニコーンガンダム(デストロイモード) Ver.TWC(LIGHTING MODEL)",
+    "nameEn": "",
+    "partNo": "2403827",
+    "releaseDate": "2018-06",
+    "brand": "RG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4292",
+    "nameJp": "HG 1/144 ガンダムベース限定 ユニコーンガンダム(光の結晶体)",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED UNICORN GUNDAM (LUMINOUS CRYSTAL BODY)",
+    "partNo": "2404518",
+    "releaseDate": "2018-02",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4293",
+    "nameJp": "HG 1/144 ガンダムベース限定 ユニコーンガンダム(デストロイモード) [ペインティングモデル]",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED UNICORN GUNDAM(PAINTING MODEL)",
+    "partNo": "2434383",
+    "releaseDate": "2018-06",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4294",
+    "nameJp": "RG 1/144 ガンダムベース限定 ユニコーンガンダム2号機 バンシィ・ノルン (デストロイモード) (LIGHTING MODEL)",
+    "nameEn": "",
+    "partNo": "2474718",
+    "releaseDate": "2019-04-20",
+    "brand": "RG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4295",
+    "nameJp": "1/144 ガンダムベース限定 システムウェポンキット002",
+    "nameEn": "",
+    "partNo": "2498041",
+    "releaseDate": "2019-10-12",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4296",
+    "nameJp": "1/144 ガンダムベース限定 システムウェポンキット003",
+    "nameEn": "",
+    "partNo": "2500169",
+    "releaseDate": "2019-12-20",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4297",
+    "nameJp": "1/144 ガンダムベース限定 システムウェポンキット005",
+    "nameEn": "",
+    "partNo": "2512892",
+    "releaseDate": "2020-02-08",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4298",
+    "nameJp": "1/144 ガンダムベース限定 システムウェポンキット009",
+    "nameEn": "",
+    "partNo": "2526874",
+    "releaseDate": "2020-10",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4299",
+    "nameJp": "1/100 ガンダムベース限定 MSエフェクト01(クリアブルー)",
+    "nameEn": "",
+    "partNo": "2569550",
+    "releaseDate": "2021-06-21",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
     "id": "43",
     "nameJp": "HG 1/144 局地型ガンダム",
     "nameEn": "HG 1/144 GUNDAM LOCAL TYPE",
@@ -12285,6 +15318,87 @@
     "series": "機動戦士Zガンダム"
   },
   {
+    "id": "4300",
+    "nameJp": "MG 1/100 ガンダムベース限定 ガンダムナドレ",
+    "nameEn": "",
+    "partNo": "2582154",
+    "releaseDate": "2023-10-07",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "4301",
+    "nameJp": "ENTRY GRADE 1/144 ガンダムベース限定 νガンダム [ペインティング モデル]",
+    "nameEn": "ENTRY GRADE 1/144 THE GUNDAM BASE LIMITED ν GUNDAM [PAINTING MODEL]",
+    "partNo": "2621339",
+    "releaseDate": "2023-04-22",
+    "brand": "ENTRY GRADE",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4302",
+    "nameJp": "ガンダムベース限定 アクションベース7 [機動戦士ガンダム SEED FREEDOM イメージクリアカラー]",
+    "nameEn": "THE GUNDAM BASE LIMITED ACTION BASE 7 [MOBILE SUIT GUNDAM SEED FREEDOM IMAGE CLEAR COLOR]",
+    "partNo": "2654127",
+    "releaseDate": "2024-03-09",
+    "brand": "アクションベース",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4303",
+    "nameJp": "ハロプラ ガンダムベース限定 ハロ [スペシャルコーティング] ゴールド&シルバー",
+    "nameEn": "",
+    "partNo": "2773837",
+    "releaseDate": "2025-10-11",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4305",
+    "nameJp": "ガンダムベース限定 マルチビルダーズケース【ガンダムベースカラー】",
+    "nameEn": "",
+    "partNo": "2794174",
+    "releaseDate": "2025-12-27",
+    "brand": "その他",
+    "series": "その他"
+  },
+  {
+    "id": "4306",
+    "nameJp": "MG 1/100 リ・ガズィ (逆襲のシャアVer.)",
+    "nameEn": "MG 1/100 Re-GZ (Char’s Counterattack Ver.)",
+    "partNo": "2563568",
+    "releaseDate": "2024-04-27",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4307",
+    "nameJp": "RG 1/144 RX-93ff νガンダム",
+    "nameEn": "RG 1/144 RX-93ff ν GUNDAM",
+    "partNo": "2604206",
+    "releaseDate": "2022-04",
+    "brand": "RG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4308",
+    "nameJp": "BB戦士 RX-93ff νガンダム",
+    "nameEn": "BB SENSHI RX-93ff ν GUNDAM",
+    "partNo": "2605386",
+    "releaseDate": "2022-04",
+    "brand": "その他",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4309",
+    "nameJp": "GUNDAM SIDE-F限定 アクションベース5 [GUNDAM SIDE-Fカラー]",
+    "nameEn": "GUNDAM SIDE-F LIMITED ACTION BASE 5 [GUNDAM SIDE-F COLOR]",
+    "partNo": "2617523",
+    "releaseDate": "2022-04-25",
+    "brand": "アクションベース",
+    "series": "機動戦士ガンダム"
+  },
+  {
     "id": "431",
     "nameJp": "MG 1/100 MSZ-010 ZZガンダム",
     "nameEn": "MG 1/100 ZZ GUNDAM",
@@ -12294,6 +15408,96 @@
     "series": "機動戦士ガンダムZZ"
   },
   {
+    "id": "4310",
+    "nameJp": "ハロプラ GUNDAM SIDE-F限定 ハロ [GUNDAM SIDE-Fカラー]",
+    "nameEn": "",
+    "partNo": "2621810",
+    "releaseDate": "2022-04-25",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4311",
+    "nameJp": "RG 1/144 MSN-04FF サザビー",
+    "nameEn": "RG 1/144 MSN-04FF SAZABI",
+    "partNo": "2642663",
+    "releaseDate": "2023-04-22",
+    "brand": "RG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4312",
+    "nameJp": "HG 1/144 ホビー・ハイザック (A.O.Z RE-BOOT版)",
+    "nameEn": "HG 1/144 HOBBY HI-ZACK (A.O.Z RE-BOOT Ver.)",
+    "partNo": "2646874",
+    "releaseDate": "2023-07-22",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "4313",
+    "nameJp": "BB戦士 MSN-04FF サザビー",
+    "nameEn": "",
+    "partNo": "2658443",
+    "releaseDate": "2023-05-03",
+    "brand": "その他",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4314",
+    "nameJp": "RG 1/144 νガンダム(ダブル・フィン・ファンネル装備型)",
+    "nameEn": "RG 1/144 ν GUNDAM DOUBLE FIN FUNNEL TYPE",
+    "partNo": "2705343",
+    "releaseDate": "2024-12-21",
+    "brand": "RG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4315",
+    "nameJp": "1/550 α･アジール [メタリック]",
+    "nameEn": "",
+    "partNo": "2783978",
+    "releaseDate": "2025-04-26",
+    "brand": "その他",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4316",
+    "nameJp": "RG 1/144 GUNDAM SIDE-F限定 νガンダム (ファーストロットカラーVer.)",
+    "nameEn": "",
+    "partNo": "2583474",
+    "releaseDate": "2023-12-22",
+    "brand": "RG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4317",
+    "nameJp": "RE/100 1/100 ヤクト・ドーガ (ギュネイ・ガス機) [スペシャルコーティング]",
+    "nameEn": "RE/100 1/100 GYUNEI GUSS’S JAGD DOGA [SPECIAL COATING]",
+    "partNo": "2611011",
+    "releaseDate": "2022-11-03",
+    "brand": "RE/100",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4318",
+    "nameJp": "HG 1/144 GUNDAM SIDE-F限定 ジェガン (ユウ・カジマ専用機)",
+    "nameEn": "",
+    "partNo": "2611095",
+    "releaseDate": "2022-10-08",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "4319",
+    "nameJp": "HG 1/144 GUNDAM SIDE-F限定 ジムIII (地球連邦軍仕様/ボッシュ・ウェラー専用機)",
+    "nameEn": "HG 1/144 THE GUNDAM SIDE-F LIMITED GMⅢ (EARTH FEDERATION FORCE TYPE/BOSCH WELLER CUSTOM)",
+    "partNo": "2686784",
+    "releaseDate": "2023-07-29",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
     "id": "432",
     "nameJp": "MG 1/100 RGM-79N ジムカスタム",
     "nameEn": "MG 1/100 RGM-79N",
@@ -12301,6 +15505,87 @@
     "releaseDate": "1999-12",
     "brand": "MG",
     "series": "機動戦士ガンダム 0083 STARDUST MEMORY"
+  },
+  {
+    "id": "4320",
+    "nameJp": "HG 1/144 ジムIII(アクシズ・ショックイメージカラー)",
+    "nameEn": "HG 1/144 GMⅢ (AXIS SHOCK IMAGE COLOR)",
+    "partNo": "2704797",
+    "releaseDate": "2024-06-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4321",
+    "nameJp": "SD ガンダムベース限定 RX-零丸(獅子吼)",
+    "nameEn": "",
+    "partNo": "2474717",
+    "releaseDate": "2019-04-20",
+    "brand": "SDBD",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "4322",
+    "nameJp": "HGBD 1/144 ガンダムベース限定 ガンダムダブルオーダイバー［トランザムクリア］",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED GUNDAM 00 DIVER[TRANS-AM CLEAR]",
+    "partNo": "2486108",
+    "releaseDate": "2019-07-12",
+    "brand": "HG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "4323",
+    "nameJp": "HG 1/144 ガンダムベース限定 シャア専用ザクII[メタリック]",
+    "nameEn": "",
+    "partNo": "2544307",
+    "releaseDate": "2021-07-10",
+    "brand": "HG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4324",
+    "nameJp": "HG 1/144 ガンダムベース限定 ザクII(21stCENTURY REAL TYPE Ver.)",
+    "nameEn": "",
+    "partNo": "2558578",
+    "releaseDate": "2021-01-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4325",
+    "nameJp": "MG 1/100 ガンダムベース限定 フリーダムガンダム Ver.2.0[シルバーコーティング]",
+    "nameEn": "MG 1/100 THE GUNDAM BASE LIMITED FREEDOM GUNDAM Ver.2.0[SILVER COATING]",
+    "partNo": "2570041",
+    "releaseDate": "2021-04-10",
+    "brand": "HG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4326",
+    "nameJp": "MG 1/100 ガンダムベース限定  ガンダムアストレイレッドフレーム フライトユニット メッキフレーム/カラークリア",
+    "nameEn": "",
+    "partNo": "2592156",
+    "releaseDate": "2022-02-25",
+    "brand": "MG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "4327",
+    "nameJp": "HG 1/144 ガンダムベース限定 シャア専用ザクII(21stCENTURY REAL TYPE Ver.)",
+    "nameEn": "",
+    "partNo": "2604762",
+    "releaseDate": "2022-11-19",
+    "brand": "HG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4328",
+    "nameJp": "MG 1/100 ガンダムベース限定 ガンダムAGE-1 ウェアシステムセット[クリアカラー]",
+    "nameEn": "",
+    "partNo": "2611091",
+    "releaseDate": "2022-04-29",
+    "brand": "HG",
+    "series": "機動戦士ガンダム"
   },
   {
     "id": "433",
@@ -12330,6 +15615,33 @@
     "series": "機動武闘伝Gガンダム"
   },
   {
+    "id": "4357",
+    "nameJp": "MG 1/100 ガンダムベース限定 ドム[クリアカラー]",
+    "nameEn": "",
+    "partNo": "2654125",
+    "releaseDate": "2023-05-03",
+    "brand": "MG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4358",
+    "nameJp": "MG 1/100 ガンダムべース限定 RX-78-3 G-3ガンダム Ver.3.0",
+    "nameEn": "",
+    "partNo": "2715397",
+    "releaseDate": "2024-09-14",
+    "brand": "MG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4359",
+    "nameJp": "HG 1/144 ガンダムベース福岡限定 シナンジュ Ver.GSF",
+    "nameEn": "",
+    "partNo": "2733969",
+    "releaseDate": "2024-11-30",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
     "id": "436",
     "nameJp": "HGFC 1/144 マスターガンダム＆風雲再起",
     "nameEn": "HGFC 1/144 MASTER GUNDAM & FUUNSAIKI",
@@ -12337,6 +15649,87 @@
     "releaseDate": "2011-08-27",
     "brand": "HG",
     "series": "機動武闘伝Gガンダム"
+  },
+  {
+    "id": "4360",
+    "nameJp": "HG 1/144 ガンダムベース限定 ゼータガンダム[U.C.0088] (バイオセンサーイメージカラー)",
+    "nameEn": "",
+    "partNo": "2783968",
+    "releaseDate": "2025-04-19",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "4361",
+    "nameJp": "MG 1/100 ガンダムベース限定 ウイングガンダムゼロ EW Ver.Ka [リサーキュレーションカラー/ネオンピンク]",
+    "nameEn": "",
+    "partNo": "2783970",
+    "releaseDate": "2025-04-11",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "4362",
+    "nameJp": "MG 1/100 ガンダムベース限定 ガンダムアストレイ レッドフレーム [リサーキュレーションカラー/ネオンピンク］",
+    "nameEn": "",
+    "partNo": "2783971",
+    "releaseDate": "2025-04-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4363",
+    "nameJp": "Figure-rise Standard ガンダムベース限定 ルナマリア･ホーク [ガンダムベースカラー]",
+    "nameEn": "",
+    "partNo": "2783974",
+    "releaseDate": "2025-10-11",
+    "brand": "Figure-rise Standard",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "4364",
+    "nameJp": "HG 1/144 ガンダムベース限定 グフ・フライトタイプ(21stCENTURY REAL TYPE Ver.)",
+    "nameEn": "",
+    "partNo": "2475078",
+    "releaseDate": "2019-08-09",
+    "brand": "HG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4365",
+    "nameJp": "Figure-rise Mechanics ガンダムベース限定 ハロ  (LIGHTING UNIT SET)",
+    "nameEn": "",
+    "partNo": "2475306",
+    "releaseDate": "2019-07-20",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4366",
+    "nameJp": "Figure-rise Standard BD ガンダムベース限定 ダイバーアヤメ[ガンダムベースカラー]&プチッガイセット",
+    "nameEn": "",
+    "partNo": "2499057",
+    "releaseDate": "2019-09-01",
+    "brand": "Figure-rise Standard",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "4367",
+    "nameJp": "LEGENDBB ガンダムベース限定 飛駆鳥大将軍 [クリアカラー]",
+    "nameEn": "",
+    "partNo": "2511936",
+    "releaseDate": "2020-01-25",
+    "brand": "その他",
+    "series": "その他"
+  },
+  {
+    "id": "4368",
+    "nameJp": "HG 1/144 ガンダムベース福岡限定 ユニコーンガンダム ペルフェクティビリティ(デストロイモード) (最終決戦仕様)Ver.GSF【クリアカラー】",
+    "nameEn": "",
+    "partNo": "2773823",
+    "releaseDate": "2025-08-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
   },
   {
     "id": "437",
@@ -12366,6 +15759,96 @@
     "series": "機動戦士ガンダムUC"
   },
   {
+    "id": "4390",
+    "nameJp": "HG 1/144 ガンダムベース限定 ユニコーンガンダム ペルフェクティビリティ(デストロイモード)",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED UNICORN GUNDAM PERFECTIBILITY(DESTROY MODE)",
+    "partNo": "2377390",
+    "releaseDate": "2018-09",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4391",
+    "nameJp": "ガンダムベース限定 アクションベース1 [ブルー]",
+    "nameEn": "THE GUNDAM BASE LIMITED ACTION BASE 1 ［BLUE］",
+    "partNo": "2390168",
+    "releaseDate": "2017-08",
+    "brand": "アクションベース",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4392",
+    "nameJp": "ガンダムベース限定 アクションベース2 [ブルー]",
+    "nameEn": "THE GUNDAM BASE LIMITED ACTION BASE 2 ［BLUE］",
+    "partNo": "2390169",
+    "releaseDate": "2017-08",
+    "brand": "アクションベース",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4393",
+    "nameJp": "HG 1/144 ガンダムベース限定 すーぱーふみな [ガンダムベースカラー]",
+    "nameEn": "",
+    "partNo": "2390175",
+    "releaseDate": "2017-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4394",
+    "nameJp": "メガサイズモデル 1/48 ガンダムベース限定 RX-78-2 ガンダム [メタリックグロスインジェクション]",
+    "nameEn": "MEGA SIZE MODEL 1/48 THE GUNDAM BASE LIMITED RX-78-2 GUNDAM ［METALLIC GLOSS INJECTION］",
+    "partNo": "2395683",
+    "releaseDate": "2017-09",
+    "brand": "メガサイズモデル",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4395",
+    "nameJp": "HG 1/144 ガンダムベース限定 ベアッガイIII [トリコロールペイント]",
+    "nameEn": "",
+    "partNo": "2405200",
+    "releaseDate": "2017-12",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "4396",
+    "nameJp": "HG 1/144 ガンダムベース限定 プチッガイ [ガンダムベースカラー]",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED PETIT’GGUY [THE GUNDAM BASE COLOR]",
+    "partNo": "2412429",
+    "releaseDate": "2017-12",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "4397",
+    "nameJp": "ガンダムベース限定 アクションベース4 [トリコロールカラー]",
+    "nameEn": "THE GUNDAM BASE LIMITED ACTION BASE 4 [TRICOLOR COLOR]",
+    "partNo": "2430027",
+    "releaseDate": "2018-04",
+    "brand": "アクションベース",
+    "series": "その他"
+  },
+  {
+    "id": "4398",
+    "nameJp": "ガンダムベース限定 アクションベース5 [ユニコーンカラー]",
+    "nameEn": "THE GUNDAM BASE LIMITED ACTION BASE 5 [UNICORN COLOR]",
+    "partNo": "2430028",
+    "releaseDate": "2018-04",
+    "brand": "アクションベース",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4399",
+    "nameJp": "ガンダムベース限定 デブリパーツセット",
+    "nameEn": "THE GUNDAM BASE LIMITED DEBRIS PARTS SET",
+    "partNo": "2434363",
+    "releaseDate": "2018-06",
+    "brand": "オプションパーツセット",
+    "series": "機動戦士ガンダム"
+  },
+  {
     "id": "44",
     "nameJp": "HGBF 1/144 ZZ II（ダブルゼッツー）",
     "nameEn": "HGBF 1/144 ZZ II",
@@ -12384,12 +15867,192 @@
     "series": "機動戦士ガンダム"
   },
   {
+    "id": "4400",
+    "nameJp": "ハロプラ ガンダムベース限定 ハロ [ガンダムベースカラー]",
+    "nameEn": "HALOPLA GUNDAM BASE LIMITED HALO [GUNDAM BASE COLOR]",
+    "partNo": "2442246",
+    "releaseDate": "2018-07",
+    "brand": "その他",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "4401",
+    "nameJp": "SDガンダム クロスシルエット ガンダムベース限定 RX-78-3 G-3ガンダム(クロスシルエットフレームVer.)",
+    "nameEn": "SD GUNDAM CROSS SILHOUETTE THE GUNDAM BASE LIMITED RX-78-3 G-3GUNDAM(CROSS SILHOUETTE FRAME Ver.)",
+    "partNo": "2474247",
+    "releaseDate": "2019-08-09",
+    "brand": "SDガンダム クロスシルエット",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4402",
+    "nameJp": "ガンダムベース限定 アクションベース5［連邦イメージカラー］",
+    "nameEn": "THE GUNDAM BASE LIMITED ACTION BASE 5 (E.F.S.F. IMAGE COLORS)",
+    "partNo": "2475073",
+    "releaseDate": "2019-06-15",
+    "brand": "アクションベース",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4403",
+    "nameJp": "ガンダムベース限定 アクションベース5［ジオンイメージカラー］",
+    "nameEn": "THE GUNDAM BASE LIMITED ACTION BASE 5 (ZEON IMAGE COLORS)",
+    "partNo": "2475074",
+    "releaseDate": "2019-06-15",
+    "brand": "アクションベース",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4404",
+    "nameJp": "ガンダムベース限定 アクションベース4［シャア専用カラー］",
+    "nameEn": "THE GUNDAM BASE LIMITED ACTION BASE4[CHAR COLOR]",
+    "partNo": "2475077",
+    "releaseDate": "2019-07-20",
+    "brand": "アクションベース",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4405",
+    "nameJp": "ハロプラ ガンダムベース限定 ハロ[ペインティングモデル] クリア＆ホワイト",
+    "nameEn": "HAROPLA THE GUNDAM BASE LIMITED HARO [PAINTING MODEL] CLEAR&WHITE",
+    "partNo": "2475305",
+    "releaseDate": "2019-04-20",
+    "brand": "その他",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "4406",
+    "nameJp": "MG 1/100 ガンダムベース限定 MS CAGE",
+    "nameEn": "MG 1/100 GUNDAM BASE LIMITED MS CAGE",
+    "partNo": "2477804",
+    "releaseDate": "2019-04-06",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4407",
+    "nameJp": "MG 1/100 ガンダムベース限定 ユニコーンガンダム ペルフェクティビリティ",
+    "nameEn": "MG 1/100 THE GUNDAM BASE LIMITED UNICORN GUNDAM PERFECTIBILITY",
+    "partNo": "2477806",
+    "releaseDate": "2019-07-20",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4408",
+    "nameJp": "HG 1/144 ガンダムベース限定 ナラティブガンダム B装備",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED NARRATIVE GUNDAM B-PACKS",
+    "partNo": "2495088",
+    "releaseDate": "2019-12-20",
+    "brand": "HG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "4409",
+    "nameJp": "1/144 ガンダムベース限定 システムウェポンキット001",
+    "nameEn": "",
+    "partNo": "2498040",
+    "releaseDate": "2019-10-21",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
     "id": "441",
     "nameJp": "HGUC 1/144 ユニコーンガンダム2号機 バンシィ(デストロイモード)",
     "nameEn": "HGUC 1/144 UNICORN GUNDAM 02 BANSHEE (DESTROY MODE)",
     "partNo": "2128374",
     "releaseDate": "2012-01-08",
     "brand": "HGUC",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4410",
+    "nameJp": "BB戦士 ガンダムベース限定 ユニコーンガンダムペルフェクティビリティ",
+    "nameEn": "BB THE GUNDAM BASE LIMITED UNICORN GUNDAM PERFECTIBILITY",
+    "partNo": "2499403",
+    "releaseDate": "2019-11-01",
+    "brand": "その他",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4411",
+    "nameJp": "1/144 ガンダムベース限定 システムウェポンキット004",
+    "nameEn": "",
+    "partNo": "2500180",
+    "releaseDate": "2019-12-20",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4412",
+    "nameJp": "HG 1/144 ガンダムベース限定 RX-78-2ガンダム ［メタリックグロスインジェクション］",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED RX-78-2 GUNDAM ［METALLIC GLOSS INJECTION］",
+    "partNo": "2390098",
+    "releaseDate": "2017-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4413",
+    "nameJp": "HG 1/144 ガンダムベース限定 ガンダムバルバトス [メタリック グロスインジェクション]",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED GUNDAM BARBATOS ［METALLIC GLOSS INJECTION］",
+    "partNo": "2390099",
+    "releaseDate": "2017-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "4414",
+    "nameJp": "RG 1/144 ガンダムベース限定 ウイングガンダムゼロ EW [クリアカラー]",
+    "nameEn": "RG 1/144 THE GUNDAM BASE LIMITED WING GUNDAM ZERO EW ［CLEAR COLOR］",
+    "partNo": "2390162",
+    "releaseDate": "2017-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4415",
+    "nameJp": "MG 1/100 ガンダムベース限定 エールストライクガンダムVer.RM［クリアカラー］",
+    "nameEn": "MG 1/100 THE GUNDAM BASE LIMITED AILE STRIKE GUNDAM Ver.RM ［CLEAR COLOR］",
+    "partNo": "2390164",
+    "releaseDate": "2017-08",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4416",
+    "nameJp": "RG 1/144 ガンダムベース限定 シナンジュ [メタリックグロスインジェクション]",
+    "nameEn": "RG 1/144 GUNDAM Base Limited Sinanju [Metallic Gloss Injection]",
+    "partNo": "2390172",
+    "releaseDate": "2017-08",
+    "brand": "RG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4417",
+    "nameJp": "HG 1/144 ガンダムベース限定 ユニコーンガンダム デストロイモード[メタリックグロスインジェクション]",
+    "nameEn": "",
+    "partNo": "2401850",
+    "releaseDate": "2017-10",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4418",
+    "nameJp": "HG 1/144 ガンダムベース限定 ユニコーンガンダム ユニコーンモード[メタリックグロスインジェクション]",
+    "nameEn": "",
+    "partNo": "2403101",
+    "releaseDate": "2017-10",
+    "brand": "HG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4419",
+    "nameJp": "RG 1/144 ガンダムベース限定 RX-0 ユニコーンガンダム Ver.TWC",
+    "nameEn": "",
+    "partNo": "2403829",
+    "releaseDate": "2017-09",
+    "brand": "RG",
     "series": "機動戦士ガンダムUC"
   },
   {
@@ -12402,6 +16065,96 @@
     "series": "機動戦士ガンダム"
   },
   {
+    "id": "4420",
+    "nameJp": "HG 1/144 ガンダムベース限定 フリーダムガンダム [クリアカラー]",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED FREEDOM GUNDAM ［CLEAR COLOR］",
+    "partNo": "2404284",
+    "releaseDate": "2017-11",
+    "brand": "HG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4421",
+    "nameJp": "HG 1/144 ガンダムベース限定 シャア専用ザクII [メタリック]",
+    "nameEn": "",
+    "partNo": "2406585",
+    "releaseDate": "2018-03",
+    "brand": "HG",
+    "series": "機動戦士ガンダム THE ORIGIN"
+  },
+  {
+    "id": "4422",
+    "nameJp": "HG 1/144 ガンダムベース限定 ゼータガンダム3号機 初期検証型",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED ZETA GUNDAM UNIT 3",
+    "partNo": "2408502",
+    "releaseDate": "2018-01",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "4423",
+    "nameJp": "PG 1/60 ガンダムベース限定 RX-78-3 G-3ガンダム [エクストラフィニッシュ]",
+    "nameEn": "",
+    "partNo": "2431241",
+    "releaseDate": "2018-06",
+    "brand": "PG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4424",
+    "nameJp": "MG 1/100 ガンダムベース限定 クロスボーンガンダムX-1 フルクロス [エクストラフィニッシュ]",
+    "nameEn": "",
+    "partNo": "2431281",
+    "releaseDate": "2018-04",
+    "brand": "MG",
+    "series": "機動戦士クロスボーン・ガンダム"
+  },
+  {
+    "id": "4425",
+    "nameJp": "HG 1/144 ガンダムベース限定 ういにんぐふみな [ガンダムベースカラー]",
+    "nameEn": "",
+    "partNo": "2431324",
+    "releaseDate": "2018-05",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "4426",
+    "nameJp": "HG 1/144 ガンダムベース限定 νガンダムvsサザビー(宿命の対決セット)[スペシャルコーティング]",
+    "nameEn": "",
+    "partNo": "2434364",
+    "releaseDate": "2018-09",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4427",
+    "nameJp": "RG 1/144 ガンダムベース限定 ユニコーンガンダム [ゴールドコーティング]",
+    "nameEn": "",
+    "partNo": "2434384",
+    "releaseDate": "2018-08",
+    "brand": "RG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4428",
+    "nameJp": "HG 1/144 ガンダムベース限定 イフリート改[メタリックグロスインジェクション]",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED EFREET CUSTOM[METALIC GLOSS INJECTION]",
+    "partNo": "2434385",
+    "releaseDate": "2019-02",
+    "brand": "HG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4429",
+    "nameJp": "HG 1/144 ガンダムベース限定 ブルーディスティニー1号機“EXAM”[メタリックグロスインジェクション]",
+    "nameEn": "",
+    "partNo": "2434706",
+    "releaseDate": "2019-01-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム"
+  },
+  {
     "id": "443",
     "nameJp": "MG 1/100 MS-09R リックドム",
     "nameEn": "MG 1/100 RICK-DOM",
@@ -12409,6 +16162,78 @@
     "releaseDate": "1999-10",
     "brand": "MG",
     "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4430",
+    "nameJp": "RG 1/144 ガンダムベース限定 ダブルオークアンタフルセイバー[トランザムクリア]",
+    "nameEn": "RG 1/144 THE GUNDAM BASE LIMITED 00 QAN[T] FULL SABER [TRANS-AM CLEAR]",
+    "partNo": "2475066",
+    "releaseDate": "2019-11-30",
+    "brand": "RG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "4431",
+    "nameJp": "MG 1/100 ガンダムベース限定 RX-78-2 ガンダムVer.3.0 [ガンダムベースカラー]",
+    "nameEn": "MG 1/100 THE GUNDAM BASE LIMITED RX-78-2 GUNDAM Ver.3.0 [THE GUNDAM BASE COLOR]",
+    "partNo": "2475067",
+    "releaseDate": "2019-11-23",
+    "brand": "MG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4432",
+    "nameJp": "HGBD ガンダムベース限定 モビルドールサラ(ミラーミッションVer.)",
+    "nameEn": "",
+    "partNo": "2499056",
+    "releaseDate": "2019-09-21",
+    "brand": "HG",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "4433",
+    "nameJp": "LEGENDBB ガンダムベース限定 武者號斗丸(最終決戦Ver.) [クリアカラー]",
+    "nameEn": "",
+    "partNo": "2390166",
+    "releaseDate": "2017-08",
+    "brand": "その他",
+    "series": "その他"
+  },
+  {
+    "id": "4434",
+    "nameJp": "MG 1/100 ガンダムベース限定 RX-78-2 ガンダム Ver.3.0 [クリアカラー]",
+    "nameEn": "",
+    "partNo": "2390179",
+    "releaseDate": "2017-08",
+    "brand": "MG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4435",
+    "nameJp": "MG 1/100 ガンダムベース限定 RX-78-2 ガンダム Ver.3.0[チタニウムフィニッシュ]",
+    "nameEn": "MG 1/100 THE GUNDAM BASE LIMITED RX-78-2 GUNDAM Ver.3.0 [TITANIUM FINISH]",
+    "partNo": "2569546",
+    "releaseDate": "2021-08-07",
+    "brand": "MG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4436",
+    "nameJp": "BB戦士 ガンダムベース限定 フルアーマー・ユニコーンガンダム&ネオ・ジオング [クリアカラー]",
+    "nameEn": "",
+    "partNo": "2420550",
+    "releaseDate": "2017-12",
+    "brand": "その他",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4437",
+    "nameJp": "メガサイズモデル 1/48 ガンダムベース限定 RX-0 ユニコーンガンダム Ver.TWC",
+    "nameEn": "MEGA SIZE MODEL 1/48 THE GUNDAM BASE LIMITED RX-0 UNICORN GUNDAM Ver. TWC",
+    "partNo": "2403870",
+    "releaseDate": "2017-12",
+    "brand": "メガサイズモデル",
+    "series": "機動戦士ガンダムUC"
   },
   {
     "id": "444",
@@ -12429,6 +16254,42 @@
     "series": "機動戦士ガンダム"
   },
   {
+    "id": "4456",
+    "nameJp": "1/144 ガンダムベース限定 システムウェポンキット006",
+    "nameEn": "",
+    "partNo": "2512893",
+    "releaseDate": "2020-02-08",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4457",
+    "nameJp": "ガンダムベース限定 MS汎用ハンガー",
+    "nameEn": "THE GUNDAM BASE LIMITED MS GENERAL PURPOSE HANGAR",
+    "partNo": "2516138",
+    "releaseDate": "2020-05-30",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4458",
+    "nameJp": "MG 1/100 ガンダムベース限定 カタパルトベース",
+    "nameEn": "",
+    "partNo": "2524156",
+    "releaseDate": "2020-06-12",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4459",
+    "nameJp": "1/144 ガンダムベース限定 システムウェポンキット007",
+    "nameEn": "",
+    "partNo": "2526872",
+    "releaseDate": "2020-06-19",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
     "id": "446",
     "nameJp": "MG 1/100 FA-010S フルアーマーZZガンダム",
     "nameEn": "MG 1/100 FULL ARMOR ZZ GUNDAM",
@@ -12436,6 +16297,96 @@
     "releaseDate": "2000-08",
     "brand": "MG",
     "series": "機動戦士ガンダムZZ"
+  },
+  {
+    "id": "4460",
+    "nameJp": "1/144 ガンダムベース限定 システムウェポンキット008",
+    "nameEn": "",
+    "partNo": "2526873",
+    "releaseDate": "2020-06-19",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4461",
+    "nameJp": "1/144 ガンダムベース限定 システムウェポンキット010",
+    "nameEn": "",
+    "partNo": "2526875",
+    "releaseDate": "2020-10",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4462",
+    "nameJp": "HG 1/144 ガンダムベース限定 ド・ダイ改(21st CENTURY REAL TYPE Ver.)",
+    "nameEn": "",
+    "partNo": "2531662",
+    "releaseDate": "2020-06-06",
+    "brand": "ENTRY GRADE",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "4463",
+    "nameJp": "ハロプラ ガンダムベース限定 モビルハロ[ガンダムベースカラー]",
+    "nameEn": "HAROPLA MOBILEHARO [THE GUNDAM BASE COLOR]",
+    "partNo": "2531663",
+    "releaseDate": "2020-08-07",
+    "brand": "その他",
+    "series": "ガンダムビルドダイバーズ"
+  },
+  {
+    "id": "4464",
+    "nameJp": "HG 1/144 ガンダムベース限定 ザクII TYPE C-6/R6 [ペインティングモデル]",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED MS-06C-6/R6 ZAKUⅡ TYPE C-6/R6[PAINTING MODEL]",
+    "partNo": "2531905",
+    "releaseDate": "2020-05-30",
+    "brand": "HG",
+    "series": "機動戦士ガンダム THE ORIGIN"
+  },
+  {
+    "id": "4465",
+    "nameJp": "SDガンダムEXスタンダード ガンダムベース限定 ZGMF-X10A フリーダムガンダム Ver.GCP",
+    "nameEn": "SD GUNDAM EX-STANDARD ZGMF X10A FREEDOM GUNDAM Ver.SH",
+    "partNo": "2542953",
+    "releaseDate": "2021-09-19",
+    "brand": "SDEX",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4466",
+    "nameJp": "フルメカニクス 1/100 ガンダムベース限定 ZGMF-X10A フリーダムガンダム Ver.GCP",
+    "nameEn": "FULLMECHANICS 1/100 THE GUNDAM BASE LIMITED ZGMF-X10A FREEDOM GUNDAM Ver.GCP",
+    "partNo": "2547298",
+    "releaseDate": "2021-09-19",
+    "brand": "HG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4467",
+    "nameJp": "RG 1/144  ガンダムベース限定 ZGMF-X10A フリーダムガンダム Ver.GCP",
+    "nameEn": "RG 1/144 GUNDAM BASE LIMITED ZGMF-X10A FREEDOM GUNDAM VER.GCP",
+    "partNo": "2555446",
+    "releaseDate": "2023-12-02",
+    "brand": "RG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4468",
+    "nameJp": "MG 1/100 ガンダムベース限定 RX-78-2ガンダム(パーフェクトガンダムVer.)[アニメカラー]",
+    "nameEn": "",
+    "partNo": "2559803",
+    "releaseDate": "2020-12-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4469",
+    "nameJp": "1/100 ガンダムベース限定 MSスパイク01&エモーションマニピュレーター(ジオン系)",
+    "nameEn": "",
+    "partNo": "2569547",
+    "releaseDate": "2021-05-07",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
   },
   {
     "id": "447",
@@ -12447,6 +16398,96 @@
     "series": "機動戦士ガンダム"
   },
   {
+    "id": "4470",
+    "nameJp": "1/100 ガンダムベース限定 MSバーニア01&エモーションマニピュレーター(連邦系)",
+    "nameEn": "",
+    "partNo": "2569548",
+    "releaseDate": "2021-05-07",
+    "brand": "その他",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4471",
+    "nameJp": "1/144 ガンダムベース限定 ホワイトベースMSハンガー 3個セット",
+    "nameEn": "1/144 THE GUNDAM BASE LIMITED WHITE BASE MS HANGAR SET",
+    "partNo": "2569553",
+    "releaseDate": "2021-08-07",
+    "brand": "その他",
+    "series": "機動戦士ガンダムZZ"
+  },
+  {
+    "id": "4472",
+    "nameJp": "HG 1/144 ガンダムベース限定 コアガンダム&コアガンダムII&アルスコアガンダム[ロービジビリティVer.]",
+    "nameEn": "",
+    "partNo": "2572434",
+    "releaseDate": "2021-05-14",
+    "brand": "HG",
+    "series": "ガンダムビルドダイバーズRe:RISE"
+  },
+  {
+    "id": "4473",
+    "nameJp": "1/48 ガンダムベース限定 ユニコーンガンダム ヘッドディスプレイベース(サイコフレームカラーバリエーションVer.)＆ユニコーンガンダム2号機 バンシィ ヘッドディスプレイベース セット",
+    "nameEn": "",
+    "partNo": "2572438",
+    "releaseDate": "2021-07-10",
+    "brand": "その他",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4474",
+    "nameJp": "ENTRY GRADE 1/144 ガンダムベース限定 RX-78 ガンダム [ペインティングモデル]",
+    "nameEn": "ENTRY GRADE 1/144 THE GUNDAM BASE LIMITED RX-78 GUNDAM [PAINTING MODEL]",
+    "partNo": "2584301",
+    "releaseDate": "2021-06-21",
+    "brand": "ENTRY GRADE",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4475",
+    "nameJp": "RG 1/144 ガンダムベース限定 ユニコーンガンダム ペルフェクティビリティ",
+    "nameEn": "RG 1/144 THE GUNDAM BASE LIMITED UNICORN GUNDAM PERFECTIBILITY",
+    "partNo": "2519706",
+    "releaseDate": "2020-08-07",
+    "brand": "RG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4476",
+    "nameJp": "HG ガンダムベース限定 モビルドールメイ[ガンダムベースカラー]",
+    "nameEn": "",
+    "partNo": "2519707",
+    "releaseDate": "2020-09-11",
+    "brand": "HG",
+    "series": "ガンダムビルドダイバーズRe:RISE"
+  },
+  {
+    "id": "4477",
+    "nameJp": "RG 1/144 ガンダムベース限定 ダブルオーライザー[トランザムクリア]",
+    "nameEn": "RG 1/144 THE GUNDAM BASE LIMITED 00-RAISER [TRANS-AM CLEAR]",
+    "partNo": "2519708",
+    "releaseDate": "2020-11-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4478",
+    "nameJp": "RG 1/144 ガンダムベース限定 ダブルオークアンタ[トランザムクリア]",
+    "nameEn": "RG 1/144 THE GUNDAM BASE LIMITED 00 QAN[T][TRANS-AM CLEAR]",
+    "partNo": "2519709",
+    "releaseDate": "2020-11-12",
+    "brand": "RG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "4479",
+    "nameJp": "RG 1/144 ガンダムベース限定 ガンダムエクシア[トランザムクリア]",
+    "nameEn": "",
+    "partNo": "2519710",
+    "releaseDate": "2020-11-12",
+    "brand": "RG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
     "id": "448",
     "nameJp": "MG 1/100 RX-79[G] ガンダムEz-8",
     "nameEn": "MG 1/100 RX-79G GUNDAM Ez8",
@@ -12456,6 +16497,96 @@
     "series": "機動戦士ガンダム 第08MS小隊"
   },
   {
+    "id": "4480",
+    "nameJp": "MG 1/100 ガンダムベース限定 FAZZ Ver.Ka[チタニウムフィニッシュ]",
+    "nameEn": "",
+    "partNo": "2525971",
+    "releaseDate": "2020-08-08",
+    "brand": "MG",
+    "series": "ガンダム・センチネル"
+  },
+  {
+    "id": "4481",
+    "nameJp": "MGEX 1/100 ガンダムベース限定 ユニコーンガンダム Ver.TWC",
+    "nameEn": "",
+    "partNo": "2546282",
+    "releaseDate": "2020-12-11",
+    "brand": "MGEX",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4482",
+    "nameJp": "HG 1/144 ガンダムベース限定 RX-78-2 ガンダム [BEYOND GLOBAL] [ガンダムベースカラー]",
+    "nameEn": "HG 1/144 GUNDAM BASE LIMITED RX-78-2 GUNDAM [BEYOND GLOBAL] [GUNDAM BASE COLOR]",
+    "partNo": "2557407",
+    "releaseDate": "2021-03-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4483",
+    "nameJp": "MG 1/100 ガンダムベース限定 ザクウォーリア(ライブコンサート Ver.)",
+    "nameEn": "MG 1/100 GUNDAM BASS LIMITED ZAKUWARRIOR (LIVE CONCERT VER.)",
+    "partNo": "2558576",
+    "releaseDate": "2021-03-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4484",
+    "nameJp": "RG 1/144 ガンダムベース限定 ストライクルージュ グランドスラム装備型",
+    "nameEn": "",
+    "partNo": "2558579",
+    "releaseDate": "2021-02",
+    "brand": "RG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4485",
+    "nameJp": "HG 1/144 ガンダムベース限定 ガンダムMk-II(21st CENTURY REAL TYPE Ver.)",
+    "nameEn": "",
+    "partNo": "2569549",
+    "releaseDate": "2021-06-21",
+    "brand": "HG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4486",
+    "nameJp": "Figure-rise Standard BUILD FIGHTERS TRY ガンダムベース限定 ホシノ・フミナ[ガンダムベースカラー]",
+    "nameEn": "",
+    "partNo": "2570534",
+    "releaseDate": "2021-05-14",
+    "brand": "Figure-rise Standard",
+    "series": "ガンダムビルドダイバーズRe:RISE"
+  },
+  {
+    "id": "4487",
+    "nameJp": "HG 1/144 ガンダムベース限定 ガンダムFSD (試作型ロングレンジ・ビームライフル装備)",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED GUNDAM FSD (with PROTOTYPE LONG-RANGE BEAM RIFLE)",
+    "partNo": "2723580",
+    "releaseDate": "2024-10-12",
+    "brand": "HG",
+    "series": "機動戦士ガンダム ククルス・ドアンの島"
+  },
+  {
+    "id": "4488",
+    "nameJp": "SDガンダム クロスシルエット ガンダムベース限定 RX-78-2 ガンダム(クロスシルエットフレームVer.)[ガンダムベースカラー]",
+    "nameEn": "SD GUNDAM CROSS SILHOUETTE THE GUNDAM BASE LIMITED RX-78-2 GUNDAM(CROSS SILHOUETTE FRAME Ver.) [THE GUNDAM BASE COLOR]",
+    "partNo": "2569556",
+    "releaseDate": "2022-03-12",
+    "brand": "SDガンダム クロスシルエット",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4489",
+    "nameJp": "ENTRY GRADE 1/144 ガンダムベース限定 RX-78-2 ガンダム [ガンダムベースカラー]",
+    "nameEn": "ENTRY GRADE 1/144 THE GUNDAM BASE LIMITED RX-78-2 GUNDAM [THE GUNDAM BASE COLOR]",
+    "partNo": "2604535",
+    "releaseDate": "2022-05-03",
+    "brand": "ENTRY GRADE",
+    "series": "機動戦士ガンダム"
+  },
+  {
     "id": "449",
     "nameJp": "MG 1/100 MS-18E ケンプファー",
     "nameEn": "MG 1/100 MS-18E KAMPFER",
@@ -12463,6 +16594,96 @@
     "releaseDate": "2001-01",
     "brand": "MG",
     "series": "機動戦士ガンダム0080 ポケットの中の戦争"
+  },
+  {
+    "id": "4490",
+    "nameJp": "MG 1/100 ガンダムベース限定 パーフェクトストライクガンダム グランドスラム装備型",
+    "nameEn": "",
+    "partNo": "2611004",
+    "releaseDate": "2022-08-06",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4491",
+    "nameJp": "MG 1/100 ガンダムベース限定 ユニコーンガンダム(光の結晶体)",
+    "nameEn": "MG 1/100 THE GUNDAM BASE LIMITED UNICORN GUNDAM (LUMINOUS CRYSTAL BODY)",
+    "partNo": "2611092",
+    "releaseDate": "2022-08-22",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4492",
+    "nameJp": "HG 1/144 ガンダムベース限定 ガンダムアストレイ レッドドラゴン",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED GUNDAM ASTRAY RED DRAGON",
+    "partNo": "2612382",
+    "releaseDate": "2022-10-08",
+    "brand": "HG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4493",
+    "nameJp": "ガンダムベース限定 アクションベース5 [水星の魔女イメージカラー]",
+    "nameEn": "THE GUNDAM BASE LIMITED ACTION BASE 5 [THE WITCH FROM MERCURY IMAGE COLOR]",
+    "partNo": "2617083",
+    "releaseDate": "2022-10-01",
+    "brand": "アクションベース",
+    "series": "機動戦士ガンダム 水星の魔女"
+  },
+  {
+    "id": "4494",
+    "nameJp": "ENTRY GRADE 1/144 ガンダムベース限定 ストライクガンダム [ペインティング モデル]",
+    "nameEn": "ENTRY GRADE 1/144 THE GUNDAM BASE LIMITED STRIKE GUNDAM [PAINTING MODEL]",
+    "partNo": "2617524",
+    "releaseDate": "2022-05-21",
+    "brand": "ENTRY GRADE",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4495",
+    "nameJp": "HG ガンダムベース限定 TOLRO-800 -トロハチ-",
+    "nameEn": "HG THE GUNDAM BASE LIMITED TOLRO-800 -TOROHACHI-",
+    "partNo": "2654112",
+    "releaseDate": "2023-08-05",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4496",
+    "nameJp": "ENTRY GRADE 1/144 ガンダムベース限定 ラーガンダム 試作壱型",
+    "nameEn": "ENTRY GRADE 1/144 THE GUNDAM BASE LIMITED LAH GUNDAM SHISAKU ICHIGATA",
+    "partNo": "2673912",
+    "releaseDate": "2023-11-11",
+    "brand": "ENTRY GRADE",
+    "series": "ガンダムビルドメタバース"
+  },
+  {
+    "id": "4497",
+    "nameJp": "HG 1/144 ガンダムベース限定 コアガンダム＆コアガンダムII コアチェンジセット(リアルタイプカラー)",
+    "nameEn": "",
+    "partNo": "2677952",
+    "releaseDate": "2023-09-23",
+    "brand": "HG",
+    "series": "ガンダムビルドダイバーズRe:RISE"
+  },
+  {
+    "id": "4498",
+    "nameJp": "ENTRY GRADE 1/144 RX-93ff νガンダム",
+    "nameEn": "ENTRY GRADE 1/144 RX-93ff ν GUNDAM",
+    "partNo": "2607516",
+    "releaseDate": "2022-04",
+    "brand": "ENTRY GRADE",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4499",
+    "nameJp": "HG 1/144 νガンダム用 ブースターベッド",
+    "nameEn": "HG 1/144 BOOSTER BED FOR ν GUNDAM",
+    "partNo": "2611094",
+    "releaseDate": "2022-05-21",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
   },
   {
     "id": "45",
@@ -12483,6 +16704,96 @@
     "series": "機動戦士ガンダム 第08MS小隊"
   },
   {
+    "id": "4500",
+    "nameJp": "HG 1/144 サイコ・ドーガ",
+    "nameEn": "",
+    "partNo": "2630733",
+    "releaseDate": "2022-12-19",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4501",
+    "nameJp": "RG 1/144 ガンダムベース限定 RX-0 ユニコーンガンダム (最終決戦仕様) [スペシャルコーティング]",
+    "nameEn": "RG 1/144 THE GUNDAM BASE LIMITED RX-0 UNICORN GUNDAM (FINAL BATTLE Ver.) [SPECIAL COATING]",
+    "partNo": "2550145",
+    "releaseDate": "2023-07-29",
+    "brand": "RG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4502",
+    "nameJp": "RG 1/144 ガンダムベース限定 Hi-νガンダム[チタニウムフィニッシュ]",
+    "nameEn": "RG 1/144 THE GUNDAM BASE LIMITED Hi-ν GUNDAM [TITANIUM FINISH]",
+    "partNo": "2584942",
+    "releaseDate": "2022-11-21",
+    "brand": "RG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4503",
+    "nameJp": "HG 1/144 ガンダムベース限定 ゼータガンダム[U.C.0088]/百式/ガンダムMk-II(エゥーゴ仕様)セット [グリプス戦役スペシャルカラー]",
+    "nameEn": "",
+    "partNo": "2617522",
+    "releaseDate": "2023-04-22",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "4504",
+    "nameJp": "MG 1/100 ガンダムベース限定 ウイングガンダムゼロEW Ver.Ka [チタニウムフィニッシュ]",
+    "nameEn": "",
+    "partNo": "2622341",
+    "releaseDate": "2022-12-24",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "4505",
+    "nameJp": "HG 1/144 ガンダムベース限定 フルアーマー・ガンダム VS サイコ・ザク セット(機動戦士ガンダム サンダーボルト10周年記念Ver.)",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED FULL ARMOR GUNDAM VS PSYCHO ZAKU SET (GUNDAM THUNDERBOLT 10th Anniversary Ver.)",
+    "partNo": "2624437",
+    "releaseDate": "2022-09-30",
+    "brand": "HG",
+    "series": "機動戦士ガンダム サンダーボルト"
+  },
+  {
+    "id": "4506",
+    "nameJp": "MG 1/100 ガンダムベース限定 ザクキャノン (ZガンダムVer.)",
+    "nameEn": "",
+    "partNo": "2654095",
+    "releaseDate": "2023-11-25",
+    "brand": "MG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "4507",
+    "nameJp": "HG 1/144 ガンダムベース限定 ムーンガンダム (ロング・ライフル装備)",
+    "nameEn": "",
+    "partNo": "2654129",
+    "releaseDate": "2023-06-10",
+    "brand": "HG",
+    "series": "機動戦士MOONガンダム"
+  },
+  {
+    "id": "4508",
+    "nameJp": "HG 1/144 ガンダムベース限定 ジム/ジムII/ジムIII セット",
+    "nameEn": "",
+    "partNo": "2665788",
+    "releaseDate": "2023-06-10",
+    "brand": "HG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4509",
+    "nameJp": "HG 1/144 ガンダムベース限定 ガンダムMk-II(ティターンズ仕様)(21st CENTURY REAL TYPE Ver.)",
+    "nameEn": "",
+    "partNo": "2670097",
+    "releaseDate": "2023-12-22",
+    "brand": "HG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
     "id": "451",
     "nameJp": "HGUC 1/144 クシャトリヤ・リペアード",
     "nameEn": "HGUC 1/144 KSHATRIYA REPAIRED",
@@ -12492,6 +16803,96 @@
     "series": "機動戦士ガンダムUC"
   },
   {
+    "id": "4510",
+    "nameJp": "HG 1/144 GUNDAM SIDE-F限定 ギラ・ドーガ (ヴィンセント・グライスナー専用機)",
+    "nameEn": "",
+    "partNo": "2611096",
+    "releaseDate": "2023-01-21",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
+    "id": "4511",
+    "nameJp": "HG ガンダムベース限定 ドラケンE",
+    "nameEn": "HG THE GUNDAM BASE LIMITED DRAKEN E",
+    "partNo": "2708090",
+    "releaseDate": "2024-08-24",
+    "brand": "HG",
+    "series": "機動戦士ガンダム0080 ポケットの中の戦争"
+  },
+  {
+    "id": "4512",
+    "nameJp": "HG 1/144 ガンダムベース限定 G-セルフ (パーフェクトパック装備型) (劇場版『Gのレコンギスタ』Ver.)",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED G-SELF PERFECT PACK (Reconguista in G the Movie Ver.)",
+    "partNo": "2715394",
+    "releaseDate": "2024-10-26",
+    "brand": "HG",
+    "series": "ガンダム Gのレコンギスタ"
+  },
+  {
+    "id": "4513",
+    "nameJp": "ガンダムベース限定 オプションパーツセット ガンプラ (カスタムウェポン & ジョイントセット 1)",
+    "nameEn": "",
+    "partNo": "2733979",
+    "releaseDate": "2024-12-14",
+    "brand": "オプションパーツセット",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4514",
+    "nameJp": "ガンダムベース限定 オプションパーツセット ガンプラ (カスタムウェポン & ジョイントセット 2)",
+    "nameEn": "",
+    "partNo": "2733980",
+    "releaseDate": "2024-12-14",
+    "brand": "オプションパーツセット",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4515",
+    "nameJp": "HG ガンダムベース限定 メッド",
+    "nameEn": "",
+    "partNo": "2773820",
+    "releaseDate": "2025-08-23",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4516",
+    "nameJp": "HG 1/144 ガンダムベース限定 ユニコーンガンダム3号機 フェネクス(デストロイモード)GOLD & SILVER COATING SET",
+    "nameEn": "",
+    "partNo": "2773836",
+    "releaseDate": "2025-09-13",
+    "brand": "HG",
+    "series": "ガンダム Gのレコンギスタ"
+  },
+  {
+    "id": "4517",
+    "nameJp": "ENTRY GRADE 1/144 ガンダムベース限定 ビルドストライク エクシードギャラクシー [ペインティングモデル]",
+    "nameEn": "",
+    "partNo": "2794157",
+    "releaseDate": "2025-12-27",
+    "brand": "ENTRY GRADE",
+    "series": "ガンダムビルドメタバース"
+  },
+  {
+    "id": "4518",
+    "nameJp": "Figure-rise Standard SEED ガンダムベース限定 ラクス・クライン [ガンダムベースカラー]",
+    "nameEn": "",
+    "partNo": "2611005",
+    "releaseDate": "2024-04-27",
+    "brand": "Figure-rise Standard",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4519",
+    "nameJp": "RG 1/144 ガンダムベース限定 ゴッドガンダム ハイパーモード",
+    "nameEn": "",
+    "partNo": "2654119",
+    "releaseDate": "2025-03-08",
+    "brand": "RG",
+    "series": "機動武闘伝Gガンダム"
+  },
+  {
     "id": "452",
     "nameJp": "HGUC 1/144 ネオ・ジオング",
     "nameEn": "HGUC 1/144 NEO ZEONG",
@@ -12499,6 +16900,69 @@
     "releaseDate": "2014-06-28",
     "brand": "HGUC",
     "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4520",
+    "nameJp": "MG 1/100 ガンダムベース限定 デスティニーガンダム (ハイネ専用機)",
+    "nameEn": "MG 1/100 THE GUNDAM BASE LIMITED DESTINY GUNDAM (HEINE WESTENFLUSS CUSTOM)",
+    "partNo": "2704808",
+    "releaseDate": "2024-07-27",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4521",
+    "nameJp": "HG 1/144 ガンダムベース限定 ガンダムキャリバーン [クリアカラー]",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED GUNDAM CALIBARN [CLEAR COLOR]",
+    "partNo": "2715395",
+    "releaseDate": "2024-07-27",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 水星の魔女"
+  },
+  {
+    "id": "4522",
+    "nameJp": "RG 1/144 ガンダムベース限定 ジオング [スペシャルコーティング]",
+    "nameEn": "RG 1/144 THE GUNDAM BASE LIMITED ZEONG [SPECIAL COATING]",
+    "partNo": "2715396",
+    "releaseDate": "2024-08-17",
+    "brand": "RG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4523",
+    "nameJp": "HG 1/144 ガンダムベース限定 バルギル(ガンダムヘッド&サイコプレート搭載型)",
+    "nameEn": "",
+    "partNo": "2773822",
+    "releaseDate": "2025-08-23",
+    "brand": "HG",
+    "series": "機動戦士MOONガンダム"
+  },
+  {
+    "id": "4524",
+    "nameJp": "RG 1/144 ガンダムベース限定 RX-78-2 ガンダム Ver.2.0 [ガンダムベースカラー]",
+    "nameEn": "",
+    "partNo": "2783969",
+    "releaseDate": "2025-04-11",
+    "brand": "RG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4525",
+    "nameJp": "Figure-rise Standard ガンダムベース限定 プルツー [ガンダムベースカラー]",
+    "nameEn": "",
+    "partNo": "2783975",
+    "releaseDate": "2025-10-11",
+    "brand": "Figure-rise Standard",
+    "series": "機動戦士ガンダムZZ"
+  },
+  {
+    "id": "4526",
+    "nameJp": "MG 1/100 ガンダムベース限定 百式 Ver.2.0 [メカニカルコアメッキ]",
+    "nameEn": "",
+    "partNo": "2806573",
+    "releaseDate": "2025-10-25",
+    "brand": "MG",
+    "series": "機動戦士Zガンダム"
   },
   {
     "id": "453",
@@ -12591,6 +17055,15 @@
     "series": "機動戦士Vガンダム"
   },
   {
+    "id": "4588",
+    "nameJp": "HG 1/144 ガンダムベース福岡限定 ユニコーンガンダム ペルフェクティビリティ(デストロイモード) (最終決戦仕様)Ver.GSF",
+    "nameEn": "HG 1/144 THE GUNDAM BASE FUKUOKA LIMITED UNICORN GUNDAM PERFECTIBILITY (DESTROY MODE) (FINAL BATTLE Ver.)Ver.GSF",
+    "partNo": "2497898",
+    "releaseDate": "2021-04-24",
+    "brand": "HG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
     "id": "459",
     "nameJp": "HGUC 1/144 クロスボーン・ガンダムＸ1",
     "nameEn": "HGUC 1/144 CROSSBONE GUNDAM X1",
@@ -12636,6 +17109,87 @@
     "series": "機動戦士Zガンダム"
   },
   {
+    "id": "4621",
+    "nameJp": "MG 1/100 ガンダムベース限定 フリーダムガンダム Ver.2.0 [クリアカラー]",
+    "nameEn": "MG 1/100 THE GUNDAM BASE LIMITED FREEDOM GUNDAM Ver.2.0 ［CLEAR COLOR］",
+    "partNo": "",
+    "releaseDate": "2017-08",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4622",
+    "nameJp": "PG 1/60 ガンダムベース限定 ガンダムアストレイ レッドフレーム[メタリック]",
+    "nameEn": "",
+    "partNo": "2390167",
+    "releaseDate": "2017-08",
+    "brand": "PG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4623",
+    "nameJp": "MG 1/100 ガンダムベース限定 トランザムライザー [クリアカラー]",
+    "nameEn": "MG 1/100 THE GUNDAM BASE LIMITED TRANS-AM RAISER ［CLEAR COLOR]",
+    "partNo": "2403100",
+    "releaseDate": "2017-09",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "4624",
+    "nameJp": "MG 1/100 ガンダムベース限定 シナンジュ[メカニカルクリア]",
+    "nameEn": "",
+    "partNo": "2406583",
+    "releaseDate": "2017-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4625",
+    "nameJp": "MG 1/100 ガンダムベース限定 MSN-04 サザビーVer.Ka[スペシャルコーティング]",
+    "nameEn": "MG 1/100 GUNDAM BASE LIMITED MSN-04 SAZABI VER.KA [SPECIAL COATING]",
+    "partNo": "2431242",
+    "releaseDate": "2018-07",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4626",
+    "nameJp": "HG 1/144 ガンダムベース限定 百式[ゴールドコーティング]",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED HYAKU-SHIKI [GOLD COATING]",
+    "partNo": "2431325",
+    "releaseDate": "2018-11",
+    "brand": "HG",
+    "series": "機動戦士ガンダムZZ"
+  },
+  {
+    "id": "4627",
+    "nameJp": "RG 1/144 ガンダムベース限定 ダブルオークアンタフルセイバー [クリアカラー]",
+    "nameEn": "",
+    "partNo": "2437354",
+    "releaseDate": "2018-12",
+    "brand": "RG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "4628",
+    "nameJp": "HG 1/144 ガンダムベース限定 シナンジュ・スタイン (ナラティブVer.) [エクストラフィニッシュ]",
+    "nameEn": "",
+    "partNo": "2459526",
+    "releaseDate": "2019-03-29",
+    "brand": "HG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "4629",
+    "nameJp": "RG 1/144 ガンダムベース限定 νガンダム[チタニウムフィニッシュ]",
+    "nameEn": "RG 1/144 THE GUNDAM BASE LIMITED νGUNDAM[TITANIUM FINISH]",
+    "partNo": "2475068",
+    "releaseDate": "2020-02-08",
+    "brand": "RG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
     "id": "463",
     "nameJp": "HGCE 1/144 フリーダムガンダム",
     "nameEn": "HGCE 1/144 FREEDOM GUNDAM",
@@ -12643,6 +17197,96 @@
     "releaseDate": "2015-08-08",
     "brand": "HG",
     "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4630",
+    "nameJp": "MG 1/100 ガンダムベース限定 V2アサルトバスターガンダムVer.Ka [チタニウムフィニッシュ]",
+    "nameEn": "MG 1/100 GUNDAM BASE LIMITED V2 ASSAULT BUSTER GUNDAM VER.KA [TITANIUM FINISH]",
+    "partNo": "2477805",
+    "releaseDate": "2020-05-30",
+    "brand": "MG",
+    "series": "機動戦士Vガンダム"
+  },
+  {
+    "id": "4631",
+    "nameJp": "HG 1/144 ガンダムベース限定 ユニコーンガンダム3号機 フェネクス (デストロイモード) (ナラティブVer.)(最終決戦仕様)",
+    "nameEn": "",
+    "partNo": "2484780",
+    "releaseDate": "2019-04-06",
+    "brand": "HG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "4632",
+    "nameJp": "HG 1/144 ガンダムベース限定 ナラティブガンダム C装備[チタニウムフィニッシュ]",
+    "nameEn": "",
+    "partNo": "2505199",
+    "releaseDate": "2019-11-01",
+    "brand": "HG",
+    "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "4633",
+    "nameJp": "PG 1/60 ガンダムベース限定 RX-78-2 ガンダム [チタニウムフィニッシュ]",
+    "nameEn": "",
+    "partNo": "2516137",
+    "releaseDate": "2020-05-30",
+    "brand": "PG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4634",
+    "nameJp": "MG 1/100 ガンダムベース限定 ガンダムバルバトス[クリアカラー]",
+    "nameEn": "MG 1/100 THE GUNDAM BASE LIMITED GUNDAM BARBATOS [CLEAR COLOR]",
+    "partNo": "2516190",
+    "releaseDate": "2020-06-12",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "4635",
+    "nameJp": "HG 1/144 ガンダムベース限定 デスティニーガンダム [スペシャルコーティング]",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED DESTINY GUNDAM [SPECIAL COATING]",
+    "partNo": "2521098",
+    "releaseDate": "2020-07-10",
+    "brand": "HG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "4636",
+    "nameJp": "HG 1/144 ガンダムベース限定 ペイルライダー(陸戦重装備仕様)[クリアカラー]",
+    "nameEn": "",
+    "partNo": "2535246",
+    "releaseDate": "2020-09-11",
+    "brand": "HG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4637",
+    "nameJp": "HG 1/144 ガンダムベース限定 ガンダムTR-6[ウーンドウォート][クリアカラー]",
+    "nameEn": "HG 1/144 GUNDAM BASE LIMITED GUNDAM TR-6 [WOUNDWORT] [CLEAR COLOR]",
+    "partNo": "2535247",
+    "releaseDate": "2020-10",
+    "brand": "HG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4638",
+    "nameJp": "HG 1/144 ガンダムベース限定 セカンドV[クリアカラー]",
+    "nameEn": "",
+    "partNo": "2544024",
+    "releaseDate": "2020-10",
+    "brand": "HG",
+    "series": "機動戦士Vガンダム"
+  },
+  {
+    "id": "4639",
+    "nameJp": "MG 1/100 ガンダムベース限定 ガンダムエピオン EW[スペシャルコーティング]",
+    "nameEn": "MG 1/100 THE GUNDAM BASE LIMITED OZ-13MS GUNDAM EPYON EW [SPECIAL COATING]",
+    "partNo": "2550144",
+    "releaseDate": "2021-01-08",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
   },
   {
     "id": "464",
@@ -12654,6 +17298,96 @@
     "series": "機動戦士ガンダム"
   },
   {
+    "id": "4640",
+    "nameJp": "MG 1/100 ガンダムベース限定 ボール Ver.Ka[メカニカルクリア]",
+    "nameEn": "MG 1/100 THE GUNDAM BASE LIMITED BALL Ver.Ka [MECHANICAL CLEAR]",
+    "partNo": "2569552",
+    "releaseDate": "2021-09-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4641",
+    "nameJp": "MG 1/100 ガンダムベース限定 ウイングガンダムゼロEW Ver.Ka [クリアカラー]",
+    "nameEn": "",
+    "partNo": "2569554",
+    "releaseDate": "2021-12-18",
+    "brand": "MG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "4642",
+    "nameJp": "MG 1/100 ガンダムベース限定 ガンダムデュナメス[クリアカラー]",
+    "nameEn": "MG 1/100 THE GUNDAM BASE LIMITED GUNDAM DYNAMES[CLEAR COLOR]",
+    "partNo": "2573193",
+    "releaseDate": "2022-03-05",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "4643",
+    "nameJp": "RG 1/144 ガンダムベース限定 ジオング[クリアカラー]",
+    "nameEn": "RG 1/144 THE GUNDAM BASE LIMITED ZEONG [CLEAR COLOR]",
+    "partNo": "2585730",
+    "releaseDate": "2021-10-16",
+    "brand": "RG",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4644",
+    "nameJp": "MG 1/100 ガンダムベース限定 エクリプスガンダム[クリアカラー]",
+    "nameEn": "",
+    "partNo": "2611000",
+    "releaseDate": "2022-04-29",
+    "brand": "MG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4645",
+    "nameJp": "MG 1/100 ガンダムベース限定 ガンダムF90[クリアカラー］",
+    "nameEn": "",
+    "partNo": "2611758",
+    "releaseDate": "2022-06-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダムF91"
+  },
+  {
+    "id": "4646",
+    "nameJp": "MG 1/100 ガンダムベース限定 ガンダムバルバトス用 拡張パーツセット[クリアカラー］",
+    "nameEn": "",
+    "partNo": "2621338",
+    "releaseDate": "2022-06-11",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "4647",
+    "nameJp": "RG 1/144 ガンダムベース限定 エールストライクガンダム & スカイグラスパー ランチャー/ソードパック セット[クリアカラー]",
+    "nameEn": "",
+    "partNo": "2624434",
+    "releaseDate": "2022-07-16",
+    "brand": "RG",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4648",
+    "nameJp": "MG 1/100 ガンダムベース限定 ガンダムキュリオス[クリアカラー］",
+    "nameEn": "MG 1/100 THE GUNDAM BASE LIMITED GUNDAM KYRIOS [CLEAR COLOR]",
+    "partNo": "2644073",
+    "releaseDate": "2023-01-14",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "4649",
+    "nameJp": "HG 1/144 ガンダムベース限定 ビルドストライクギャラクシーコスモス [プラフスキーパーティクルクリア]",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED BUILD STRIKE GALAXY COSMOS [PLAVSKY PARTICLE CLEAR]",
+    "partNo": "2654128",
+    "releaseDate": "2023-10-07",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
     "id": "465",
     "nameJp": "HGUC 1/144 ギャン",
     "nameEn": "HGUC 1/144 GYAN",
@@ -12661,6 +17395,96 @@
     "releaseDate": "2016-05-21",
     "brand": "HGUC",
     "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "4650",
+    "nameJp": "MGSD ガンダムベース限定 フリーダムガンダム [クリアカラー]",
+    "nameEn": "MGSD THE GUNDAM BASE LIMITED FREEDOM GUNDAM [CLEAR COLOR]",
+    "partNo": "2704784",
+    "releaseDate": "2024-05-03",
+    "brand": "MGSD",
+    "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "4651",
+    "nameJp": "MG 1/100 ガンダムベース限定 ガンダムヴァーチェ [クリアカラー]",
+    "nameEn": "",
+    "partNo": "2723585",
+    "releaseDate": "2025-11-29",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "4652",
+    "nameJp": "MG 1/100 ガンダムベース限定 ガンダムエクシア [クリアカラー]",
+    "nameEn": "MG 1/100 THE GUNDAM BASE LIMITED GUNDAM EXIA [CLEAR COLOR]",
+    "partNo": "2733968",
+    "releaseDate": "2024-11-09",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "4653",
+    "nameJp": "RG 1/144 ガンダムベース限定 サザビー [メカニカルコアメッキ]",
+    "nameEn": "RG 1/144 THE GUNDAM BASE LIMITED SAZABI [MECHANICAL CORE PLATING]",
+    "partNo": "2739222",
+    "releaseDate": "2024-12-21",
+    "brand": "RG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4654",
+    "nameJp": "MGSD ガンダムベース限定 ガンダムバルバトス [アイアンブラッドコーティング]",
+    "nameEn": "",
+    "partNo": "2762139",
+    "releaseDate": "2025-06-14",
+    "brand": "MGSD",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "4655",
+    "nameJp": "HG 1/144 ジェガン (アクシズ・ショックイメージカラー)",
+    "nameEn": "HG 1/144  JEGAN (AXIS SHOCK IMAGE COLOR)",
+    "partNo": "2611009",
+    "releaseDate": "2022-07-16",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4656",
+    "nameJp": "MG 1/100 GUNDAM SIDE-F限定 RX-93 νガンダム Ver.Ka (サイコフレーム発動イメージカラー)",
+    "nameEn": "",
+    "partNo": "2611759",
+    "releaseDate": "2022-08-06",
+    "brand": "MG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4657",
+    "nameJp": "HG 1/144 ギラ・ドーガ(アクシズ・ショックイメージカラー)",
+    "nameEn": "HG 1/144 GEARA DOGA (AXIS SHOCK IMAGE COLOR)",
+    "partNo": "2654123",
+    "releaseDate": "2024-02-23",
+    "brand": "HG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4658",
+    "nameJp": "RG 1/144 RX-93ff νガンダム [クリアカラー]",
+    "nameEn": "RG 1/144 RX-93ff ν GUNDAM [CLEAR COLOR]",
+    "partNo": "2704785",
+    "releaseDate": "2024-07-27",
+    "brand": "RG",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4659",
+    "nameJp": "ENTRY GRADE 1/144 νガンダム (アクシズ･ショックイメージカラー)",
+    "nameEn": "ENTRY GRADE 1/144 ν GUNDAM (AXIS SHOCK IMAGE COLOR)",
+    "partNo": "2783981",
+    "releaseDate": "2025-07-26",
+    "brand": "ENTRY GRADE",
+    "series": "機動戦士ガンダム 逆襲のシャア"
   },
   {
     "id": "466",
@@ -12690,6 +17514,33 @@
     "series": "機動戦士ガンダム 第08MS小隊"
   },
   {
+    "id": "4687",
+    "nameJp": "ポケモンプラモコレクション 01 進化シリーズ メガニウム進化セット",
+    "nameEn": "Pokémon Model Kit MEGANIUM EVOLUTION SET",
+    "partNo": "2072561",
+    "releaseDate": "2009-09",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション 進化シリーズ"
+  },
+  {
+    "id": "4688",
+    "nameJp": "ポケモンプラモコレクション 02 進化シリーズ バクフーン進化セット",
+    "nameEn": "Pokémon Model Kit TYPHLOSION EVOLUTION SET",
+    "partNo": "2072562",
+    "releaseDate": "2009-09",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション 進化シリーズ"
+  },
+  {
+    "id": "4689",
+    "nameJp": "ポケモンプラモコレクション 03 進化シリーズ オーダイル進化セット",
+    "nameEn": "Pokémon Model Kit FERALIGATR EVOLUTION SET",
+    "partNo": "2072560",
+    "releaseDate": "2009-09",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション 進化シリーズ"
+  },
+  {
     "id": "469",
     "nameJp": "HGUC 1/144 フルアーマー・ユニコーンガンダム(デストロイモード/レッドカラーVer.)",
     "nameEn": "HGUC 1/144 FULL ARMOR UNICORN GUNDAM (DESTROY MODE/RED)",
@@ -12697,6 +17548,96 @@
     "releaseDate": "2016-06-18",
     "brand": "HGUC",
     "series": "機動戦士ガンダムUC"
+  },
+  {
+    "id": "4690",
+    "nameJp": "ポケモンプラモコレクション 04 セレクトシリーズ ルギア",
+    "nameEn": "Pokémon Model Kit LUGIA",
+    "partNo": "2072563",
+    "releaseDate": "2009-11",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4691",
+    "nameJp": "ポケモンプラモコレクション 05 セレクトシリーズ ホウオウ",
+    "nameEn": "Pokémon Model Kit HO-OH",
+    "partNo": "2072564",
+    "releaseDate": "2009-11",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4692",
+    "nameJp": "ポケモンプラモコレクション 04＋05 セレクトシリーズ ホウオウ＆ルギアセット",
+    "nameEn": "Pokémon Model Kit HO-OH & LUGIA SET",
+    "partNo": "2093575",
+    "releaseDate": "2009-12",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4693",
+    "nameJp": "ポケモンプラモコレクション 06 進化シリーズ エンペルト進化セット",
+    "nameEn": "Pokémon Model Kit EMPOLEON EVOLUTION SET",
+    "partNo": "2093576",
+    "releaseDate": "2010-03",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション 進化シリーズ"
+  },
+  {
+    "id": "4694",
+    "nameJp": "ポケモンプラモコレクション 07 進化シリーズ ゴウカザル進化セット",
+    "nameEn": "Pokémon Model Kit INFERNAPE EVOLUTION SET",
+    "partNo": "2093577",
+    "releaseDate": "2010-04",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション 進化シリーズ"
+  },
+  {
+    "id": "4695",
+    "nameJp": "ポケモンプラモコレクション 08 進化シリーズ ドダイトス進化セット",
+    "nameEn": "Pokémon Model Kit TORTERRA EVOLUTION SET",
+    "partNo": "2093578",
+    "releaseDate": "2010-05",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション 進化シリーズ"
+  },
+  {
+    "id": "4696",
+    "nameJp": "ポケモンプラモコレクション 09 セレクトシリーズ スイクン",
+    "nameEn": "Pokémon Model Kit SUICUNE",
+    "partNo": "2093579",
+    "releaseDate": "2010-06",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4697",
+    "nameJp": "ポケモンプラモコレクション 10 セレクトシリーズ ライコウ",
+    "nameEn": "Pokémon Model Kit RAIKOU",
+    "partNo": "2093580",
+    "releaseDate": "2010-06",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4698",
+    "nameJp": "ポケモンプラモコレクション 11 セレクトシリーズ エンテイ",
+    "nameEn": "Pokémon Model Kit ENTEI",
+    "partNo": "2093581",
+    "releaseDate": "2010-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4699",
+    "nameJp": "ポケモンプラモコレクション 12 劇場版ポケットモンスター ダイヤモンド＆パール 劇場版 幻影の覇者 ゾロアークセット",
+    "nameEn": "",
+    "partNo": "2105710",
+    "releaseDate": "2010-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "その他"
   },
   {
     "id": "47",
@@ -12717,6 +17658,96 @@
     "series": "機動戦士ガンダムSEED DESTINY"
   },
   {
+    "id": "4700",
+    "nameJp": "ポケモンプラモコレクション 13 セレクトシリーズ レシラム",
+    "nameEn": "Pokémon Model Kit RESHIRAM",
+    "partNo": "2110032",
+    "releaseDate": "2010-10",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4701",
+    "nameJp": "ポケモンプラモコレクション 14 セレクトシリーズ ゼクロム",
+    "nameEn": "Pokémon Model Kit ZEKROM",
+    "partNo": "2110033",
+    "releaseDate": "2010-10",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4702",
+    "nameJp": "ポケモンプラモコレクション 13＋14 セレクトシリーズ レシラム＆ゼクロムセット",
+    "nameEn": "Pokémon Model Kit RESHIRAM & ZEKROM  SET",
+    "partNo": "2118173",
+    "releaseDate": "2010-12",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4703",
+    "nameJp": "ポケモンプラモコレクション 15 進化シリーズ エンブオー進化セット",
+    "nameEn": "Pokémon Model Kit EMBOAR EVOLUTION SET",
+    "partNo": "2121015",
+    "releaseDate": "2011-01",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション 進化シリーズ"
+  },
+  {
+    "id": "4704",
+    "nameJp": "ポケモンプラモコレクション 16 進化シリーズ ジャローダ進化セット",
+    "nameEn": "Pokémon Model Kit SERPERIOR EVOLUTION SET",
+    "partNo": "2121016",
+    "releaseDate": "2011-02",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション 進化シリーズ"
+  },
+  {
+    "id": "4705",
+    "nameJp": "ポケモンプラモコレクション 17 進化シリーズ ダイケンキ進化セット",
+    "nameEn": "Pokémon Model Kit SAMUROTT EVOLUTION SET",
+    "partNo": "2121017",
+    "releaseDate": "2011-03",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション 進化シリーズ"
+  },
+  {
+    "id": "4706",
+    "nameJp": "ポケモンプラモコレクション 18 進化シリーズ オノノクス進化セット",
+    "nameEn": "Pokémon Model Kit HAXORUS EVOLUTION SET",
+    "partNo": "2124958",
+    "releaseDate": "2011-04",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション 進化シリーズ"
+  },
+  {
+    "id": "4707",
+    "nameJp": "劇場版 ポケットモンスターベストウィッシュ 「ビクティニと白き英雄 レシラム」セット",
+    "nameEn": "Pokémon Model Kit VICTINI & RESHIRAM SET",
+    "partNo": "2134961",
+    "releaseDate": "2011-06",
+    "brand": "ポケモンプラモコレクション",
+    "series": "その他"
+  },
+  {
+    "id": "4708",
+    "nameJp": "劇場版 ポケットモンスターベストウィッシュ 「ビクティニと黒き英雄 ゼクロム」セット",
+    "nameEn": "Pokémon Model Kit VICTINI & ZEKROM SET",
+    "partNo": "2134962",
+    "releaseDate": "2011-06",
+    "brand": "ポケモンプラモコレクション",
+    "series": "その他"
+  },
+  {
+    "id": "4709",
+    "nameJp": "ポケモンプラモコレクション 19 ファーストシリーズ ピカチュウ",
+    "nameEn": "",
+    "partNo": "2136247",
+    "releaseDate": "2011-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション ファーストシリーズ"
+  },
+  {
     "id": "471",
     "nameJp": "HGUC 1/144 ゼータガンダム",
     "nameEn": "HG 1/144 ZETA GUNDAM",
@@ -12726,6 +17757,96 @@
     "series": "機動戦士Zガンダム"
   },
   {
+    "id": "4710",
+    "nameJp": "ポケモンプラモコレクション 20 ファーストシリーズ ビクティニ",
+    "nameEn": "",
+    "partNo": "2136246",
+    "releaseDate": "2011-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション ファーストシリーズ"
+  },
+  {
+    "id": "4711",
+    "nameJp": "ポケモンプラモコレクション 21 セレクトシリーズ キュレム",
+    "nameEn": "Pokémon Model Kit KYUREM",
+    "partNo": "2507226",
+    "releaseDate": "2011-12",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4712",
+    "nameJp": "ポケモンプラモコレクション 22 進化シリーズ サザンドラ進化セット",
+    "nameEn": "Pokémon Model Kit HYDREIGON EVOLUTION SET",
+    "partNo": "2151929",
+    "releaseDate": "2012-01",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション 進化シリーズ"
+  },
+  {
+    "id": "4713",
+    "nameJp": "ポケモンプラモコレクション 23 セレクトシリーズ コバルオン",
+    "nameEn": "Pokémon Model Kit COBALION",
+    "partNo": "2158255",
+    "releaseDate": "2012-03",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4714",
+    "nameJp": "ポケモンプラモコレクション 24 セレクトシリーズ ビリジオン",
+    "nameEn": "Pokémon Model Kit VIRIZION",
+    "partNo": "2158256",
+    "releaseDate": "2012-04",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4715",
+    "nameJp": "ポケモンプラモコレクション 25 セレクトシリーズ テラキオン",
+    "nameEn": "Pokémon Model Kit TERRAKION",
+    "partNo": "2158257",
+    "releaseDate": "2012-05",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4716",
+    "nameJp": "ポケモンプラモコレクション 26 ファーストシリーズ ケルディオ",
+    "nameEn": "",
+    "partNo": "2175364",
+    "releaseDate": "2012-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション ファーストシリーズ"
+  },
+  {
+    "id": "4717",
+    "nameJp": "ポケモンプラモコレクション 27 セレクトシリーズ ブラックキュレム",
+    "nameEn": "Pokémon Model Kit BLACK KYUREM",
+    "partNo": "2170171",
+    "releaseDate": "2012-08",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4718",
+    "nameJp": "ポケモンプラモコレクション 28 セレクトシリーズ ホワイトキュレム",
+    "nameEn": "Pokémon Model Kit WHITE KYUREM",
+    "partNo": "2170172",
+    "releaseDate": "2012-08",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4719",
+    "nameJp": "ポケモンプラモコレクション 27＋28 セレクトシリーズ ブラックキュレム＆ホワイトキュレムセット",
+    "nameEn": "Pokémon Model Kit BLACK KYUREM & WHITE KYUREM SET",
+    "partNo": "2188382",
+    "releaseDate": "2012-11",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
     "id": "472",
     "nameJp": "HGUC 1/144 バーザム",
     "nameEn": "HG 1/144 BARZAM",
@@ -12733,6 +17854,60 @@
     "releaseDate": "2017-05-20",
     "brand": "HGUC",
     "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "4720",
+    "nameJp": "ポケモンプラモコレクション 29 進化シリーズ リザードン進化セット",
+    "nameEn": "",
+    "partNo": "2188383",
+    "releaseDate": "2013-02",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション 進化シリーズ"
+  },
+  {
+    "id": "4721",
+    "nameJp": "ポケモンプラモコレクション 30 進化シリーズ カイリュー進化セット",
+    "nameEn": "Pokémon Model Kit DRAGONITE EVOLUTION SET",
+    "partNo": "2205452",
+    "releaseDate": "2013-04",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション 進化シリーズ"
+  },
+  {
+    "id": "4722",
+    "nameJp": "ポケモンプラモコレクション 31 セレクトシリーズ 赤いゲノセクト",
+    "nameEn": "Pokémon Model Kit RED GENESECT",
+    "partNo": "2212514",
+    "releaseDate": "2013-06",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4723",
+    "nameJp": "ポケモンプラモコレクション 32 セレクトシリーズ ミュウツー",
+    "nameEn": "Pokémon Model Kit MEWTWO",
+    "partNo": "2212516",
+    "releaseDate": "2013-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4724",
+    "nameJp": "ポケモンプラモコレクション 31＋31＋32  セレクトシリーズ 赤いゲノセクト＆ゲノセクト＆ミュウツーセット",
+    "nameEn": "Pokémon Model Kit RED GENESECT & GENESECT & MEWTWO SET",
+    "partNo": "2212515",
+    "releaseDate": "2013-08",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4725",
+    "nameJp": "ポケモンプラモコレクション 33 セレクトシリーズ ゼルネアス",
+    "nameEn": "Pokémon Model Kit XERNEAS",
+    "partNo": "2228200",
+    "releaseDate": "2013-10",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
   },
   {
     "id": "473",
@@ -12762,6 +17937,69 @@
     "series": "機動戦士ガンダム外伝 THE BLUE DESTINY"
   },
   {
+    "id": "4753",
+    "nameJp": "ポケモンプラモコレクション 34 セレクトシリーズ イベルタル",
+    "nameEn": "Pokémon Model Kit YVELTAL",
+    "partNo": "2228201",
+    "releaseDate": "2013-10",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4754",
+    "nameJp": "ポケモンプラモコレクション 33＋34  セレクトシリーズ ゼルネアス＆イベルタルセット",
+    "nameEn": "Pokémon Model Kit XERNEAS ＆ YVELTAL SET",
+    "partNo": "2256960",
+    "releaseDate": "2014-03",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4755",
+    "nameJp": "ポケモンプラモコレクション 35 セレクトシリーズ メガルカリオ",
+    "nameEn": "Pokémon Model Kit MEGA LUCARIO",
+    "partNo": "2256961",
+    "releaseDate": "2014-06",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4756",
+    "nameJp": "ポケモンプラモコレクション 36 セレクトシリーズ メガリザードンX",
+    "nameEn": "Pokémon Model Kit MEGA CHARIZARD X",
+    "partNo": "2256962",
+    "releaseDate": "2014-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4757",
+    "nameJp": "ポケモン・ザ・ムービーXY ポケモンプラモコレクション セレクトシリーズ  イベルタル＆ディアンシーセット",
+    "nameEn": "Pokémon Model Kit YVELTAL ＆ DIANCIE SET",
+    "partNo": "2266907",
+    "releaseDate": "2014-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4758",
+    "nameJp": "ポケモン・ザ・ムービーXY ポケモンプラモコレクション セレクトシリーズ  ゼルネアス＆ディアンシーセット",
+    "nameEn": "Pokémon Model Kit XERNEAS ＆ DIANCIE SET",
+    "partNo": "2266908",
+    "releaseDate": "2014-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4759",
+    "nameJp": "ポケモンプラモコレクション 37 セレクトシリーズ メガバシャーモ",
+    "nameEn": "Pokémon Model Kit MEGA BLAZIKEN",
+    "partNo": "2256963",
+    "releaseDate": "2014-08",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
     "id": "476",
     "nameJp": "HGUC 1/144 ブルーディスティニー3号機“EXAM”",
     "nameEn": "HG 1/144 BLUE DESTINY UNIT 3 “EXAM“",
@@ -12769,6 +18007,78 @@
     "releaseDate": "2018-03-17",
     "brand": "HGUC",
     "series": "機動戦士ガンダム外伝 THE BLUE DESTINY"
+  },
+  {
+    "id": "4760",
+    "nameJp": "ポケモンプラモコレクション 35＋37 セレクトシリーズ  メガルカリオVSメガバシャーモセット（ポケラマはじめよう）",
+    "nameEn": "Pokémon Model Kit MEGA LUCARIO VS MEGA BLAZIKEN SET",
+    "partNo": "2269660",
+    "releaseDate": "2014-09",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4761",
+    "nameJp": "ポケモンプラモコレクション 38 セレクトシリーズ メガリザードンY",
+    "nameEn": "Pokémon Model Kit MEGA CHARIZARD Y",
+    "partNo": "2280949",
+    "releaseDate": "2014-11",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4762",
+    "nameJp": "ポケモンプラモコレクション 36＋38 セレクトシリーズ  メガリザードンX VS メガリザードンYセット（ポケラマつくろう！）",
+    "nameEn": "Pokémon Model Kit MEGA CHARIZARD X VS MEGA CHARIZARD Y SET",
+    "partNo": "2299772",
+    "releaseDate": "2015-02",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4763",
+    "nameJp": "ポケモン・ザ・ムービーXY ポケモンプラモコレクション セレクトシリーズ  フーパ＆ルギア＆ピカチュウセット",
+    "nameEn": "Pokémon Model Kit HOOPA & LUGIA & PIKACHU SET",
+    "partNo": "2299774",
+    "releaseDate": "2015-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4764",
+    "nameJp": "ポケモンプラモコレクション 39 セレクトシリーズ ソルガレオ",
+    "nameEn": "Pokémon Model Kit SOLGALEO",
+    "partNo": "2360933",
+    "releaseDate": "2016-11",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4765",
+    "nameJp": "ポケモンプラモコレクション 40 セレクトシリーズ ルナアーラ",
+    "nameEn": "Pokémon Model Kit LUNALA",
+    "partNo": "2360934",
+    "releaseDate": "2016-11",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4766",
+    "nameJp": "ポケモンプラモコレクション 41 セレクトシリーズ ピカチュウ",
+    "nameEn": "Pokémon Model Kit PIKACHU",
+    "partNo": "2387300",
+    "releaseDate": "2017-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4767",
+    "nameJp": "ポケモン・ザ・ムービー20 ポケモンプラモコレクション セレクトシリーズ  ホウオウ＆リザードン＆サトシのピカチュウセット",
+    "nameEn": "Pokémon Model Kit HO-OH & CHARIZARD & SATOSHI'S PIKACHU SET",
+    "partNo": "2391500",
+    "releaseDate": "2017-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
   },
   {
     "id": "477",
@@ -12789,6 +18099,42 @@
     "series": "新機動戦記ガンダムW"
   },
   {
+    "id": "4786",
+    "nameJp": "HG 1/144 ガンダムベース限定 プチッガイ ゴールドトップ&プラカード",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED PETIT'GGUY GOLD TOP & PLACARD",
+    "partNo": "2390160",
+    "releaseDate": "2017-08",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "4787",
+    "nameJp": "HG 1/144 ガンダムベース限定 プチッガイ シルバースパークル&プラカード",
+    "nameEn": "HG 1/144 THE GUNDAM BASE LIMITED PETIT'GGUY SILVER SPARKLE & PLACARD",
+    "partNo": "2390161",
+    "releaseDate": "2017-08",
+    "brand": "HG",
+    "series": "ガンダムビルドファイターズ"
+  },
+  {
+    "id": "4788",
+    "nameJp": "LEGEND BB ガンダムベース限定 騎士スペリオルドラゴン［クリアカラー］",
+    "nameEn": "",
+    "partNo": "2390165",
+    "releaseDate": "2017-08",
+    "brand": "その他",
+    "series": "その他"
+  },
+  {
+    "id": "4789",
+    "nameJp": "SDガンダム クロスシルエット ガンダムベース限定 RX-78-2 ガンダム[クリアカラー]",
+    "nameEn": "SD GUNDAM CROSS SILHOUETTE THE GUNDAM BASE LIMITED RX-78-2 GUNDAM [CLEAR COLOR]",
+    "partNo": "2435954",
+    "releaseDate": "2018-10",
+    "brand": "SDガンダム クロスシルエット",
+    "series": "機動戦士ガンダム"
+  },
+  {
     "id": "479",
     "nameJp": "HGUC 1/144 ガルバルディβ",
     "nameEn": "HGUC 1/144 GALBALDYβ",
@@ -12796,6 +18142,96 @@
     "releaseDate": "2018-06-16",
     "brand": "HGUC",
     "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "4790",
+    "nameJp": "SDガンダム クロスシルエット ガンダムベース限定 ナイチンゲール [スペシャルコーティング]",
+    "nameEn": "",
+    "partNo": "2474245",
+    "releaseDate": "2019-05-18",
+    "brand": "SDガンダム クロスシルエット",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4791",
+    "nameJp": "BB戦士 ガンダムベース限定 Hi-νガンダム[スペシャルコーティング]",
+    "nameEn": "",
+    "partNo": "2474246",
+    "releaseDate": "2019-05-18",
+    "brand": "その他",
+    "series": "機動戦士ガンダム 逆襲のシャア"
+  },
+  {
+    "id": "4792",
+    "nameJp": "SDガンダムクロスシルエット ガンダムベース限定 ガンダムバルバトスルプスレクス[クリアカラー]",
+    "nameEn": "",
+    "partNo": "2569551",
+    "releaseDate": "2021-07-22",
+    "brand": "SDガンダム クロスシルエット",
+    "series": "機動戦士ガンダム 鉄血のオルフェンズ"
+  },
+  {
+    "id": "4793",
+    "nameJp": "ポケモンプラモコレクション 42 セレクトシリーズ イーブイ",
+    "nameEn": "Pokémon Model Kit EEVEE",
+    "partNo": "2459528",
+    "releaseDate": "2018-12",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4794",
+    "nameJp": "ポケモンプラモコレクション セレクトシリーズ  ミュウツー&ミュウ＆ピカチュウセット",
+    "nameEn": "Pokémon Model Kit MEWTWO & MEW & PIKACHU SET",
+    "partNo": "2480650",
+    "releaseDate": "2019-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4795",
+    "nameJp": "ポケモンプラモコレクション 43 セレクトシリーズ  リザードン（バトルVer.） & カイリュー VSセット",
+    "nameEn": "Pokémon Model Kit CHARIZARD & DRAGONITE",
+    "partNo": "2521772",
+    "releaseDate": "2020-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4796",
+    "nameJp": "ポケモンプラモコレクション 44 セレクトシリーズ リオル ＆ ルカリオ",
+    "nameEn": "Pokémon Model Kit RIOLU & LUCARIO",
+    "partNo": "2521773",
+    "releaseDate": "2020-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4797",
+    "nameJp": "ポケモンプラモコレクション 45 セレクトシリーズ ゲンガー",
+    "nameEn": "Pokémon Model Kit GENGAR",
+    "partNo": "2521774",
+    "releaseDate": "2020-09",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4798",
+    "nameJp": "ポケモンプラモコレクション 46 セレクトシリーズ レックウザ",
+    "nameEn": "Pokémon Model Kit RAYQUAZA",
+    "partNo": "2530673",
+    "releaseDate": "2020-11",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4799",
+    "nameJp": "ポケモンプラモコレクション クイック!! 01 ピカチュウ",
+    "nameEn": "Pokémon Model Kit QUICK!! 01 PIKACHU",
+    "partNo": "2531782",
+    "releaseDate": "2020-12",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
   },
   {
     "id": "48",
@@ -12816,6 +18252,96 @@
     "series": "機動戦士ガンダム 第08MS小隊"
   },
   {
+    "id": "4800",
+    "nameJp": "ポケモンプラモコレクション クイック!! 02 ミュウ",
+    "nameEn": "Pokémon Model Kit QUICK!! 02 MEW",
+    "partNo": "2531784",
+    "releaseDate": "2020-12",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4801",
+    "nameJp": "ポケモンプラモコレクション クイック!! 03 ピカチュウ（バトルポーズ）",
+    "nameEn": "Pokémon Model Kit QUICK!! 03 PIKACHU (BATTLE POSE)",
+    "partNo": "2531783",
+    "releaseDate": "2021-02",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4802",
+    "nameJp": "ポケモンプラモコレクション クイック!! 04 イーブイ",
+    "nameEn": "Pokémon Model Kit QUICK!! 04 EEVEE",
+    "partNo": "2531785",
+    "releaseDate": "2021-02",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4803",
+    "nameJp": "ポケモンプラモコレクション BIG 01 コイキング",
+    "nameEn": "Pokémon Model Kit BIG 01 MAGIKARP",
+    "partNo": "2552126",
+    "releaseDate": "2021-03",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション BIG"
+  },
+  {
+    "id": "4804",
+    "nameJp": "ポケモンプラモコレクション クイック!! 05 ヒバニー",
+    "nameEn": "Pokémon Model Kit QUICK!! 05 SCORBUNNY",
+    "partNo": "2552124",
+    "releaseDate": "2021-04",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4805",
+    "nameJp": "ポケモンプラモコレクション クイック!! 06 ポッチャマ",
+    "nameEn": "Pokémon Model Kit QUICK!! 06 PIPLUP",
+    "partNo": "2552125",
+    "releaseDate": "2021-04",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4806",
+    "nameJp": "ポケモンプラモコレクション クイック!! 07 イーブイ（おやすみポーズ）",
+    "nameEn": "Pokémon Model Kit QUICK!! 07 EEVEE (SLEEPING POSE)",
+    "partNo": "2555235",
+    "releaseDate": "2021-06",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4807",
+    "nameJp": "ポケモンプラモコレクション 47 セレクトシリーズ ゲッコウガ",
+    "nameEn": "Pokémon Model Kit GRENINJA",
+    "partNo": "2555236",
+    "releaseDate": "2021-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4808",
+    "nameJp": "ポケモンプラモコレクション 48 セレクトシリーズ ガブリアス",
+    "nameEn": "Pokémon Model Kit GARCHOMP",
+    "partNo": "2561783",
+    "releaseDate": "2021-08",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4809",
+    "nameJp": "ポケモンプラモコレクション BIG 02 イーブイ",
+    "nameEn": "Pokémon Model Kit BIG 02 EEVEE",
+    "partNo": "2561784",
+    "releaseDate": "2021-09",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション BIG"
+  },
+  {
     "id": "481",
     "nameJp": "HGUC 1/144 ムーンガンダム",
     "nameEn": "HGUC 1/144 MOON GUNDAM",
@@ -12823,6 +18349,42 @@
     "releaseDate": "2018-09-22",
     "brand": "HGUC",
     "series": "機動戦士MOONガンダム"
+  },
+  {
+    "id": "4810",
+    "nameJp": "ポケモンプラモコレクション クイック!! 08 ミミッキュ",
+    "nameEn": "Pokémon Model Kit QUICK!! 08 MIMIKYU",
+    "partNo": "2569324",
+    "releaseDate": "2021-10",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4811",
+    "nameJp": "ポケモンプラモコレクション 49 セレクトシリーズ サーナイト",
+    "nameEn": "Pokémon Model Kit GARDEVOIR",
+    "partNo": "2569325",
+    "releaseDate": "2021-12",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4812",
+    "nameJp": "ポケモンプラモコレクション クイック!! 09 プリン",
+    "nameEn": "Pokémon Model Kit QUICK!! 09 JIGGLYPUFF",
+    "partNo": "2569326",
+    "releaseDate": "2022-02",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4819",
+    "nameJp": "ポケモンプラモコレクション 50 セレクトシリーズ エースバーン",
+    "nameEn": "Pokémon Model Kit CINDERACE",
+    "partNo": "2580895",
+    "releaseDate": "2022-03",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
   },
   {
     "id": "482",
@@ -12834,6 +18396,96 @@
     "series": "機動戦士Zガンダム"
   },
   {
+    "id": "4820",
+    "nameJp": "ポケモンプラモコレクション 51 セレクトシリーズ アルセウス",
+    "nameEn": "Pokémon Model Kit ARCEUS",
+    "partNo": "2596035",
+    "releaseDate": "2022-04",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4821",
+    "nameJp": "ポケモンプラモコレクション クイック!! 10 モクロー",
+    "nameEn": "Pokémon Model Kit QUICK!! 10 ROWLET",
+    "partNo": "2596033",
+    "releaseDate": "2022-05",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4822",
+    "nameJp": "ポケモンプラモコレクション クイック!! 11 ヒトカゲ",
+    "nameEn": "Pokémon Model Kit QUICK!! 11 CHARMANDER",
+    "partNo": "2596034",
+    "releaseDate": "2022-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4823",
+    "nameJp": "ポケモンプラモコレクション クイック!! 12 マホイップ",
+    "nameEn": "Pokémon Model Kit QUICK!! 12 ALCREMIE",
+    "partNo": "2617405",
+    "releaseDate": "2022-11",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4824",
+    "nameJp": "ポケモンプラモコレクション 52 セレクトシリーズ ギャラドス",
+    "nameEn": "Pokémon Model Kit GYARADOS",
+    "partNo": "2617406",
+    "releaseDate": "2022-12",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4825",
+    "nameJp": "ポケモンプラモコレクション 53 セレクトシリーズ メタグロス",
+    "nameEn": "Pokémon Model Kit METAGROSS",
+    "partNo": "2617407",
+    "releaseDate": "2023-02",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4826",
+    "nameJp": "ポケモンプラモコレクション クイック!! 13 フシギダネ",
+    "nameEn": "Pokémon Model Kit QUICK!! 13 BULBASAUR",
+    "partNo": "2617408",
+    "releaseDate": "2023-03",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4827",
+    "nameJp": "ポケモンプラモコレクション クイック!! 14 ポカブ",
+    "nameEn": "Pokémon Model Kit QUICK!! 14 TEPIG",
+    "partNo": "2633522",
+    "releaseDate": "2023-05",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4828",
+    "nameJp": "ポケモンプラモコレクション クイック!! 15 ヤドン",
+    "nameEn": "Pokémon Model Kit QUICK!! 15 SLOWPOKE",
+    "partNo": "2656318",
+    "releaseDate": "2023-08",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4829",
+    "nameJp": "ポケモンプラモコレクション クイック!! 16 ピカチュウ（おすわりポーズ）",
+    "nameEn": "Pokémon Model Kit QUICK!! 16 PIKACHU (SITTING POSE)",
+    "partNo": "2656319",
+    "releaseDate": "2023-10",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
     "id": "483",
     "nameJp": "HGUC 1/144 R・ジャジャ",
     "nameEn": "HGUC 1/144 R-JARJA",
@@ -12843,6 +18495,96 @@
     "series": "機動戦士ガンダムZZ"
   },
   {
+    "id": "4830",
+    "nameJp": "ポケモンプラモコレクション セレクトシリーズ 黒いレックウザ",
+    "nameEn": "",
+    "partNo": "2697221",
+    "releaseDate": "2023-10",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4831",
+    "nameJp": "ポケモンプラモコレクション 54 セレクトシリーズ グラードン",
+    "nameEn": "Pokémon Model Kit GROUDON",
+    "partNo": "2665825",
+    "releaseDate": "2023-12",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4832",
+    "nameJp": "ポケモンプラモコレクション クイック!! 17 ゼニガメ",
+    "nameEn": "Pokémon Model Kit QUICK!! 17 SQUIRTLE",
+    "partNo": "2684264",
+    "releaseDate": "2024-02",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4833",
+    "nameJp": "ポケモンプラモコレクション クイック!! 18 ニャオハ",
+    "nameEn": "Pokémon Model Kit QUICK!! 18 SPRIGATITO",
+    "partNo": "2697466",
+    "releaseDate": "2024-04",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4834",
+    "nameJp": "ポケモンプラモコレクション クイック!! 19 クワッス",
+    "nameEn": "Pokémon Model Kit QUICK!! 19 QUAXLY",
+    "partNo": "2704804",
+    "releaseDate": "2024-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4835",
+    "nameJp": "ポケモンプラモコレクション クイック!! 20 ホゲータ",
+    "nameEn": "Pokémon Model Kit QUICK!! 20 FUECOCO",
+    "partNo": "2723575",
+    "releaseDate": "2024-10",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4836",
+    "nameJp": "ポケモンプラモコレクション クイック!! 11＋13＋17  ヒトカゲ＆フシギダネ＆ゼニガメセット",
+    "nameEn": "",
+    "partNo": "2762120",
+    "releaseDate": "2024-11",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4837",
+    "nameJp": "ポケモンプラモコレクション クイック!! 18＋19＋20  ニャオハ＆クワッス＆ホゲータセット",
+    "nameEn": "",
+    "partNo": "2762121",
+    "releaseDate": "2024-11",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4838",
+    "nameJp": "ポケモンプラモコレクション 55 セレクトシリーズ ハッサム",
+    "nameEn": "Pokémon Model Kit SCIZOR",
+    "partNo": "2733974",
+    "releaseDate": "2024-12",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4839",
+    "nameJp": "ポケモンプラモコレクション クイック!! 21 コダック",
+    "nameEn": "Pokémon Model Kit QUICK!! 21 PSYDUCK",
+    "partNo": "2745341",
+    "releaseDate": "2025-01",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
     "id": "484",
     "nameJp": "HGUC 1/144 ナラティブガンダム A装備",
     "nameEn": "HGUC 1/144 NARRATIVE GUNDAM A-PACKS",
@@ -12850,6 +18592,96 @@
     "releaseDate": "2018-11-30",
     "brand": "HGUC",
     "series": "機動戦士ガンダムNT（ナラティブ）"
+  },
+  {
+    "id": "4840",
+    "nameJp": "ポケモンプラモコレクション 56 セレクトシリーズ マスカーニャ",
+    "nameEn": "Pokémon Model Kit MEOWSCARADA",
+    "partNo": "2733999",
+    "releaseDate": "2025-02",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4841",
+    "nameJp": "ポケモンプラモコレクション 57 セレクトシリーズ ソウブレイズ",
+    "nameEn": "Pokémon Model Kit CERULEDGE",
+    "partNo": "2745342",
+    "releaseDate": "2025-03",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4842",
+    "nameJp": "ポケモンプラモコレクション クイック!! 22 パモ",
+    "nameEn": "Pokémon Model Kit QUICK!! 22 PAWMI",
+    "partNo": "2753034",
+    "releaseDate": "2025-04",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4843",
+    "nameJp": "ポケモンプラモコレクション 58 セレクトシリーズ グレンアルマ",
+    "nameEn": "Pokémon Model Kit ARMAROUGE",
+    "partNo": "2753045",
+    "releaseDate": "2025-05",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4844",
+    "nameJp": "ポケモンプラモコレクション クイック!! 23 ジラーチ",
+    "nameEn": "Pokémon Model Kit QUICK!! 23 JIRACHI",
+    "partNo": "2762146",
+    "releaseDate": "2025-07",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4845",
+    "nameJp": "ポケモンプラモコレクション 59 セレクトシリーズ ミライドン",
+    "nameEn": "Pokémon Model Kit MIRAIDON",
+    "partNo": "2773817",
+    "releaseDate": "2025-08",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4846",
+    "nameJp": "ポケモンプラモコレクション 60 セレクトシリーズ コライドン",
+    "nameEn": "Pokémon Model Kit KORAIDON",
+    "partNo": "2773831",
+    "releaseDate": "2025-09",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4847",
+    "nameJp": "ポケモンプラモコレクション クイック!! 24 ピチュー",
+    "nameEn": "Pokémon Model Kit QUICK!! 24 PICHU",
+    "partNo": "2773839",
+    "releaseDate": "2025-10",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
+  },
+  {
+    "id": "4848",
+    "nameJp": "ポケモンプラモコレクション 61 セレクトシリーズ メガレックウザ",
+    "nameEn": "Pokémon Model Kit MEGA RAYQUAZA",
+    "partNo": "2794148",
+    "releaseDate": "2025-12-20",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
+    "id": "4849",
+    "nameJp": "ポケモンプラモコレクション クイック!! 25 ブースター",
+    "nameEn": "Pokémon Model Kit QUICK!! 25 FLAREON",
+    "partNo": "2773841",
+    "releaseDate": "2026-01-24",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション クイック!!"
   },
   {
     "id": "485",
@@ -13206,7 +19038,7 @@
     "id": "4959",
     "nameJp": "30MF ドゥロースケルトン",
     "nameEn": "30MF DLROSKELETON",
-    "partNo": "2815170",
+    "partNo": "2815171",
     "releaseDate": "2026-04-11",
     "brand": "30 MINUTES LABEL",
     "series": "30 MINUTES FANTASY"
@@ -13271,7 +19103,7 @@
     "nameEn": "HG 1/144 MESSER TYPE-F01",
     "partNo": "2509134",
     "releaseDate": "2020-07-04",
-    "brand": "HG",
+    "brand": "HGUC",
     "series": "機動戦士ガンダム 閃光のハサウェイ"
   },
   {
@@ -13280,7 +19112,7 @@
     "nameEn": "HG 1/144 MS-06S ZAKU II",
     "partNo": "2526980",
     "releaseDate": "2020-07-31",
-    "brand": "HG",
+    "brand": "HGUC",
     "series": "機動戦士ガンダム"
   },
   {
@@ -13300,6 +19132,60 @@
     "releaseDate": "2021-04-24",
     "brand": "HGUC",
     "series": "機動戦士ガンダム 閃光のハサウェイ"
+  },
+  {
+    "id": "5023",
+    "nameJp": "1/48 メガサイズモデル ガンダム",
+    "nameEn": "MEGA SIZE MODEL 1/48 GUNDAM",
+    "partNo": "2087016",
+    "releaseDate": "2010-03-04",
+    "brand": "メガサイズモデル",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "5024",
+    "nameJp": "1/48 メガサイズモデル シャア専用ザク",
+    "nameEn": "MEGA SIZE MODEL 1/48 CHAR'S ZAKUⅡ",
+    "partNo": "2118540",
+    "releaseDate": "2010-12-24",
+    "brand": "メガサイズモデル",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "5025",
+    "nameJp": "1/48 メガサイズモデル 量産型ザク",
+    "nameEn": "MEGA SIZE MODEL 1/48 ZAKUⅡ",
+    "partNo": "2130170",
+    "releaseDate": "2011-03-12",
+    "brand": "メガサイズモデル",
+    "series": "機動戦士ガンダム"
+  },
+  {
+    "id": "5026",
+    "nameJp": "1/48 メガサイズモデル ガンダムAGE-1 ノーマル",
+    "nameEn": "MEGA SIZE MODEL 1/48 GUNDAM AGE-1 NORMAL",
+    "partNo": "2140643",
+    "releaseDate": "2011-12-10",
+    "brand": "メガサイズモデル",
+    "series": "機動戦士ガンダムAGE"
+  },
+  {
+    "id": "5027",
+    "nameJp": "1/48 メガサイズモデル ガンダムAGE-2 ノーマル",
+    "nameEn": "MEGA SIZE MODEL 1/48 GUNDAM AGE-2 NORMAL",
+    "partNo": "2155483",
+    "releaseDate": "2012-03-10",
+    "brand": "メガサイズモデル",
+    "series": "機動戦士ガンダムAGE"
+  },
+  {
+    "id": "5028",
+    "nameJp": "メガサイズモデル 1/48 ユニコーンガンダム(デストロイモード)",
+    "nameEn": "MEGA SIZE MODEL 1/48 UNICORN GUNDAM (DESTROY MODE)",
+    "partNo": "2384800",
+    "releaseDate": "2017-08-26",
+    "brand": "メガサイズモデル",
+    "series": "機動戦士ガンダムUC"
   },
   {
     "id": "503",
@@ -13430,7 +19316,7 @@
   {
     "id": "509",
     "nameJp": "MG 1/100 AMX-004 キュベレイ",
-    "nameEn": "MG 1/100 AMX-004 QUBELLEY",
+    "nameEn": "MG 1/100 AMX-004 QUBELEY",
     "partNo": "1104021",
     "releaseDate": "2001-08",
     "brand": "MG",
@@ -13596,7 +19482,7 @@
     "partNo": "1116402",
     "releaseDate": "2003-01",
     "brand": "MG",
-    "series": "ガンプラ"
+    "series": "その他ガンプラ"
   },
   {
     "id": "521",
@@ -13659,7 +19545,7 @@
     "partNo": "1120466",
     "releaseDate": "2003-07",
     "brand": "MG",
-    "series": "ガンプラ"
+    "series": "その他ガンプラ"
   },
   {
     "id": "5220",
@@ -13731,7 +19617,7 @@
     "partNo": "1120467",
     "releaseDate": "2003-08",
     "brand": "MG",
-    "series": "ガンプラ"
+    "series": "その他ガンプラ"
   },
   {
     "id": "524",
@@ -13754,7 +19640,7 @@
   {
     "id": "526",
     "nameJp": "MG 1/100 キュベレイMk-II（プルツー専用機）",
-    "nameEn": "MG 1/100 QUBELEY (RED)",
+    "nameEn": "MG 1/100 QUBELEY Mk-II (PLE TWO)",
     "partNo": "1124122",
     "releaseDate": "2004-02",
     "brand": "MG",
@@ -14073,7 +19959,7 @@
     "partNo": "2028928",
     "releaseDate": "2008-06",
     "brand": "MG",
-    "series": "機動戦士ガンダム"
+    "series": "その他ガンプラ"
   },
   {
     "id": "559",
@@ -14163,7 +20049,7 @@
     "partNo": "2062531",
     "releaseDate": "2009-03",
     "brand": "MG",
-    "series": "機動戦士ガンダム"
+    "series": "その他ガンプラ"
   },
   {
     "id": "568",
@@ -14262,7 +20148,7 @@
     "partNo": "2091970",
     "releaseDate": "2010-05-27",
     "brand": "MG",
-    "series": "機動戦士ガンダム"
+    "series": "その他ガンプラ"
   },
   {
     "id": "578",
@@ -16391,7 +22277,7 @@
   {
     "id": "794",
     "nameJp": "HG 1/144 レギンレイズジュリア",
-    "nameEn": "HG 1/144 REGINRAZE JULIA",
+    "nameEn": "HG 1/144 REGINLAZE JULIA",
     "partNo": "2359299",
     "releaseDate": "2017-02-18",
     "brand": "HG",
@@ -16530,7 +22416,7 @@
     "partNo": "1053282",
     "releaseDate": "1996-07",
     "brand": "MG",
-    "series": "機動戦士ガンダム"
+    "series": "その他ガンプラ"
   },
   {
     "id": "808",
@@ -16539,7 +22425,7 @@
     "partNo": "1053605",
     "releaseDate": "1996-07",
     "brand": "MG",
-    "series": "機動戦士ガンダム"
+    "series": "ガンダムMSV"
   },
   {
     "id": "809",
@@ -16818,7 +22704,7 @@
     "partNo": "2028926",
     "releaseDate": "2008-11-16",
     "brand": "MG",
-    "series": "機動戦士ガンダム"
+    "series": "その他ガンプラ"
   },
   {
     "id": "837",
@@ -16827,7 +22713,7 @@
     "partNo": "2028927",
     "releaseDate": "2008-09-13",
     "brand": "MG",
-    "series": "機動戦士ガンダム"
+    "series": "その他ガンプラ"
   },
   {
     "id": "838",
@@ -16868,7 +22754,7 @@
   {
     "id": "841",
     "nameJp": "MG 1/100 キュベレイMk-II （エルピー・プル専用機）",
-    "nameEn": "MG 1/100 QUBELEY Mk-Ⅱ (ELPEO PURU)",
+    "nameEn": "MG 1/100 QUBELEY Mk-Ⅱ (ELPEO PLE)",
     "partNo": "2077258",
     "releaseDate": "2009-11-12",
     "brand": "MG",
@@ -18402,7 +24288,7 @@
     "partNo": "2057346",
     "releaseDate": "2009-02-14",
     "brand": "HGUC",
-    "series": "ガンプラ"
+    "series": "その他ガンプラ"
   },
   {
     "id": "998",
