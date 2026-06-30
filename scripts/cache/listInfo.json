@@ -13349,6 +13349,11 @@
     "brandIconUrl": "/images/categories/199.jpeg",
     "seriesIconUrl": "/images/titles/233.jpeg"
   },
+  "5018": {
+    "nameEn": "HG New KEROROROBO",
+    "brandIconUrl": "/images/categories/1.jpeg",
+    "seriesIconUrl": "/images/titles/100.jpeg"
+  },
   "5023": {
     "nameEn": "MEGA SIZE MODEL 1/48 GUNDAM",
     "brandIconUrl": "/images/categories/232.jpeg",
@@ -13503,5 +13508,15 @@
     "nameEn": "30MS SIS-J00 MERUNJA [COLOR A]",
     "brandIconUrl": "/images/categories/166.jpeg",
     "seriesIconUrl": "/images/titles/201.jpeg"
+  },
+  "5227": {
+    "nameEn": "RG 1/144 GUNDAM EXIA REPAIR Ⅳ",
+    "brandIconUrl": "/images/categories/10.jpeg",
+    "seriesIconUrl": "/images/titles/20.jpeg"
+  },
+  "5229": {
+    "nameEn": "HG 1/144 HAMBRABI(GQ)",
+    "brandIconUrl": "/images/categories/1.jpeg",
+    "seriesIconUrl": "/images/titles/166.jpeg"
   }
 }

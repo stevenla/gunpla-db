@@ -19125,6 +19125,15 @@
     "series": "ポケモンプラモコレクション クイック!!"
   },
   {
+    "id": "5018",
+    "nameJp": "HG Newケロロロボ",
+    "nameEn": "HG New KEROROROBO",
+    "partNo": "2825368",
+    "releaseDate": "2026-06-26",
+    "brand": "HG",
+    "series": "その他"
+  },
+  {
     "id": "502",
     "nameJp": "HGUC 1/144 Ξガンダム",
     "nameEn": "HG 1/144 XI GUNDAM",
@@ -19609,6 +19618,24 @@
     "releaseDate": "2026-06-20",
     "brand": "30 MINUTES LABEL",
     "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "5227",
+    "nameJp": "RG 1/144 ガンダムエクシア リペアIV",
+    "nameEn": "RG 1/144 GUNDAM EXIA REPAIR Ⅳ",
+    "partNo": "2825359",
+    "releaseDate": "2026-06",
+    "brand": "RG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "5229",
+    "nameJp": "HG 1/144 ハンブラビ(GQ)",
+    "nameEn": "HG 1/144 HAMBRABI(GQ)",
+    "partNo": "2836582",
+    "releaseDate": "2026-06-26",
+    "brand": "HG",
+    "series": "機動戦士Gundam GQuuuuuuX"
   },
   {
     "id": "523",
