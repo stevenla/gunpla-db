@@ -13529,14 +13529,44 @@
     "brandIconUrl": "/images/categories/1.jpeg",
     "seriesIconUrl": "/images/titles/166.jpeg"
   },
+  "5248": {
+    "nameEn": "RG 1/144 GUNDAM EPYON -APEX LEGENDS™ Alter Ver.-",
+    "brandIconUrl": "/images/categories/10.jpeg",
+    "seriesIconUrl": "/images/titles/30.jpeg"
+  },
+  "5249": {
+    "nameEn": "RG 1/144 FORCE IMPULSE GUNDAM DEACTIVE MODE",
+    "brandIconUrl": "/images/categories/10.jpeg",
+    "seriesIconUrl": "/images/titles/23.jpeg"
+  },
+  "5250": {
+    "nameEn": "MGSD THE GUNDAM BASE LIMITED WING GUNDAM ZERO EW [CLEAR COLOR]",
+    "brandIconUrl": "/images/categories/8.jpeg",
+    "seriesIconUrl": "/images/titles/30.jpeg"
+  },
+  "5251": {
+    "nameEn": "FULL MECHANICS 1/100 THE GUNDAM BASE LIMITED GUNDAM AERIAL [CLEAR COLOR]",
+    "brandIconUrl": "/images/categories/4.jpeg",
+    "seriesIconUrl": "/images/titles/27.jpeg"
+  },
   "5252": {
     "nameEn": "Pokémon Model Kit QUICK!! 28 MEOWTH",
     "brandIconUrl": "/images/categories/199.jpeg",
     "seriesIconUrl": "/images/titles/233.jpeg"
   },
+  "5253": {
+    "nameEn": "30MS OPTION BODY PARTS TYPE SU01 [COLOR A]",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/201.jpeg"
+  },
   "5254": {
     "nameEn": "HG 1/144 GOUF IGNITED(HEINE WESTENFLUSS CUSTOM)",
     "brandIconUrl": "/images/categories/1.jpeg",
     "seriesIconUrl": "/images/titles/23.jpeg"
+  },
+  "5255": {
+    "nameEn": "30MM 1/144 xEXM-001 XENOVALT",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/199.jpeg"
   }
 }

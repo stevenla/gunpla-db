@@ -19674,6 +19674,24 @@
     "series": "機動戦士ガンダム"
   },
   {
+    "id": "5248",
+    "nameJp": "RG 1/144 ガンダムエピオン -APEX LEGENDS(TM) オルター Ver.-",
+    "nameEn": "RG 1/144 GUNDAM EPYON -APEX LEGENDS™ Alter Ver.-",
+    "partNo": "2869563",
+    "releaseDate": "2026-07",
+    "brand": "RG",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "5249",
+    "nameJp": "ＲＧ 1/144 フォースインパルスガンダム ディアクティブモード",
+    "nameEn": "RG 1/144 FORCE IMPULSE GUNDAM DEACTIVE MODE",
+    "partNo": "2864672",
+    "releaseDate": "2026-07",
+    "brand": "RG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
     "id": "525",
     "nameJp": "MG 1/100 ウイングガンダム（Ver.Ka）",
     "nameEn": "MG 1/100 WING GUNDAM (Ver. Ka)",
@@ -19681,6 +19699,24 @@
     "releaseDate": "2004-03",
     "brand": "MG",
     "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "5250",
+    "nameJp": "MGSD ガンダムベース限定 ウイングガンダムゼロ EW[クリアカラー]",
+    "nameEn": "MGSD THE GUNDAM BASE LIMITED WING GUNDAM ZERO EW [CLEAR COLOR]",
+    "partNo": "2825385",
+    "releaseDate": "2026-07-18",
+    "brand": "MGSD",
+    "series": "新機動戦記ガンダムW"
+  },
+  {
+    "id": "5251",
+    "nameJp": "FULL MECHANICS 1/100 ガンダムベース限定 ガンダムエアリアル [クリアカラー]",
+    "nameEn": "FULL MECHANICS 1/100 THE GUNDAM BASE LIMITED GUNDAM AERIAL [CLEAR COLOR]",
+    "partNo": "2876170",
+    "releaseDate": "2026-07-18",
+    "brand": "FULL MECHANICS",
+    "series": "機動戦士ガンダム 水星の魔女"
   },
   {
     "id": "5252",
@@ -19692,6 +19728,15 @@
     "series": "ポケモンプラモコレクション クイック!!"
   },
   {
+    "id": "5253",
+    "nameJp": "30MS オプションボディパーツ タイプSU01[カラーA]",
+    "nameEn": "30MS OPTION BODY PARTS TYPE SU01 [COLOR A]",
+    "partNo": "2825355",
+    "releaseDate": "2026-07-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
+  },
+  {
     "id": "5254",
     "nameJp": "HG 1/144 グフイグナイテッド(ハイネ・ヴェステンフルス専用機)",
     "nameEn": "HG 1/144 GOUF IGNITED(HEINE WESTENFLUSS CUSTOM)",
@@ -19699,6 +19744,15 @@
     "releaseDate": "2026-07-11",
     "brand": "HG",
     "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "5255",
+    "nameJp": "30MM 1/144 xEXM-000 ゼノヴァルト",
+    "nameEn": "30MM 1/144 xEXM-001 XENOVALT",
+    "partNo": "2825365",
+    "releaseDate": "2026-07-25",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
   },
   {
     "id": "526",
