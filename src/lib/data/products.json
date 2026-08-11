@@ -19782,6 +19782,24 @@
     "series": "機動戦士ガンダム SEED"
   },
   {
+    "id": "5281",
+    "nameJp": "HG 1/144 ガンダムレオパルド",
+    "nameEn": "HG 1/144 GUNDAM LEOPARD",
+    "partNo": "2805110",
+    "releaseDate": "2026-08-08",
+    "brand": "HG",
+    "series": "機動新世紀ガンダムＸ"
+  },
+  {
+    "id": "5282",
+    "nameJp": "ポケモンプラモコレクション セレクトシリーズ 黒いメガレックウザ",
+    "nameEn": "Pokémon Model Kit BLACK MEGA RAYQUAZA",
+    "partNo": "2845056",
+    "releaseDate": "2026-08-08",
+    "brand": "ポケモンプラモコレクション",
+    "series": "ポケモンプラモコレクション セレクトシリーズ"
+  },
+  {
     "id": "529",
     "nameJp": "MG 1/100 ハイザック",
     "nameEn": "MG 1/100 HI-ZACK",

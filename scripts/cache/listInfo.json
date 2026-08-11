@@ -13568,5 +13568,15 @@
     "nameEn": "30MM 1/144 xEXM-001 XENOVALT",
     "brandIconUrl": "/images/categories/166.jpeg",
     "seriesIconUrl": "/images/titles/199.jpeg"
+  },
+  "5281": {
+    "nameEn": "HG 1/144 GUNDAM LEOPARD",
+    "brandIconUrl": "/images/categories/1.jpeg",
+    "seriesIconUrl": "/images/titles/35.jpeg"
+  },
+  "5282": {
+    "nameEn": "Pokémon Model Kit BLACK MEGA RAYQUAZA",
+    "brandIconUrl": "/images/categories/199.jpeg",
+    "seriesIconUrl": "/images/titles/232.jpeg"
   }
 }
