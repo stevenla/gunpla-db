@@ -13583,5 +13583,40 @@
     "nameEn": "30MS OPTION PARTS SET 29 (ACTION WEAR β) [COLOR B]",
     "brandIconUrl": "/images/categories/166.jpeg",
     "seriesIconUrl": "/images/titles/201.jpeg"
+  },
+  "5413": {
+    "nameEn": "",
+    "brandIconUrl": "/images/categories/133.jpeg",
+    "seriesIconUrl": "/images/titles/22.jpeg"
+  },
+  "5414": {
+    "nameEn": "RG 1/144 THE GUNDAM BASE LIMITED AKATSUKI GUNDAM OOWASHI unit & HG 1/144 ZEUS SILHOUETTE + CUSTOM JOINT PARTS SET",
+    "brandIconUrl": "/images/categories/10.jpeg",
+    "seriesIconUrl": "/images/titles/67.jpeg"
+  },
+  "5415": {
+    "nameEn": "30MF METEORIC IRONGRAPPLER",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/200.jpeg"
+  },
+  "5416": {
+    "nameEn": "30MF CLASS UP ARMOR METEORIC IRONMONK",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/200.jpeg"
+  },
+  "5417": {
+    "nameEn": "ENTRY GRADE 1/144 RX-78-2 GUNDAM [UKIYO-E PACKAGE Ver.]",
+    "brandIconUrl": "/images/categories/2.jpeg",
+    "seriesIconUrl": "/images/titles/19.jpeg"
+  },
+  "5418": {
+    "nameEn": "ENTRY GRADE 1/144 STRIKE GUNDAM [UKIYO-E PACKAGE Ver.]",
+    "brandIconUrl": "/images/categories/2.jpeg",
+    "seriesIconUrl": "/images/titles/1.jpeg"
+  },
+  "5419": {
+    "nameEn": "ENTRY GRADE 1/144 WING GUNDAM [UKIYO-E PACKAGE Ver.]",
+    "brandIconUrl": "/images/categories/2.jpeg",
+    "seriesIconUrl": "/images/titles/30.jpeg"
   }
 }
