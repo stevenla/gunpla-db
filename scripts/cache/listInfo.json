@@ -13618,5 +13618,20 @@
     "nameEn": "ENTRY GRADE 1/144 WING GUNDAM [UKIYO-E PACKAGE Ver.]",
     "brandIconUrl": "/images/categories/2.jpeg",
     "seriesIconUrl": "/images/titles/30.jpeg"
+  },
+  "5512": {
+    "nameEn": "Pokémon Model Kit QUICK!! 29 CHIMCHAR",
+    "brandIconUrl": "/images/categories/199.jpeg",
+    "seriesIconUrl": "/images/titles/233.jpeg"
+  },
+  "5513": {
+    "nameEn": "CUSTOMIZE WEAPONS (PIRATE WEAPON)",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/199.jpeg"
+  },
+  "5514": {
+    "nameEn": "30MM 1/144 EXM-A9p SPINATIO (PIRATE TYPE)",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/199.jpeg"
   }
 }
