@@ -13638,5 +13638,35 @@
     "nameEn": "30MM 1/144 EXM-A9p SPINATIO (PIRATE TYPE)",
     "brandIconUrl": "/images/categories/166.jpeg",
     "seriesIconUrl": "/images/titles/199.jpeg"
+  },
+  "5545": {
+    "nameEn": "MG 1/100 BLAZE ZAKU PHANTOM(HEINE WESTENFLUSS CUSTOM)",
+    "brandIconUrl": "/images/categories/6.jpeg",
+    "seriesIconUrl": "/images/titles/23.jpeg"
+  },
+  "5546": {
+    "nameEn": "HG 1/144 SHADOW GUNDAM",
+    "brandIconUrl": "/images/categories/1.jpeg",
+    "seriesIconUrl": "/images/titles/29.jpeg"
+  },
+  "5547": {
+    "nameEn": "",
+    "brandIconUrl": "/images/categories/6.jpeg",
+    "seriesIconUrl": "/images/titles/20.jpeg"
+  },
+  "5548": {
+    "nameEn": "HG 1/144 GYAN HAKUJI-PACKS",
+    "brandIconUrl": "/images/categories/1.jpeg",
+    "seriesIconUrl": "/images/titles/166.jpeg"
+  },
+  "5549": {
+    "nameEn": "30MF ITEM SHOP 5 (MARTIAL OPTION)",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/200.jpeg"
+  },
+  "5550": {
+    "nameEn": "30MS OPTION BODY PARTS ARM PARTS & LEG PARTS S [COLOR C]",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/201.jpeg"
   }
 }

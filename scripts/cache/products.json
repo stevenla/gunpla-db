@@ -20169,6 +20169,51 @@
     "series": "機動戦士Vガンダム"
   },
   {
+    "id": "5545",
+    "nameJp": "MG 1/100 ブレイズザクファントム(ハイネ・ヴェステンフルス専用機)",
+    "nameEn": "MG 1/100 BLAZE ZAKU PHANTOM(HEINE WESTENFLUSS CUSTOM)",
+    "partNo": "2815193",
+    "releaseDate": "2026-09",
+    "brand": "MG",
+    "series": "機動戦士ガンダムSEED DESTINY"
+  },
+  {
+    "id": "5546",
+    "nameJp": "HG 1/144 ガンダムシュピーゲル",
+    "nameEn": "HG 1/144 SHADOW GUNDAM",
+    "partNo": "2836618",
+    "releaseDate": "2026-09",
+    "brand": "HG",
+    "series": "機動武闘伝Gガンダム"
+  },
+  {
+    "id": "5547",
+    "nameJp": "MG 1/100 ガンダムベース限定 ガンダムキュリオス(トランザムモード)[メタリックグロスインジェクション]",
+    "nameEn": "",
+    "partNo": "2836628",
+    "releaseDate": "2026-09-19",
+    "brand": "MG",
+    "series": "機動戦士ガンダム00"
+  },
+  {
+    "id": "5548",
+    "nameJp": "HG 1/144 ギャン(ハクジ装備)",
+    "nameEn": "HG 1/144 GYAN HAKUJI-PACKS",
+    "partNo": "2845058",
+    "releaseDate": "2026-09",
+    "brand": "HG",
+    "series": "機動戦士Gundam GQuuuuuuX"
+  },
+  {
+    "id": "5549",
+    "nameJp": "30MF アイテムショップ5(マーシャルオプション)",
+    "nameEn": "30MF ITEM SHOP 5 (MARTIAL OPTION)",
+    "partNo": "2836590",
+    "releaseDate": "2026-09-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
     "id": "555",
     "nameJp": "MG 1/100 ランチャー/ソードストライクガンダム",
     "nameEn": "MG 1/100 STRIKE GUNDAM LAUNCHER / SWORD",
@@ -20176,6 +20221,15 @@
     "releaseDate": "2008-04",
     "brand": "MG",
     "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "5550",
+    "nameJp": "30MS オプションボディパーツ アームパーツ&レッグパーツS[カラーC]",
+    "nameEn": "30MS OPTION BODY PARTS ARM PARTS & LEG PARTS S [COLOR C]",
+    "partNo": "2836595",
+    "releaseDate": "2026-09-26",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "556",
