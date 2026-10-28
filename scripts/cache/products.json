@@ -20322,6 +20322,24 @@
     "series": "機動戦士ガンダムUC"
   },
   {
+    "id": "5644",
+    "nameJp": "RG 1/144 RX-178 ガンダムMk-II(ケロロ仕様)",
+    "nameEn": "RG 1/144 RX-178 GUNDAM Mk-Ⅱ(KERORO Ver.)",
+    "partNo": "2894225",
+    "releaseDate": "2026-10",
+    "brand": "RG",
+    "series": "機動戦士Zガンダム"
+  },
+  {
+    "id": "5645",
+    "nameJp": "ＭＧ 1/100 ガンダムＭｋ-Ｖ(連邦カラー)",
+    "nameEn": "MG 1/100 GUNDAM Mk-Ⅴ(EARTH FEDERATION FORCE COLOR)",
+    "partNo": "2845067",
+    "releaseDate": "2026-10",
+    "brand": "MG",
+    "series": "ガンダム・センチネル"
+  },
+  {
     "id": "565",
     "nameJp": "MG 1/100 RX-75ガンタンク",
     "nameEn": "MG 1/100 GUNTANK",
@@ -20347,6 +20365,15 @@
     "releaseDate": "2009-03",
     "brand": "MG",
     "series": "その他ガンプラ"
+  },
+  {
+    "id": "5677",
+    "nameJp": "30MS SIS-F01 ディルミア[カラーB]",
+    "nameEn": "30MS SIS-F01 DILMIA [COLOR B]",
+    "partNo": "2825382",
+    "releaseDate": "2026-10",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "568",
@@ -20392,6 +20419,42 @@
     "releaseDate": "2009-10-22",
     "brand": "MG",
     "series": "機動戦士ガンダム SEED"
+  },
+  {
+    "id": "5715",
+    "nameJp": "30MM 1/144 エグザビークル(水中探索メカVer.)",
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (MARINE EXPLORATION MECHA Ver.)",
+    "partNo": "2836587",
+    "releaseDate": "2026-10-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES MISSIONS"
+  },
+  {
+    "id": "5716",
+    "nameJp": "30MF 鉄禍ノ侍",
+    "nameEn": "30MF METEORIC IRONSAMURAI",
+    "partNo": "2825366",
+    "releaseDate": "2026-10-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "5717",
+    "nameJp": "30MF クラスアップアーマー(鉄禍ノ将軍)",
+    "nameEn": "30MF CLASS UP ARMOR METEORIC IRONSHOGUN",
+    "partNo": "2836592",
+    "releaseDate": "2026-10-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES FANTASY"
+  },
+  {
+    "id": "5718",
+    "nameJp": "30MS SIS-E00 ミャスティ[カラーC]",
+    "nameEn": "30MS SIS-E00 MYASTI [COLOR C]",
+    "partNo": "2836593",
+    "releaseDate": "2026-10-24",
+    "brand": "30 MINUTES LABEL",
+    "series": "30 MINUTES SISTERS"
   },
   {
     "id": "572",

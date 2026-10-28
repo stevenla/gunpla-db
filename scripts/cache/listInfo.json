@@ -13668,5 +13668,40 @@
     "nameEn": "30MS OPTION BODY PARTS ARM PARTS & LEG PARTS S [COLOR C]",
     "brandIconUrl": "/images/categories/166.jpeg",
     "seriesIconUrl": "/images/titles/201.jpeg"
+  },
+  "5644": {
+    "nameEn": "RG 1/144 RX-178 GUNDAM Mk-Ⅱ(KERORO Ver.)",
+    "brandIconUrl": "/images/categories/10.jpeg",
+    "seriesIconUrl": "/images/titles/11.jpeg"
+  },
+  "5645": {
+    "nameEn": "MG 1/100 GUNDAM Mk-Ⅴ(EARTH FEDERATION FORCE COLOR)",
+    "brandIconUrl": "/images/categories/6.jpeg",
+    "seriesIconUrl": "/images/titles/4.jpeg"
+  },
+  "5677": {
+    "nameEn": "30MS SIS-F01 DILMIA [COLOR B]",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/201.jpeg"
+  },
+  "5715": {
+    "nameEn": "30MM 1/144 Extended Armament Vehicle (MARINE EXPLORATION MECHA Ver.)",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/199.jpeg"
+  },
+  "5716": {
+    "nameEn": "30MF METEORIC IRONSAMURAI",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/200.jpeg"
+  },
+  "5717": {
+    "nameEn": "30MF CLASS UP ARMOR METEORIC IRONSHOGUN",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/200.jpeg"
+  },
+  "5718": {
+    "nameEn": "30MS SIS-E00 MYASTI [COLOR C]",
+    "brandIconUrl": "/images/categories/166.jpeg",
+    "seriesIconUrl": "/images/titles/201.jpeg"
   }
 }
