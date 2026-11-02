@@ -20421,6 +20421,15 @@
     "series": "機動戦士ガンダム SEED"
   },
   {
+    "id": "5710",
+    "nameJp": "HG 1/144 ガンダムヴァサーゴ",
+    "nameEn": "HG 1/144 GUNDAM VIRSAGO",
+    "partNo": "2825358",
+    "releaseDate": "2026-10-24",
+    "brand": "HG",
+    "series": "機動新世紀ガンダムＸ"
+  },
+  {
     "id": "5715",
     "nameJp": "30MM 1/144 エグザビークル(水中探索メカVer.)",
     "nameEn": "30MM 1/144 Extended Armament Vehicle (MARINE EXPLORATION MECHA Ver.)",
@@ -20455,6 +20464,15 @@
     "releaseDate": "2026-10-24",
     "brand": "30 MINUTES LABEL",
     "series": "30 MINUTES SISTERS"
+  },
+  {
+    "id": "5719",
+    "nameJp": "HG Newクルルロボ",
+    "nameEn": "HG New KULULU ROBO",
+    "partNo": "2825388",
+    "releaseDate": "2026-10-31",
+    "brand": "HG",
+    "series": "その他"
   },
   {
     "id": "572",

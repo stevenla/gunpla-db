@@ -13684,6 +13684,11 @@
     "brandIconUrl": "/images/categories/166.jpeg",
     "seriesIconUrl": "/images/titles/201.jpeg"
   },
+  "5710": {
+    "nameEn": "HG 1/144 GUNDAM VIRSAGO",
+    "brandIconUrl": "/images/categories/1.jpeg",
+    "seriesIconUrl": "/images/titles/35.jpeg"
+  },
   "5715": {
     "nameEn": "30MM 1/144 Extended Armament Vehicle (MARINE EXPLORATION MECHA Ver.)",
     "brandIconUrl": "/images/categories/166.jpeg",
@@ -13703,5 +13708,10 @@
     "nameEn": "30MS SIS-E00 MYASTI [COLOR C]",
     "brandIconUrl": "/images/categories/166.jpeg",
     "seriesIconUrl": "/images/titles/201.jpeg"
+  },
+  "5719": {
+    "nameEn": "HG New KULULU ROBO",
+    "brandIconUrl": "/images/categories/1.jpeg",
+    "seriesIconUrl": "/images/titles/100.jpeg"
   }
 }
